@@ -1,0 +1,17 @@
+# Entorno Virtual
+env/
+venv/
+ENV/
+
+# Caché de Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración locales / Secretos
+.env
+
+# Carpetas de datos y salidas (Opcional, pero recomendado si son muy pesados)
+# Si deseas que otros descarguen tus CSVs, comenta las siguientes líneas con un #
+output/
