@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from sklearn.tree import plot_tree
 
 def generate_model_graphics():
-    print("🧠 Cargando el cerebro de la IA y los datos...")
+    print("Cargando el modelo y los datos...")
     model_path = os.path.join("models", "world_cup_predictor.joblib")
     matches_path = os.path.join("data", "matches_with_elo.csv")
     
@@ -18,8 +18,8 @@ def generate_model_graphics():
     feature_names = ['elo_difference', 'is_neutral', 'goals_scored_diff', 'goals_conceded_diff', 'form_difference']
     class_names = ['Gana Visitante', 'Empate', 'Gana Local']
     
-    # --- GRÁFICO 1: IMPORTANCIA DE VARIABLES ---
-    print("📊 Generando gráfico de Importancia de Variables...")
+    # Gráfico de importancia de características en el modelo
+    print("Generando gráfico de importancia de variables...")
     importances = model.feature_importances_
     forest_importances = pd.Series(importances, index=feature_names).sort_values(ascending=True)
     
@@ -41,8 +41,8 @@ def generate_model_graphics():
     plt.savefig(os.path.join("output", "importancia_variables.png"), dpi=300)
     plt.close()
     
-    # --- GRÁFICO 2: VER UN ÁRBOL POR DENTRO ---
-    print("🌳 Generando mapa visual de un Árbol de Decisión del Bosque...")
+    # Visualización de la estructura de un árbol de decisión
+    print("Generando estructura visual de un árbol de decisión del bosque...")
     plt.figure(figsize=(20, 10))
     
     # Tomamos el primer árbol del bosque (estimator[0]) y limitamos la vista a 3 niveles para que no sea un caos ilegible
@@ -58,7 +58,7 @@ def generate_model_graphics():
     plt.savefig(os.path.join("output", "arbol_decision.png"), dpi=300, bbox_inches='tight')
     plt.close()
     
-    print("\n🎨 ¡Gráficos visuales generados con éxito!")
+    print("\nGráficos generados correctamente.")
     print("📍 Revisa la nueva carpeta 'output/' dentro de tu proyecto. Ahí encontrarás:")
     print("   1. importancia_variables.png")
     print("   2. arbol_decision.png\n")

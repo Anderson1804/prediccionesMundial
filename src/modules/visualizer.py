@@ -10,7 +10,7 @@ class Visualizer:
         plt.figure(figsize=(8, 6.5))
         labels = [str(x) for x in range(config.MAX_GOALS_MATRIX)]
         
-# Cambiamos los parámetros del heatmap para un acabado premium de diseño plano
+        # Configuración estética del mapa de calor
         ax = sns.heatmap(
             matrix_data, 
             annot=True, 
@@ -19,9 +19,9 @@ class Visualizer:
             xticklabels=labels, 
             yticklabels=labels, 
             cbar=False,
-            linewidths=1.5,        # ⬅️ Añade bordes finos y limpios entre casillas
-            linecolor="#f8f9fa",   # ⬅️ Color de los bordes (blanco suave)
-            annot_kws={"size": 9, "weight": "bold", "fontname": "sans-serif"} # ⬅️ Tipografía premium
+            linewidths=1.5,        # Bordes finos entre celdas
+            linecolor="#f8f9fa",   # Color blanco suave para bordes
+            annot_kws={"size": 9, "weight": "bold", "fontname": "sans-serif"} # Estilo de texto de las etiquetas
         )
         ax.invert_yaxis()
         

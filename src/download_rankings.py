@@ -9,7 +9,7 @@ def fetch_all_pages_rankings():
     Recorre las páginas de football-ranking.com de forma iterativa 
     para extraer el ranking completo de todas las selecciones del mundo.
     """
-    print("📡 Iniciando extracción multi-página de Rankings FIFA...")
+    print("Iniciando extracción multi-página de Rankings FIFA...")
     
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -20,7 +20,7 @@ def fetch_all_pages_rankings():
     # Recorremos de la página 1 a la 5 para asegurarnos de capturar los más de 200 países
     for page in range(1, 6):
         url = f"https://football-ranking.com/fifa-rankings?page={page}"
-        print(f"🔄 Descargando bloque {page}/5 desde la red...")
+        print(f"Descargando bloque {page}/5...")
         
         try:
             response = requests.get(url, headers=headers, timeout=10)
@@ -34,7 +34,7 @@ def fetch_all_pages_rankings():
                 df_page = tables[0]
                 all_tables.append(df_page)
             
-            # Una pausa de 1 segundo entre páginas por cortesía con el servidor (buena práctica de scraping)
+            # Retardo para evitar sobrecarga en el servidor destino
             time.sleep(1)
             
         except Exception as e:
@@ -45,7 +45,7 @@ def fetch_all_pages_rankings():
         print("❌ No se pudo descargar ninguna tabla.")
         return False
         
-    # --- UNIFICACIÓN DE DATOS (CONCATENAR) ---
+    # Concatenar y unificar los datos obtenidos
     print("📊 Consolidando y limpiando base de datos global...")
     df_global = pd.concat(all_tables, ignore_index=True)
     
@@ -75,7 +75,7 @@ def fetch_all_pages_rankings():
         output_path = "data/fifa_rankings.csv"
         df_clean.to_csv(output_path, index=False)
         
-        print(f"✅ ¡Pipeline Multi-página Exitoso! Archivo guardado en: {output_path}")
+        print(f"Pipeline completado. Archivo guardado en: {output_path}")
         print(f"📊 Total de selecciones mundiales indexadas con éxito: {len(df_clean)}")
         return True
 

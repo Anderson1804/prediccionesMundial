@@ -32,9 +32,8 @@ def predict_score_probability(team_home, team_away, stats):
     s_home = stats.get(team_home, {'goals_sc': 1.5, 'goals_co': 1.0, 'elo': 1500})
     s_away = stats.get(team_away, {'goals_sc': 1.2, 'goals_co': 1.1, 'elo': 1500})
     
-    # Calcular la expectativa de goles usando sus promedios cruzados
-    # Goles esperados de Home = Goles que anota Home * Goles que recibe Away
-    # Agregamos una ligera ventaja neutral basada en el Elo histórico si aplica
+    # Estimación de goles esperados en base a promedios históricos
+    # e inyección de diferencia de Elo como factor de ajuste
     elo_diff = s_home['elo'] - s_away['elo']
     elo_adjustment = elo_diff / 1000.0
     
@@ -76,7 +75,7 @@ def predict_score_probability(team_home, team_away, stats):
     for idx, (score, prob) in enumerate(top_scores):
         print(f"   {idx+1}. Marcador {score[0]}-{score[1]} ➔ Probabilidad: {prob*100:.2f}%")
         
-    # --- VISUALIZACIÓN: MATRIZ DE CALOR CLEAN & MINIMALIST ---
+    # Visualización de la matriz de probabilidad de resultados
     plt.figure(figsize=(8, 6))
     plt.imshow(score_matrix, cmap='Blues', origin='lower')
     

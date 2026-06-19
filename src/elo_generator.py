@@ -8,7 +8,7 @@ SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
-# Diccionario explícito de coeficientes por confederación internacional (Estándar FIFA)
+# Coeficientes de Confederación internacional para ajuste de peso de partidos
 CONFEDERATION_COEFFICIENTS = {
     # CONMEBOL (Peso: 1.00)
     "Argentina": 1.00, "Brazil": 1.00, "Uruguay": 1.00, "Colombia": 1.00, "Ecuador": 1.00,
@@ -19,7 +19,7 @@ CONFEDERATION_COEFFICIENTS = {
     "Croatia": 0.99, "Germany": 0.99, "Italy": 0.99, "Belgium": 0.99, "Switzerland": 0.99,
     "Wales": 0.99, "Denmark": 0.99, "Poland": 0.99, "Serbia": 0.99,
     
-    # CAF / CONCACAF / AFC (Peso: 0.85 para desinflar burbujas)
+    # Confederaciones secundarias (CAF, CONCACAF, AFC)
     "Morocco": 0.85, "Senegal": 0.85, "Nigeria": 0.85, "Algeria": 0.85, "Tunisia": 0.85, "Cameroon": 0.85, "Ghana": 0.85,
     "Mexico": 0.85, "USA": 0.85, "United States": 0.85, "Panama": 0.85, "Costa Rica": 0.85, "Canada": 0.85,
     "Japan": 0.85, "Australia": 0.85, "South Korea": 0.85, "Iran": 0.85, "Uzbekistan": 0.85, "Jordan": 0.85, 
@@ -31,7 +31,7 @@ def get_team_coeff(team):
     return CONFEDERATION_COEFFICIENTS.get(team, 0.85)
 
 def download_data_from_supabase():
-    print("📥 Descargando dataset limpio desde Supabase Storage...")
+    print("Descargando dataset de partidos desde Supabase...")
     local_path = os.path.join("data", "clean_matches.csv")
     with open(local_path, "wb") as f:
         res = supabase.storage.from_("datasets").download("clean_matches.csv")
@@ -42,7 +42,7 @@ def calculate_expected_score(rating_a, rating_b):
     return 1.0 / (1.0 + 10.0 ** ((rating_b - rating_a) / 400.0))
 
 def update_elo_ratings(df, k_factor=32):
-    print("🧮 Calculando Ratings Elo calibrados por Confederación...")
+    print("Calculando ratings Elo ajustados por Confederación...")
     
     all_teams = set(df['home_team'].unique()).union(set(df['away_team'].unique()))
     elo_dict = {team: 1500.0 for team in all_teams}
@@ -70,7 +70,7 @@ def update_elo_ratings(df, k_factor=32):
         else:
             w_home, w_away = 0.5, 0.5
             
-        # --- APLICACIÓN DEL COEFICIENTE DE CONFEDERACIÓN ---
+        # Aplicar el coeficiente de confederación a la diferencia de Elo
         coeff_home = get_team_coeff(home)
         coeff_away = get_team_coeff(away)
         combined_coeff = (coeff_home + coeff_away) / 2.0
@@ -103,7 +103,7 @@ def save_and_upload_results(df_with_elo, ranking_df):
         supabase.storage.from_("datasets").upload(file=f, path="matches_with_elo.csv", file_options={"upsert": "true"})
     with open(ranking_path, 'rb') as f:
         supabase.storage.from_("datasets").upload(file=f, path="teams_elo_ranking.csv", file_options={"upsert": "true"})
-    print("✅ ¡Módulo Elo calibrado subido a Supabase!")
+    print("Cálculo y subida de datos Elo completado en Supabase.")
 
 if __name__ == "__main__":
     try:

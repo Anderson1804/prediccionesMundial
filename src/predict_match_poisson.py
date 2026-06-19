@@ -33,9 +33,9 @@ def run_console_prediction(team_home, team_away):
         print(f"⚽ Goles Esperados (λ): {team_home} ({lambda_local}) vs {team_away} ({lambda_visita})")
         print("--------------------------------------------------------")
         
-        # 🚀 3. SIMULACIÓN DE MONTE CARLO (100,000 ITERACIONES EXPLÍCITAS)
+        # 3. Simulación de Monte Carlo mediante distribución de Poisson
         NUM_SIMULATIONS = 100000
-        print(f"🎲 Ejecutando {NUM_SIMULATIONS:,} simulaciones estocásticas de Poisson...")
+        print(f"Ejecutando {NUM_SIMULATIONS:,} simulaciones estocásticas de Poisson...")
         
         # Generamos 100,000 resultados aleatorios de goles basados en los lambdas
         sim_goles_local = np.random.poisson(lambda_local, NUM_SIMULATIONS)

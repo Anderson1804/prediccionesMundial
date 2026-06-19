@@ -6,14 +6,14 @@ from supabase import create_client, Client
 load_dotenv()
 
 def get_complete_dataset():
-    """Descarga el set de datos limpio desde Supabase para hacer las búsquedas"""
+    """Descarga el conjunto de datos de partidos de Supabase"""
     SUPABASE_URL = os.getenv("SUPABASE_URL")
     SUPABASE_KEY = os.getenv("SUPABASE_KEY")
     supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
     
     local_path = os.path.join("data", "clean_matches.csv")
     if not os.path.exists(local_path):
-        print("📥 Descargando histórico completo desde Supabase...")
+        print("Descargando histórico de partidos desde Supabase...")
         res = supabase.storage.from_("datasets").download("clean_matches.csv")
         with open(local_path, "wb") as f:
             f.write(res)
@@ -23,7 +23,7 @@ def get_complete_dataset():
     return df
 
 def show_team_last_15(df, team):
-    """Filtra y muestra los últimos 15 partidos oficiales de una selección"""
+    """Obtiene los últimos 15 partidos oficiales del equipo especificado"""
     # Buscamos partidos donde el equipo haya sido local O visitante
     team_matches = df[(df['home_team'] == team) | (df['away_team'] == team)]
     team_matches = team_matches.sort_values(by='match_date', ascending=False).head(15)
@@ -40,7 +40,7 @@ def show_team_last_15(df, team):
     print("-" * 75)
 
 def show_head_to_head(df, team_a, team_b):
-    """Busca TODO el historial histórico entre ambos equipos (Cara a Cara)"""
+    """Busca el historial de partidos jugados cara a cara entre ambos equipos"""
     # Caso 1: A es local y B es visitante | Caso 2: B es local y A es visitante
     h2h_matches = df[
         ((df['home_team'] == team_a) & (df['away_team'] == team_b)) |
@@ -89,7 +89,7 @@ if __name__ == "__main__":
     try:
         df_all = get_complete_dataset()
         
-        print("\n🔍 --- BIENVENIDO AL BUSCADOR DE HISTORIALES ---")
+        print("\n--- Buscador de Historial de Partidos ---")
         # Recuerda ingresar los nombres en inglés acorde al dataset (ej. Brazil, Morocco, Peru)
         team_1 = input("⚽ Ingresa la primera selección (ej. Brazil): ").strip()
         team_2 = input("⚽ Ingresa la segunda selección (ej. Morocco): ").strip()
@@ -101,7 +101,7 @@ if __name__ == "__main__":
         # 2. Desplegar el cara a cara completo de la historia
         show_head_to_head(df_all, team_1, team_2)
         
-        input("\n🏁 Presiona ENTER para salir...")
+        input("\nPresiona ENTER para salir...")
     except Exception as e:
         print(f"❌ Ocurrió un error en la búsqueda: {e}")
         input()

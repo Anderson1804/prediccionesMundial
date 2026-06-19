@@ -30,7 +30,7 @@ def parse_value(value_str):
         return 0.0
 
 def scrape_detailed_players():
-    print("🕵️ Lanzando Gran Scraper por Jugador Blindado (Top 100 Selecciones)...")
+    print("Iniciando web scraping de valores de mercado...")
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -96,9 +96,7 @@ def scrape_detailed_players():
                                 "value": precio
                             })
                 
-                # 💡 SECCIÓN COMPENSATORIA CRÍTICA
-                # Si la selección sigue corta (menos de 26) o el scraper falló en leer la tabla,
-                # rellenamos hasta completar el plantel reglamentario de un Mundial (26 jugadores)
+                # Completar el plantel con valores base en caso de tener menos de 26 jugadores
                 jugadores_del_equipo.sort(key=lambda x: x['value'], reverse=True)
                 
                 idx_relleno = 1

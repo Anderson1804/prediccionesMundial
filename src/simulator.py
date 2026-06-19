@@ -11,7 +11,7 @@ if not os.path.exists(model_path):
 
 model = joblib.load(model_path)
 
-# Grupos Oficiales de la Copa Mundial de la FIFA 2026 (48 selecciones)
+# Grupos de la Copa Mundial de la FIFA 2026 (48 selecciones)
 WORLD_CUP_GROUPS = {
     "Grupo A": ["Mexico", "South Africa", "South Korea", "Czech Republic"],
     "Grupo B": ["Canada", "Bosnia and Herzegovina", "Qatar", "Switzerland"],
@@ -72,13 +72,13 @@ def predict_match_outcome(team_a, team_b, stats, weight=4.0):
     return prediction
 
 def simulate_groups(stats):
-    print("🏆 --- SIMULANDO LA FASE DE GRUPOS DEL MUNDIAL 2026 (48 EQUIPOS) ---")
+    print("Simulando la fase de grupos del Mundial...")
     direct_classified = []
     all_third_places = []
     
     for group_name, teams in WORLD_CUP_GROUPS.items():
         points = {team: 0 for team in teams}
-        gd = {team: 0 for team in teams} # Goal Difference simulada para desempates básicos
+        gd = {team: 0 for team in teams} # Diferencia de goles simulada para desempates
         
         for i in range(len(teams)):
             for j in range(i + 1, len(teams)):
@@ -111,7 +111,7 @@ def simulate_groups(stats):
     sorted_thirds = sorted(all_third_places, key=lambda x: (x['pts'], x['gd']), reverse=True)
     best_thirds = [x['team'] for x in sorted_thirds[:8]]
     
-    print("\n🔶 --- 8 MEJORES TERCEROS CLASIFICADOS ---")
+    print("\n--- 8 Mejores Terceros Clasificados ---")
     for idx, t in enumerate(sorted_thirds[:8]):
         print(f"   {idx+1}. {t['team']} ({t['pts']} pts)")
         
@@ -127,7 +127,7 @@ def simulate_knockout_stage(qualified_teams, stats):
             elo_b = stats.get(team_b, {'elo': 1500})['elo']
             return team_a if elo_a >= elo_b else team_b
 
-    print("\n🔥 --- SIMULANDO LLAVES DE ELIMINACIÓN DIRECTA ---")
+    print("\n--- Simulando llaves de eliminación directa ---")
     
     # 1. DIECISEISAVOS DE FINAL (32 equipos -> 16 llaves)
     print("\n⚽ [DIECISEISAVOS DE FINAL - ROUND OF 32]")

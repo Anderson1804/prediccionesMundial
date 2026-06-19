@@ -12,7 +12,7 @@ supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 def get_tournament_weight(tournament):
     t_lower = tournament.lower()
     if 'fifa world cup' in t_lower and 'qualifying' not in t_lower:
-        return 4.0  # El torneo máximo
+        return 4.0  # Torneo Copa del Mundo
     elif 'copa américa' in t_lower or 'uefa euro' in t_lower:
         return 3.0  # Torneos continentales top
     elif 'qualifying' in t_lower or 'eliminatorias' in t_lower:
@@ -22,7 +22,7 @@ def get_tournament_weight(tournament):
     return 1.0      # Otros torneos oficiales menores
 
 def download_and_clean_kaggle():
-    print("📥 Descargando dataset desde Kaggle...")
+    print("Descargando dataset desde Kaggle...")
     download_path = kagglehub.dataset_download("martj42/international-football-results-from-1872-to-2017")
     csv_path = os.path.join(download_path, "results.csv")
     
@@ -30,15 +30,15 @@ def download_and_clean_kaggle():
     df['date'] = pd.to_datetime(df['date'])
     df = df.rename(columns={'date': 'match_date', 'neutral': 'neutral_bool'})
     
-    print("🧹 Filtrando partidos oficiales...")
+    print("Filtrando partidos oficiales...")
     df_oficial = df[df['tournament'].str.lower() != 'friendly'].copy()
     
-    # Inyectar el peso del torneo
+    # Asignar peso del torneo al DataFrame
     df_oficial['tournament_weight'] = df_oficial['tournament'].apply(get_tournament_weight)
     return df_oficial
 
 def calculate_advanced_stats(df):
-    print("📊 Calculando promedios móviles ponderados...")
+    print("Calculando promedios móviles de goles y puntos...")
     df = df.sort_values(by='match_date').reset_index(drop=True)
     
     team_goals_scored = {}
@@ -83,7 +83,7 @@ def calculate_advanced_stats(df):
     return df
 
 def filter_by_modern_era(df):
-    print("📅 Filtrando era moderna (2018-2026)...")
+    print("Filtrando era moderna (desde 2018)...")
     return df[df['match_date'] >= '2018-01-01'].copy()
 
 def upload_via_api(df):
@@ -93,7 +93,7 @@ def upload_via_api(df):
     
     with open(local_csv_path, 'rb') as f:
         supabase.storage.from_("datasets").upload(file=f, path="clean_matches.csv", file_options={"upsert": "true"})
-    print("✅ ¡Dataset con pesos de torneo subido!")
+    print("Dataset con pesos de torneo procesado y subido.")
 
 if __name__ == "__main__":
     try:

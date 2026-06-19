@@ -88,11 +88,11 @@ class TournamentSimulator:
                 ga, gb = self._simulate_single_match(team_home, team_away)
                 
                 if ga == gb:
-                    # --- PENALES ESTOCÁSTICOS CON PESO DE JERARQUÍA ---
+                    # Desempate por penales ponderado por el factor de fuerza del equipo
                     calculator = LambdaCalculator(team_home, team_away)
                     lh, la = calculator.calculate_lambdas()
                     
-                    # El azar influye usando Monte Carlo real, pero ponderado por su rendimiento
+                    # Simulación probabilística del ganador de la tanda de penales
                     prob_home_penal = lh / (lh + la)
                     
                     if np.random.rand() < prob_home_penal:
@@ -109,7 +109,7 @@ class TournamentSimulator:
 
     def run_tournament_monte_carlo(self, num_tournaments=1000):
         """Ejecuta la simulación macro del torneo completo mediante Monte Carlo"""
-        print(f"🎲 Iniciando simulación estocástica de {num_tournaments} Mundiales completos...")
+        print(f"Iniciando simulación de {num_tournaments} torneos...")
         champions_registry = {}
         
         for i in range(1, num_tournaments + 1):

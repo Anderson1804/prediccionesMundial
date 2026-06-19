@@ -46,7 +46,7 @@ def prepare_features(df):
     return train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
 
 def train_and_evaluate(X_train, X_test, y_train, y_test):
-    print("🚀 Entrenando el modelo de Gradiente Descendente (XGBoost Classifier)...")
+    print("Entrenando el modelo clasificador XGBoost...")
     
     # Configuramos los hiperparámetros óptimos para evitar sobreajuste
     model = XGBClassifier(
@@ -63,7 +63,7 @@ def train_and_evaluate(X_train, X_test, y_train, y_test):
     y_pred = model.predict(X_test)
     accuracy = accuracy_score(y_test, y_pred)
     
-    print(f"\n🎯 ¡ENTRENAMIENTO CONFIGURADO CON XGBOOST!")
+    print(f"\nEntrenamiento de XGBoost finalizado.")
     print(f"📊 Nueva Precisión del Modelo (Accuracy): {accuracy * 100:.2f}%\n")
     
     print("📝 Reporte de Clasificación Avanzado:")
@@ -76,10 +76,10 @@ def save_and_upload_model(model):
     model_path = os.path.join("models", "world_cup_predictor.joblib")
     joblib.dump(model, model_path)
     
-    print("📤 Subiendo el cerebro XGBoost a Supabase Storage...")
+    print("Subiendo el modelo a Supabase Storage...")
     with open(model_path, 'rb') as f:
         supabase.storage.from_("datasets").upload(file=f, path="world_cup_predictor.joblib", file_options={"upsert": "true"})
-    print("✅ ¡Pipeline de alta gama completado!")
+    print("Pipeline de entrenamiento completado.")
 
 if __name__ == "__main__":
     try:

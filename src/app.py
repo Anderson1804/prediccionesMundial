@@ -13,73 +13,133 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../')))
 from src.modules import config  
 from src.modules.lambda_calculator import LambdaCalculator
 from src.modules.hierarchy_generator import HierarchyGenerator
+from src.modules.data_loader import DataLoader  # Carga de datos unificada
 
-# 🌟 Configuración de la página con estilo limpio y expandido
+# Configuración de la aplicación Streamlit
 st.set_page_config(page_title="Simulador Mundial 2026", page_icon="⚽", layout="wide")
 
-# Estilo CSS minimalista para eliminar decoraciones innecesarias
+# Estilos personalizados para métricas y botones
 st.markdown("""
     <style>
     .block-container {padding-top: 2rem; padding-bottom: 2rem;}
     h1 {font-weight: 300; letter-spacing: -1px;}
-    .stButton>button {background-color: #111111; color: white; border-radius: 4px; border: none;}
+    .stButton>button {background-color: #111111; color: white; border-radius: 4px; border: none; width: 100%;}
     .stButton>button:hover {background-color: #333333; color: white;}
+    [data-testid="stMetricValue"] {font-size: 1.8rem; font-weight: 400;}
     </style>
 """, unsafe_allow_html=True)
 
 st.title("⚽ Predictor Estocástico de Fútbol")
-st.caption("Motor de simulación basado en Distribución de Poisson, Rankings oficiales y Valores de Mercado reales.")
+st.caption("Motor de simulación basado en Distribución de Poisson, Rankings oficiales y Ajustes Manuales de Plantel.")
 
-# Inicializamos las jerarquías y cargamos los países disponibles
-HierarchyGenerator.initialize()
-paises_disponibles = sorted(list(HierarchyGenerator._market_values.keys()))
-
-if not paises_disponibles:
-    st.error("❌ No se pudo cargar la lista de países desde market_values.csv")
+# Carga de datos de jugadores y rankings
+try:
+    # Cargamos la data purificada nativa en Español
+    df_jugadores = DataLoader.get_jugadores_valores()
+    df_rankings = DataLoader.get_fifa_rankings()
+    
+    # Lista de países disponibles
+    paises_disponibles = sorted(df_rankings['team'].unique().tolist())
+    
+except Exception as e:
+    st.error(f"❌ Error al cargar las bases de datos estandarizadas: {e}")
+    st.info("Mano, asegúrate de haber ejecutado primero en tu terminal: python src/clean_datasets.py")
     st.stop()
 
-# 🗂️ Creación de Pestañas de Navegación Planas
+
+# Definición de pestañas de navegación
 tab1, tab2 = st.tabs(["📊 Enfrentamiento Directo", "🏆 Simulación del Torneo"])
 
-# ==========================================
-# PESTAÑA 1: VERSUS DIRECTO (100K SIMULACIONES)
-# ==========================================
+# Pestaña 1: Enfrentamiento directo
 with tab1:
     st.subheader("Configurar Partido Individual")
     
-    col_a, col_b = st.columns(2)
-    with col_a:
-        local = st.selectbox("Selecciona Equipo Local", paises_disponibles, index=paises_disponibles.index("France") if "France" in paises_disponibles else 0)
-    with col_b:
-        visita = st.selectbox("Selecciona Equipo Visitante", paises_disponibles, index=paises_disponibles.index("Japan") if "Japan" in paises_disponibles else 1)
+    col_sel_a, col_sel_b = st.columns(2)
+    with col_sel_a:
+        local = st.selectbox("Selecciona Equipo Local", paises_disponibles, index=paises_disponibles.index("Portugal") if "Portugal" in paises_disponibles else 0)
+    with col_sel_b:
+        visita = st.selectbox("Selecciona Equipo Visitante", paises_disponibles, index=paises_disponibles.index("Argentina") if "Argentina" in paises_disponibles else min(1, len(paises_disponibles)-1))
         
-    if st.button("Correr Predicción Simétrica"):
-        if local == visita:
-            st.warning("⚠️ Selecciona dos países diferentes para la simulación.")
+    if local == visita:
+        st.warning("⚠️ Selecciona dos países diferentes para la simulación.")
+        st.stop()
+
+    st.write("---")
+    st.subheader("📋 Configuración Táctica Manual (Ajuste del Once Titular)")
+    st.caption("Selecciona los 11 jugadores titulares. Los que no elijas pasarán automáticamente a la banca del modelo.")
+
+    # Filtrar jugadores por equipo
+    pool_local = df_jugadores[df_jugadores['team'] == local].sort_values(by='value', ascending=False)
+    pool_visita = df_jugadores[df_jugadores['team'] == visita].sort_values(by='value', ascending=False)
+
+    col_tack_a, col_tack_b = st.columns(2)
+    
+    with col_tack_a:
+        st.markdown(f"### **{local}**")
+        opciones_local = pool_local['player'].tolist()
+        default_local = opciones_local[:11] if len(opciones_local) >= 11 else opciones_local
+        titulares_local = st.multiselect(f"Once Titular - {local}", opciones_local, default=default_local, key="multiselect_local")
+        
+        df_tit_A = pool_local[pool_local['player'].isin(titulares_local)]
+        df_ban_A = pool_local[~pool_local['player'].isin(titulares_local)]
+        
+        val_tit_A = df_tit_A['value'].sum()
+        val_ban_A = df_ban_A['value'].sum()
+        
+        if len(titulares_local) != 11:
+            st.caption(f"⚠️ Has seleccionado {len(titulares_local)} jugadores. Ajusta a 11 para un rendimiento óptimo.")
+
+    with col_tack_b:
+        st.markdown(f"### **{visita}**")
+        opciones_visita = pool_visita['player'].tolist()
+        default_visita = opciones_visita[:11] if len(opciones_visita) >= 11 else opciones_visita
+        titulares_visita = st.multiselect(f"Once Titular - {visita}", opciones_visita, default=default_visita, key="multiselect_visita")
+        
+        df_tit_B = pool_visita[pool_visita['player'].isin(titulares_visita)]
+        df_ban_B = pool_visita[~pool_visita['player'].isin(titulares_visita)]
+        
+        val_tit_B = df_tit_B['value'].sum()
+        val_ban_B = df_ban_B['value'].sum()
+        
+        if len(titulares_visita) != 11:
+            st.caption(f"⚠️ Has seleccionado {len(titulares_visita)} jugadores. Ajusta a 11 para un rendimiento óptimo.")
+
+    st.write("---")
+    st.markdown("### 💰 Análisis Comparativo de Kilates Financieros")
+    
+    metric_col1, metric_col2, metric_col3, metric_col4 = st.columns(4)
+    metric_col1.metric(f"Titulares {local}", f"${val_tit_A:.1f}M")
+    metric_col2.metric(f"Banca {local}", f"${val_ban_A:.1f}M")
+    metric_col3.metric(f"Titulares {visita}", f"${val_tit_B:.1f}M")
+    metric_col4.metric(f"Banca {visita}", f"${val_ban_B:.1f}M")
+
+    st.write("---")
+    
+    # Simulación del enfrentamiento
+    if st.button("🚀 Correr Predicción Simétrica"):
+        if len(titulares_local) == 0 or len(titulares_visita) == 0:
+            st.error("❌ Debes seleccionar al menos un jugador en el once titular de cada equipo.")
         else:
             with st.spinner("Ejecutando 100,000 simulaciones estocásticas..."):
                 try:
-                    # 1. Carga de data financiera
-                    file_path = os.path.join(config.DATA_DIR, "market_values.csv")
-                    df_market = pd.read_csv(file_path)
-                    
-                    data_local = df_market[df_market['team'] == local]
-                    data_visita = df_market[df_market['team'] == visita]
-                    
-                    if not data_local.empty and not data_visita.empty:
-                        st.markdown(f"""
-                        <div style='background-color: #f8f9fa; padding: 10px; border-radius: 5px; border-left: 4px solid #111;'>
-                            <strong>📊 Análisis de Kilates (Once Titular vs Banca):</strong><br>
-                            • <strong>{local}</strong> — Once: {data_local['top11_value'].values[0]}M | Banca: {data_local['bench_value'].values[0]}M<br>
-                            • <strong>{visita}</strong> — Once: {data_visita['top11_value'].values[0]}M | Banca: {data_visita['bench_value'].values[0]}M
-                        </div>
-                        """, unsafe_allow_html=True)
-                    
-                    # 2. Obtención de Lambdas
                     calculator = LambdaCalculator(local, visita)
-                    lambda_local, lambda_visita = calculator.calculate_lambdas()
                     
-                    # 🎲 3. BUCLE MUNDIAL DE 100,000 ITERACIONES DE MONTE CARLO EN CALIENTE
+                    # Obtener estadísticas y parámetros de goles esperados (lambdas)
+                    lambda_local, lambda_visita, stats_local, stats_visita = calculator.calculate_lambdas(
+                        titulares_manual_home=titulares_local,
+                        titulares_manual_away=titulares_visita
+                    )
+                    
+                    # Mostrar rendimiento goleador real
+                    st.markdown("### 📈 Rendimiento Goleador Real (Últimos 15 Partidos)")
+                    hist_col1, hist_col2, hist_col3, hist_col4 = st.columns(4)
+                    
+                    hist_col1.metric(f"Goles Realizados {local}", f"{stats_local['gf']:.2f}")
+                    hist_col2.metric(f"Goles Recibidos {local}", f"{stats_local['gc']:.2f}")
+                    hist_col3.metric(f"Goles Realizados {visita}", f"{stats_visita['gf']:.2f}")
+                    hist_col4.metric(f"Goles Recibidos {visita}", f"{stats_visita['gc']:.2f}")
+                    
+                    # Simulación de Monte Carlo
                     NUM_SIMULATIONS = 100000
                     sim_goles_local = np.random.poisson(lambda_local, NUM_SIMULATIONS)
                     sim_goles_visita = np.random.poisson(lambda_visita, NUM_SIMULATIONS)
@@ -92,7 +152,6 @@ with tab1:
                     p_visita = (v_visita / NUM_SIMULATIONS) * 100
                     p_empate = (empates / NUM_SIMULATIONS) * 100
                     
-                    # 4. Renderizado de la matriz analítica teórica para el Heatmap
                     max_goles = 8
                     goles_rango = np.arange(0, max_goles)
                     prob_local = poisson.pmf(goles_rango, lambda_local)
@@ -100,16 +159,16 @@ with tab1:
                     matriz_conjunta = np.outer(prob_local, prob_visita)
                     
                     st.write("---")
-                    st.markdown(f"### Tasas de Gol Esperadas (λ): **{local}** ({lambda_local:.2f}) vs **{visita}** ({lambda_visita:.2f})")
+                    st.markdown(f"### Tasas de Gol Ajustadas Finales (λ): **{local}** ({lambda_local:.2f}) vs **{visita}** ({lambda_visita:.2f})")
                     
                     m1, m2, m3 = st.columns(3)
                     m1.metric(f"Victoria {local}", f"{p_local:.1f}%")
                     m2.metric("Empate", f"{p_empate:.1f}%")
                     m3.metric(f"Victoria {visita}", f"{p_visita:.1f}%")
-                    st.caption(f"🎯 Porcentajes validados mediante la ley de grandes números con {NUM_SIMULATIONS:,} simulaciones.")
+                    st.caption(f"🎯 Porcentajes validados mediante la ley de grandes números con {NUM_SIMULATIONS:,} simulaciones basadas en Ataque vs Defensa.")
                     
                     st.write("---")
-                    st.subheader("🎯 Matriz de Probabilidad de Marcador Exacto")
+                    # Matriz de probabilidad de marcador exacto
                     
                     fig, ax = plt.subplots(figsize=(6, 4.5))
                     sns.heatmap(
@@ -123,14 +182,11 @@ with tab1:
                 except Exception as e:
                     st.error(f"Ocurrió un problema al procesar los Lambdas: {e}")
 
-# ==========================================
-# PESTAÑA 2: SIMULACIÓN DEL TORNEO MACRO
-# ==========================================
+# Pestaña 2: Simulación del torneo
 with tab2:
     st.subheader("Simulación Estocástica del Mundial 2026")
     st.write("Corre un modelo de Monte Carlo para simular el torneo completo repetidamente en segundo plano.")
     
-    # Selector de iteraciones macro para la copa
     num_sim = st.slider("Número de iteraciones del torneo", min_value=100, max_value=2000, value=1000, step=100)
     
     if st.button("🚀 Lanzar Simulación Global"):
