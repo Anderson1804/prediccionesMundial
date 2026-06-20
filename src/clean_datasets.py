@@ -45,7 +45,11 @@ DIC_UNIVERSAL = {
     "south korea": "Corea del Sur",
     "korea republic": "Corea del Sur",
     "korea south": "Corea del Sur",
-    "corea del sur": "Corea del Sur"
+    "corea del sur": "Corea del Sur",
+    "ivory coast": "Costa de Marfil",
+    "cote d'ivoire": "Costa de Marfil",
+    "côte d'ivoire": "Costa de Marfil",
+    "costa de marfil": "Costa de Marfil"
 }
 
 def normalizar_pais(nombre):

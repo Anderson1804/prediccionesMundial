@@ -2798,9 +2798,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Cyprus,Alemania,Alemania,Rudolf Brunnenmeier,82.0,False,False
 ,Cyprus,Alemania,Alemania,Kostas Panayiotou,87.0,False,False
 ,Cyprus,Alemania,Alemania,Rudolf Brunnenmeier,88.0,False,False
-,RD Congo,Ivory Coast,Ivory Coast,Eustache Manglé,14.0,False,False
-,RD Congo,Ivory Coast,Ivory Coast,Eustache Manglé,59.0,False,False
-,RD Congo,Ivory Coast,Ivory Coast,Eustache Manglé,80.0,False,False
+,RD Congo,Costa de Marfil,Costa de Marfil,Eustache Manglé,14.0,False,False
+,RD Congo,Costa de Marfil,Costa de Marfil,Eustache Manglé,59.0,False,False
+,RD Congo,Costa de Marfil,Costa de Marfil,Eustache Manglé,80.0,False,False
 ,Suiza,Países Bajos,Suiza,Robert Hosp,10.0,False,False
 ,Suiza,Países Bajos,Países Bajos,Theo Laseroms,64.0,False,False
 ,Suiza,Países Bajos,Suiza,Anton Allemann,87.0,False,False
@@ -2809,13 +2809,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ethiopia,Senegal,Senegal,Matar Niang,48.0,False,False
 ,Ethiopia,Senegal,Senegal,Louis Camara,52.0,False,False
 ,Ethiopia,Senegal,Senegal,Matar Niang,53.0,False,False
-,Ghana,Ivory Coast,Ghana,Ben Acheampong,20.0,False,False
-,Ghana,Ivory Coast,Ghana,Kwame Nti,43.0,False,False
-,Ghana,Ivory Coast,Ghana,Paa Nii Lutterodt,52.0,False,False
-,Ghana,Ivory Coast,Ivory Coast,Joseph Bléziri,66.0,False,False
-,Ghana,Ivory Coast,Ghana,Osei Kofi,70.0,False,False
+,Ghana,Costa de Marfil,Ghana,Ben Acheampong,20.0,False,False
+,Ghana,Costa de Marfil,Ghana,Kwame Nti,43.0,False,False
+,Ghana,Costa de Marfil,Ghana,Paa Nii Lutterodt,52.0,False,False
+,Ghana,Costa de Marfil,Costa de Marfil,Joseph Bléziri,66.0,False,False
+,Ghana,Costa de Marfil,Ghana,Osei Kofi,70.0,False,False
 ,Czechoslovakia,Turquía,Turquía,Ayhan Elmasta?o?lu,8.0,False,False
-,Ivory Coast,Senegal,Ivory Coast,Konan Yoboué,35.0,False,False
+,Costa de Marfil,Senegal,Costa de Marfil,Konan Yoboué,35.0,False,False
 ,North Korea,Australia,Australia,Les Scheinflug,70.0,False,False
 ,Túnez,Ghana,Ghana,Frank Odoi,37.0,False,False
 ,Túnez,Ghana,Túnez,Abdelmajid Chetali,47.0,False,False
@@ -3072,9 +3072,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Francia,Luxembourg,Francia,Charly Loubet,42.0,False,False
 ,Francia,Luxembourg,Francia,Charly Loubet,47.0,False,False
 ,Francia,Luxembourg,Francia,Charly Loubet,53.0,False,False
-1968-12-01,Argelia,Ivory Coast,Ivory Coast,Jean-Louis Bozon,15.0,False,False
-1968-12-01,Argelia,Ivory Coast,Ivory Coast,Laurent Pokou,25.0,False,False
-1968-12-01,Argelia,Ivory Coast,Ivory Coast,Laurent Pokou,65.0,False,False
+1968-12-01,Argelia,Costa de Marfil,Costa de Marfil,Jean-Louis Bozon,15.0,False,False
+1968-12-01,Argelia,Costa de Marfil,Costa de Marfil,Laurent Pokou,25.0,False,False
+1968-12-01,Argelia,Costa de Marfil,Costa de Marfil,Laurent Pokou,65.0,False,False
 1968-12-01,RD Congo,RD Congo,RD Congo,Ignace Muwawa,19.0,False,False
 1968-12-01,RD Congo,RD Congo,RD Congo,Nicodème Kabamba,27.0,False,False
 1968-12-01,RD Congo,RD Congo,RD Congo,Nicodème Kabamba,51.0,False,False
@@ -3100,20 +3100,20 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,RD Congo,Senegal,RD Congo,Elias Tshimanga,,False,False
 ,RD Congo,Senegal,Senegal,Yatma Diouck,,False,False
 ,Ethiopia,Argelia,Argelia,Boualem Amirouche,68.0,False,False
-,Ivory Coast,Uganda,Ivory Coast,Laurent Pokou,,False,False
-,Ivory Coast,Uganda,Ivory Coast,Eustache Manglé,,False,False
+,Costa de Marfil,Uganda,Costa de Marfil,Laurent Pokou,,False,False
+,Costa de Marfil,Uganda,Costa de Marfil,Eustache Manglé,,False,False
 ,Ethiopia,RD Congo,RD Congo,Kidumu Mantantu,3.0,False,False
 ,Ethiopia,RD Congo,RD Congo,Léon Mungamuni,16.0,False,False
 ,Ethiopia,RD Congo,RD Congo,Léon Mungamuni,100.0,False,False
-,Ghana,Ivory Coast,Ghana,Wilberforce Mfum,,False,False
-,Ghana,Ivory Coast,Ghana,Wilberforce Mfum,,False,False
-,Ghana,Ivory Coast,Ghana,Ibrahim Sunday,,False,False
-,Ghana,Ivory Coast,Ghana,Frank Odoi,,False,False
-,Ghana,Ivory Coast,Ivory Coast,Laurent Pokou,,False,False
-,Ghana,Ivory Coast,Ivory Coast,Laurent Pokou,,False,False
-,Ghana,Ivory Coast,Ivory Coast,Henri Konan,,False,False
+,Ghana,Costa de Marfil,Ghana,Wilberforce Mfum,,False,False
+,Ghana,Costa de Marfil,Ghana,Wilberforce Mfum,,False,False
+,Ghana,Costa de Marfil,Ghana,Ibrahim Sunday,,False,False
+,Ghana,Costa de Marfil,Ghana,Frank Odoi,,False,False
+,Ghana,Costa de Marfil,Costa de Marfil,Laurent Pokou,,False,False
+,Ghana,Costa de Marfil,Costa de Marfil,Laurent Pokou,,False,False
+,Ghana,Costa de Marfil,Costa de Marfil,Henri Konan,,False,False
 ,RD Congo,Ghana,RD Congo,Pierre Kalala Mukendi,66.0,False,False
-,Ethiopia,Ivory Coast,Ivory Coast,Laurent Pokou,28.0,False,False
+,Ethiopia,Costa de Marfil,Costa de Marfil,Laurent Pokou,28.0,False,False
 ,Cyprus,Suiza,Suiza,Kostas Panayiotou,9.0,False,False
 ,Scotland,Inglaterra,Inglaterra,Martin Peters,19.0,False,False
 ,Scotland,Inglaterra,Scotland,John Hughes,39.0,False,False
@@ -3396,35 +3396,35 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1969-06-12,Jamaica,Curaçao,Curaçao,Carlos Regales,6.0,False,False
 1969-06-12,Jamaica,Curaçao,Curaçao,Martijn,48.0,False,False
 ,Australia,Israel,Australia,Johnny Watkiss,88.0,False,False
-1970-06-02,Cameroon,Ivory Coast,Ivory Coast,Laurent Pokou,25.0,False,False
-1970-06-02,Cameroon,Ivory Coast,Ivory Coast,Laurent Pokou,45.0,False,False
+1970-06-02,Cameroon,Costa de Marfil,Costa de Marfil,Laurent Pokou,25.0,False,False
+1970-06-02,Cameroon,Costa de Marfil,Costa de Marfil,Laurent Pokou,45.0,False,False
 1970-07-02,RD Congo,Ghana,Ghana,Kwasi Owusu,29.0,False,False
 1970-07-02,RD Congo,Ghana,Ghana,Kwasi Owusu,32.0,False,False
 1970-07-02,Egipto,Guinea,Egipto,Ali Abo Greisha,5.0,False,False
 1970-07-02,Egipto,Guinea,Egipto,Ali Abo Greisha,10.0,False,False
 1970-07-02,Egipto,Guinea,Egipto,Taha Basry,66.0,False,False
 1970-07-02,Egipto,Guinea,Egipto,Hassan El-Shazly,73.0,False,False
-1970-08-02,Sudan,Ivory Coast,Ivory Coast,François Tahi,89.0,False,False
+1970-08-02,Sudan,Costa de Marfil,Costa de Marfil,François Tahi,89.0,False,False
 1970-09-02,RD Congo,Guinea,RD Congo,André Kalonzo,70.0,False,False
 1970-09-02,RD Congo,Guinea,RD Congo,Léon Mungamuni,72.0,False,False
 1970-09-02,Egipto,Ghana,Ghana,Ibrahim Sunday,60.0,False,False
 1970-09-02,Egipto,Ghana,Egipto,Sayed Abdel Razek,70.0,False,False
-1970-10-02,Ethiopia,Ivory Coast,Ivory Coast,Diomandé Losseni,16.0,False,False
-1970-10-02,Ethiopia,Ivory Coast,Ivory Coast,Laurent Pokou,21.0,False,False
-1970-10-02,Ethiopia,Ivory Coast,Ivory Coast,Laurent Pokou,60.0,False,False
-1970-10-02,Ethiopia,Ivory Coast,Ivory Coast,Laurent Pokou,71.0,False,False
-1970-10-02,Ethiopia,Ivory Coast,Ivory Coast,Laurent Pokou,80.0,False,False
-1970-10-02,Ethiopia,Ivory Coast,Ivory Coast,Laurent Pokou,87.0,False,False
+1970-10-02,Ethiopia,Costa de Marfil,Costa de Marfil,Diomandé Losseni,16.0,False,False
+1970-10-02,Ethiopia,Costa de Marfil,Costa de Marfil,Laurent Pokou,21.0,False,False
+1970-10-02,Ethiopia,Costa de Marfil,Costa de Marfil,Laurent Pokou,60.0,False,False
+1970-10-02,Ethiopia,Costa de Marfil,Costa de Marfil,Laurent Pokou,71.0,False,False
+1970-10-02,Ethiopia,Costa de Marfil,Costa de Marfil,Laurent Pokou,80.0,False,False
+1970-10-02,Ethiopia,Costa de Marfil,Costa de Marfil,Laurent Pokou,87.0,False,False
 1970-11-02,RD Congo,Egipto,Egipto,Ali Abo Greisha,71.0,False,False
 1970-11-02,Ghana,Guinea,Ghana,Kwasi Owusu,50.0,False,False
-,Ghana,Ivory Coast,Ghana,Ibrahim Sunday,21.0,False,False
-,Ghana,Ivory Coast,Ivory Coast,Diomandé Losseni,78.0,False,False
-,Ghana,Ivory Coast,Ghana,Malik Jabir,100.0,False,False
+,Ghana,Costa de Marfil,Ghana,Ibrahim Sunday,21.0,False,False
+,Ghana,Costa de Marfil,Costa de Marfil,Diomandé Losseni,78.0,False,False
+,Ghana,Costa de Marfil,Ghana,Malik Jabir,100.0,False,False
 ,Sudan,Egipto,Egipto,Hassan El-Shazly,84.0,False,False
-,Egipto,Ivory Coast,Egipto,Hassan El-Shazly,3.0,False,False
-,Egipto,Ivory Coast,Egipto,Hassan El-Shazly,14.0,False,False
-,Egipto,Ivory Coast,Egipto,Hassan El-Shazly,50.0,False,False
-,Egipto,Ivory Coast,Ivory Coast,Laurent Pokou,72.0,False,False
+,Egipto,Costa de Marfil,Egipto,Hassan El-Shazly,3.0,False,False
+,Egipto,Costa de Marfil,Egipto,Hassan El-Shazly,14.0,False,False
+,Egipto,Costa de Marfil,Egipto,Hassan El-Shazly,50.0,False,False
+,Egipto,Costa de Marfil,Costa de Marfil,Laurent Pokou,72.0,False,False
 1970-02-06,Inglaterra,Romania,Inglaterra,Geoff Hurst,65.0,False,False
 1970-02-06,Israel,Uruguay,Uruguay,Ildo Maneiro,23.0,False,False
 1970-02-06,Israel,Uruguay,Uruguay,Juan Mujica,50.0,False,False
@@ -3730,7 +3730,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Francia,Russia,Francia,Georges Bereta,61.0,False,False
 ,Austria,Hungary,Austria,Franz Hasil,58.0,False,False
 ,Austria,Hungary,Austria,Kurt Jara,71.0,False,False
-,Sierra Leone,Ivory Coast,Ivory Coast,Mama Ouattara,32.0,False,False
+,Sierra Leone,Costa de Marfil,Costa de Marfil,Mama Ouattara,32.0,False,False
 ,Suecia,Malta,Suecia,Ralf Edström,2.0,False,False
 ,Suecia,Malta,Suecia,Bo Larsson,18.0,False,False
 ,Suecia,Malta,Suecia,Ralf Edström,32.0,False,False
@@ -3744,8 +3744,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Dinamarca,Scotland,Scotland,Willie Morgan,83.0,False,False
 ,España,Yugoslavia,España,Amancio Amaro,30.0,False,False
 ,España,Yugoslavia,España,Juan Manuel Asensi,89.0,False,False
-,Ivory Coast,Sierra Leone,Ivory Coast,Noël Kouamé,42.0,False,False
-,Ivory Coast,Sierra Leone,Ivory Coast,Mama Ouattara,72.0,False,False
+,Costa de Marfil,Sierra Leone,Costa de Marfil,Noël Kouamé,42.0,False,False
+,Costa de Marfil,Sierra Leone,Costa de Marfil,Mama Ouattara,72.0,False,False
 1972-01-11,Países Bajos,Noruega,Países Bajos,Johan Neeskens,31.0,False,False
 1972-01-11,Países Bajos,Noruega,Países Bajos,Johan Neeskens,51.0,False,False
 1972-01-11,Países Bajos,Noruega,Países Bajos,Johan Cruyff,55.0,False,False
@@ -3781,8 +3781,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1973-10-02,Nigeria,Ghana,Ghana,Kwasi Owusu,55.0,False,False
 1973-10-02,Nigeria,Ghana,Ghana,Kwasi Owusu,82.0,False,False
 1973-11-02,Guinea,Marruecos,Marruecos,Moustapha Choukri,22.0,False,False
-1973-11-02,Túnez,Ivory Coast,Ivory Coast,Noël Kouamé,17.0,False,False
-1973-11-02,Túnez,Ivory Coast,Túnez,Mohieddine Habita,48.0,False,False
+1973-11-02,Túnez,Costa de Marfil,Costa de Marfil,Noël Kouamé,17.0,False,False
+1973-11-02,Túnez,Costa de Marfil,Túnez,Mohieddine Habita,48.0,False,False
 ,Nueva Zelanda,Fiji,Nueva Zelanda,Brian Turner,,False,False
 ,Nueva Zelanda,Fiji,Nueva Zelanda,Dave Taylor,,False,False
 ,Nueva Zelanda,Fiji,Nueva Zelanda,Geoff Brand,,False,False
@@ -3799,9 +3799,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Nueva Zelanda,Vanuatu,Nueva Zelanda,Alan Marley,,False,False
 ,Nueva Zelanda,Tahiti,Nueva Zelanda,Dave Taylor,,False,False
 ,Nueva Zelanda,Tahiti,Nueva Zelanda,Alan Marley,,False,False
-,Ivory Coast,Túnez,Túnez,Abdesselam Adhouma,15.0,False,False
-,Ivory Coast,Túnez,Ivory Coast,Bernard N'Guessan,44.0,False,False
-,Ivory Coast,Túnez,Ivory Coast,Bernard N'Guessan,85.0,False,False
+,Costa de Marfil,Túnez,Túnez,Abdesselam Adhouma,15.0,False,False
+,Costa de Marfil,Túnez,Costa de Marfil,Bernard N'Guessan,44.0,False,False
+,Costa de Marfil,Túnez,Costa de Marfil,Bernard N'Guessan,85.0,False,False
 ,Marruecos,Guinea,Marruecos,Ahmed Faras,60.0,False,False
 ,Marruecos,Guinea,Marruecos,Ahmed Faras,68.0,False,False
 ,RD Congo,Cameroon,RD Congo,Kakoko Etepé,3.0,False,False
@@ -3855,8 +3855,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Corea del Sur,Thailand,Corea del Sur,Cha Bum-kun,60.0,False,False
 ,Corea del Sur,Thailand,Corea del Sur,Chung Kyu-Poong,79.0,False,False
 ,Corea del Sur,Thailand,Corea del Sur,Chung Kyu-Poong,84.0,False,False
-,Ivory Coast,Marruecos,Marruecos,Hassan Amcharrat,30.0,False,False
-,Ivory Coast,Marruecos,Ivory Coast,Kobenan Kouman,75.0,False,False
+,Costa de Marfil,Marruecos,Marruecos,Hassan Amcharrat,30.0,False,False
+,Costa de Marfil,Marruecos,Costa de Marfil,Kobenan Kouman,75.0,False,False
 ,Vietnam Republic,Japón,Japón,Kunishige Kamamoto,6.0,False,False
 ,Vietnam Republic,Japón,Japón,Koji Mori,19.0,False,False
 ,Vietnam Republic,Japón,Japón,Nguy?n Vinh Quang,54.0,False,False
@@ -3870,11 +3870,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Corea del Sur,Hong Kong,Corea del Sur,Park Yi-Chun,52.0,False,False
 ,Corea del Sur,Hong Kong,Corea del Sur,Chung Kyu-Poong,72.0,False,False
 ,Corea del Sur,Israel,Corea del Sur,Cha Bum-kun,109.0,False,False
-1973-03-06,Marruecos,Ivory Coast,Marruecos,Ahmed Faras,24.0,False,False
-1973-03-06,Marruecos,Ivory Coast,Marruecos,Ahmed Faras,34.0,False,False
-1973-03-06,Marruecos,Ivory Coast,Marruecos,Chérif Fetoui,60.0,False,False
-1973-03-06,Marruecos,Ivory Coast,Ivory Coast,Laurent Pokou,61.0,False,False
-1973-03-06,Marruecos,Ivory Coast,Marruecos,Moustapha Choukri,85.0,False,False
+1973-03-06,Marruecos,Costa de Marfil,Marruecos,Ahmed Faras,24.0,False,False
+1973-03-06,Marruecos,Costa de Marfil,Marruecos,Ahmed Faras,34.0,False,False
+1973-03-06,Marruecos,Costa de Marfil,Marruecos,Chérif Fetoui,60.0,False,False
+1973-03-06,Marruecos,Costa de Marfil,Costa de Marfil,Laurent Pokou,61.0,False,False
+1973-03-06,Marruecos,Costa de Marfil,Marruecos,Moustapha Choukri,85.0,False,False
 ,Hungary,Suecia,Suecia,Ove Kindvall,38.0,False,False
 ,Hungary,Suecia,Suecia,Roland Sandberg,57.0,False,False
 ,Hungary,Suecia,Suecia,Ralf Edström,77.0,False,False
@@ -3999,13 +3999,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1974-04-03,Egipto,Zambia,Egipto,Gamal Abdel Azim,4.0,False,False
 1974-04-03,Egipto,Zambia,Egipto,Taha Basry,18.0,False,False
 1974-04-03,Egipto,Zambia,Egipto,Ali Abo Greisha,52.0,False,False
-1974-04-03,Ivory Coast,Uganda,Ivory Coast,Kobenan Kouman,37.0,False,False
-1974-04-03,Ivory Coast,Uganda,Ivory Coast,Kobenan Kouman,78.0,False,False
+1974-04-03,Costa de Marfil,Uganda,Costa de Marfil,Kobenan Kouman,37.0,False,False
+1974-04-03,Costa de Marfil,Uganda,Costa de Marfil,Kobenan Kouman,78.0,False,False
 1974-05-03,RD Congo,RD Congo,RD Congo,Mayanga Maku,25.0,False,False
 1974-05-03,RD Congo,RD Congo,RD Congo,Jean-Michel M'Bono,70.0,False,False
 1974-05-03,RD Congo,RD Congo,RD Congo,Noël Birindi Minga,81.0,False,False
-1974-06-03,Egipto,Ivory Coast,Egipto,Hassan El-Shazly,1.0,False,False
-1974-06-03,Egipto,Ivory Coast,Egipto,Ali Khalil,44.0,False,False
+1974-06-03,Egipto,Costa de Marfil,Egipto,Hassan El-Shazly,1.0,False,False
+1974-06-03,Egipto,Costa de Marfil,Egipto,Ali Khalil,44.0,False,False
 1974-07-03,RD Congo,Guinea,RD Congo,Jacques Ndomba,65.0,False,False
 1974-07-03,Mauritius,RD Congo,RD Congo,Ndaye Mulamba,15.0,False,False
 1974-07-03,Mauritius,RD Congo,RD Congo,Mayanga Maku,19.0,False,False
@@ -4313,12 +4313,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Yugoslavia,Países Bajos,Países Bajos,Ruud Geels,107.0,False,False
 ,Czechoslovakia,Alemania,Alemania,Dieter Müller,28.0,False,False
 ,Czechoslovakia,Alemania,Alemania,Bernd Hölzenbein,89.0,False,False
-1976-04-09,Burkina Faso,Ivory Coast,Ivory Coast,Gaston Bawa,36.0,False,False
+1976-04-09,Burkina Faso,Costa de Marfil,Costa de Marfil,Gaston Bawa,36.0,False,False
 1976-05-09,Iceland,Bélgica,Bélgica,François Van der Elst,73.0,False,False
 1976-08-09,Iceland,Países Bajos,Países Bajos,Ruud Geels,42.0,False,False
 1976-08-09,Noruega,Suiza,Noruega,Tom Lund,75.0,False,False
-,Ivory Coast,Burkina Faso,Ivory Coast,Lucien Kouassi Kouame,17.0,False,False
-,Ivory Coast,Burkina Faso,Ivory Coast,Kobenan Kouman,34.0,False,False
+,Costa de Marfil,Burkina Faso,Costa de Marfil,Lucien Kouassi Kouame,17.0,False,False
+,Costa de Marfil,Burkina Faso,Costa de Marfil,Kobenan Kouman,34.0,False,False
 1976-09-10,Bulgaria,Francia,Francia,Michel Platini,37.0,False,False
 1976-09-10,Bulgaria,Francia,Francia,Bernard Lacombe,40.0,False,False
 1976-09-10,Suiza,Suecia,Suecia,Bo Börjesson,29.0,False,False
@@ -4370,17 +4370,17 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1977-06-02,Túnez,Argelia,Túnez,Mohamed Akid,56.0,False,False
 1977-06-02,Túnez,Argelia,Túnez,Ali Kaabi,73.0,False,False
 1977-09-02,Venezuela,Uruguay,Uruguay,Washington Oliveira,5.0,False,False
-,Ivory Coast,RD Congo,Ivory Coast,Leon Goua G'Bize,10.0,False,False
-,Ivory Coast,RD Congo,Ivory Coast,Jérôme Lèbre Mamahou,20.0,False,False
-,Ivory Coast,RD Congo,RD Congo,Jonas Bahamboula,36.0,False,False
-,Ivory Coast,RD Congo,Ivory Coast,Kobenan Kouman,81.0,False,False
-,Ivory Coast,RD Congo,RD Congo,Jean-Jacques N'Domba,89.0,False,False
+,Costa de Marfil,RD Congo,Costa de Marfil,Leon Goua G'Bize,10.0,False,False
+,Costa de Marfil,RD Congo,Costa de Marfil,Jérôme Lèbre Mamahou,20.0,False,False
+,Costa de Marfil,RD Congo,RD Congo,Jonas Bahamboula,36.0,False,False
+,Costa de Marfil,RD Congo,Costa de Marfil,Kobenan Kouman,81.0,False,False
+,Costa de Marfil,RD Congo,RD Congo,Jean-Jacques N'Domba,89.0,False,False
 ,Ecuador,Perú,Ecuador,José Fabián Paz y Miño,81.0,False,False
 ,Colombia,Paraguay,Paraguay,Carlos Jara Saguier,26.0,False,False
-,RD Congo,Ivory Coast,Ivory Coast,Kobenan Kouman,10.0,False,False
-,RD Congo,Ivory Coast,RD Congo,Pierre Lingongo,23.0,False,False
-,RD Congo,Ivory Coast,Ivory Coast,Pascal Miézan,38.0,False,False
-,RD Congo,Ivory Coast,Ivory Coast,Leon Goua G'Bize,82.0,False,False
+,RD Congo,Costa de Marfil,Costa de Marfil,Kobenan Kouman,10.0,False,False
+,RD Congo,Costa de Marfil,RD Congo,Pierre Lingongo,23.0,False,False
+,RD Congo,Costa de Marfil,Costa de Marfil,Pascal Miézan,38.0,False,False
+,RD Congo,Costa de Marfil,Costa de Marfil,Leon Goua G'Bize,82.0,False,False
 ,Egipto,Kenya,Egipto,Ossama Khalil,13.0,False,False
 ,Argelia,Túnez,Argelia,Mahmoud Guendouz,34.0,False,False
 ,Argelia,Túnez,Túnez,Amor Jebali,89.0,False,False
@@ -4471,8 +4471,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Brasil,Bolivia,Brasil,Marcelo Oliveira,89.0,False,False
 ,Egipto,Zambia,Egipto,Farouk Gaafar,29.0,False,False
 ,Egipto,Zambia,Egipto,Maher Hammam,49.0,False,False
-,Ivory Coast,Nigeria,Ivory Coast,Jérôme Lèbre Mamahou,37.0,False,False
-,Ivory Coast,Nigeria,Ivory Coast,Jérôme Lèbre Mamahou,58.0,False,False
+,Costa de Marfil,Nigeria,Costa de Marfil,Jérôme Lèbre Mamahou,37.0,False,False
+,Costa de Marfil,Nigeria,Costa de Marfil,Jérôme Lèbre Mamahou,58.0,False,False
 ,Australia,Iran,Iran,Hassan Rowshan,70.0,False,False
 ,Australia,Corea del Sur,Corea del Sur,Cha Bum-kun,23.0,False,False
 ,Australia,Corea del Sur,Australia,John Kosmina,63.0,False,False
@@ -4919,15 +4919,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1980-01-03,Australia,Tahiti,Australia,Danny Moulis,28.0,False,False
 1980-01-03,Australia,Tahiti,Australia,Paul Kay,38.0,False,False
 1980-01-03,Australia,Tahiti,Australia,Vic Bozanic,60.0,False,False
-1980-08-03,Egipto,Ivory Coast,Ivory Coast,Ani Gome,7.0,False,False
-1980-08-03,Egipto,Ivory Coast,Egipto,Maher Hammam,8.0,False,False
-1980-08-03,Egipto,Ivory Coast,Egipto,Mokhtar Mokhtar,20.0,False,False
+1980-08-03,Egipto,Costa de Marfil,Costa de Marfil,Ani Gome,7.0,False,False
+1980-08-03,Egipto,Costa de Marfil,Egipto,Maher Hammam,8.0,False,False
+1980-08-03,Egipto,Costa de Marfil,Egipto,Mokhtar Mokhtar,20.0,False,False
 1980-09-03,Guinea,Marruecos,Marruecos,Mustapha Tahir,7.0,False,False
 1980-12-03,Egipto,Tanzania,Egipto,Hassan Shehata,32.0,False,False
 1980-12-03,Egipto,Tanzania,Egipto,Mussad Nur,38.0,False,False
 ,Argelia,Marruecos,Argelia,Lakhdar Belloumi,90.0,False,False
 ,Ghana,Guinea,Ghana,Willie Klutse,69.0,False,False
-,Ivory Coast,Tanzania,Ivory Coast,Kobenan Kouman,7.0,False,False
+,Costa de Marfil,Tanzania,Costa de Marfil,Kobenan Kouman,7.0,False,False
 ,Argelia,Guinea,Argelia,Tedj Bensaoula,12.0,False,False
 ,Argelia,Guinea,Argelia,Lakhdar Belloumi,37.0,False,False
 ,Argelia,Guinea,Argelia,Tedj Bensaoula,49.0,False,False
@@ -5610,16 +5610,16 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,España,Malta,España,Manuel Sarabia,79.0,False,False
 ,España,Malta,España,Juan Antonio Señor,84.0,False,False
 1984-04-03,Cameroon,Egipto,Egipto,Taher Abouzeid,78.0,False,False
-1984-04-03,Ivory Coast,Togo,Ivory Coast,Tia Koffi,27.0,False,False
-1984-04-03,Ivory Coast,Togo,Ivory Coast,Youssouf Falikou Fofana,62.0,False,False
-1984-04-03,Ivory Coast,Togo,Ivory Coast,Michel Goba,75.0,False,False
+1984-04-03,Costa de Marfil,Togo,Costa de Marfil,Tia Koffi,27.0,False,False
+1984-04-03,Costa de Marfil,Togo,Costa de Marfil,Youssouf Falikou Fofana,62.0,False,False
+1984-04-03,Costa de Marfil,Togo,Costa de Marfil,Michel Goba,75.0,False,False
 1984-05-03,Argelia,Malawi,Argelia,Nasser Bouiche,29.0,False,False
 1984-05-03,Argelia,Malawi,Argelia,Lakhdar Belloumi,36.0,False,False
 1984-05-03,Argelia,Malawi,Argelia,Ali Fergani,38.0,False,False
 1984-05-03,Ghana,Nigeria,Ghana,Opoku Nti,19.0,False,False
-1984-07-03,Ivory Coast,Egipto,Ivory Coast,Pascal Miézan,53.0,False,False
-1984-07-03,Ivory Coast,Egipto,Egipto,Taher Abouzeid,66.0,False,False
-1984-07-03,Ivory Coast,Egipto,Egipto,Taher Abouzeid,72.0,False,False
+1984-07-03,Costa de Marfil,Egipto,Costa de Marfil,Pascal Miézan,53.0,False,False
+1984-07-03,Costa de Marfil,Egipto,Egipto,Taher Abouzeid,66.0,False,False
+1984-07-03,Costa de Marfil,Egipto,Egipto,Taher Abouzeid,72.0,False,False
 1984-08-03,Argelia,Ghana,Argelia,Djamel Menad,75.0,False,False
 1984-08-03,Argelia,Ghana,Argelia,Tedj Bensaoula,85.0,False,False
 1984-11-03,Ghana,Malawi,Ghana,Seth Amphadu,32.0,False,False
@@ -5700,15 +5700,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,España,Wales,España,Francisco José Carrasco,83.0,False,False
 ,España,Wales,España,Emilio Butragueño,89.0,False,False
 ,Suiza,Dinamarca,Suiza,Umberto Barberis,42.0,False,False
-,Ivory Coast,Gambia,Ivory Coast,Abdoulaye Traoré,47.0,False,False
-,Ivory Coast,Gambia,Ivory Coast,Abdoulaye Traoré,62.0,False,False
-,Ivory Coast,Gambia,Ivory Coast,Kouassi N'Dri,66.0,False,False
-,Ivory Coast,Gambia,Ivory Coast,Oumar Ben Salah,84.0,False,False
+,Costa de Marfil,Gambia,Costa de Marfil,Abdoulaye Traoré,47.0,False,False
+,Costa de Marfil,Gambia,Costa de Marfil,Abdoulaye Traoré,62.0,False,False
+,Costa de Marfil,Gambia,Costa de Marfil,Kouassi N'Dri,66.0,False,False
+,Costa de Marfil,Gambia,Costa de Marfil,Oumar Ben Salah,84.0,False,False
 ,Benin,Túnez,Túnez,Bassam Jeridi,63.0,False,False
 ,Benin,Túnez,Túnez,Mohamed Gasri,86.0,False,False
 ,Turquía,Finland,Turquía,?lyas Tüfekçi,78.0,False,False
-1984-04-11,Gambia,Ivory Coast,Ivory Coast,Abdoulaye Traoré,40.0,False,False
-1984-04-11,Gambia,Ivory Coast,Ivory Coast,Joël Tiéhi,54.0,False,False
+1984-04-11,Gambia,Costa de Marfil,Costa de Marfil,Abdoulaye Traoré,40.0,False,False
+1984-04-11,Gambia,Costa de Marfil,Costa de Marfil,Joël Tiéhi,54.0,False,False
 ,Túnez,Benin,Túnez,Bassam Jeridi,5.0,False,False
 ,Túnez,Benin,Túnez,Bassam Jeridi,16.0,False,False
 ,Túnez,Benin,Túnez,Abdelkader Rakbaoui,56.0,False,False
@@ -5826,8 +5826,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Iraq,Jordania,Iraq,Khalil Allawi,50.0,False,False
 ,Canadá,Guatemala,Canadá,Dale Mitchell,22.0,False,False
 ,Canadá,Guatemala,Canadá,Dale Mitchell,43.0,False,False
-,Ghana,Ivory Coast,Ghana,Opoku Nti,50.0,False,False
-,Ghana,Ivory Coast,Ghana,George Alhassan,79.0,False,False
+,Ghana,Costa de Marfil,Ghana,Opoku Nti,50.0,False,False
+,Ghana,Costa de Marfil,Ghana,George Alhassan,79.0,False,False
 ,Czechoslovakia,Alemania,Alemania,Thomas Berthold,8.0,False,False
 ,Czechoslovakia,Alemania,Alemania,Pierre Littbarski,22.0,False,False
 ,Czechoslovakia,Alemania,Alemania,Lothar Matthäus,36.0,False,False
@@ -6025,26 +6025,26 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Iraq,Syria,Iraq,Shaker Mahmoud,49.0,False,False
 ,Iraq,Syria,Iraq,Khalil Allawi,72.0,False,False
 1986-07-03,Egipto,Senegal,Senegal,Thierno Youm,67.0,False,False
-1986-07-03,Ivory Coast,Mozambique,Ivory Coast,Abdoulaye Traoré,25.0,False,False
-1986-07-03,Ivory Coast,Mozambique,Ivory Coast,Abdoulaye Traoré,74.0,False,False
-1986-07-03,Ivory Coast,Mozambique,Ivory Coast,Kouassi N'Dri,86.0,False,False
-1986-10-03,Egipto,Ivory Coast,Egipto,Shawky Gharieb,73.0,False,False
-1986-10-03,Egipto,Ivory Coast,Egipto,Gamal Abdelhamid,83.0,False,False
+1986-07-03,Costa de Marfil,Mozambique,Costa de Marfil,Abdoulaye Traoré,25.0,False,False
+1986-07-03,Costa de Marfil,Mozambique,Costa de Marfil,Abdoulaye Traoré,74.0,False,False
+1986-07-03,Costa de Marfil,Mozambique,Costa de Marfil,Kouassi N'Dri,86.0,False,False
+1986-10-03,Egipto,Costa de Marfil,Egipto,Shawky Gharieb,73.0,False,False
+1986-10-03,Egipto,Costa de Marfil,Egipto,Gamal Abdelhamid,83.0,False,False
 1986-10-03,Mozambique,Senegal,Senegal,Pape Fall,28.0,False,False
 1986-10-03,Mozambique,Senegal,Senegal,Jules Bocandé,83.0,False,False
 1986-11-03,Cameroon,Marruecos,Marruecos,Abdelkrim Merry,63.0,False,False
 ,Egipto,Mozambique,Egipto,Taher Abouzeid,13.0,False,False
 ,Egipto,Mozambique,Egipto,Taher Abouzeid,15.0,False,False
-,Ivory Coast,Senegal,Ivory Coast,Abdoulaye Traoré,71.0,False,False
+,Costa de Marfil,Senegal,Costa de Marfil,Abdoulaye Traoré,71.0,False,False
 ,Argelia,Cameroon,Argelia,Rabah Madjer,61.0,False,False
 ,Argelia,Cameroon,Argelia,Karim Maroc,73.0,False,False
 ,Marruecos,Zambia,Marruecos,Jones Chilengi,18.0,False,False
 ,Egipto,Marruecos,Egipto,Taher Abouzeid,79.0,False,False
-,Ivory Coast,Marruecos,Ivory Coast,Oumar Ben Salah,8.0,False,False
-,Ivory Coast,Marruecos,Ivory Coast,Lucien Kassi-Kouadio,38.0,False,False
-,Ivory Coast,Marruecos,Marruecos,Abdelfettah Rhiati,44.0,False,False
-,Ivory Coast,Marruecos,Ivory Coast,Lucien Kassi-Kouadio,68.0,False,False
-,Ivory Coast,Marruecos,Marruecos,Mohammed Sahil,85.0,False,False
+,Costa de Marfil,Marruecos,Costa de Marfil,Oumar Ben Salah,8.0,False,False
+,Costa de Marfil,Marruecos,Costa de Marfil,Lucien Kassi-Kouadio,38.0,False,False
+,Costa de Marfil,Marruecos,Marruecos,Abdelfettah Rhiati,44.0,False,False
+,Costa de Marfil,Marruecos,Costa de Marfil,Lucien Kassi-Kouadio,68.0,False,False
+,Costa de Marfil,Marruecos,Marruecos,Mohammed Sahil,85.0,False,False
 1986-01-06,Canadá,Francia,Francia,Jean-Pierre Papin,79.0,False,False
 1986-01-06,España,Brasil,Brasil,Sócrates,62.0,False,False
 1986-02-06,Argentina,Corea del Sur,Argentina,Jorge Valdano,6.0,False,False
@@ -6287,12 +6287,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Turquía,Yugoslavia,Turquía,Yusuf Alt?nta?,68.0,False,False
 ,Turquía,Yugoslavia,Turquía,Feyyaz Uçar,73.0,False,False
 ,Malta,Portugal,Portugal,Frederico Rosa,74.0,False,False
-,Argelia,Ivory Coast,Argelia,Lakhdar Belloumi,16.0,False,False
-,Argelia,Ivory Coast,Ivory Coast,Abdoulaye Traoré,48.0,False,False
+,Argelia,Costa de Marfil,Argelia,Lakhdar Belloumi,16.0,False,False
+,Argelia,Costa de Marfil,Costa de Marfil,Abdoulaye Traoré,48.0,False,False
 ,Marruecos,RD Congo,Marruecos,Abdelkrim Merry,43.0,False,False
 ,Marruecos,RD Congo,RD Congo,Vita Lutonadio,88.0,False,False
-,Ivory Coast,RD Congo,RD Congo,Eugène Kabongo,37.0,False,False
-,Ivory Coast,RD Congo,Ivory Coast,Abdoulaye Traoré,74.0,False,False
+,Costa de Marfil,RD Congo,RD Congo,Eugène Kabongo,37.0,False,False
+,Costa de Marfil,RD Congo,Costa de Marfil,Abdoulaye Traoré,74.0,False,False
 ,Marruecos,Argelia,Marruecos,Mustafa El Haddaoui,52.0,False,False
 ,Egipto,Kenya,Egipto,Gamal Abdelhamid,2.0,False,False
 ,Egipto,Kenya,Egipto,Ayman Younes,58.0,False,False
@@ -6414,7 +6414,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-08-01,RD Congo,Túnez,RD Congo,N'Kiambi Mapuata,23.0,False,False
 1989-08-01,RD Congo,Túnez,RD Congo,N'Kiambi Mapuata,33.0,False,False
 1989-08-01,RD Congo,Túnez,RD Congo,Nkiere Wawa,61.0,False,False
-1989-08-01,Ivory Coast,Libya,Ivory Coast,Sékou Bamba,80.0,False,False
+1989-08-01,Costa de Marfil,Libya,Costa de Marfil,Sékou Bamba,80.0,False,False
 1989-08-01,Marruecos,Zambia,Marruecos,Abdelfettah Rhiati,39.0,False,False
 ,Jordania,Iraq,Iraq,Habib Jafar,60.0,False,False
 ,Jordania,Oman,Jordania,Mohamed Al-Diabaz,32.0,False,False
@@ -6611,11 +6611,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-12-08,Egipto,Malawi,Egipto,Abdel Rasoul Hesham,28.0,False,False
 ,Chile,Brasil,Brasil,Hugo González,56.0,False,False
 ,RD Congo,Zambia,RD Congo,Eugène Kabongo,16.0,False,False
-,Ivory Coast,Zimbabwe,Ivory Coast,Oumar Ben Salah,30.0,False,False
-,Ivory Coast,Zimbabwe,Ivory Coast,Oumar Ben Salah,47.0,False,False
-,Ivory Coast,Zimbabwe,Ivory Coast,Jean-Pierre Guede Akenon,71.0,False,False
-,Ivory Coast,Zimbabwe,Ivory Coast,Yao Lambert Amani,81.0,False,False
-,Ivory Coast,Zimbabwe,Ivory Coast,Sékou Bamba,89.0,False,False
+,Costa de Marfil,Zimbabwe,Costa de Marfil,Oumar Ben Salah,30.0,False,False
+,Costa de Marfil,Zimbabwe,Costa de Marfil,Oumar Ben Salah,47.0,False,False
+,Costa de Marfil,Zimbabwe,Costa de Marfil,Jean-Pierre Guede Akenon,71.0,False,False
+,Costa de Marfil,Zimbabwe,Costa de Marfil,Yao Lambert Amani,81.0,False,False
+,Costa de Marfil,Zimbabwe,Costa de Marfil,Sékou Bamba,89.0,False,False
 ,Brasil,Venezuela,Brasil,Careca,10.0,False,False
 ,Brasil,Venezuela,Brasil,Careca,17.0,False,False
 ,Brasil,Venezuela,Brasil,Paulo Silas,37.0,False,False
@@ -6626,7 +6626,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Colombia,Ecuador,Colombia,Arnoldo Iguarán,72.0,False,False
 ,Austria,Iceland,Austria,Heimo Pfeifenberger,47.0,False,False
 ,Austria,Iceland,Austria,Manfred Zsak,62.0,False,False
-,Argelia,Ivory Coast,Argelia,Rabah Madjer,56.0,False,False
+,Argelia,Costa de Marfil,Argelia,Rabah Madjer,56.0,False,False
 ,Egipto,Kenya,Egipto,Abdel Rasoul Hesham,58.0,False,False
 ,Egipto,Kenya,Egipto,Ibrahim Hassan,62.0,False,False
 ,Marruecos,RD Congo,RD Congo,Kuyangana Makukula,47.0,False,False
@@ -6733,13 +6733,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1990-02-03,Argelia,Nigeria,Argelia,Djamel Menad,69.0,False,False
 1990-02-03,Argelia,Nigeria,Argelia,Djamel Menad,72.0,False,False
 1990-02-03,Argelia,Nigeria,Argelia,Djamel Amani,88.0,False,False
-1990-02-03,Ivory Coast,Egipto,Ivory Coast,Abdoulaye Traoré,53.0,False,False
-1990-02-03,Ivory Coast,Egipto,Ivory Coast,Abdoulaye Traoré,60.0,False,False
-1990-02-03,Ivory Coast,Egipto,Ivory Coast,Serge Maguy,73.0,False,False
-1990-02-03,Ivory Coast,Egipto,Egipto,Adel Abdelrahman,75.0,False,False
-1990-05-03,Argelia,Ivory Coast,Argelia,Djamel Menad,23.0,False,False
-1990-05-03,Argelia,Ivory Coast,Argelia,Tahar Chérif El-Ouazzani,81.0,False,False
-1990-05-03,Argelia,Ivory Coast,Argelia,Chérif Oudjani,82.0,False,False
+1990-02-03,Costa de Marfil,Egipto,Costa de Marfil,Abdoulaye Traoré,53.0,False,False
+1990-02-03,Costa de Marfil,Egipto,Costa de Marfil,Abdoulaye Traoré,60.0,False,False
+1990-02-03,Costa de Marfil,Egipto,Costa de Marfil,Serge Maguy,73.0,False,False
+1990-02-03,Costa de Marfil,Egipto,Egipto,Adel Abdelrahman,75.0,False,False
+1990-05-03,Argelia,Costa de Marfil,Argelia,Djamel Menad,23.0,False,False
+1990-05-03,Argelia,Costa de Marfil,Argelia,Tahar Chérif El-Ouazzani,81.0,False,False
+1990-05-03,Argelia,Costa de Marfil,Argelia,Chérif Oudjani,82.0,False,False
 1990-06-03,Cameroon,Senegal,Senegal,Mamadou Diallo,45.0,False,False
 1990-06-03,Cameroon,Senegal,Senegal,Moussa N'Dao,56.0,False,False
 1990-08-03,Argelia,Egipto,Argelia,Djamel Amani,39.0,False,False
@@ -7030,9 +7030,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Alemania,Luxembourg,Alemania,Karl-Heinz Riedle,51.0,False,False
 ,Alemania,Luxembourg,Alemania,Thomas Häßler,62.0,False,False
 1992-12-01,Senegal,Nigeria,Senegal,Jules Bocandé,36.0,False,False
-,Argelia,Ivory Coast,Ivory Coast,Ben Badi,14.0,False,False
-,Argelia,Ivory Coast,Ivory Coast,Youssouf Falikou Fofana,25.0,False,False
-,Argelia,Ivory Coast,Ivory Coast,Joël Tiéhi,89.0,False,False
+,Argelia,Costa de Marfil,Costa de Marfil,Ben Badi,14.0,False,False
+,Argelia,Costa de Marfil,Costa de Marfil,Youssouf Falikou Fofana,25.0,False,False
+,Argelia,Costa de Marfil,Costa de Marfil,Joël Tiéhi,89.0,False,False
 ,Marruecos,RD Congo,Marruecos,Said Rokbi,89.0,False,False
 ,Marruecos,RD Congo,RD Congo,Andre Kona N'Gole,90.0,False,False
 ,Zambia,Ghana,Ghana,Abedi Pele,64.0,False,False
@@ -7046,7 +7046,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ghana,RD Congo,Ghana,Anthony Yeboah,29.0,False,False
 ,Ghana,RD Congo,RD Congo,Pierre Tchibota,52.0,False,False
 ,Ghana,RD Congo,Ghana,Abedi Pele,57.0,False,False
-,Ivory Coast,Zambia,Ivory Coast,Donald-Olivier Sié,94.0,False,False
+,Costa de Marfil,Zambia,Costa de Marfil,Donald-Olivier Sié,94.0,False,False
 ,Nigeria,Ghana,Ghana,Abedi Pele,43.0,False,False
 ,Nigeria,Ghana,Ghana,Prince Polley,54.0,False,False
 ,Curaçao,Antigua And Barbuda,Curaçao,Giovanni Regales,38.0,False,False
@@ -7147,12 +7147,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1992-09-10,Argelia,Burundi,Argelia,Abdelhafid Tasfaout,40.0,False,False
 1992-09-10,Argelia,Burundi,Argelia,Mourad Meziane,70.0,False,False
 1992-09-10,Argelia,Burundi,Argelia,Abdelhafid Tasfaout,87.0,False,False
-1992-10-10,Ivory Coast,Botswana,Ivory Coast,Abdoulaye Traoré,10.0,False,False
-1992-10-10,Ivory Coast,Botswana,Ivory Coast,Oumar Ben Salah,14.0,False,False
-1992-10-10,Ivory Coast,Botswana,Ivory Coast,Abdoulaye Traoré,17.0,False,False
-1992-10-10,Ivory Coast,Botswana,Ivory Coast,Joël Tiéhi,69.0,False,False
-1992-10-10,Ivory Coast,Botswana,Ivory Coast,Lucien Kassi-Kouadio,70.0,False,False
-1992-10-10,Ivory Coast,Botswana,Ivory Coast,Abdoulaye Traoré,86.0,False,False
+1992-10-10,Costa de Marfil,Botswana,Costa de Marfil,Abdoulaye Traoré,10.0,False,False
+1992-10-10,Costa de Marfil,Botswana,Costa de Marfil,Oumar Ben Salah,14.0,False,False
+1992-10-10,Costa de Marfil,Botswana,Costa de Marfil,Abdoulaye Traoré,17.0,False,False
+1992-10-10,Costa de Marfil,Botswana,Costa de Marfil,Joël Tiéhi,69.0,False,False
+1992-10-10,Costa de Marfil,Botswana,Costa de Marfil,Lucien Kassi-Kouadio,70.0,False,False
+1992-10-10,Costa de Marfil,Botswana,Costa de Marfil,Abdoulaye Traoré,86.0,False,False
 1992-11-10,RD Congo,Liberia,RD Congo,Eugène Kabongo,39.0,False,False
 1992-11-10,RD Congo,Liberia,RD Congo,Eugène Kabongo,50.0,False,False
 1992-11-10,RD Congo,Liberia,RD Congo,Roger Lukaku,72.0,False,False
@@ -7180,18 +7180,18 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Arabia Saudita,Estados Unidos,Arabia Saudita,Fahad Al-Bishi,48.0,False,False
 ,Arabia Saudita,Estados Unidos,Arabia Saudita,Yousuf Al-Thunayan,74.0,False,False
 ,Arabia Saudita,Estados Unidos,Arabia Saudita,Khaled Massad,84.0,False,False
-,Argentina,Ivory Coast,Argentina,Gabriel Batistuta,2.0,False,False
-,Argentina,Ivory Coast,Argentina,Gabriel Batistuta,10.0,False,False
-,Argentina,Ivory Coast,Argentina,Ricardo Altamirano,67.0,False,False
-,Argentina,Ivory Coast,Argentina,Alberto Acosta,81.0,False,False
+,Argentina,Costa de Marfil,Argentina,Gabriel Batistuta,2.0,False,False
+,Argentina,Costa de Marfil,Argentina,Gabriel Batistuta,10.0,False,False
+,Argentina,Costa de Marfil,Argentina,Ricardo Altamirano,67.0,False,False
+,Argentina,Costa de Marfil,Argentina,Alberto Acosta,81.0,False,False
 ,Jamaica,Canadá,Canadá,Dale Mitchell,85.0,False,False
-,Estados Unidos,Ivory Coast,Estados Unidos,Marcelo Balboa,12.0,False,False
-,Estados Unidos,Ivory Coast,Ivory Coast,Abdoulaye Traoré,16.0,False,False
-,Estados Unidos,Ivory Coast,Estados Unidos,Cobi Jones,31.0,False,False
-,Estados Unidos,Ivory Coast,Estados Unidos,Eric Wynalda,56.0,False,False
-,Estados Unidos,Ivory Coast,Estados Unidos,Bruce Murray,67.0,False,False
-,Estados Unidos,Ivory Coast,Ivory Coast,Donald-Olivier Sié,76.0,False,False
-,Estados Unidos,Ivory Coast,Estados Unidos,Bruce Murray,83.0,False,False
+,Estados Unidos,Costa de Marfil,Estados Unidos,Marcelo Balboa,12.0,False,False
+,Estados Unidos,Costa de Marfil,Costa de Marfil,Abdoulaye Traoré,16.0,False,False
+,Estados Unidos,Costa de Marfil,Estados Unidos,Cobi Jones,31.0,False,False
+,Estados Unidos,Costa de Marfil,Estados Unidos,Eric Wynalda,56.0,False,False
+,Estados Unidos,Costa de Marfil,Estados Unidos,Bruce Murray,67.0,False,False
+,Estados Unidos,Costa de Marfil,Costa de Marfil,Donald-Olivier Sié,76.0,False,False
+,Estados Unidos,Costa de Marfil,Estados Unidos,Bruce Murray,83.0,False,False
 ,Arabia Saudita,Argentina,Argentina,Leonardo Rodríguez,18.0,False,False
 ,Arabia Saudita,Argentina,Argentina,Claudio Caniggia,24.0,False,False
 ,Arabia Saudita,Argentina,Argentina,Diego Simeone,64.0,False,False
@@ -7310,7 +7310,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Egipto,Togo,Egipto,Yasser Ezzat,83.0,False,False
 ,Egipto,Togo,Egipto,Ahmed El-Kass,89.0,False,False
 ,Ghana,Burundi,Ghana,Abedi Pele,19.0,False,False
-,Ivory Coast,Niger,Ivory Coast,Abdoulaye Traoré,54.0,False,False
+,Costa de Marfil,Niger,Costa de Marfil,Abdoulaye Traoré,54.0,False,False
 ,Marruecos,Benin,Marruecos,Mohammed Chaouch,2.0,False,False
 ,Marruecos,Benin,Marruecos,Mohammed Chaouch,17.0,False,False
 ,Marruecos,Benin,Marruecos,Tahar El Khalej,42.0,False,False
@@ -7393,8 +7393,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Japón,Sri Lanka,Japón,Kazuyoshi Miura,34.0,False,False
 ,Japón,Sri Lanka,Japón,Takuya Takagi,49.0,False,False
 ,Japón,Sri Lanka,Japón,Kazuyoshi Miura,51.0,False,False
-,Argelia,Ivory Coast,Ivory Coast,Oumar Ben Salah,4.0,False,False
-,Argelia,Ivory Coast,Argelia,Abdelhafid Tasfaout,28.0,False,False
+,Argelia,Costa de Marfil,Costa de Marfil,Oumar Ben Salah,4.0,False,False
+,Argelia,Costa de Marfil,Argelia,Abdelhafid Tasfaout,28.0,False,False
 ,Qatar,Singapore,Qatar,Mubarak Mustafa,70.0,False,False
 ,Qatar,Singapore,Qatar,Mahmoud Soufi,84.0,False,False
 ,Qatar,Singapore,Qatar,Khalil Al-Malki,89.0,False,False
@@ -7460,8 +7460,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-02-05,Honduras,México,México,Luis Flores,44.0,False,False
 1993-02-05,Honduras,México,México,Luis García Postigo,49.0,False,False
 1993-02-05,Honduras,México,México,Richardson Smith,89.0,False,False
-1993-02-05,Ivory Coast,Nigeria,Ivory Coast,Abdoulaye Traoré,70.0,False,False
-1993-02-05,Ivory Coast,Nigeria,Ivory Coast,Ahmed Ouattara,75.0,False,False
+1993-02-05,Costa de Marfil,Nigeria,Costa de Marfil,Abdoulaye Traoré,70.0,False,False
+1993-02-05,Costa de Marfil,Nigeria,Costa de Marfil,Ahmed Ouattara,75.0,False,False
 1993-02-05,North Korea,Qatar,Qatar,Khalil Al-Malki,1.0,False,False
 1993-02-05,North Korea,Qatar,Qatar,Khalil Al-Malki,86.0,False,False
 1993-03-05,Malaysia,Arabia Saudita,Arabia Saudita,Khaled Massad,88.0,False,False
@@ -7671,7 +7671,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Senegal,Marruecos,Senegal,Souleyman Sané,65.0,False,False
 ,Senegal,Marruecos,Marruecos,Youssef Fertout,75.0,False,False
 ,Estados Unidos,Honduras,Estados Unidos,Alexi Lalas,29.0,False,False
-,Ivory Coast,Argelia,Ivory Coast,Joël Tiéhi,86.0,False,False
+,Costa de Marfil,Argelia,Costa de Marfil,Joël Tiéhi,86.0,False,False
 ,México,Canadá,México,Jorge Rodríguez,4.0,False,False
 ,México,Canadá,México,Octavio Mora,24.0,False,False
 ,México,Canadá,México,Octavio Mora,30.0,False,False
@@ -7788,7 +7788,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,San Marino,Países Bajos,Países Bajos,John Bosman,66.0,False,False
 ,San Marino,Países Bajos,Países Bajos,John Bosman,76.0,False,False
 ,San Marino,Países Bajos,Países Bajos,Ronald Koeman,79.0,False,False
-,Nigeria,Ivory Coast,Ivory Coast,Joël Tiéhi,50.0,False,False
+,Nigeria,Costa de Marfil,Costa de Marfil,Joël Tiéhi,50.0,False,False
 1993-08-10,Argelia,Nigeria,Argelia,Abdelhafid Tasfaout,66.0,False,False
 1993-10-10,Marruecos,Zambia,Marruecos,Abdeslam Laghrissi,62.0,False,False
 ,Bulgaria,Austria,Austria,Andreas Herzog,51.0,False,False
@@ -7882,10 +7882,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Suiza,Estonia,Suiza,Christophe Ohrel,45.0,False,False
 ,Suiza,Estonia,Suiza,Stéphane Chapuisat,61.0,False,False
 ,Ghana,Guinea,Ghana,Charles Akonnor,87.0,False,False
-,Ivory Coast,Sierra Leone,Ivory Coast,Joël Tiéhi,19.0,False,False
-,Ivory Coast,Sierra Leone,Ivory Coast,Tchiressoua Guel,35.0,False,False
-,Ivory Coast,Sierra Leone,Ivory Coast,Joël Tiéhi,63.0,False,False
-,Ivory Coast,Sierra Leone,Ivory Coast,Joël Tiéhi,70.0,False,False
+,Costa de Marfil,Sierra Leone,Costa de Marfil,Joël Tiéhi,19.0,False,False
+,Costa de Marfil,Sierra Leone,Costa de Marfil,Tchiressoua Guel,35.0,False,False
+,Costa de Marfil,Sierra Leone,Costa de Marfil,Joël Tiéhi,63.0,False,False
+,Costa de Marfil,Sierra Leone,Costa de Marfil,Joël Tiéhi,70.0,False,False
 ,Egipto,Gabon,Egipto,Ayman Mansour,1.0,False,False
 ,Egipto,Gabon,Egipto,Hamza El-Gamal,22.0,False,False
 ,Egipto,Gabon,Egipto,Bashir Abdel Samad,55.0,False,False
@@ -7896,14 +7896,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Túnez,RD Congo,Túnez,Faouzi Rouissi,43.0,False,False
 ,Túnez,RD Congo,RD Congo,Nsumbu Ngoy,55.0,False,False
 ,Ghana,Senegal,Ghana,Prince Opoku Polley,42.0,False,False
-1994-03-04,Ghana,Ivory Coast,Ivory Coast,Joël Tiéhi,30.0,False,False
-1994-03-04,Ghana,Ivory Coast,Ghana,Charles Akonnor,77.0,False,False
-1994-03-04,Ghana,Ivory Coast,Ivory Coast,Abdoulaye Traoré,81.0,False,False
-1994-06-04,Nigeria,Ivory Coast,Ivory Coast,Michel Bassolé,19.0,False,False
-1994-06-04,Nigeria,Ivory Coast,Ivory Coast,Michel Bassolé,31.0,False,False
-1994-10-04,Ivory Coast,Mali,Ivory Coast,Adama Klofie Koné,2.0,False,False
-1994-10-04,Ivory Coast,Mali,Ivory Coast,Ahmed Ouattara,67.0,False,False
-1994-10-04,Ivory Coast,Mali,Ivory Coast,Donald-Olivier Sié,70.0,False,False
+1994-03-04,Ghana,Costa de Marfil,Costa de Marfil,Joël Tiéhi,30.0,False,False
+1994-03-04,Ghana,Costa de Marfil,Ghana,Charles Akonnor,77.0,False,False
+1994-03-04,Ghana,Costa de Marfil,Costa de Marfil,Abdoulaye Traoré,81.0,False,False
+1994-06-04,Nigeria,Costa de Marfil,Costa de Marfil,Michel Bassolé,19.0,False,False
+1994-06-04,Nigeria,Costa de Marfil,Costa de Marfil,Michel Bassolé,31.0,False,False
+1994-10-04,Costa de Marfil,Mali,Costa de Marfil,Adama Klofie Koné,2.0,False,False
+1994-10-04,Costa de Marfil,Mali,Costa de Marfil,Ahmed Ouattara,67.0,False,False
+1994-10-04,Costa de Marfil,Mali,Costa de Marfil,Donald-Olivier Sié,70.0,False,False
 ,Alemania,Bolivia,Alemania,Jürgen Klinsmann,61.0,False,False
 ,España,Corea del Sur,España,Julio Salinas,51.0,False,False
 ,España,Corea del Sur,España,Jon Andoni Goikoetxea,55.0,False,False
@@ -8383,8 +8383,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Honduras,Brasil,Brasil,Paulo Roberto Jamelli Júnior,61.0,False,False
 ,Honduras,Brasil,Brasil,Sávio Bortolini Pimentel,80.0,False,False
 ,Honduras,Brasil,Brasil,Caio Ribeiro Decoussau,81.0,False,False
-,Ivory Coast,Ghana,Ghana,Tony Yeboah,20.0,False,False
-,Ivory Coast,Ghana,Ghana,Abedi Pele,70.0,False,False
+,Costa de Marfil,Ghana,Ghana,Tony Yeboah,20.0,False,False
+,Costa de Marfil,Ghana,Ghana,Abedi Pele,70.0,False,False
 ,Egipto,Angola,Egipto,Ahmed El-Kass,30.0,False,False
 ,Egipto,Angola,Egipto,Ahmed El-Kass,33.0,False,False
 ,Túnez,Mozambique,Túnez,Hédi Berkhissa,24.0,False,False
@@ -8401,7 +8401,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,South Africa,Angola,South Africa,Mark Williams,57.0,False,False
 ,México,Brasil,México,Luis García Postigo,54.0,False,False
 ,México,Brasil,México,Cuauhtémoc Blanco,75.0,False,False
-,Mozambique,Ivory Coast,Ivory Coast,Joël Tiéhi,32.0,False,False
+,Mozambique,Costa de Marfil,Costa de Marfil,Joël Tiéhi,32.0,False,False
 ,Estados Unidos,Guatemala,Estados Unidos,Eric Wynalda,34.0,False,False
 ,Estados Unidos,Guatemala,Estados Unidos,Jeff Agoos,37.0,False,False
 ,Estados Unidos,Guatemala,Estados Unidos,Jovan Kirovski,87.0,False,False
@@ -8412,10 +8412,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Liberia,RD Congo,RD Congo,Liombi Essende,72.0,False,False
 ,Mozambique,Ghana,Ghana,Abedi Pele,42.0,False,False
 ,Mozambique,Ghana,Ghana,Felix Aboagye,68.0,False,False
-,Túnez,Ivory Coast,Túnez,Imed Ben Younes,32.0,False,False
-,Túnez,Ivory Coast,Túnez,Imed Ben Younes,38.0,False,False
-,Túnez,Ivory Coast,Túnez,Abdelkader Ben Hassen,48.0,False,False
-,Túnez,Ivory Coast,Ivory Coast,Moussa Traoré,84.0,False,False
+,Túnez,Costa de Marfil,Túnez,Imed Ben Younes,32.0,False,False
+,Túnez,Costa de Marfil,Túnez,Imed Ben Younes,38.0,False,False
+,Túnez,Costa de Marfil,Túnez,Abdelkader Ben Hassen,48.0,False,False
+,Túnez,Costa de Marfil,Costa de Marfil,Moussa Traoré,84.0,False,False
 ,South Africa,Argelia,South Africa,Mark Fish,72.0,False,False
 ,South Africa,Argelia,Argelia,Tarek Lazizi,84.0,False,False
 ,South Africa,Argelia,South Africa,John Moshoeu,85.0,False,False
@@ -8457,8 +8457,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-01-06,Suecia,Belarus,Suecia,Henrik Larsson,87.0,False,False
 1996-02-06,Belize,Panamá,Panamá,Rubén Guevara,57.0,False,False
 1996-02-06,Belize,Panamá,Panamá,Julio Dely Valdés,61.0,False,False
-1996-02-06,RD Congo,Ivory Coast,RD Congo,Olivier Niere,42.0,False,False
-1996-02-06,RD Congo,Ivory Coast,RD Congo,Sousa Miyamou,89.0,False,False
+1996-02-06,RD Congo,Costa de Marfil,RD Congo,Olivier Niere,42.0,False,False
+1996-02-06,RD Congo,Costa de Marfil,RD Congo,Sousa Miyamou,89.0,False,False
 1996-02-06,Ecuador,Argentina,Ecuador,Alberto Montaño,51.0,False,False
 1996-02-06,Ecuador,Argentina,Ecuador,Eduardo Hurtado,89.0,False,False
 1996-02-06,Kenya,Argelia,Argelia,Sid Ahmed Zerrouki,78.0,False,False
@@ -8509,8 +8509,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Croacia,Dinamarca,Croacia,Davor uker,90.0,False,False
 ,RD Congo,Mauritius,RD Congo,Michel Ngonge,45.0,False,False
 ,RD Congo,Mauritius,RD Congo,Mbuleya Tondelva,90.0,False,False
-,Ivory Coast,RD Congo,Ivory Coast,Lassina Dao,29.0,False,False
-,Ivory Coast,RD Congo,RD Congo,Charles Imboula,85.0,False,False
+,Costa de Marfil,RD Congo,Costa de Marfil,Lassina Dao,29.0,False,False
+,Costa de Marfil,RD Congo,RD Congo,Charles Imboula,85.0,False,False
 ,Russia,Alemania,Alemania,Matthias Sammer,56.0,False,False
 ,Russia,Alemania,Alemania,Jürgen Klinsmann,77.0,False,False
 ,Russia,Alemania,Alemania,Jürgen Klinsmann,90.0,False,False
@@ -9504,10 +9504,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1998-08-02,El Salvador,Brasil,Brasil,Romário,19.0,False,False
 1998-08-02,El Salvador,Brasil,Brasil,Giovane Élber,87.0,False,False
 1998-08-02,El Salvador,Brasil,Brasil,Giovane Élber,90.0,False,False
-1998-08-02,Ivory Coast,Namibia,Ivory Coast,Joël Tiéhi,2.0,False,False
-1998-08-02,Ivory Coast,Namibia,Ivory Coast,Ibrahima Bakayoko,34.0,False,False
-1998-08-02,Ivory Coast,Namibia,Ivory Coast,Joël Tiéhi,39.0,False,False
-1998-08-02,Ivory Coast,Namibia,Ivory Coast,Lassina Diabaté,83.0,False,False
+1998-08-02,Costa de Marfil,Namibia,Costa de Marfil,Joël Tiéhi,2.0,False,False
+1998-08-02,Costa de Marfil,Namibia,Costa de Marfil,Ibrahima Bakayoko,34.0,False,False
+1998-08-02,Costa de Marfil,Namibia,Costa de Marfil,Joël Tiéhi,39.0,False,False
+1998-08-02,Costa de Marfil,Namibia,Costa de Marfil,Lassina Diabaté,83.0,False,False
 1998-09-02,RD Congo,Togo,RD Congo,Jerry Tondelua,57.0,False,False
 1998-09-02,RD Congo,Togo,RD Congo,Jerry Tondelua,73.0,False,False
 1998-09-02,Ghana,Túnez,Ghana,Alex Nyarko,8.0,False,False
@@ -9517,8 +9517,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1998-10-02,Egipto,Mozambique,Egipto,Hossam Hassan,44.0,False,False
 1998-10-02,Estados Unidos,Brasil,Estados Unidos,Preki,65.0,False,False
 1998-11-02,Burkina Faso,Argelia,Argelia,Moussa Saïb,82.0,False,False
-1998-11-02,South Africa,Ivory Coast,South Africa,Helman Mkhalele,8.0,False,False
-1998-11-02,South Africa,Ivory Coast,Ivory Coast,Ahmed Ouattara,88.0,False,False
+1998-11-02,South Africa,Costa de Marfil,South Africa,Helman Mkhalele,8.0,False,False
+1998-11-02,South Africa,Costa de Marfil,Costa de Marfil,Ahmed Ouattara,88.0,False,False
 1998-12-02,Ghana,Togo,Ghana,Samuel Johnson,83.0,False,False
 1998-12-02,Jamaica,México,México,Luis Hernández,105.0,False,False
 1998-12-02,Túnez,RD Congo,Túnez,Mehdi Ben Slimane,31.0,False,False
@@ -9535,11 +9535,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Cameroon,Argelia,Argelia,Billel Dziri,40.0,False,False
 ,Estados Unidos,México,México,Luis Hernández,43.0,False,False
 ,Ghana,RD Congo,RD Congo,Bijou Kisombe Mundaba,77.0,False,False
-,Ivory Coast,Angola,Ivory Coast,Tchiressoua Guel,8.0,False,False
-,Ivory Coast,Angola,Ivory Coast,Tchiressoua Guel,23.0,False,False
-,Ivory Coast,Angola,Ivory Coast,Joël Tiéhi,43.0,False,False
-,Ivory Coast,Angola,Ivory Coast,Ibrahima Bakayoko,56.0,False,False
-,Ivory Coast,Angola,Ivory Coast,Joël Tiéhi,81.0,False,False
+,Costa de Marfil,Angola,Costa de Marfil,Tchiressoua Guel,8.0,False,False
+,Costa de Marfil,Angola,Costa de Marfil,Tchiressoua Guel,23.0,False,False
+,Costa de Marfil,Angola,Costa de Marfil,Joël Tiéhi,43.0,False,False
+,Costa de Marfil,Angola,Costa de Marfil,Ibrahima Bakayoko,56.0,False,False
+,Costa de Marfil,Angola,Costa de Marfil,Joël Tiéhi,81.0,False,False
 ,South Africa,Namibia,South Africa,Benni McCarthy,8.0,False,False
 ,South Africa,Namibia,South Africa,Benni McCarthy,11.0,False,False
 ,South Africa,Namibia,South Africa,Benni McCarthy,19.0,False,False
@@ -10115,7 +10115,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,South Africa,Gabon,South Africa,Dumisa Ngobe,43.0,False,False
 ,South Africa,Gabon,South Africa,Shaun Bartlett,55.0,False,False
 ,South Africa,Gabon,South Africa,Shaun Bartlett,78.0,False,False
-,Ivory Coast,Togo,Ivory Coast,Tchiressoua Guel,38.0,False,False
+,Costa de Marfil,Togo,Costa de Marfil,Tchiressoua Guel,38.0,False,False
 ,Burkina Faso,Senegal,Senegal,Henri Camara,4.0,False,False
 ,Burkina Faso,Senegal,Senegal,Pape Sarr,45.0,False,False
 ,Burkina Faso,Senegal,Senegal,Salif Keita,86.0,False,False
@@ -10127,8 +10127,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Argelia,Gabon,Argelia,Farid Ghazi,12.0,False,False
 ,Argelia,Gabon,Argelia,Abdelhafid Tasfaout,41.0,False,False
 ,Argelia,Gabon,Argelia,Billel Dziri,89.0,False,False
-,Ghana,Ivory Coast,Ivory Coast,Bonaventure Kalou,45.0,False,False
-,Ghana,Ivory Coast,Ivory Coast,Donald-Olivier Sié,84.0,False,False
+,Ghana,Costa de Marfil,Costa de Marfil,Bonaventure Kalou,45.0,False,False
+,Ghana,Costa de Marfil,Costa de Marfil,Donald-Olivier Sié,84.0,False,False
 2000-01-02,Egipto,Burkina Faso,Egipto,Ahmed Salah Hosny,30.0,False,False
 2000-01-02,Egipto,Burkina Faso,Egipto,Hossam Hassan,75.0,False,False
 2000-01-02,Egipto,Burkina Faso,Egipto,Hany Ramzy,85.0,False,False
@@ -10213,8 +10213,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-09-04,Gambia,Marruecos,Marruecos,Bouchaib El Moubarki,63.0,False,False
 2000-09-04,Lesotho,South Africa,South Africa,Shaun Bartlett,40.0,False,False
 2000-09-04,Lesotho,South Africa,South Africa,Jabu Pule,71.0,False,False
-2000-09-04,Rwanda,Ivory Coast,Ivory Coast,Ghislain Akassou,45.0,False,False
-2000-09-04,Rwanda,Ivory Coast,Ivory Coast,Fadel Keïta,82.0,False,False
+2000-09-04,Rwanda,Costa de Marfil,Costa de Marfil,Ghislain Akassou,45.0,False,False
+2000-09-04,Rwanda,Costa de Marfil,Costa de Marfil,Fadel Keïta,82.0,False,False
 ,Bahamas,Haití,Haití,Vladimir Edouard,15.0,False,False
 ,Bahamas,Haití,Haití,Vladimir Edouard,50.0,False,False
 ,Bahamas,Haití,Haití,Golman Pierre,68.0,False,False
@@ -10245,8 +10245,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ghana,Tanzania,Ghana,Samuel Kuffour,19.0,False,False
 ,Ghana,Tanzania,Ghana,Augustine Ahinful,28.0,False,False
 ,Ghana,Tanzania,Ghana,Daniel Addo,64.0,False,False
-,Ivory Coast,Rwanda,Ivory Coast,Ibrahima Bakayoko,35.0,False,False
-,Ivory Coast,Rwanda,Ivory Coast,Ibrahima Bakayoko,66.0,False,False
+,Costa de Marfil,Rwanda,Costa de Marfil,Ibrahima Bakayoko,35.0,False,False
+,Costa de Marfil,Rwanda,Costa de Marfil,Ibrahima Bakayoko,66.0,False,False
 ,Senegal,Benin,Senegal,Cheikh Ba,63.0,False,False
 ,Bolivia,Colombia,Colombia,Jairo Castillo,32.0,False,False
 ,Brasil,Ecuador,Ecuador,Álex Aguinaga,12.0,False,False
@@ -10304,10 +10304,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Inglaterra,Alemania,Inglaterra,Alan Shearer,53.0,False,False
 ,Haití,Honduras,Haití,Golman Pierre,51.0,False,False
 ,Romania,Portugal,Portugal,Costinha,90.0,False,False
-,Ivory Coast,Túnez,Túnez,Imed Mhedhebi,13.0,False,False
-,Ivory Coast,Túnez,Túnez,Kaies Ghodhbane,20.0,False,False
-,Ivory Coast,Túnez,Ivory Coast,Ibrahima Bakayoko,45.0,False,False
-,Ivory Coast,Túnez,Ivory Coast,Bonaventure Kalou,53.0,False,False
+,Costa de Marfil,Túnez,Túnez,Imed Mhedhebi,13.0,False,False
+,Costa de Marfil,Túnez,Túnez,Kaies Ghodhbane,20.0,False,False
+,Costa de Marfil,Túnez,Costa de Marfil,Ibrahima Bakayoko,45.0,False,False
+,Costa de Marfil,Túnez,Costa de Marfil,Bonaventure Kalou,53.0,False,False
 ,Slovenia,España,España,Raúl,4.0,False,False
 ,Slovenia,España,España,Joseba Etxeberria,60.0,False,False
 ,Australia,Cook Islands,Australia,Paul Agostino,18.0,False,False
@@ -10625,9 +10625,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,RD Congo,Túnez,RD Congo,Christ Bongo,42.0,False,False
 ,RD Congo,Túnez,Túnez,Ziad Jaziri,58.0,False,False
 ,Ghana,Liberia,Ghana,Emmanuel Duah,70.0,False,False
-,Madagascar,Ivory Coast,Ivory Coast,Ibrahima Bakayoko,39.0,False,False
-,Madagascar,Ivory Coast,Ivory Coast,Ibrahima Bakayoko,46.0,False,False
-,Madagascar,Ivory Coast,Ivory Coast,Zéphirin Zoko,86.0,False,False
+,Madagascar,Costa de Marfil,Costa de Marfil,Ibrahima Bakayoko,39.0,False,False
+,Madagascar,Costa de Marfil,Costa de Marfil,Ibrahima Bakayoko,46.0,False,False
+,Madagascar,Costa de Marfil,Costa de Marfil,Zéphirin Zoko,86.0,False,False
 2001-08-02,Arabia Saudita,Mongolia,Arabia Saudita,Mohammad Al-Shalhoub,10.0,False,False
 2001-08-02,Arabia Saudita,Mongolia,Arabia Saudita,Obeid Al-Dosari,23.0,False,False
 2001-08-02,Arabia Saudita,Mongolia,Arabia Saudita,Mohammad Al-Shalhoub,25.0,False,False
@@ -10689,9 +10689,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-04-03,Qatar,Malaysia,Qatar,Jassem Al-Tamimi,75.0,False,False
 2001-08-03,Palestine,Qatar,Qatar,Dahi Al Naemi,31.0,False,False
 2001-08-03,Palestine,Qatar,Qatar,Mubarak Mustafa,65.0,False,False
-2001-10-03,RD Congo,Ivory Coast,Ivory Coast,Tchiressoua Guel,17.0,False,False
-2001-10-03,RD Congo,Ivory Coast,Ivory Coast,Ibrahima Bakayoko,45.0,False,False
-2001-10-03,RD Congo,Ivory Coast,RD Congo,Papy Okitankoy Kimoto,90.0,False,False
+2001-10-03,RD Congo,Costa de Marfil,Costa de Marfil,Tchiressoua Guel,17.0,False,False
+2001-10-03,RD Congo,Costa de Marfil,Costa de Marfil,Ibrahima Bakayoko,45.0,False,False
+2001-10-03,RD Congo,Costa de Marfil,RD Congo,Papy Okitankoy Kimoto,90.0,False,False
 2001-10-03,Senegal,Namibia,Senegal,El Hadji Diouf,24.0,False,False
 2001-10-03,Senegal,Namibia,Senegal,El Hadji Diouf,44.0,False,False
 2001-10-03,Senegal,Namibia,Senegal,El Hadji Diouf,52.0,False,False
@@ -10881,8 +10881,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Senegal,Argelia,Senegal,El Hadji Diouf,47.0,False,False
 ,Senegal,Argelia,Senegal,El Hadji Diouf,75.0,False,False
 ,RD Congo,Madagascar,RD Congo,Mawa Inunu,42.0,False,False
-,Ivory Coast,RD Congo,Ivory Coast,Abdul Kader Keïta,39.0,False,False
-,Ivory Coast,RD Congo,Ivory Coast,Ibrahima Bakayoko,85.0,False,False
+,Costa de Marfil,RD Congo,Costa de Marfil,Abdul Kader Keïta,39.0,False,False
+,Costa de Marfil,RD Congo,Costa de Marfil,Ibrahima Bakayoko,85.0,False,False
 ,Iraq,Nepal,Iraq,Haidar Obeid,27.0,False,False
 ,Iraq,Nepal,Iraq,Abdul-Wahab Abu Al-Hail,30.0,False,False
 ,Iraq,Nepal,Iraq,Emad Mohammed,33.0,False,False
@@ -10951,8 +10951,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-06-05,Egipto,Senegal,Egipto,Mido,48.0,False,False
 2001-07-05,Jordania,Uzbekistán,Jordania,Essam Abu Touk,54.0,False,False
 2001-07-05,Jordania,Uzbekistán,Uzbekistán,Vladimir Maminov,77.0,False,False
-,Túnez,Ivory Coast,Ivory Coast,Ibrahima Bakayoko,33.0,False,False
-,Túnez,Ivory Coast,Túnez,Ziad Jaziri,49.0,False,False
+,Túnez,Costa de Marfil,Costa de Marfil,Ibrahima Bakayoko,33.0,False,False
+,Túnez,Costa de Marfil,Túnez,Ziad Jaziri,49.0,False,False
 ,México,Australia,Australia,Shaun Murphy,20.0,False,False
 ,México,Australia,Australia,Josip Skoko,54.0,False,False
 ,Corea del Sur,Francia,Francia,Steve Marlet,9.0,False,False
@@ -11079,12 +11079,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Namibia,Argelia,Argelia,Fares Aouni,37.0,False,False
 ,Namibia,Argelia,Argelia,Fares Aouni,72.0,False,False
 2001-01-07,Burkina Faso,South Africa,South Africa,Sibusiso Zuma,24.0,False,False
-2001-01-07,Ivory Coast,Madagascar,Ivory Coast,Ibrahima Bakayoko,25.0,False,False
-2001-01-07,Ivory Coast,Madagascar,Ivory Coast,Ibrahima Bakayoko,40.0,False,False
-2001-01-07,Ivory Coast,Madagascar,Ivory Coast,Abdul Kader Keïta,48.0,False,False
-2001-01-07,Ivory Coast,Madagascar,Ivory Coast,Gilles Yapi Yapo,71.0,False,False
-2001-01-07,Ivory Coast,Madagascar,Ivory Coast,Fadel Keïta,80.0,False,False
-2001-01-07,Ivory Coast,Madagascar,Ivory Coast,Ibrahima Bakayoko,83.0,False,False
+2001-01-07,Costa de Marfil,Madagascar,Costa de Marfil,Ibrahima Bakayoko,25.0,False,False
+2001-01-07,Costa de Marfil,Madagascar,Costa de Marfil,Ibrahima Bakayoko,40.0,False,False
+2001-01-07,Costa de Marfil,Madagascar,Costa de Marfil,Abdul Kader Keïta,48.0,False,False
+2001-01-07,Costa de Marfil,Madagascar,Costa de Marfil,Gilles Yapi Yapo,71.0,False,False
+2001-01-07,Costa de Marfil,Madagascar,Costa de Marfil,Fadel Keïta,80.0,False,False
+2001-01-07,Costa de Marfil,Madagascar,Costa de Marfil,Ibrahima Bakayoko,83.0,False,False
 2001-01-07,Liberia,Ghana,Ghana,Charles Amoah,32.0,False,False
 2001-01-07,Liberia,Ghana,Ghana,Isaac Boakye,58.0,False,False
 2001-01-07,México,Estados Unidos,México,Jared Borgetti,16.0,False,False
@@ -11117,8 +11117,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,South Africa,Malawi,South Africa,Bradley August,54.0,False,False
 ,Brasil,Perú,Brasil,Guilherme de Cássio Alves,9.0,False,False
 ,Brasil,Perú,Brasil,Denílson de Oliveira Araújo,85.0,False,False
-,RD Congo,Ivory Coast,Ivory Coast,Kandia Traoré,82.0,False,False
-,RD Congo,Ivory Coast,RD Congo,Walter Bakouma,86.0,False,False
+,RD Congo,Costa de Marfil,Costa de Marfil,Kandia Traoré,82.0,False,False
+,RD Congo,Costa de Marfil,RD Congo,Walter Bakouma,86.0,False,False
 ,RD Congo,Túnez,Túnez,Khaled Badra,14.0,False,False
 ,RD Congo,Túnez,Túnez,Zoubeir Baya,50.0,False,False
 ,RD Congo,Túnez,Túnez,Zoubeir Baya,54.0,False,False
@@ -11154,9 +11154,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Colombia,Honduras,Colombia,Gerardo Bedoya,6.0,False,False
 ,Colombia,Honduras,Colombia,Víctor Aristizábal,63.0,False,False
 ,Colombia,México,Colombia,Iván Córdoba,65.0,False,False
-,Ivory Coast,RD Congo,RD Congo,Bolombo Tokala,34.0,False,False
-,Ivory Coast,RD Congo,Ivory Coast,Abdul Kader Keïta,72.0,False,False
-,Ivory Coast,RD Congo,RD Congo,Kanku Mulekelayi,79.0,False,False
+,Costa de Marfil,RD Congo,RD Congo,Bolombo Tokala,34.0,False,False
+,Costa de Marfil,RD Congo,Costa de Marfil,Abdul Kader Keïta,72.0,False,False
+,Costa de Marfil,RD Congo,RD Congo,Kanku Mulekelayi,79.0,False,False
 ,Uruguay,Honduras,Uruguay,Joe Emerson Bizera,22.0,False,False
 ,Uruguay,Honduras,Uruguay,Andrés Martínez,45.0,False,False
 ,Brasil,Paraguay,Brasil,Marcelinho Paraíba,4.0,False,False
@@ -11414,10 +11414,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Estados Unidos,El Salvador,Estados Unidos,Brian McBride,11.0,False,False
 ,Estados Unidos,El Salvador,Estados Unidos,Brian McBride,21.0,False,False
 ,Estados Unidos,El Salvador,Estados Unidos,Ante Razov,72.0,False,False
-,RD Congo,Ivory Coast,RD Congo,Yves Yuvuladio,28.0,False,False
-,RD Congo,Ivory Coast,RD Congo,Shabani Nonda,66.0,False,False
-,RD Congo,Ivory Coast,RD Congo,Papi Kimoto,81.0,False,False
-,RD Congo,Ivory Coast,Ivory Coast,Kandia Traoré,86.0,False,False
+,RD Congo,Costa de Marfil,RD Congo,Yves Yuvuladio,28.0,False,False
+,RD Congo,Costa de Marfil,RD Congo,Shabani Nonda,66.0,False,False
+,RD Congo,Costa de Marfil,RD Congo,Papi Kimoto,81.0,False,False
+,RD Congo,Costa de Marfil,Costa de Marfil,Kandia Traoré,86.0,False,False
 ,Burkina Faso,Ghana,Ghana,Isaac Boakye,90.0,False,False
 ,Burkina Faso,Ghana,Ghana,Isaac Boakye,90.0,False,False
 ,Costa Rica,Corea del Sur,Corea del Sur,Choi Jin-cheul,81.0,False,False
@@ -12130,8 +12130,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-06-06,Colombia,Uruguay,Colombia,Sergio Herrera,86.0,False,False
 2004-06-06,Fiji,Nueva Zelanda,Nueva Zelanda,Che Bunce,8.0,False,False
 2004-06-06,Fiji,Nueva Zelanda,Nueva Zelanda,Vaughan Coveny,56.0,False,False
-2004-06-06,Ivory Coast,Libya,Ivory Coast,Aruna Dindane,35.0,False,False
-2004-06-06,Ivory Coast,Libya,Ivory Coast,Didier Drogba,63.0,False,False
+2004-06-06,Costa de Marfil,Libya,Costa de Marfil,Aruna Dindane,35.0,False,False
+2004-06-06,Costa de Marfil,Libya,Costa de Marfil,Didier Drogba,63.0,False,False
 2004-06-06,Sudan,Egipto,Egipto,Abdel Halim Ali,6.0,False,False
 2004-06-06,Sudan,Egipto,Egipto,Mohamed Aboutrika,53.0,False,False
 2004-06-06,Sudan,Egipto,Egipto,Mohamed Abdelwahab,88.0,False,False
@@ -12226,9 +12226,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,RD Congo,Burkina Faso,RD Congo,Marcel Kimemba Mbayo,12.0,False,False
 ,RD Congo,Burkina Faso,RD Congo,Mbala Mbuta Biscotte,75.0,False,False
 ,RD Congo,Burkina Faso,RD Congo,Dikilu Bageta,88.0,False,False
-,Egipto,Ivory Coast,Ivory Coast,Aruna Dindane,22.0,False,False
-,Egipto,Ivory Coast,Egipto,Mohamed Aboutrika,55.0,False,False
-,Egipto,Ivory Coast,Ivory Coast,Didier Drogba,75.0,False,False
+,Egipto,Costa de Marfil,Costa de Marfil,Aruna Dindane,22.0,False,False
+,Egipto,Costa de Marfil,Egipto,Mohamed Aboutrika,55.0,False,False
+,Egipto,Costa de Marfil,Costa de Marfil,Didier Drogba,75.0,False,False
 ,Ghana,South Africa,Ghana,Sulley Muntari,13.0,False,False
 ,Ghana,South Africa,Ghana,Stephen Appiah,55.0,False,False
 ,Ghana,South Africa,Ghana,Stephen Appiah,78.0,False,False
@@ -12450,11 +12450,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-05-09,Egipto,Cameroon,Egipto,Tarek El-Said,86.0,False,False
 2004-05-09,Ghana,Cape Verde,Ghana,Michael Essien,24.0,False,False
 2004-05-09,Ghana,Cape Verde,Ghana,Nélson Veiga,62.0,False,False
-2004-05-09,Ivory Coast,Sudan,Ivory Coast,Didier Drogba,12.0,False,False
-2004-05-09,Ivory Coast,Sudan,Ivory Coast,Aruna Dindane,15.0,False,False
-2004-05-09,Ivory Coast,Sudan,Ivory Coast,Gilles Yapi Yapo,25.0,False,False
-2004-05-09,Ivory Coast,Sudan,Ivory Coast,Bakari Koné,56.0,False,False
-2004-05-09,Ivory Coast,Sudan,Ivory Coast,Aruna Dindane,64.0,False,False
+2004-05-09,Costa de Marfil,Sudan,Costa de Marfil,Didier Drogba,12.0,False,False
+2004-05-09,Costa de Marfil,Sudan,Costa de Marfil,Aruna Dindane,15.0,False,False
+2004-05-09,Costa de Marfil,Sudan,Costa de Marfil,Gilles Yapi Yapo,25.0,False,False
+2004-05-09,Costa de Marfil,Sudan,Costa de Marfil,Bakari Koné,56.0,False,False
+2004-05-09,Costa de Marfil,Sudan,Costa de Marfil,Aruna Dindane,64.0,False,False
 2004-05-09,Mali,Senegal,Senegal,Henri Camara,45.0,False,False
 2004-05-09,Mali,Senegal,Senegal,Papa Dia,84.0,False,False
 2004-05-09,Paraguay,Venezuela,Paraguay,Carlos Gamarra,52.0,False,False
@@ -12559,7 +12559,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-09-10,Venezuela,Brasil,Brasil,Ronaldo,48.0,False,False
 2004-09-10,Venezuela,Brasil,Brasil,Ronaldo,50.0,False,False
 2004-09-10,Venezuela,Brasil,Brasil,Adriano Leite Ribeiro,75.0,False,False
-2004-10-10,Benin,Ivory Coast,Ivory Coast,Aruna Dindane,48.0,False,False
+2004-10-10,Benin,Costa de Marfil,Costa de Marfil,Aruna Dindane,48.0,False,False
 2004-10-10,RD Congo,Zambia,RD Congo,Michel Bouanga,75.0,False,False
 2004-10-10,RD Congo,Zambia,RD Congo,Armel Disney,81.0,False,False
 2004-10-10,Ecuador,Chile,Ecuador,Iván Kaviedes,49.0,False,False
@@ -12780,9 +12780,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Egipto,Libya,Egipto,Emad Moteab,56.0,False,False
 ,Egipto,Libya,Egipto,Ahmed Hassan,76.0,False,False
 ,Egipto,Libya,Egipto,Emad Moteab,81.0,False,False
-,Ivory Coast,Benin,Ivory Coast,Bonaventure Kalou,7.0,False,False
-,Ivory Coast,Benin,Ivory Coast,Didier Drogba,19.0,False,False
-,Ivory Coast,Benin,Ivory Coast,Didier Drogba,59.0,False,False
+,Costa de Marfil,Benin,Costa de Marfil,Bonaventure Kalou,7.0,False,False
+,Costa de Marfil,Benin,Costa de Marfil,Didier Drogba,19.0,False,False
+,Costa de Marfil,Benin,Costa de Marfil,Didier Drogba,59.0,False,False
 ,México,Estados Unidos,México,Jared Borgetti,30.0,False,False
 ,México,Estados Unidos,México,Sinha,33.0,False,False
 ,México,Estados Unidos,Estados Unidos,Eddie Lewis,59.0,False,False
@@ -12983,8 +12983,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Argelia,Zimbabwe,Argelia,Antar Yahia,17.0,False,False
 ,Argelia,Zimbabwe,Argelia,Sofiane Daoud,48.0,False,False
 ,Greece,Japón,Japón,Masashi Oguro,76.0,False,False
-,Ivory Coast,Egipto,Ivory Coast,Didier Drogba,41.0,False,False
-,Ivory Coast,Egipto,Ivory Coast,Didier Drogba,49.0,False,False
+,Costa de Marfil,Egipto,Costa de Marfil,Didier Drogba,41.0,False,False
+,Costa de Marfil,Egipto,Costa de Marfil,Didier Drogba,49.0,False,False
 ,Liberia,RD Congo,RD Congo,Rudy Bhebey,3.0,False,False
 ,Liberia,RD Congo,RD Congo,Rudy Bhebey,73.0,False,False
 ,México,Brasil,México,Jared Borgetti,59.0,False,False
@@ -13131,8 +13131,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2005-04-09,Egipto,Benin,Egipto,Amr Zaki,84.0,False,False
 2005-04-09,Ghana,Uganda,Ghana,Michael Essien,10.0,False,False
 2005-04-09,Ghana,Uganda,Ghana,Matthew Amoah,15.0,False,False
-2005-04-09,Ivory Coast,Cameroon,Ivory Coast,Didier Drogba,38.0,False,False
-2005-04-09,Ivory Coast,Cameroon,Ivory Coast,Didier Drogba,47.0,False,False
+2005-04-09,Costa de Marfil,Cameroon,Costa de Marfil,Didier Drogba,38.0,False,False
+2005-04-09,Costa de Marfil,Cameroon,Costa de Marfil,Didier Drogba,47.0,False,False
 2005-04-09,Uruguay,Colombia,Uruguay,Marcelo Zalayeta,42.0,False,False
 2005-04-09,Uruguay,Colombia,Uruguay,Marcelo Zalayeta,51.0,False,False
 2005-04-09,Uruguay,Colombia,Colombia,Elkin Soto,79.0,False,False
@@ -13205,9 +13205,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2005-08-10,South Africa,RD Congo,RD Congo,Trésor Mputu,11.0,False,False
 2005-08-10,South Africa,RD Congo,RD Congo,Shabani Nonda,44.0,False,False
 2005-08-10,South Africa,RD Congo,South Africa,Sibusiso Zuma,52.0,False,False
-2005-08-10,Sudan,Ivory Coast,Ivory Coast,Kanga Akalé,22.0,False,False
-2005-08-10,Sudan,Ivory Coast,Ivory Coast,Aruna Dindane,51.0,False,False
-2005-08-10,Sudan,Ivory Coast,Ivory Coast,Aruna Dindane,73.0,False,False
+2005-08-10,Sudan,Costa de Marfil,Costa de Marfil,Kanga Akalé,22.0,False,False
+2005-08-10,Sudan,Costa de Marfil,Costa de Marfil,Aruna Dindane,51.0,False,False
+2005-08-10,Sudan,Costa de Marfil,Costa de Marfil,Aruna Dindane,73.0,False,False
 2005-08-10,Suiza,Francia,Francia,Djibril Cissé,53.0,False,False
 2005-08-10,Suiza,Francia,Suiza,Ludovic Magnin,80.0,False,False
 2005-08-10,Túnez,Marruecos,Marruecos,Marouane Chamakh,3.0,False,False
@@ -13277,7 +13277,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Egipto,Libya,Egipto,Mido,18.0,False,False
 ,Egipto,Libya,Egipto,Mohamed Aboutrika,22.0,False,False
 ,Egipto,Libya,Egipto,Ahmed Hassan,78.0,False,False
-,Marruecos,Ivory Coast,Ivory Coast,Didier Drogba,39.0,False,False
+,Marruecos,Costa de Marfil,Costa de Marfil,Didier Drogba,39.0,False,False
 ,Togo,RD Congo,RD Congo,Trésor Mputu,45.0,False,False
 ,Togo,RD Congo,RD Congo,Lomana LuaLua,64.0,False,False
 ,Túnez,Zambia,Túnez,Francileudo Santos,35.0,False,False
@@ -13286,15 +13286,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Túnez,Zambia,Túnez,Francileudo Santos,90.0,False,False
 ,Zimbabwe,Senegal,Senegal,Henri Camara,59.0,False,False
 ,Zimbabwe,Senegal,Senegal,Issa Ba,80.0,False,False
-,Libya,Ivory Coast,Ivory Coast,Didier Drogba,10.0,False,False
-,Libya,Ivory Coast,Ivory Coast,Yaya Touré,74.0,False,False
+,Libya,Costa de Marfil,Costa de Marfil,Didier Drogba,10.0,False,False
+,Libya,Costa de Marfil,Costa de Marfil,Yaya Touré,74.0,False,False
 ,Túnez,South Africa,Túnez,Francileudo Santos,32.0,False,False
 ,Túnez,South Africa,Túnez,Selim Benachour,58.0,False,False
 ,Ghana,Senegal,Ghana,Matthew Amoah,13.0,False,False
-,Egipto,Ivory Coast,Egipto,Emad Moteab,8.0,False,False
-,Egipto,Ivory Coast,Ivory Coast,Arouna Koné,43.0,False,False
-,Egipto,Ivory Coast,Egipto,Mohamed Aboutrika,61.0,False,False
-,Egipto,Ivory Coast,Egipto,Emad Moteab,69.0,False,False
+,Egipto,Costa de Marfil,Egipto,Emad Moteab,8.0,False,False
+,Egipto,Costa de Marfil,Costa de Marfil,Arouna Koné,43.0,False,False
+,Egipto,Costa de Marfil,Egipto,Mohamed Aboutrika,61.0,False,False
+,Egipto,Costa de Marfil,Egipto,Emad Moteab,69.0,False,False
 ,Ghana,Zimbabwe,Ghana,Baba Adamu,90.0,False,False
 ,Nigeria,Senegal,Senegal,Souleymane Camara,58.0,False,False
 2006-03-02,Egipto,RD Congo,Egipto,Ahmed Hassan,33.0,False,False
@@ -13305,21 +13305,21 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2006-03-02,Guinea,Senegal,Senegal,Papa Bouba Diop,61.0,False,False
 2006-03-02,Guinea,Senegal,Senegal,Mamadou Niang,83.0,False,False
 2006-03-02,Guinea,Senegal,Senegal,Henri Camara,90.0,False,False
-2006-04-02,Cameroon,Ivory Coast,Ivory Coast,Bakari Koné,92.0,False,False
+2006-04-02,Cameroon,Costa de Marfil,Costa de Marfil,Bakari Koné,92.0,False,False
 2006-04-02,Nigeria,Túnez,Túnez,Karim Haggui,49.0,False,False
 2006-07-02,Egipto,Senegal,Egipto,Ahmed Hassan,37.0,False,False
 2006-07-02,Egipto,Senegal,Senegal,Mamadou Niang,52.0,False,False
 2006-07-02,Egipto,Senegal,Egipto,Amr Zaki,81.0,False,False
-2006-07-02,Nigeria,Ivory Coast,Ivory Coast,Didier Drogba,47.0,False,False
+2006-07-02,Nigeria,Costa de Marfil,Costa de Marfil,Didier Drogba,47.0,False,False
 2006-09-06,Alemania,Costa Rica,Alemania,Philipp Lahm,6.0,False,False
 2006-09-06,Alemania,Costa Rica,Alemania,Miroslav Klose,17.0,False,False
 2006-09-06,Alemania,Costa Rica,Alemania,Miroslav Klose,61.0,False,False
 2006-09-06,Alemania,Costa Rica,Alemania,Torsten Frings,87.0,False,False
 2006-09-06,Polonia,Ecuador,Ecuador,Carlos Tenorio,24.0,False,False
 2006-09-06,Polonia,Ecuador,Ecuador,Agustín Delgado,80.0,False,False
-2006-10-06,Argentina,Ivory Coast,Argentina,Hernán Crespo,24.0,False,False
-2006-10-06,Argentina,Ivory Coast,Argentina,Javier Saviola,38.0,False,False
-2006-10-06,Argentina,Ivory Coast,Ivory Coast,Didier Drogba,82.0,False,False
+2006-10-06,Argentina,Costa de Marfil,Argentina,Hernán Crespo,24.0,False,False
+2006-10-06,Argentina,Costa de Marfil,Argentina,Javier Saviola,38.0,False,False
+2006-10-06,Argentina,Costa de Marfil,Costa de Marfil,Didier Drogba,82.0,False,False
 2006-10-06,Inglaterra,Paraguay,Inglaterra,Carlos Gamarra,3.0,False,False
 2006-11-06,Angola,Portugal,Portugal,Pauleta,4.0,False,False
 2006-11-06,México,Iran,México,Omar Bravo,28.0,False,False
@@ -13358,9 +13358,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Argentina,Serbia,Argentina,Hernán Crespo,78.0,False,False
 ,Argentina,Serbia,Argentina,Carlos Tevez,84.0,False,False
 ,Argentina,Serbia,Argentina,Lionel Messi,88.0,False,False
-,Países Bajos,Ivory Coast,Países Bajos,Robin van Persie,23.0,False,False
-,Países Bajos,Ivory Coast,Países Bajos,Ruud van Nistelrooy,27.0,False,False
-,Países Bajos,Ivory Coast,Ivory Coast,Bakari Koné,38.0,False,False
+,Países Bajos,Costa de Marfil,Países Bajos,Robin van Persie,23.0,False,False
+,Países Bajos,Costa de Marfil,Países Bajos,Ruud van Nistelrooy,27.0,False,False
+,Países Bajos,Costa de Marfil,Costa de Marfil,Bakari Koné,38.0,False,False
 ,Czech Republic,Ghana,Ghana,Asamoah Gyan,2.0,False,False
 ,Czech Republic,Ghana,Ghana,Sulley Muntari,82.0,False,False
 ,Italia,Estados Unidos,Estados Unidos,Cristian Zaccardo,27.0,False,False
@@ -13386,9 +13386,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Suecia,Inglaterra,Inglaterra,Steven Gerrard,85.0,False,False
 ,Suecia,Inglaterra,Suecia,Henrik Larsson,90.0,False,False
 ,Iran,Angola,Iran,Sohrab Bakhtiarizadeh,75.0,False,False
-,Ivory Coast,Serbia,Ivory Coast,Aruna Dindane,37.0,False,False
-,Ivory Coast,Serbia,Ivory Coast,Aruna Dindane,67.0,False,False
-,Ivory Coast,Serbia,Ivory Coast,Bonaventure Kalou,86.0,False,False
+,Costa de Marfil,Serbia,Costa de Marfil,Aruna Dindane,37.0,False,False
+,Costa de Marfil,Serbia,Costa de Marfil,Aruna Dindane,67.0,False,False
+,Costa de Marfil,Serbia,Costa de Marfil,Bonaventure Kalou,86.0,False,False
 ,Portugal,México,Portugal,Maniche,6.0,False,False
 ,Portugal,México,Portugal,Simão Sabrosa,24.0,False,False
 ,Portugal,México,México,Francisco Fonseca,29.0,False,False
@@ -14003,7 +14003,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Namibia,Marruecos,Marruecos,Soufiane Alloudi,28.0,False,False
 ,Namibia,Marruecos,Marruecos,Tarik Sektioui,40.0,False,False
 ,Namibia,Marruecos,Marruecos,Monsef Zerka,74.0,False,False
-,Nigeria,Ivory Coast,Ivory Coast,Salomon Kalou,66.0,False,False
+,Nigeria,Costa de Marfil,Costa de Marfil,Salomon Kalou,66.0,False,False
 ,Egipto,Cameroon,Egipto,Hosny Abd Rabo,14.0,False,False
 ,Egipto,Cameroon,Egipto,Mohamed Zidan,17.0,False,False
 ,Egipto,Cameroon,Egipto,Mohamed Zidan,45.0,False,False
@@ -14016,10 +14016,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ghana,Namibia,Ghana,Junior Agogo,41.0,False,False
 ,Guinea,Marruecos,Marruecos,Hicham Aboucherouane,60.0,False,False
 ,Guinea,Marruecos,Marruecos,Abdeslam Ouaddou,90.0,False,False
-,Ivory Coast,Benin,Ivory Coast,Didier Drogba,40.0,False,False
-,Ivory Coast,Benin,Ivory Coast,Yaya Touré,44.0,False,False
-,Ivory Coast,Benin,Ivory Coast,Abdul Kader Keïta,53.0,False,False
-,Ivory Coast,Benin,Ivory Coast,Aruna Dindane,63.0,False,False
+,Costa de Marfil,Benin,Costa de Marfil,Didier Drogba,40.0,False,False
+,Costa de Marfil,Benin,Costa de Marfil,Yaya Touré,44.0,False,False
+,Costa de Marfil,Benin,Costa de Marfil,Abdul Kader Keïta,53.0,False,False
+,Costa de Marfil,Benin,Costa de Marfil,Aruna Dindane,63.0,False,False
 ,Egipto,Sudan,Egipto,Hosny Abd Rabo,29.0,False,False
 ,Egipto,Sudan,Egipto,Mohamed Aboutrika,78.0,False,False
 ,Egipto,Sudan,Egipto,Mohamed Aboutrika,83.0,False,False
@@ -14030,19 +14030,19 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Túnez,South Africa,South Africa,Katlego Mphela,87.0,False,False
 ,Ghana,Marruecos,Ghana,Michael Essien,26.0,False,False
 ,Ghana,Marruecos,Ghana,Sulley Muntari,45.0,False,False
-,Ivory Coast,Mali,Ivory Coast,Didier Drogba,9.0,False,False
-,Ivory Coast,Mali,Ivory Coast,Marc Zoro,54.0,False,False
-,Ivory Coast,Mali,Ivory Coast,Boubacar Sanogo,86.0,False,False
+,Costa de Marfil,Mali,Costa de Marfil,Didier Drogba,9.0,False,False
+,Costa de Marfil,Mali,Costa de Marfil,Marc Zoro,54.0,False,False
+,Costa de Marfil,Mali,Costa de Marfil,Boubacar Sanogo,86.0,False,False
 ,Egipto,Zambia,Egipto,Amr Zaki,15.0,False,False
 ,Senegal,South Africa,South Africa,Elrio van Heerden,14.0,False,False
 ,Senegal,South Africa,Senegal,Henri Camara,36.0,False,False
 2008-03-02,Ghana,Nigeria,Ghana,Michael Essien,45.0,False,False
 2008-03-02,Ghana,Nigeria,Ghana,Junior Agogo,83.0,False,False
-2008-03-02,Ivory Coast,Guinea,Ivory Coast,Abdul Kader Keïta,25.0,False,False
-2008-03-02,Ivory Coast,Guinea,Ivory Coast,Didier Drogba,70.0,False,False
-2008-03-02,Ivory Coast,Guinea,Ivory Coast,Salomon Kalou,72.0,False,False
-2008-03-02,Ivory Coast,Guinea,Ivory Coast,Salomon Kalou,81.0,False,False
-2008-03-02,Ivory Coast,Guinea,Ivory Coast,Bakari Koné,85.0,False,False
+2008-03-02,Costa de Marfil,Guinea,Costa de Marfil,Abdul Kader Keïta,25.0,False,False
+2008-03-02,Costa de Marfil,Guinea,Costa de Marfil,Didier Drogba,70.0,False,False
+2008-03-02,Costa de Marfil,Guinea,Costa de Marfil,Salomon Kalou,72.0,False,False
+2008-03-02,Costa de Marfil,Guinea,Costa de Marfil,Salomon Kalou,81.0,False,False
+2008-03-02,Costa de Marfil,Guinea,Costa de Marfil,Bakari Koné,85.0,False,False
 2008-04-02,Egipto,Angola,Egipto,Hosny Abd Rabo,23.0,False,False
 2008-04-02,Egipto,Angola,Egipto,Amr Zaki,38.0,False,False
 2008-04-02,Túnez,Cameroon,Túnez,Chaouki Ben Saada,34.0,False,False
@@ -14063,17 +14063,17 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-06-02,Corea del Sur,Turkmenistan,Corea del Sur,Seol Ki-hyeon,57.0,False,False
 2008-06-02,Corea del Sur,Turkmenistan,Corea del Sur,Park Ji-sung,73.0,False,False
 2008-06-02,Corea del Sur,Turkmenistan,Corea del Sur,Seol Ki-hyeon,85.0,False,False
-2008-07-02,Ivory Coast,Egipto,Egipto,Ahmed Fathy,12.0,False,False
-2008-07-02,Ivory Coast,Egipto,Egipto,Amr Zaki,61.0,False,False
-2008-07-02,Ivory Coast,Egipto,Ivory Coast,Abdul Kader Keïta,63.0,False,False
-2008-07-02,Ivory Coast,Egipto,Egipto,Amr Zaki,67.0,False,False
-2008-07-02,Ivory Coast,Egipto,Egipto,Mohamed Aboutrika,90.0,False,False
-2008-09-02,Ghana,Ivory Coast,Ghana,Sulley Muntari,10.0,False,False
-2008-09-02,Ghana,Ivory Coast,Ivory Coast,Boubacar Sanogo,24.0,False,False
-2008-09-02,Ghana,Ivory Coast,Ivory Coast,Boubacar Sanogo,32.0,False,False
-2008-09-02,Ghana,Ivory Coast,Ghana,Quincy Owusu-Abeyie,70.0,False,False
-2008-09-02,Ghana,Ivory Coast,Ghana,Junior Agogo,80.0,False,False
-2008-09-02,Ghana,Ivory Coast,Ghana,Haminu Draman,84.0,False,False
+2008-07-02,Costa de Marfil,Egipto,Egipto,Ahmed Fathy,12.0,False,False
+2008-07-02,Costa de Marfil,Egipto,Egipto,Amr Zaki,61.0,False,False
+2008-07-02,Costa de Marfil,Egipto,Costa de Marfil,Abdul Kader Keïta,63.0,False,False
+2008-07-02,Costa de Marfil,Egipto,Egipto,Amr Zaki,67.0,False,False
+2008-07-02,Costa de Marfil,Egipto,Egipto,Mohamed Aboutrika,90.0,False,False
+2008-09-02,Ghana,Costa de Marfil,Ghana,Sulley Muntari,10.0,False,False
+2008-09-02,Ghana,Costa de Marfil,Costa de Marfil,Boubacar Sanogo,24.0,False,False
+2008-09-02,Ghana,Costa de Marfil,Costa de Marfil,Boubacar Sanogo,32.0,False,False
+2008-09-02,Ghana,Costa de Marfil,Ghana,Quincy Owusu-Abeyie,70.0,False,False
+2008-09-02,Ghana,Costa de Marfil,Ghana,Junior Agogo,80.0,False,False
+2008-09-02,Ghana,Costa de Marfil,Ghana,Haminu Draman,84.0,False,False
 2008-10-02,Cameroon,Egipto,Egipto,Mohamed Aboutrika,76.0,False,False
 ,Curaçao,Nicaragua,Curaçao,Tyrone Loran,42.0,False,False
 ,Curaçao,Nicaragua,Curaçao,Angelo Zimmerman,81.0,False,False
@@ -14098,7 +14098,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-01-06,Ghana,Libya,Ghana,Prince Tagoe,16.0,False,False
 2008-01-06,Ghana,Libya,Ghana,Junior Agogo,55.0,False,False
 2008-01-06,Ghana,Libya,Ghana,Laryea Kingston,67.0,False,False
-2008-01-06,Ivory Coast,Mozambique,Ivory Coast,Sekou Cissé,75.0,False,False
+2008-01-06,Costa de Marfil,Mozambique,Costa de Marfil,Sekou Cissé,75.0,False,False
 2008-01-06,Mali,RD Congo,RD Congo,Lys Mouithys,5.0,False,False
 2008-01-06,Mali,RD Congo,RD Congo,Lys Mouithys,75.0,False,False
 2008-01-06,Túnez,Burkina Faso,Túnez,Tijani Belaid,38.0,False,False
@@ -14183,7 +14183,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Países Bajos,Francia,Francia,Thierry Henry,71.0,False,False
 ,Países Bajos,Francia,Países Bajos,Arjen Robben,72.0,False,False
 ,Países Bajos,Francia,Países Bajos,Wesley Sneijder,90.0,False,False
-,Botswana,Ivory Coast,Ivory Coast,Kanga Akalé,64.0,False,False
+,Botswana,Costa de Marfil,Costa de Marfil,Kanga Akalé,64.0,False,False
 ,Chad,RD Congo,RD Congo,Gervais Batota,30.0,False,False
 ,China,Iraq,Iraq,Emad Mohammed,41.0,False,False
 ,China,Iraq,Iraq,Nashat Akram,67.0,False,False
@@ -14298,10 +14298,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Iran,Kuwait,Iran,Javad Nekounam,17.0,False,False
 ,Iran,Kuwait,Iran,Gholamreza Rezaei,90.0,False,False
 ,Iraq,Qatar,Qatar,Sayed Ali Bechir,77.0,False,False
-,Ivory Coast,Botswana,Ivory Coast,Boubacar Sanogo,16.0,False,False
-,Ivory Coast,Botswana,Ivory Coast,Didier Zokora,21.0,False,False
-,Ivory Coast,Botswana,Ivory Coast,Sekou Cissé,46.0,False,False
-,Ivory Coast,Botswana,Ivory Coast,Sekou Cissé,70.0,False,False
+,Costa de Marfil,Botswana,Costa de Marfil,Boubacar Sanogo,16.0,False,False
+,Costa de Marfil,Botswana,Costa de Marfil,Didier Zokora,21.0,False,False
+,Costa de Marfil,Botswana,Costa de Marfil,Sekou Cissé,46.0,False,False
+,Costa de Marfil,Botswana,Costa de Marfil,Sekou Cissé,70.0,False,False
 ,Japón,Bahrain,Japón,Atsuto Uchida,90.0,False,False
 ,Jordania,Turkmenistan,Jordania,Hassan Abdel-Fattah,66.0,False,False
 ,Jordania,Turkmenistan,Jordania,Hassan Abdel-Fattah,67.0,False,False
@@ -14386,7 +14386,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-07-09,Chile,Brasil,Brasil,Luís Fabiano,83.0,False,False
 2008-07-09,RD Congo,Mali,RD Congo,Wilfried Urbain Elvis Endzanga,87.0,False,False
 2008-07-09,RD Congo,Egipto,Egipto,Mohamed Aboutrika,30.0,False,False
-2008-07-09,Mozambique,Ivory Coast,Ivory Coast,Bakari Koné,48.0,False,False
+2008-07-09,Mozambique,Costa de Marfil,Costa de Marfil,Bakari Koné,48.0,False,False
 2008-09-09,Paraguay,Venezuela,Paraguay,Cristian Riveros,28.0,False,False
 2008-09-09,Paraguay,Venezuela,Paraguay,Nelson Valdez,45.0,False,False
 2008-10-09,Bosnia And Herzegovina,Estonia,Bosnia And Herzegovina,Zvjezdan Misimovi?,24.0,False,False
@@ -14459,9 +14459,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-11-10,Ghana,Lesotho,Ghana,Junior Agogo,24.0,False,False
 2008-11-10,Ghana,Lesotho,Ghana,Matthew Amoah,67.0,False,False
 2008-11-10,Honduras,Canadá,Canadá,Andrew Hainault,54.0,False,False
-2008-11-10,Ivory Coast,Madagascar,Ivory Coast,Boubacar Sanogo,42.0,False,False
-2008-11-10,Ivory Coast,Madagascar,Ivory Coast,Boubacar Sanogo,55.0,False,False
-2008-11-10,Ivory Coast,Madagascar,Ivory Coast,Salomon Kalou,66.0,False,False
+2008-11-10,Costa de Marfil,Madagascar,Costa de Marfil,Boubacar Sanogo,42.0,False,False
+2008-11-10,Costa de Marfil,Madagascar,Costa de Marfil,Boubacar Sanogo,55.0,False,False
+2008-11-10,Costa de Marfil,Madagascar,Costa de Marfil,Salomon Kalou,66.0,False,False
 2008-11-10,Malawi,RD Congo,RD Congo,Lomana LuaLua,12.0,False,False
 2008-11-10,Marruecos,Mauritania,Marruecos,Youssef Safri,35.0,False,False
 2008-11-10,Marruecos,Mauritania,Marruecos,Youssouf Hadji,56.0,False,False
@@ -14601,11 +14601,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ecuador,Brasil,Ecuador,Christian Noboa,89.0,False,False
 ,Egipto,Zambia,Egipto,Amr Zaki,27.0,False,False
 ,Ghana,Benin,Ghana,Prince Tagoe,1.0,False,False
-,Ivory Coast,Malawi,Ivory Coast,Romaric,1.0,False,False
-,Ivory Coast,Malawi,Ivory Coast,Didier Drogba,6.0,False,False
-,Ivory Coast,Malawi,Ivory Coast,Didier Drogba,27.0,False,False
-,Ivory Coast,Malawi,Ivory Coast,Salomon Kalou,59.0,False,False
-,Ivory Coast,Malawi,Ivory Coast,Bakari Koné,70.0,False,False
+,Costa de Marfil,Malawi,Costa de Marfil,Romaric,1.0,False,False
+,Costa de Marfil,Malawi,Costa de Marfil,Didier Drogba,6.0,False,False
+,Costa de Marfil,Malawi,Costa de Marfil,Didier Drogba,27.0,False,False
+,Costa de Marfil,Malawi,Costa de Marfil,Salomon Kalou,59.0,False,False
+,Costa de Marfil,Malawi,Costa de Marfil,Bakari Koné,70.0,False,False
 2009-01-04,Andorra,Croacia,Croacia,Ivan Klasni?,15.0,False,False
 2009-01-04,Andorra,Croacia,Croacia,Eduardo da Silva,35.0,False,False
 2009-01-04,Australia,Uzbekistán,Australia,Joshua Kennedy,66.0,False,False
@@ -14674,8 +14674,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2009-07-06,Argelia,Egipto,Argelia,Abdelkader Ghezzal,64.0,False,False
 2009-07-06,Argelia,Egipto,Argelia,Rafik Djebbour,77.0,False,False
 2009-07-06,Argelia,Egipto,Egipto,Mohamed Aboutrika,86.0,False,False
-2009-07-06,Guinea,Ivory Coast,Ivory Coast,Bakari Koné,44.0,False,False
-2009-07-06,Guinea,Ivory Coast,Ivory Coast,Romaric,72.0,False,False
+2009-07-06,Guinea,Costa de Marfil,Costa de Marfil,Bakari Koné,44.0,False,False
+2009-07-06,Guinea,Costa de Marfil,Costa de Marfil,Romaric,72.0,False,False
 2009-07-06,Mali,Ghana,Ghana,Kwadwo Asamoah,67.0,False,False
 2009-07-06,Mali,Ghana,Ghana,Matthew Amoah,79.0,False,False
 2009-07-06,Perú,Ecuador,Ecuador,Jefferson Montero,38.0,False,False
@@ -14732,9 +14732,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Estados Unidos,Brasil,Brasil,Felipe Melo,7.0,False,False
 ,Estados Unidos,Brasil,Brasil,Robinho,20.0,False,False
 ,Estados Unidos,Brasil,Brasil,Maicon Sisenando,62.0,False,False
-,Burkina Faso,Ivory Coast,Ivory Coast,Yaya Touré,14.0,False,False
-,Burkina Faso,Ivory Coast,Ivory Coast,Mamadou Tall,54.0,False,False
-,Burkina Faso,Ivory Coast,Ivory Coast,Didier Drogba,70.0,False,False
+,Burkina Faso,Costa de Marfil,Costa de Marfil,Yaya Touré,14.0,False,False
+,Burkina Faso,Costa de Marfil,Costa de Marfil,Mamadou Tall,54.0,False,False
+,Burkina Faso,Costa de Marfil,Costa de Marfil,Didier Drogba,70.0,False,False
 ,South Africa,España,España,David Villa,52.0,False,False
 ,South Africa,España,España,Fernando Llorente,72.0,False,False
 ,Sudan,Ghana,Ghana,Matthew Amoah,6.0,False,False
@@ -14838,11 +14838,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2009-05-09,Hungary,Suecia,Suecia,Olof Mellberg,9.0,False,False
 2009-05-09,Hungary,Suecia,Suecia,Zlatan Ibrahimovi?,90.0,False,False
 2009-05-09,Iceland,Noruega,Noruega,John Arne Riise,11.0,False,False
-2009-05-09,Ivory Coast,Burkina Faso,Ivory Coast,Saïdou Panandétiguiri,12.0,False,False
-2009-05-09,Ivory Coast,Burkina Faso,Ivory Coast,Didier Drogba,48.0,False,False
-2009-05-09,Ivory Coast,Burkina Faso,Ivory Coast,Yaya Touré,55.0,False,False
-2009-05-09,Ivory Coast,Burkina Faso,Ivory Coast,Didier Drogba,65.0,False,False
-2009-05-09,Ivory Coast,Burkina Faso,Ivory Coast,Abdul Kader Keïta,68.0,False,False
+2009-05-09,Costa de Marfil,Burkina Faso,Costa de Marfil,Saïdou Panandétiguiri,12.0,False,False
+2009-05-09,Costa de Marfil,Burkina Faso,Costa de Marfil,Didier Drogba,48.0,False,False
+2009-05-09,Costa de Marfil,Burkina Faso,Costa de Marfil,Yaya Touré,55.0,False,False
+2009-05-09,Costa de Marfil,Burkina Faso,Costa de Marfil,Didier Drogba,65.0,False,False
+2009-05-09,Costa de Marfil,Burkina Faso,Costa de Marfil,Abdul Kader Keïta,68.0,False,False
 2009-05-09,Paraguay,Bolivia,Paraguay,Salvador Cabañas,45.0,False,False
 2009-05-09,Rwanda,Egipto,Egipto,Ahmed Hassan,67.0,False,False
 2009-05-09,Scotland,North Macedonia,Scotland,Scott Brown,56.0,False,False
@@ -14945,7 +14945,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2009-10-10,Luxembourg,Suiza,Suiza,Philippe Senderos,6.0,False,False
 2009-10-10,Luxembourg,Suiza,Suiza,Philippe Senderos,8.0,False,False
 2009-10-10,Luxembourg,Suiza,Suiza,Benjamin Huggel,22.0,False,False
-2009-10-10,Malawi,Ivory Coast,Ivory Coast,Didier Drogba,67.0,False,False
+2009-10-10,Malawi,Costa de Marfil,Costa de Marfil,Didier Drogba,67.0,False,False
 2009-10-10,México,El Salvador,México,Marvin González,25.0,False,False
 2009-10-10,México,El Salvador,México,Cuauhtémoc Blanco,71.0,False,False
 2009-10-10,México,El Salvador,México,Francisco Palencia,85.0,False,False
@@ -14999,9 +14999,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Costa Rica,Uruguay,Uruguay,Diego Lugano,21.0,False,False
 ,Egipto,Argelia,Egipto,Amr Zaki,3.0,False,False
 ,Egipto,Argelia,Egipto,Emad Moteab,90.0,False,False
-,Ivory Coast,Guinea,Ivory Coast,Gervinho,16.0,False,False
-,Ivory Coast,Guinea,Ivory Coast,Gervinho,31.0,False,False
-,Ivory Coast,Guinea,Ivory Coast,Siaka Tiéné,67.0,False,False
+,Costa de Marfil,Guinea,Costa de Marfil,Gervinho,16.0,False,False
+,Costa de Marfil,Guinea,Costa de Marfil,Gervinho,31.0,False,False
+,Costa de Marfil,Guinea,Costa de Marfil,Siaka Tiéné,67.0,False,False
 ,Nueva Zelanda,Bahrain,Nueva Zelanda,Rory Fallon,45.0,False,False
 ,Portugal,Bosnia And Herzegovina,Portugal,Bruno Alves,31.0,False,False
 ,Republic Of Ireland,Francia,Francia,Nicolas Anelka,72.0,False,False
@@ -15016,10 +15016,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2010-12-01,Egipto,Nigeria,Egipto,Gedo,87.0,False,False
 ,Zambia,Túnez,Túnez,Zouheir Dhaouadi,40.0,False,False
 ,Mali,Argelia,Argelia,Rafik Halliche,43.0,False,False
-,Ivory Coast,Ghana,Ivory Coast,Gervinho,23.0,False,False
-,Ivory Coast,Ghana,Ivory Coast,Siaka Tiéné,66.0,False,False
-,Ivory Coast,Ghana,Ivory Coast,Didier Drogba,90.0,False,False
-,Ivory Coast,Ghana,Ghana,Asamoah Gyan,90.0,False,False
+,Costa de Marfil,Ghana,Costa de Marfil,Gervinho,23.0,False,False
+,Costa de Marfil,Ghana,Costa de Marfil,Siaka Tiéné,66.0,False,False
+,Costa de Marfil,Ghana,Costa de Marfil,Didier Drogba,90.0,False,False
+,Costa de Marfil,Ghana,Ghana,Asamoah Gyan,90.0,False,False
 ,Egipto,Mozambique,Egipto,Dario Khan,47.0,False,False
 ,Egipto,Mozambique,Egipto,Gedo,81.0,False,False
 ,Burkina Faso,Ghana,Ghana,André Ayew,30.0,False,False
@@ -15028,11 +15028,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Cameroon,Túnez,Túnez,Amine Chermiti,1.0,False,False
 ,Cameroon,Túnez,Túnez,Aurélien Chedjou,63.0,False,False
 ,Angola,Ghana,Ghana,Asamoah Gyan,15.0,False,False
-,Ivory Coast,Argelia,Ivory Coast,Salomon Kalou,4.0,False,False
-,Ivory Coast,Argelia,Argelia,Karim Matmour,39.0,False,False
-,Ivory Coast,Argelia,Ivory Coast,Abdul Kader Keïta,89.0,False,False
-,Ivory Coast,Argelia,Argelia,Madjid Bougherra,90.0,False,False
-,Ivory Coast,Argelia,Argelia,Hameur Bouazza,92.0,False,False
+,Costa de Marfil,Argelia,Costa de Marfil,Salomon Kalou,4.0,False,False
+,Costa de Marfil,Argelia,Argelia,Karim Matmour,39.0,False,False
+,Costa de Marfil,Argelia,Costa de Marfil,Abdul Kader Keïta,89.0,False,False
+,Costa de Marfil,Argelia,Argelia,Madjid Bougherra,90.0,False,False
+,Costa de Marfil,Argelia,Argelia,Hameur Bouazza,92.0,False,False
 ,Egipto,Cameroon,Egipto,Ahmed Hassan,37.0,False,False
 ,Egipto,Cameroon,Egipto,Gedo,92.0,False,False
 ,Egipto,Cameroon,Egipto,Ahmed Hassan,104.0,False,False
@@ -15077,10 +15077,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ghana,Australia,Australia,Brett Holman,11.0,False,False
 ,Ghana,Australia,Ghana,Asamoah Gyan,25.0,False,False
 ,Países Bajos,Japón,Países Bajos,Wesley Sneijder,53.0,False,False
-,Brasil,Ivory Coast,Brasil,Luís Fabiano,25.0,False,False
-,Brasil,Ivory Coast,Brasil,Luís Fabiano,50.0,False,False
-,Brasil,Ivory Coast,Brasil,Elano,62.0,False,False
-,Brasil,Ivory Coast,Ivory Coast,Didier Drogba,79.0,False,False
+,Brasil,Costa de Marfil,Brasil,Luís Fabiano,25.0,False,False
+,Brasil,Costa de Marfil,Brasil,Luís Fabiano,50.0,False,False
+,Brasil,Costa de Marfil,Brasil,Elano,62.0,False,False
+,Brasil,Costa de Marfil,Costa de Marfil,Didier Drogba,79.0,False,False
 ,Italia,Nueva Zelanda,Nueva Zelanda,Shane Smeltz,7.0,False,False
 ,Slovakia,Paraguay,Paraguay,Enrique Vera,27.0,False,False
 ,Slovakia,Paraguay,Paraguay,Cristian Riveros,86.0,False,False
@@ -15113,9 +15113,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Dinamarca,Japón,Japón,Shinji Okazaki,87.0,False,False
 ,Chile,España,España,David Villa,24.0,False,False
 ,Chile,España,España,Andrés Iniesta,37.0,False,False
-,North Korea,Ivory Coast,Ivory Coast,Yaya Touré,14.0,False,False
-,North Korea,Ivory Coast,Ivory Coast,Romaric,20.0,False,False
-,North Korea,Ivory Coast,Ivory Coast,Salomon Kalou,82.0,False,False
+,North Korea,Costa de Marfil,Costa de Marfil,Yaya Touré,14.0,False,False
+,North Korea,Costa de Marfil,Costa de Marfil,Romaric,20.0,False,False
+,North Korea,Costa de Marfil,Costa de Marfil,Salomon Kalou,82.0,False,False
 ,Estados Unidos,Ghana,Ghana,Kevin-Prince Boateng,5.0,False,False
 ,Estados Unidos,Ghana,Estados Unidos,Landon Donovan,62.0,False,False
 ,Estados Unidos,Ghana,Ghana,Asamoah Gyan,93.0,False,False
@@ -15859,14 +15859,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Uzbekistán,Tajikistan,Uzbekistán,Odil Ahmedov,60.0,False,False
 ,Uzbekistán,Tajikistan,Uzbekistán,Alexander Geynrikh,70.0,False,False
 ,Senegal,Zambia,Senegal,Dame N'Doye,73.0,False,False
-,Ivory Coast,Sudan,Ivory Coast,Didier Drogba,39.0,False,False
+,Costa de Marfil,Sudan,Costa de Marfil,Didier Drogba,39.0,False,False
 ,Marruecos,Túnez,Túnez,Khaled Korbi,34.0,False,False
 ,Marruecos,Túnez,Túnez,Youssef Msakni,76.0,False,False
 ,Marruecos,Túnez,Marruecos,Houssine Kharja,86.0,False,False
 ,Ghana,Botswana,Ghana,John Mensah,25.0,False,False
 ,Equatorial Guinea,Senegal,Senegal,Moussa Sow,89.0,False,False
-,Ivory Coast,Burkina Faso,Ivory Coast,Salomon Kalou,16.0,False,False
-,Ivory Coast,Burkina Faso,Ivory Coast,Bakary Koné,82.0,False,False
+,Costa de Marfil,Burkina Faso,Costa de Marfil,Salomon Kalou,16.0,False,False
+,Costa de Marfil,Burkina Faso,Costa de Marfil,Bakary Koné,82.0,False,False
 ,Gabon,Marruecos,Marruecos,Houssine Kharja,24.0,False,False
 ,Gabon,Marruecos,Marruecos,Houssine Kharja,90.0,False,False
 ,Niger,Túnez,Túnez,Youssef Msakni,4.0,False,False
@@ -15874,17 +15874,17 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ghana,Mali,Ghana,Asamoah Gyan,64.0,False,False
 ,Ghana,Mali,Ghana,André Ayew,71.0,False,False
 ,Libya,Senegal,Senegal,Deme N'Diaye,10.0,False,False
-,Ivory Coast,Angola,Ivory Coast,Emmanuel Eboué,33.0,False,False
-,Ivory Coast,Angola,Ivory Coast,Wilfried Bony,64.0,False,False
+,Costa de Marfil,Angola,Costa de Marfil,Emmanuel Eboué,33.0,False,False
+,Costa de Marfil,Angola,Costa de Marfil,Wilfried Bony,64.0,False,False
 ,Niger,Marruecos,Marruecos,Younès Belhanda,78.0,False,False
 2012-01-02,Ghana,Guinea,Ghana,Emmanuel Agyemang-Badu,27.0,False,False
-2012-04-02,Equatorial Guinea,Ivory Coast,Ivory Coast,Didier Drogba,35.0,False,False
-2012-04-02,Equatorial Guinea,Ivory Coast,Ivory Coast,Didier Drogba,69.0,False,False
-2012-04-02,Equatorial Guinea,Ivory Coast,Ivory Coast,Yaya Touré,81.0,False,False
+2012-04-02,Equatorial Guinea,Costa de Marfil,Costa de Marfil,Didier Drogba,35.0,False,False
+2012-04-02,Equatorial Guinea,Costa de Marfil,Costa de Marfil,Didier Drogba,69.0,False,False
+2012-04-02,Equatorial Guinea,Costa de Marfil,Costa de Marfil,Yaya Touré,81.0,False,False
 2012-05-02,Ghana,Túnez,Ghana,John Mensah,9.0,False,False
 2012-05-02,Ghana,Túnez,Túnez,Saber Khelifa,41.0,False,False
 2012-05-02,Ghana,Túnez,Ghana,André Ayew,100.0,False,False
-2012-08-02,Mali,Ivory Coast,Ivory Coast,Gervinho,45.0,False,False
+2012-08-02,Mali,Costa de Marfil,Costa de Marfil,Gervinho,45.0,False,False
 ,Australia,Arabia Saudita,Arabia Saudita,Salem Al-Dawsari,19.0,False,False
 ,Australia,Arabia Saudita,Australia,Alex Brosque,43.0,False,False
 ,Australia,Arabia Saudita,Arabia Saudita,Nasser Al-Shamrani,45.0,False,False
@@ -15925,8 +15925,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2012-02-06,Argentina,Ecuador,Argentina,Ángel Di María,76.0,False,False
 2012-02-06,Fiji,Nueva Zelanda,Nueva Zelanda,Tommy Smith,11.0,False,False
 2012-02-06,Gambia,Marruecos,Marruecos,Houssine Kharja,76.0,False,False
-2012-02-06,Ivory Coast,Tanzania,Ivory Coast,Salomon Kalou,10.0,False,False
-2012-02-06,Ivory Coast,Tanzania,Ivory Coast,Didier Drogba,71.0,False,False
+2012-02-06,Costa de Marfil,Tanzania,Costa de Marfil,Salomon Kalou,10.0,False,False
+2012-02-06,Costa de Marfil,Tanzania,Costa de Marfil,Didier Drogba,71.0,False,False
 2012-02-06,Senegal,Liberia,Senegal,Ibrahima Baldé,33.0,False,False
 2012-02-06,Senegal,Liberia,Senegal,Dame N'Doye,71.0,False,False
 2012-02-06,Senegal,Liberia,Senegal,Sadio Mané,83.0,False,False
@@ -15976,10 +15976,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2012-09-06,Cape Verde,Túnez,Túnez,Issam Jemâa,46.0,False,False
 2012-09-06,RD Congo,Niger,RD Congo,Chris Malonga,89.0,False,False
 2012-09-06,Alemania,Portugal,Alemania,Mario Gómez,72.0,False,False
-2012-09-06,Marruecos,Ivory Coast,Ivory Coast,Salomon Kalou,8.0,False,False
-2012-09-06,Marruecos,Ivory Coast,Marruecos,Houssine Kharja,42.0,False,False
-2012-09-06,Marruecos,Ivory Coast,Ivory Coast,Kolo Touré,60.0,False,False
-2012-09-06,Marruecos,Ivory Coast,Marruecos,Hamza Abourazzouk,89.0,False,False
+2012-09-06,Marruecos,Costa de Marfil,Costa de Marfil,Salomon Kalou,8.0,False,False
+2012-09-06,Marruecos,Costa de Marfil,Marruecos,Houssine Kharja,42.0,False,False
+2012-09-06,Marruecos,Costa de Marfil,Costa de Marfil,Kolo Touré,60.0,False,False
+2012-09-06,Marruecos,Costa de Marfil,Marruecos,Hamza Abourazzouk,89.0,False,False
 2012-09-06,Uganda,Senegal,Senegal,Papiss Cissé,37.0,False,False
 2012-10-06,RD Congo,Togo,RD Congo,Trésor Mputu,23.0,False,False
 2012-10-06,RD Congo,Togo,RD Congo,Dieumerci Mbokani,81.0,False,False
@@ -16265,17 +16265,17 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ghana,RD Congo,Ghana,Kwadwo Asamoah,49.0,False,False
 ,Ghana,RD Congo,RD Congo,Trésor Mputu,53.0,False,False
 ,Ghana,RD Congo,RD Congo,Dieumerci Mbokani,69.0,False,False
-,Ivory Coast,Togo,Ivory Coast,Yaya Touré,8.0,False,False
-,Ivory Coast,Togo,Ivory Coast,Gervinho,88.0,False,False
+,Costa de Marfil,Togo,Costa de Marfil,Yaya Touré,8.0,False,False
+,Costa de Marfil,Togo,Costa de Marfil,Gervinho,88.0,False,False
 ,Túnez,Argelia,Túnez,Youssef Msakni,90.0,False,False
 ,Marruecos,Cape Verde,Cape Verde,Platini,35.0,False,False
 ,Marruecos,Cape Verde,Marruecos,Youssef El-Arabi,78.0,False,False
 ,South Africa,Angola,South Africa,Siyabonga Sangweni,30.0,False,False
 ,South Africa,Angola,South Africa,Lehlohonolo Majoro,62.0,False,False
 ,Ghana,Mali,Ghana,Mubarak Wakaso,38.0,False,False
-,Ivory Coast,Túnez,Ivory Coast,Gervinho,21.0,False,False
-,Ivory Coast,Túnez,Ivory Coast,Yaya Touré,87.0,False,False
-,Ivory Coast,Túnez,Ivory Coast,Didier Ya Konan,90.0,False,False
+,Costa de Marfil,Túnez,Costa de Marfil,Gervinho,21.0,False,False
+,Costa de Marfil,Túnez,Costa de Marfil,Yaya Touré,87.0,False,False
+,Costa de Marfil,Túnez,Costa de Marfil,Didier Ya Konan,90.0,False,False
 ,Cape Verde,Angola,Cape Verde,Fernando Varela,81.0,False,False
 ,Cape Verde,Angola,Cape Verde,Héldon Ramos,90.0,False,False
 ,South Africa,Marruecos,Marruecos,Issam El Adoua,10.0,False,False
@@ -16286,15 +16286,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Niger,Ghana,Ghana,Asamoah Gyan,6.0,False,False
 ,Niger,Ghana,Ghana,Christian Atsu Twasam,23.0,False,False
 ,Niger,Ghana,Ghana,John Boye,49.0,False,False
-,Argelia,Ivory Coast,Argelia,Sofiane Feghouli,64.0,False,False
-,Argelia,Ivory Coast,Argelia,Hillal Soudani,70.0,False,False
-,Argelia,Ivory Coast,Ivory Coast,Didier Drogba,77.0,False,False
-,Argelia,Ivory Coast,Ivory Coast,Wilfried Bony,81.0,False,False
+,Argelia,Costa de Marfil,Argelia,Sofiane Feghouli,64.0,False,False
+,Argelia,Costa de Marfil,Argelia,Hillal Soudani,70.0,False,False
+,Argelia,Costa de Marfil,Costa de Marfil,Didier Drogba,77.0,False,False
+,Argelia,Costa de Marfil,Costa de Marfil,Wilfried Bony,81.0,False,False
 ,Togo,Túnez,Túnez,Khaled Mouelhi,30.0,False,False
 2013-02-02,Ghana,Cape Verde,Ghana,Mubarak Wakaso,54.0,False,False
 2013-02-02,Ghana,Cape Verde,Ghana,Mubarak Wakaso,90.0,False,False
 2013-02-02,South Africa,Mali,South Africa,Tokelo Rantie,31.0,False,False
-2013-03-02,Ivory Coast,Nigeria,Ivory Coast,Cheick Tioté,50.0,False,False
+2013-03-02,Costa de Marfil,Nigeria,Costa de Marfil,Cheick Tioté,50.0,False,False
 2013-06-02,Burkina Faso,Ghana,Ghana,Mubarak Wakaso,13.0,False,False
 2013-06-02,Honduras,Estados Unidos,Estados Unidos,Clint Dempsey,36.0,False,False
 2013-06-02,Panamá,Costa Rica,Panamá,Luis Henríquez,15.0,False,False
@@ -16354,9 +16354,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Uruguay,Paraguay,Uruguay,Luis Suárez,81.0,False,False
 ,Uruguay,Paraguay,Paraguay,Édgar Benítez,85.0,False,False
 ,RD Congo,Gabon,RD Congo,Christopher Samba,61.0,False,False
-,Ivory Coast,Gambia,Ivory Coast,Wilfried Bony,51.0,False,False
-,Ivory Coast,Gambia,Ivory Coast,Yaya Touré,57.0,False,False
-,Ivory Coast,Gambia,Ivory Coast,Salomon Kalou,70.0,False,False
+,Costa de Marfil,Gambia,Costa de Marfil,Wilfried Bony,51.0,False,False
+,Costa de Marfil,Gambia,Costa de Marfil,Yaya Touré,57.0,False,False
+,Costa de Marfil,Gambia,Costa de Marfil,Salomon Kalou,70.0,False,False
 ,Senegal,Angola,Senegal,Moussa Sow,40.0,False,False
 ,South Africa,Central African Republic,South Africa,Thabo Matlaba,33.0,False,False
 ,South Africa,Central African Republic,South Africa,Bernard Parker,71.0,False,False
@@ -16440,9 +16440,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2013-08-06,Central African Republic,South Africa,South Africa,Bernard Parker,26.0,False,False
 2013-08-06,Central African Republic,South Africa,South Africa,Siphiwe Tshabalala,41.0,False,False
 2013-08-06,Central African Republic,South Africa,South Africa,Katlego Mashego,90.0,False,False
-2013-08-06,Gambia,Ivory Coast,Ivory Coast,Lacina Traoré,12.0,False,False
-2013-08-06,Gambia,Ivory Coast,Ivory Coast,Wilfried Bony,61.0,False,False
-2013-08-06,Gambia,Ivory Coast,Ivory Coast,Yaya Touré,89.0,False,False
+2013-08-06,Gambia,Costa de Marfil,Costa de Marfil,Lacina Traoré,12.0,False,False
+2013-08-06,Gambia,Costa de Marfil,Costa de Marfil,Wilfried Bony,61.0,False,False
+2013-08-06,Gambia,Costa de Marfil,Costa de Marfil,Yaya Touré,89.0,False,False
 2013-08-06,Marruecos,Tanzania,Marruecos,Abderrazak Hamdallah,39.0,False,False
 2013-08-06,Marruecos,Tanzania,Marruecos,Youssef El-Arabi,51.0,False,False
 2013-08-06,Sierra Leone,Túnez,Túnez,Oussama Darragi,55.0,False,False
@@ -16492,10 +16492,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,España,Uruguay,España,Pedro,20.0,False,False
 ,España,Uruguay,España,Roberto Soldado,32.0,False,False
 ,España,Uruguay,Uruguay,Luis Suárez,88.0,False,False
-,Tanzania,Ivory Coast,Ivory Coast,Lacina Traoré,13.0,False,False
-,Tanzania,Ivory Coast,Ivory Coast,Yaya Touré,23.0,False,False
-,Tanzania,Ivory Coast,Ivory Coast,Yaya Touré,43.0,False,False
-,Tanzania,Ivory Coast,Ivory Coast,Wilfried Bony,90.0,False,False
+,Tanzania,Costa de Marfil,Costa de Marfil,Lacina Traoré,13.0,False,False
+,Tanzania,Costa de Marfil,Costa de Marfil,Yaya Touré,23.0,False,False
+,Tanzania,Costa de Marfil,Costa de Marfil,Yaya Touré,43.0,False,False
+,Tanzania,Costa de Marfil,Costa de Marfil,Wilfried Bony,90.0,False,False
 ,Australia,Iraq,Australia,Joshua Kennedy,83.0,False,False
 ,Jordania,Oman,Jordania,Ahmad Hayel,58.0,False,False
 ,Corea del Sur,Iran,Iran,Reza Ghoochannejhad,60.0,False,False
@@ -16635,8 +16635,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2013-06-09,Turquía,Andorra,Turquía,Burak Y?lmaz,64.0,False,False
 2013-06-09,Turquía,Andorra,Turquía,Umut Bulut,67.0,False,False
 2013-06-09,Turquía,Andorra,Turquía,Arda Turan,90.0,False,False
-2013-07-09,Ivory Coast,Marruecos,Marruecos,Youssef El-Arabi,52.0,False,False
-2013-07-09,Ivory Coast,Marruecos,Ivory Coast,Didier Drogba,83.0,False,False
+2013-07-09,Costa de Marfil,Marruecos,Marruecos,Youssef El-Arabi,52.0,False,False
+2013-07-09,Costa de Marfil,Marruecos,Costa de Marfil,Didier Drogba,83.0,False,False
 2013-07-09,Niger,RD Congo,RD Congo,Fabrice N'Guessi,66.0,False,False
 2013-07-09,Niger,RD Congo,RD Congo,Ulrich Kapolongo,76.0,False,False
 2013-07-09,Senegal,Uganda,Senegal,Sadio Mané,85.0,False,False
@@ -16737,10 +16737,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2013-11-10,Venezuela,Paraguay,Paraguay,Édgar Benítez,28.0,False,False
 2013-12-10,Burkina Faso,Argelia,Argelia,Sofiane Feghouli,50.0,False,False
 2013-12-10,Burkina Faso,Argelia,Argelia,Carl Medjani,68.0,False,False
-2013-12-10,Ivory Coast,Senegal,Ivory Coast,Didier Drogba,3.0,False,False
-2013-12-10,Ivory Coast,Senegal,Ivory Coast,Ludovic Sané,14.0,False,False
-2013-12-10,Ivory Coast,Senegal,Ivory Coast,Salomon Kalou,49.0,False,False
-2013-12-10,Ivory Coast,Senegal,Senegal,Papiss Cissé,90.0,False,False
+2013-12-10,Costa de Marfil,Senegal,Costa de Marfil,Didier Drogba,3.0,False,False
+2013-12-10,Costa de Marfil,Senegal,Costa de Marfil,Ludovic Sané,14.0,False,False
+2013-12-10,Costa de Marfil,Senegal,Costa de Marfil,Salomon Kalou,49.0,False,False
+2013-12-10,Costa de Marfil,Senegal,Senegal,Papiss Cissé,90.0,False,False
 ,Bélgica,Wales,Bélgica,Kevin De Bruyne,64.0,False,False
 ,Bulgaria,Czech Republic,Czech Republic,Bo?ek Do?kal,51.0,False,False
 ,Chile,Ecuador,Ecuador,Felipe Caicedo,66.0,False,False
@@ -16805,8 +16805,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,México,Nueva Zelanda,México,Rafael Márquez,84.0,False,False
 ,México,Nueva Zelanda,Nueva Zelanda,Chris James,85.0,False,False
 ,Portugal,Suecia,Portugal,Cristiano Ronaldo,82.0,False,False
-,Senegal,Ivory Coast,Senegal,Moussa Sow,72.0,False,False
-,Senegal,Ivory Coast,Ivory Coast,Salomon Kalou,90.0,False,False
+,Senegal,Costa de Marfil,Senegal,Moussa Sow,72.0,False,False
+,Senegal,Costa de Marfil,Costa de Marfil,Salomon Kalou,90.0,False,False
 ,Cameroon,Túnez,Túnez,Ahmed Akaïchi,50.0,False,False
 ,Argelia,Burkina Faso,Argelia,Madjid Bougherra,49.0,False,False
 ,Croacia,Iceland,Croacia,Mario Manduki?,27.0,False,False
@@ -16844,9 +16844,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Colombia,Greece,Colombia,Teófilo Gutiérrez,58.0,False,False
 ,Colombia,Greece,Colombia,James Rodríguez,90.0,False,False
 ,Inglaterra,Italia,Inglaterra,Daniel Sturridge,37.0,False,False
-,Ivory Coast,Japón,Japón,Keisuke Honda,16.0,False,False
-,Ivory Coast,Japón,Ivory Coast,Wilfried Bony,64.0,False,False
-,Ivory Coast,Japón,Ivory Coast,Gervinho,66.0,False,False
+,Costa de Marfil,Japón,Japón,Keisuke Honda,16.0,False,False
+,Costa de Marfil,Japón,Costa de Marfil,Wilfried Bony,64.0,False,False
+,Costa de Marfil,Japón,Costa de Marfil,Gervinho,66.0,False,False
 ,Uruguay,Costa Rica,Uruguay,Edinson Cavani,24.0,False,False
 ,Argentina,Bosnia And Herzegovina,Argentina,Sead Kolainac,3.0,False,False
 ,Argentina,Bosnia And Herzegovina,Argentina,Lionel Messi,65.0,False,False
@@ -16877,9 +16877,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Cameroon,Croacia,Croacia,Ivan Perii?,48.0,False,False
 ,Cameroon,Croacia,Croacia,Mario Manduki?,61.0,False,False
 ,Cameroon,Croacia,Croacia,Mario Manduki?,73.0,False,False
-,Colombia,Ivory Coast,Colombia,James Rodríguez,64.0,False,False
-,Colombia,Ivory Coast,Colombia,Juan Fernando Quintero,70.0,False,False
-,Colombia,Ivory Coast,Ivory Coast,Gervinho,73.0,False,False
+,Colombia,Costa de Marfil,Colombia,James Rodríguez,64.0,False,False
+,Colombia,Costa de Marfil,Colombia,Juan Fernando Quintero,70.0,False,False
+,Colombia,Costa de Marfil,Costa de Marfil,Gervinho,73.0,False,False
 ,Uruguay,Inglaterra,Uruguay,Luis Suárez,39.0,False,False
 ,Uruguay,Inglaterra,Inglaterra,Wayne Rooney,75.0,False,False
 ,Uruguay,Inglaterra,Uruguay,Luis Suárez,85.0,False,False
@@ -16921,7 +16921,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Croacia,México,Croacia,Ivan Perii?,87.0,False,False
 ,Países Bajos,Chile,Países Bajos,Leroy Fer,77.0,False,False
 ,Países Bajos,Chile,Países Bajos,Memphis Depay,90.0,False,False
-,Greece,Ivory Coast,Ivory Coast,Wilfried Bony,74.0,False,False
+,Greece,Costa de Marfil,Costa de Marfil,Wilfried Bony,74.0,False,False
 ,Italia,Uruguay,Uruguay,Diego Godín,81.0,False,False
 ,Japón,Colombia,Colombia,Juan Cuadrado,17.0,False,False
 ,Japón,Colombia,Japón,Shinji Okazaki,45.0,False,False
@@ -17133,7 +17133,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Qatar,Bahrain,Qatar,Hassan Al-Haydos,68.0,False,False
 ,Iraq,Palestine,Iraq,Younis Mahmoud,48.0,False,False
 ,Iraq,Palestine,Iraq,Ahmed Yasin Ghani,88.0,False,False
-,Ivory Coast,Guinea,Ivory Coast,Seydou Doumbia,72.0,False,False
+,Costa de Marfil,Guinea,Costa de Marfil,Seydou Doumbia,72.0,False,False
 ,Japón,Jordania,Japón,Keisuke Honda,24.0,False,False
 ,Japón,Jordania,Japón,Shinji Kagawa,82.0,False,False
 ,Gabon,RD Congo,RD Congo,Prince Oniangué,48.0,False,False
@@ -17153,7 +17153,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Japón,United Arab Emirates,Japón,Gaku Shibasaki,81.0,False,False
 ,South Africa,Senegal,South Africa,Oupa Manyisa,47.0,False,False
 ,South Africa,Senegal,Senegal,Kara Mbodji,60.0,False,False
-,Ivory Coast,Mali,Ivory Coast,Max Gradel,86.0,False,False
+,Costa de Marfil,Mali,Costa de Marfil,Max Gradel,86.0,False,False
 ,RD Congo,Burkina Faso,RD Congo,Thievy Bifouma,51.0,False,False
 ,RD Congo,Burkina Faso,RD Congo,Fabrice Ondama,87.0,False,False
 ,RD Congo,Túnez,Túnez,Ahmed Akaïchi,31.0,False,False
@@ -17167,7 +17167,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,South Africa,Ghana,South Africa,Mandla Masango,17.0,False,False
 ,South Africa,Ghana,Ghana,John Boye,73.0,False,False
 ,South Africa,Ghana,Ghana,André Ayew,83.0,False,False
-,Cameroon,Ivory Coast,Ivory Coast,Max Gradel,35.0,False,False
+,Cameroon,Costa de Marfil,Costa de Marfil,Max Gradel,35.0,False,False
 ,Iraq,United Arab Emirates,Iraq,Waleed Salim Al-Lami,28.0,False,False
 ,Iraq,United Arab Emirates,Iraq,Amjad Kalaf,42.0,False,False
 ,Australia,Corea del Sur,Australia,Massimo Luongo,45.0,False,False
@@ -17183,14 +17183,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-01-02,Ghana,Guinea,Ghana,Christian Atsu,4.0,False,False
 2015-01-02,Ghana,Guinea,Ghana,Kwesi Appiah,44.0,False,False
 2015-01-02,Ghana,Guinea,Ghana,Christian Atsu,61.0,False,False
-2015-01-02,Ivory Coast,Argelia,Ivory Coast,Wilfried Bony,26.0,False,False
-2015-01-02,Ivory Coast,Argelia,Argelia,Hillal Soudani,51.0,False,False
-2015-01-02,Ivory Coast,Argelia,Ivory Coast,Wilfried Bony,68.0,False,False
-2015-01-02,Ivory Coast,Argelia,Ivory Coast,Gervinho,90.0,False,False
-2015-04-02,RD Congo,Ivory Coast,Ivory Coast,Yaya Touré,20.0,False,False
-2015-04-02,RD Congo,Ivory Coast,RD Congo,Dieumerci Mbokani,24.0,False,False
-2015-04-02,RD Congo,Ivory Coast,Ivory Coast,Gervinho,41.0,False,False
-2015-04-02,RD Congo,Ivory Coast,Ivory Coast,Wilfried Kanon,68.0,False,False
+2015-01-02,Costa de Marfil,Argelia,Costa de Marfil,Wilfried Bony,26.0,False,False
+2015-01-02,Costa de Marfil,Argelia,Argelia,Hillal Soudani,51.0,False,False
+2015-01-02,Costa de Marfil,Argelia,Costa de Marfil,Wilfried Bony,68.0,False,False
+2015-01-02,Costa de Marfil,Argelia,Costa de Marfil,Gervinho,90.0,False,False
+2015-04-02,RD Congo,Costa de Marfil,Costa de Marfil,Yaya Touré,20.0,False,False
+2015-04-02,RD Congo,Costa de Marfil,RD Congo,Dieumerci Mbokani,24.0,False,False
+2015-04-02,RD Congo,Costa de Marfil,Costa de Marfil,Gervinho,41.0,False,False
+2015-04-02,RD Congo,Costa de Marfil,Costa de Marfil,Wilfried Kanon,68.0,False,False
 2015-05-02,Equatorial Guinea,Ghana,Ghana,Jordan Ayew,42.0,False,False
 2015-05-02,Equatorial Guinea,Ghana,Ghana,Mubarak Wakaso,45.0,False,False
 2015-05-02,Equatorial Guinea,Ghana,Ghana,André Ayew,75.0,False,False
@@ -17637,7 +17637,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Canadá,Honduras,Canadá,Cyle Larin,38.0,False,False
 ,Jamaica,Panamá,Panamá,Armando Cooper,43.0,False,False
 ,Jamaica,Panamá,Panamá,Wes Morgan,52.0,False,False
-,Liberia,Ivory Coast,Ivory Coast,Gohi Bi Zoro Cyriac,44.0,False,False
+,Liberia,Costa de Marfil,Costa de Marfil,Gohi Bi Zoro Cyriac,44.0,False,False
 ,Madagascar,Senegal,Senegal,Mame Biram Diouf,71.0,False,False
 ,Madagascar,Senegal,Senegal,Sadio Mané,81.0,False,False
 ,Mauritania,Túnez,Túnez,Wahbi Khazri,62.0,False,False
@@ -17700,9 +17700,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Guam,Iran,Iran,Mehdi Taremi,63.0,False,False
 ,Honduras,México,México,Jesús Manuel Corona,67.0,False,False
 ,Honduras,México,México,Jürgen Damm,72.0,False,False
-,Ivory Coast,Liberia,Ivory Coast,Giovanni Sio,16.0,False,False
-,Ivory Coast,Liberia,Ivory Coast,Giovanni Sio,35.0,False,False
-,Ivory Coast,Liberia,Ivory Coast,Jean Seri,64.0,False,False
+,Costa de Marfil,Liberia,Costa de Marfil,Giovanni Sio,16.0,False,False
+,Costa de Marfil,Liberia,Costa de Marfil,Giovanni Sio,35.0,False,False
+,Costa de Marfil,Liberia,Costa de Marfil,Jean Seri,64.0,False,False
 ,Laos,Corea del Sur,Corea del Sur,Ki Sung-yueng,3.0,False,False
 ,Laos,Corea del Sur,Corea del Sur,Ki Sung-yueng,33.0,False,False
 ,Laos,Corea del Sur,Corea del Sur,Son Heung-min,35.0,False,False
@@ -18118,9 +18118,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-08-10,Alemania,Czech Republic,Alemania,Thomas Müller,13.0,False,False
 2016-08-10,Alemania,Czech Republic,Alemania,Toni Kroos,49.0,False,False
 2016-08-10,Alemania,Czech Republic,Alemania,Thomas Müller,65.0,False,False
-2016-08-10,Ivory Coast,Mali,Ivory Coast,Jonathan Kodjia,26.0,False,False
-2016-08-10,Ivory Coast,Mali,Ivory Coast,Salif Coulibaly,31.0,False,False
-2016-08-10,Ivory Coast,Mali,Ivory Coast,Gervinho,34.0,False,False
+2016-08-10,Costa de Marfil,Mali,Costa de Marfil,Jonathan Kodjia,26.0,False,False
+2016-08-10,Costa de Marfil,Mali,Costa de Marfil,Salif Coulibaly,31.0,False,False
+2016-08-10,Costa de Marfil,Mali,Costa de Marfil,Gervinho,34.0,False,False
 2016-08-10,Scotland,Lithuania,Scotland,James McArthur,89.0,False,False
 2016-08-10,Senegal,Cape Verde,Senegal,Keita Baldé,24.0,False,False
 2016-08-10,Senegal,Cape Verde,Senegal,Moussa Sow,80.0,False,False
@@ -18273,10 +18273,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Argelia,Túnez,Argelia,Sofiane Hanni,90.0,False,False
 ,Senegal,Zimbabwe,Senegal,Sadio Mané,9.0,False,False
 ,Senegal,Zimbabwe,Senegal,Henri Saivet,13.0,False,False
-,Ivory Coast,RD Congo,RD Congo,Neeskens Kebano,10.0,False,False
-,Ivory Coast,RD Congo,Ivory Coast,Wilfried Bony,25.0,False,False
-,Ivory Coast,RD Congo,RD Congo,Junior Kabananga,28.0,False,False
-,Ivory Coast,RD Congo,Ivory Coast,Serey Dié,67.0,False,False
+,Costa de Marfil,RD Congo,RD Congo,Neeskens Kebano,10.0,False,False
+,Costa de Marfil,RD Congo,Costa de Marfil,Wilfried Bony,25.0,False,False
+,Costa de Marfil,RD Congo,RD Congo,Junior Kabananga,28.0,False,False
+,Costa de Marfil,RD Congo,Costa de Marfil,Serey Dié,67.0,False,False
 ,Marruecos,Togo,Marruecos,Aziz Bouhaddouz,14.0,False,False
 ,Marruecos,Togo,Marruecos,Romain Saïss,21.0,False,False
 ,Marruecos,Togo,Marruecos,Youssef En-Nesyri,72.0,False,False
@@ -18290,7 +18290,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Zimbabwe,Túnez,Túnez,Youssef Msakni,22.0,False,False
 ,Zimbabwe,Túnez,Túnez,Taha Yassine Khenissi,36.0,False,False
 ,Zimbabwe,Túnez,Túnez,Wahbi Khazri,45.0,False,False
-,Marruecos,Ivory Coast,Marruecos,Rachid Alioui,64.0,False,False
+,Marruecos,Costa de Marfil,Marruecos,Rachid Alioui,64.0,False,False
 ,Togo,RD Congo,RD Congo,Junior Kabananga,29.0,False,False
 ,Togo,RD Congo,RD Congo,Firmin Ndombe Mubele,54.0,False,False
 ,Togo,RD Congo,RD Congo,Paul-José M'Poku,80.0,False,False
@@ -18582,9 +18582,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-01-09,Túnez,RD Congo,RD Congo,Cédric Bakambu,43.0,False,False
 2017-01-09,Túnez,RD Congo,Túnez,Ghailene Chaalali,47.0,False,False
 2017-02-09,Croacia,Kosovo,Croacia,Domagoj Vida,74.0,False,False
-2017-02-09,Gabon,Ivory Coast,Ivory Coast,Max Gradel,53.0,False,False
-2017-02-09,Gabon,Ivory Coast,Ivory Coast,Seydou Doumbia,77.0,False,False
-2017-02-09,Gabon,Ivory Coast,Ivory Coast,Seydou Doumbia,83.0,False,False
+2017-02-09,Gabon,Costa de Marfil,Costa de Marfil,Max Gradel,53.0,False,False
+2017-02-09,Gabon,Costa de Marfil,Costa de Marfil,Seydou Doumbia,77.0,False,False
+2017-02-09,Gabon,Costa de Marfil,Costa de Marfil,Seydou Doumbia,83.0,False,False
 2017-02-09,España,Italia,España,Isco,14.0,False,False
 2017-02-09,España,Italia,España,Isco,40.0,False,False
 2017-02-09,España,Italia,España,Álvaro Morata,77.0,False,False
@@ -18641,7 +18641,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-05-09,Iran,Syria,Iran,Sardar Azmoun,45.0,False,False
 2017-05-09,Iran,Syria,Iran,Sardar Azmoun,64.0,False,False
 2017-05-09,Iraq,United Arab Emirates,Iraq,Aymen Hussein,29.0,False,False
-2017-05-09,Ivory Coast,Gabon,Ivory Coast,Maxwel Cornet,58.0,False,False
+2017-05-09,Costa de Marfil,Gabon,Costa de Marfil,Maxwel Cornet,58.0,False,False
 2017-05-09,Liechtenstein,España,España,Sergio Ramos,3.0,False,False
 2017-05-09,Liechtenstein,España,España,Álvaro Morata,15.0,False,False
 2017-05-09,Liechtenstein,España,España,Isco,16.0,False,False
@@ -18803,8 +18803,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-11-11,RD Congo,Guinea,RD Congo,Ousmane Sidibé,61.0,False,False
 2017-11-11,RD Congo,Guinea,RD Congo,Jonathan Bolingi,90.0,False,False
 2017-11-11,RD Congo,Guinea,RD Congo,Neeskens Kebano,90.0,False,False
-2017-11-11,Ivory Coast,Marruecos,Marruecos,Nabil Dirar,24.0,False,False
-2017-11-11,Ivory Coast,Marruecos,Marruecos,Medhi Benatia,30.0,False,False
+2017-11-11,Costa de Marfil,Marruecos,Marruecos,Nabil Dirar,24.0,False,False
+2017-11-11,Costa de Marfil,Marruecos,Marruecos,Medhi Benatia,30.0,False,False
 2017-12-11,RD Congo,Uganda,RD Congo,Marvin Baudry,10.0,False,False
 2017-12-11,Ghana,Egipto,Egipto,Shikabala,61.0,False,False
 2017-12-11,Ghana,Egipto,Ghana,Edwin Gyasi,63.0,False,False
@@ -19352,7 +19352,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ecuador,Japón,Ecuador,Ángel Mena,35.0,False,False
 ,Haití,Costa Rica,Haití,Duckens Nazon,57.0,False,False
 ,Haití,Costa Rica,Haití,Djimy Alexis,81.0,False,False
-,Ivory Coast,South Africa,Ivory Coast,Jonathan Kodjia,64.0,False,False
+,Costa de Marfil,South Africa,Costa de Marfil,Jonathan Kodjia,64.0,False,False
 ,Túnez,Angola,Túnez,Youssef Msakni,34.0,False,False
 ,Ghana,Benin,Ghana,André Ayew,9.0,False,False
 ,Ghana,Benin,Ghana,Jordan Ayew,42.0,False,False
@@ -19361,7 +19361,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Egipto,RD Congo,Egipto,Mohamed Salah,43.0,False,False
 ,Estados Unidos,Panamá,Estados Unidos,Jozy Altidore,66.0,False,False
 ,Senegal,Argelia,Argelia,Youcef Belaïli,49.0,False,False
-,Marruecos,Ivory Coast,Marruecos,Youssef En-Nesyri,23.0,False,False
+,Marruecos,Costa de Marfil,Marruecos,Youssef En-Nesyri,23.0,False,False
 ,South Africa,Namibia,South Africa,Bongani Zungu,68.0,False,False
 ,Túnez,Mali,Túnez,Wahbi Khazri,70.0,False,False
 ,Venezuela,Argentina,Argentina,Lautaro Martínez,10.0,False,False
@@ -19382,10 +19382,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-01-07,Kenya,Senegal,Senegal,Ismaïla Sarr,63.0,False,False
 2019-01-07,Kenya,Senegal,Senegal,Sadio Mané,71.0,False,False
 2019-01-07,Kenya,Senegal,Senegal,Sadio Mané,78.0,False,False
-2019-01-07,Namibia,Ivory Coast,Ivory Coast,Max Gradel,39.0,False,False
-2019-01-07,Namibia,Ivory Coast,Ivory Coast,Serey Dié,58.0,False,False
-2019-01-07,Namibia,Ivory Coast,Ivory Coast,Wilfried Zaha,84.0,False,False
-2019-01-07,Namibia,Ivory Coast,Ivory Coast,Maxwel Cornet,89.0,False,False
+2019-01-07,Namibia,Costa de Marfil,Costa de Marfil,Max Gradel,39.0,False,False
+2019-01-07,Namibia,Costa de Marfil,Costa de Marfil,Serey Dié,58.0,False,False
+2019-01-07,Namibia,Costa de Marfil,Costa de Marfil,Wilfried Zaha,84.0,False,False
+2019-01-07,Namibia,Costa de Marfil,Costa de Marfil,Maxwel Cornet,89.0,False,False
 2019-01-07,South Africa,Marruecos,Marruecos,Mbark Boussoufa,90.0,False,False
 2019-01-07,Tanzania,Argelia,Argelia,Islam Slimani,35.0,False,False
 2019-01-07,Tanzania,Argelia,Argelia,Adam Ounas,39.0,False,False
@@ -19414,11 +19414,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-07-07,Estados Unidos,México,México,Jonathan dos Santos,73.0,False,False
 2019-08-07,Ghana,Túnez,Túnez,Taha Yassine Khenissi,73.0,False,False
 2019-08-07,Ghana,Túnez,Ghana,Rami Bedoui,90.0,False,False
-2019-08-07,Mali,Ivory Coast,Ivory Coast,Wilfried Zaha,76.0,False,False
+2019-08-07,Mali,Costa de Marfil,Costa de Marfil,Wilfried Zaha,76.0,False,False
 2019-10-07,Nigeria,South Africa,South Africa,Bongani Zungu,71.0,False,False
 2019-10-07,Senegal,Benin,Senegal,Idrissa Gueye,70.0,False,False
-2019-11-07,Ivory Coast,Argelia,Argelia,Sofiane Feghouli,20.0,False,False
-2019-11-07,Ivory Coast,Argelia,Ivory Coast,Jonathan Kodjia,62.0,False,False
+2019-11-07,Costa de Marfil,Argelia,Argelia,Sofiane Feghouli,20.0,False,False
+2019-11-07,Costa de Marfil,Argelia,Costa de Marfil,Jonathan Kodjia,62.0,False,False
 2019-11-07,Madagascar,Túnez,Túnez,Ferjani Sassi,52.0,False,False
 2019-11-07,Madagascar,Túnez,Túnez,Youssef Msakni,60.0,False,False
 2019-11-07,Madagascar,Túnez,Túnez,Naïm Sliti,90.0,False,False
@@ -20586,8 +20586,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-05-09,Uruguay,Bolivia,Uruguay,Agustín Álvarez,47.0,False,False
 2021-05-09,Uruguay,Bolivia,Uruguay,Giorgian de Arrascaeta,67.0,False,False
 2021-06-09,Benin,RD Congo,RD Congo,Dieumerci Mbokani,11.0,False,False
-2021-06-09,Ivory Coast,Cameroon,Ivory Coast,Sébastien Haller,20.0,False,False
-2021-06-09,Ivory Coast,Cameroon,Ivory Coast,Sébastien Haller,29.0,False,False
+2021-06-09,Costa de Marfil,Cameroon,Costa de Marfil,Sébastien Haller,20.0,False,False
+2021-06-09,Costa de Marfil,Cameroon,Costa de Marfil,Sébastien Haller,29.0,False,False
 2021-06-09,South Africa,Ghana,South Africa,Bongokuhle Hlongwane,83.0,False,False
 2021-07-09,Austria,Scotland,Scotland,Lyndon Dykes,30.0,False,False
 2021-07-09,Azerbaijan,Portugal,Portugal,Bernardo Silva,26.0,False,False
@@ -20707,9 +20707,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-08-10,Alemania,Romania,Alemania,Serge Gnabry,52.0,False,False
 2021-08-10,Alemania,Romania,Alemania,Thomas Müller,81.0,False,False
 2021-08-10,Latvia,Países Bajos,Países Bajos,Davy Klaassen,19.0,False,False
-2021-08-10,Malawi,Ivory Coast,Ivory Coast,Max Gradel,36.0,False,False
-2021-08-10,Malawi,Ivory Coast,Ivory Coast,Ibrahim Sangaré,85.0,False,False
-2021-08-10,Malawi,Ivory Coast,Ivory Coast,Jérémie Boga,90.0,False,False
+2021-08-10,Malawi,Costa de Marfil,Costa de Marfil,Max Gradel,36.0,False,False
+2021-08-10,Malawi,Costa de Marfil,Costa de Marfil,Ibrahim Sangaré,85.0,False,False
+2021-08-10,Malawi,Costa de Marfil,Costa de Marfil,Jérémie Boga,90.0,False,False
 2021-08-10,Turquía,Noruega,Turquía,Kerem Aktürko?lu,6.0,False,False
 2021-08-10,Turquía,Noruega,Noruega,Kristian Thorstvedt,41.0,False,False
 2021-09-10,Andorra,Inglaterra,Inglaterra,Ben Chilwell,17.0,False,False
@@ -20760,8 +20760,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-11-10,Belarus,Czech Republic,Czech Republic,Adam Hloek,65.0,False,False
 2021-11-10,Croacia,Slovakia,Croacia,Andrej Kramari?,25.0,False,False
 2021-11-10,Croacia,Slovakia,Croacia,Luka Modri?,71.0,False,False
-2021-11-10,Ivory Coast,Malawi,Ivory Coast,Nicolas Pépé,2.0,False,False
-2021-11-10,Ivory Coast,Malawi,Ivory Coast,Franck Kessié,66.0,False,False
+2021-11-10,Costa de Marfil,Malawi,Costa de Marfil,Nicolas Pépé,2.0,False,False
+2021-11-10,Costa de Marfil,Malawi,Costa de Marfil,Franck Kessié,66.0,False,False
 2021-11-10,Latvia,Turquía,Turquía,Serdar Dursun,76.0,False,False
 2021-11-10,Latvia,Turquía,Turquía,Burak Y?lmaz,90.0,False,False
 2021-11-10,Libya,Egipto,Egipto,Ahmed Abou El Fotouh,39.0,False,False
@@ -20905,9 +20905,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Francia,Kazakhstan,Francia,Adrien Rabiot,75.0,False,False
 ,Francia,Kazakhstan,Francia,Antoine Griezmann,84.0,False,False
 ,Francia,Kazakhstan,Francia,Kylian Mbappé,87.0,False,False
-,Ivory Coast,Mozambique,Ivory Coast,Max Gradel,10.0,False,False
-,Ivory Coast,Mozambique,Ivory Coast,Maxwel Cornet,61.0,False,False
-,Ivory Coast,Mozambique,Ivory Coast,Jean Michaël Seri,90.0,False,False
+,Costa de Marfil,Mozambique,Costa de Marfil,Max Gradel,10.0,False,False
+,Costa de Marfil,Mozambique,Costa de Marfil,Maxwel Cornet,61.0,False,False
+,Costa de Marfil,Mozambique,Costa de Marfil,Jean Michaël Seri,90.0,False,False
 ,Montenegro,Países Bajos,Países Bajos,Memphis Depay,25.0,False,False
 ,Montenegro,Países Bajos,Países Bajos,Memphis Depay,54.0,False,False
 ,Turquía,Gibraltar,Turquía,Kerem Aktürko?lu,11.0,False,False
@@ -20988,13 +20988,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-09-01,Ethiopia,Cape Verde,Cape Verde,Júlio Tavares,45.0,False,False
 2022-10-01,Marruecos,Ghana,Marruecos,Sofiane Boufal,83.0,False,False
 2022-10-01,Senegal,Zimbabwe,Senegal,Sadio Mané,90.0,False,False
-2022-12-01,Equatorial Guinea,Ivory Coast,Ivory Coast,Max Gradel,5.0,False,False
+2022-12-01,Equatorial Guinea,Costa de Marfil,Costa de Marfil,Max Gradel,5.0,False,False
 ,Gabon,Ghana,Ghana,André Ayew,18.0,False,False
 ,Marruecos,Comoros,Marruecos,Selim Amallah,16.0,False,False
 ,Marruecos,Comoros,Marruecos,Zakaria Aboukhlal,88.0,False,False
 ,Guinea-Bissau,Egipto,Egipto,Mohamed Salah,69.0,False,False
-,Ivory Coast,Sierra Leone,Ivory Coast,Sébastien Haller,25.0,False,False
-,Ivory Coast,Sierra Leone,Ivory Coast,Nicolas Pépé,65.0,False,False
+,Costa de Marfil,Sierra Leone,Costa de Marfil,Sébastien Haller,25.0,False,False
+,Costa de Marfil,Sierra Leone,Costa de Marfil,Nicolas Pépé,65.0,False,False
 ,Túnez,Mauritania,Túnez,Hamza Mathlouthi,4.0,False,False
 ,Túnez,Mauritania,Túnez,Wahbi Khazri,9.0,False,False
 ,Túnez,Mauritania,Túnez,Wahbi Khazri,64.0,False,False
@@ -21005,10 +21005,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ghana,Comoros,Ghana,Richmond Boakye,64.0,False,False
 ,Ghana,Comoros,Ghana,Alexander Djiku,77.0,False,False
 ,Egipto,Sudan,Egipto,Mohamed Abdelmonem,35.0,False,False
-,Ivory Coast,Argelia,Ivory Coast,Franck Kessié,22.0,False,False
-,Ivory Coast,Argelia,Ivory Coast,Ibrahim Sangaré,39.0,False,False
-,Ivory Coast,Argelia,Ivory Coast,Nicolas Pépé,54.0,False,False
-,Ivory Coast,Argelia,Argelia,Sofiane Bendebka,73.0,False,False
+,Costa de Marfil,Argelia,Costa de Marfil,Franck Kessié,22.0,False,False
+,Costa de Marfil,Argelia,Costa de Marfil,Ibrahim Sangaré,39.0,False,False
+,Costa de Marfil,Argelia,Costa de Marfil,Nicolas Pépé,54.0,False,False
+,Costa de Marfil,Argelia,Argelia,Sofiane Bendebka,73.0,False,False
 ,Nigeria,Túnez,Túnez,Youssef Msakni,47.0,False,False
 ,Marruecos,Malawi,Marruecos,Youssef En-Nesyri,45.0,False,False
 ,Marruecos,Malawi,Marruecos,Achraf Hakimi,70.0,False,False
@@ -21846,15 +21846,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Inglaterra,Malta,Inglaterra,Enrico Pepe,8.0,False,False
 ,Inglaterra,Malta,Inglaterra,Harry Kane,75.0,False,False
 ,Ghana,Madagascar,Ghana,Iñaki Williams,90.0,False,False
-,Ivory Coast,Seychelles,Ivory Coast,Sébastien Haller,20.0,False,False
-,Ivory Coast,Seychelles,Ivory Coast,Ibrahim Sangaré,24.0,False,False
-,Ivory Coast,Seychelles,Ivory Coast,Simon Adingra,36.0,False,False
-,Ivory Coast,Seychelles,Ivory Coast,Karim Konaté,40.0,False,False
-,Ivory Coast,Seychelles,Ivory Coast,Seko Fofana,60.0,False,False
-,Ivory Coast,Seychelles,Ivory Coast,Hamed Traorè,77.0,False,False
-,Ivory Coast,Seychelles,Ivory Coast,Jean-Philippe Krasso,84.0,False,False
-,Ivory Coast,Seychelles,Ivory Coast,Karim Konaté,90.0,False,False
-,Ivory Coast,Seychelles,Ivory Coast,Hamed Traorè,90.0,False,False
+,Costa de Marfil,Seychelles,Costa de Marfil,Sébastien Haller,20.0,False,False
+,Costa de Marfil,Seychelles,Costa de Marfil,Ibrahim Sangaré,24.0,False,False
+,Costa de Marfil,Seychelles,Costa de Marfil,Simon Adingra,36.0,False,False
+,Costa de Marfil,Seychelles,Costa de Marfil,Karim Konaté,40.0,False,False
+,Costa de Marfil,Seychelles,Costa de Marfil,Seko Fofana,60.0,False,False
+,Costa de Marfil,Seychelles,Costa de Marfil,Hamed Traorè,77.0,False,False
+,Costa de Marfil,Seychelles,Costa de Marfil,Jean-Philippe Krasso,84.0,False,False
+,Costa de Marfil,Seychelles,Costa de Marfil,Karim Konaté,90.0,False,False
+,Costa de Marfil,Seychelles,Costa de Marfil,Hamed Traorè,90.0,False,False
 ,Polonia,Czech Republic,Czech Republic,Tomá Sou?ek,49.0,False,False
 ,Túnez,São Tomé And Príncipe,Túnez,Yassine Meriah,37.0,False,False
 ,Túnez,São Tomé And Príncipe,Túnez,Youssef Msakni,53.0,False,False
@@ -21912,8 +21912,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Czech Republic,Moldova,Czech Republic,David Doud?ra,14.0,False,False
 ,Czech Republic,Moldova,Czech Republic,Tomá Chorý,72.0,False,False
 ,Czech Republic,Moldova,Czech Republic,Tomá Sou?ek,90.0,False,False
-,Gambia,Ivory Coast,Ivory Coast,Christian Kouamé,45.0,False,False
-,Gambia,Ivory Coast,Ivory Coast,Seko Fofana,85.0,False,False
+,Gambia,Costa de Marfil,Costa de Marfil,Christian Kouamé,45.0,False,False
+,Gambia,Costa de Marfil,Costa de Marfil,Seko Fofana,85.0,False,False
 ,North Macedonia,Inglaterra,Inglaterra,Jani Atanasov,59.0,False,False
 ,Brasil,Argentina,Argentina,Nicolás Otamendi,63.0,False,False
 ,China,Corea del Sur,Corea del Sur,Son Heung-min,11.0,False,False
@@ -21960,8 +21960,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-12-01,Qatar,Lebanon,Qatar,Akram Afif,90.0,False,False
 ,Australia,India,Australia,Jackson Irvine,50.0,False,False
 ,Australia,India,Australia,Jordan Bos,73.0,False,False
-,Ivory Coast,Guinea-Bissau,Ivory Coast,Seko Fofana,4.0,False,False
-,Ivory Coast,Guinea-Bissau,Ivory Coast,Jean-Philippe Krasso,58.0,False,False
+,Costa de Marfil,Guinea-Bissau,Costa de Marfil,Seko Fofana,4.0,False,False
+,Costa de Marfil,Guinea-Bissau,Costa de Marfil,Jean-Philippe Krasso,58.0,False,False
 ,Egipto,Mozambique,Egipto,Mostafa Mohamed,2.0,False,False
 ,Egipto,Mozambique,Egipto,Mohamed Salah,90.0,False,False
 ,Ghana,Cape Verde,Cape Verde,Jamiro Monteiro,17.0,False,False
@@ -22064,8 +22064,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Iraq,Jordania,Iraq,Aymen Hussein,76.0,False,False
 ,Iraq,Jordania,Jordania,Yazan Al-Arab,90.0,False,False
 ,Iraq,Jordania,Jordania,Nizar Al-Rashdan,90.0,False,False
-,Ivory Coast,Senegal,Senegal,Habib Diallo,4.0,False,False
-,Ivory Coast,Senegal,Ivory Coast,Franck Kessié,86.0,False,False
+,Costa de Marfil,Senegal,Senegal,Habib Diallo,4.0,False,False
+,Costa de Marfil,Senegal,Costa de Marfil,Franck Kessié,86.0,False,False
 ,Qatar,Palestine,Qatar,Hassan Al-Haydos,45.0,False,False
 ,Qatar,Palestine,Qatar,Akram Afif,49.0,False,False
 ,Marruecos,South Africa,South Africa,Evidence Makgopa,57.0,False,False
@@ -22088,13 +22088,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-03-02,Iran,Japón,Japón,Hidemasa Morita,28.0,False,False
 2024-03-02,Iran,Japón,Iran,Mohammad Mohebi,55.0,False,False
 2024-03-02,Iran,Japón,Iran,Alireza Jahanbakhsh,90.0,False,False
-2024-03-02,Ivory Coast,Mali,Ivory Coast,Simon Adingra,90.0,False,False
-2024-03-02,Ivory Coast,Mali,Ivory Coast,Oumar Diakité,120.0,False,False
+2024-03-02,Costa de Marfil,Mali,Costa de Marfil,Simon Adingra,90.0,False,False
+2024-03-02,Costa de Marfil,Mali,Costa de Marfil,Oumar Diakité,120.0,False,False
 2024-03-02,Qatar,Uzbekistán,Qatar,Hassan Al-Haydos,27.0,False,False
 2024-03-02,Qatar,Uzbekistán,Uzbekistán,Odiljon Hamrobekov,59.0,False,False
 2024-06-02,Jordania,Corea del Sur,Jordania,Yazan Al-Naimat,53.0,False,False
 2024-06-02,Jordania,Corea del Sur,Jordania,Musa Al-Taamari,66.0,False,False
-2024-07-02,Ivory Coast,RD Congo,Ivory Coast,Sébastien Haller,65.0,False,False
+2024-07-02,Costa de Marfil,RD Congo,Costa de Marfil,Sébastien Haller,65.0,False,False
 2024-07-02,Nigeria,South Africa,South Africa,Teboho Mokoena,90.0,False,False
 2024-07-02,Qatar,Iran,Iran,Sardar Azmoun,4.0,False,False
 2024-07-02,Qatar,Iran,Qatar,Jassem Gaber,17.0,False,False
@@ -22105,8 +22105,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-10-02,Qatar,Jordania,Jordania,Yazan Al-Naimat,67.0,False,False
 2024-10-02,Qatar,Jordania,Qatar,Akram Afif,73.0,False,False
 2024-10-02,Qatar,Jordania,Qatar,Akram Afif,90.0,False,False
-2024-11-02,Ivory Coast,Nigeria,Ivory Coast,Franck Kessié,62.0,False,False
-2024-11-02,Ivory Coast,Nigeria,Ivory Coast,Sébastien Haller,81.0,False,False
+2024-11-02,Costa de Marfil,Nigeria,Costa de Marfil,Franck Kessié,62.0,False,False
+2024-11-02,Costa de Marfil,Nigeria,Costa de Marfil,Sébastien Haller,81.0,False,False
 ,Australia,Lebanon,Australia,Keanu Baccus,5.0,False,False
 ,Australia,Lebanon,Australia,Kye Rowles,54.0,False,False
 ,Bosnia And Herzegovina,Ucrania,Bosnia And Herzegovina,Mykola Matviyenko,56.0,False,False
@@ -22201,7 +22201,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-06,Uzbekistán,Turkmenistan,Uzbekistán,Husniddin Aliqulov,17.0,False,False
 2024-06-06,Uzbekistán,Turkmenistan,Uzbekistán,Oston Urunov,29.0,False,False
 2024-06-06,Uzbekistán,Turkmenistan,Uzbekistán,Sherzod Nasrullaev,70.0,False,False
-2024-07-06,Ivory Coast,Gabon,Ivory Coast,Seko Fofana,36.0,False,False
+2024-07-06,Costa de Marfil,Gabon,Costa de Marfil,Seko Fofana,36.0,False,False
 2024-07-06,Marruecos,Zambia,Marruecos,Hakim Ziyech,6.0,False,False
 2024-07-06,Marruecos,Zambia,Marruecos,Eliesse Ben Seghir,67.0,False,False
 2024-07-06,Nigeria,South Africa,South Africa,Themba Zwane,29.0,False,False
@@ -22793,7 +22793,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Botswana,Argelia,Argelia,Amine Gouiri,44.0,False,False
 ,Botswana,Argelia,Argelia,Mohamed El Amine Amoura,52.0,False,False
 ,Botswana,Argelia,Argelia,Mohamed El Amine Amoura,74.0,False,False
-,Burundi,Ivory Coast,Ivory Coast,Evann Guessand,16.0,False,False
+,Burundi,Costa de Marfil,Costa de Marfil,Evann Guessand,16.0,False,False
 ,RD Congo,South Sudan,RD Congo,Théo Bongonda,45.0,False,False
 ,Ecuador,Venezuela,Ecuador,Enner Valencia,39.0,False,False
 ,Ecuador,Venezuela,Ecuador,Enner Valencia,46.0,False,False
@@ -22851,7 +22851,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Inglaterra,Latvia,Inglaterra,Reece James,38.0,False,False
 ,Inglaterra,Latvia,Inglaterra,Harry Kane,68.0,False,False
 ,Inglaterra,Latvia,Inglaterra,Eberechi Eze,76.0,False,False
-,Ivory Coast,Gambia,Ivory Coast,Sébastien Haller,15.0,False,False
+,Costa de Marfil,Gambia,Costa de Marfil,Sébastien Haller,15.0,False,False
 ,Madagascar,Ghana,Ghana,Thomas Partey,11.0,False,False
 ,Madagascar,Ghana,Ghana,Thomas Partey,53.0,False,False
 ,Madagascar,Ghana,Ghana,Mohammed Kudus,58.0,False,False
@@ -23108,7 +23108,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-05-09,Egipto,Ethiopia,Egipto,Mohamed Salah,41.0,False,False
 2025-05-09,Egipto,Ethiopia,Egipto,Omar Marmoush,45.0,False,False
 2025-05-09,Faroe Islands,Croacia,Croacia,Andrej Kramari?,31.0,False,False
-2025-05-09,Ivory Coast,Burundi,Ivory Coast,Vakoun Issouf Bayo,3.0,False,False
+2025-05-09,Costa de Marfil,Burundi,Costa de Marfil,Vakoun Issouf Bayo,3.0,False,False
 2025-05-09,Montenegro,Czech Republic,Czech Republic,Luká ?erv,3.0,False,False
 2025-05-09,Montenegro,Czech Republic,Czech Republic,Václav ?erný,90.0,False,False
 2025-05-09,Marruecos,Niger,Marruecos,Ismael Saibari,29.0,False,False
@@ -23274,13 +23274,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-10-10,Alemania,Luxembourg,Alemania,Joshua Kimmich,21.0,False,False
 2025-10-10,Alemania,Luxembourg,Alemania,Serge Gnabry,48.0,False,False
 2025-10-10,Alemania,Luxembourg,Alemania,Joshua Kimmich,50.0,False,False
-2025-10-10,Seychelles,Ivory Coast,Ivory Coast,Ibrahim Sangaré,7.0,False,False
-2025-10-10,Seychelles,Ivory Coast,Ivory Coast,Emmanuel Agbadou,17.0,False,False
-2025-10-10,Seychelles,Ivory Coast,Ivory Coast,Oumar Diakité,32.0,False,False
-2025-10-10,Seychelles,Ivory Coast,Ivory Coast,Evann Guessand,39.0,False,False
-2025-10-10,Seychelles,Ivory Coast,Ivory Coast,Yan Diomande,55.0,False,False
-2025-10-10,Seychelles,Ivory Coast,Ivory Coast,Simon Adingra,67.0,False,False
-2025-10-10,Seychelles,Ivory Coast,Ivory Coast,Franck Kessié,90.0,False,False
+2025-10-10,Seychelles,Costa de Marfil,Costa de Marfil,Ibrahim Sangaré,7.0,False,False
+2025-10-10,Seychelles,Costa de Marfil,Costa de Marfil,Emmanuel Agbadou,17.0,False,False
+2025-10-10,Seychelles,Costa de Marfil,Costa de Marfil,Oumar Diakité,32.0,False,False
+2025-10-10,Seychelles,Costa de Marfil,Costa de Marfil,Evann Guessand,39.0,False,False
+2025-10-10,Seychelles,Costa de Marfil,Costa de Marfil,Yan Diomande,55.0,False,False
+2025-10-10,Seychelles,Costa de Marfil,Costa de Marfil,Simon Adingra,67.0,False,False
+2025-10-10,Seychelles,Costa de Marfil,Costa de Marfil,Franck Kessié,90.0,False,False
 2025-10-10,South Sudan,Senegal,Senegal,Ismaïla Sarr,29.0,False,False
 2025-10-10,South Sudan,Senegal,Senegal,Sadio Mané,46.0,False,False
 2025-10-10,South Sudan,Senegal,Senegal,Ismaïla Sarr,54.0,False,False
@@ -23339,9 +23339,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Argelia,Uganda,Argelia,Mohamed Amoura,90.0,False,False
 ,Curaçao,Trinidad And Tobago,Curaçao,Kenji Gorré,19.0,False,False
 ,RD Congo,Sudan,RD Congo,Theo Bongonda,29.0,False,False
-,Ivory Coast,Kenya,Ivory Coast,Franck Kessié,7.0,False,False
-,Ivory Coast,Kenya,Ivory Coast,Yan Diomande,54.0,False,False
-,Ivory Coast,Kenya,Ivory Coast,Amad Diallo,84.0,False,False
+,Costa de Marfil,Kenya,Costa de Marfil,Franck Kessié,7.0,False,False
+,Costa de Marfil,Kenya,Costa de Marfil,Yan Diomande,54.0,False,False
+,Costa de Marfil,Kenya,Costa de Marfil,Amad Diallo,84.0,False,False
 ,Latvia,Inglaterra,Inglaterra,Anthony Gordon,26.0,False,False
 ,Latvia,Inglaterra,Inglaterra,Harry Kane,44.0,False,False
 ,Latvia,Inglaterra,Inglaterra,Harry Kane,45.0,False,False
@@ -23496,7 +23496,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Argelia,Sudan,Argelia,Riyad Mahrez,2.0,False,False
 ,Argelia,Sudan,Argelia,Riyad Mahrez,61.0,False,False
 ,Argelia,Sudan,Argelia,Ibrahim Maza,85.0,False,False
-,Ivory Coast,Mozambique,Ivory Coast,Amad Diallo,49.0,False,False
+,Costa de Marfil,Mozambique,Costa de Marfil,Amad Diallo,49.0,False,False
 ,Egipto,South Africa,Egipto,Mohamed Salah,45.0,False,False
 ,Marruecos,Mali,Marruecos,Brahim Díaz,45.0,False,False
 ,Nigeria,Túnez,Túnez,Montassar Talbi,74.0,False,False
@@ -23504,7 +23504,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Senegal,RD Congo,RD Congo,Cédric Bakambu,61.0,False,False
 ,Senegal,RD Congo,Senegal,Sadio Mané,69.0,False,False
 ,Argelia,Burkina Faso,Argelia,Riyad Mahrez,23.0,False,False
-,Ivory Coast,Cameroon,Ivory Coast,Amad Diallo,51.0,False,False
+,Costa de Marfil,Cameroon,Costa de Marfil,Amad Diallo,51.0,False,False
 ,Marruecos,Zambia,Marruecos,Ayoub El Kaabi,9.0,False,False
 ,Marruecos,Zambia,Marruecos,Brahim Díaz,27.0,False,False
 ,Marruecos,Zambia,Marruecos,Ayoub El Kaabi,50.0,False,False
@@ -23521,9 +23521,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Equatorial Guinea,Argelia,Argelia,Zineddine Belaïd,19.0,False,False
 ,Equatorial Guinea,Argelia,Argelia,Farès Chaïbi,25.0,False,False
 ,Equatorial Guinea,Argelia,Argelia,Ibrahim Maza,32.0,False,False
-,Gabon,Ivory Coast,Ivory Coast,Jean-Philippe Krasso,44.0,False,False
-,Gabon,Ivory Coast,Ivory Coast,Evann Guessand,84.0,False,False
-,Gabon,Ivory Coast,Ivory Coast,Bazoumana Touré,90.0,False,False
+,Gabon,Costa de Marfil,Costa de Marfil,Jean-Philippe Krasso,44.0,False,False
+,Gabon,Costa de Marfil,Costa de Marfil,Evann Guessand,84.0,False,False
+,Gabon,Costa de Marfil,Costa de Marfil,Bazoumana Touré,90.0,False,False
 2026-03-01,Mali,Túnez,Túnez,Firas Chaouat,88.0,False,False
 2026-03-01,Senegal,Sudan,Senegal,Pape Gueye,29.0,False,False
 2026-03-01,Senegal,Sudan,Senegal,Pape Gueye,45.0,False,False
@@ -23534,17 +23534,17 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2026-05-01,Egipto,Benin,Egipto,Yasser Ibrahim,97.0,False,False
 2026-05-01,Egipto,Benin,Egipto,Mohamed Salah,120.0,False,False
 2026-06-01,Argelia,RD Congo,Argelia,Adil Boulbina,119.0,False,False
-2026-06-01,Ivory Coast,Burkina Faso,Ivory Coast,Amad Diallo,20.0,False,False
-2026-06-01,Ivory Coast,Burkina Faso,Ivory Coast,Yan Diomande,32.0,False,False
-2026-06-01,Ivory Coast,Burkina Faso,Ivory Coast,Bazoumana Touré,87.0,False,False
+2026-06-01,Costa de Marfil,Burkina Faso,Costa de Marfil,Amad Diallo,20.0,False,False
+2026-06-01,Costa de Marfil,Burkina Faso,Costa de Marfil,Yan Diomande,32.0,False,False
+2026-06-01,Costa de Marfil,Burkina Faso,Costa de Marfil,Bazoumana Touré,87.0,False,False
 2026-09-01,Mali,Senegal,Senegal,Iliman Ndiaye,27.0,False,False
 2026-09-01,Marruecos,Cameroon,Marruecos,Brahim Díaz,26.0,False,False
 2026-09-01,Marruecos,Cameroon,Marruecos,Ismael Saibari,74.0,False,False
-2026-10-01,Egipto,Ivory Coast,Egipto,Omar Marmoush,4.0,False,False
-2026-10-01,Egipto,Ivory Coast,Egipto,Ramy Rabia,32.0,False,False
-2026-10-01,Egipto,Ivory Coast,Ivory Coast,Ahmed Abou El Fotouh,40.0,False,False
-2026-10-01,Egipto,Ivory Coast,Egipto,Mohamed Salah,52.0,False,False
-2026-10-01,Egipto,Ivory Coast,Ivory Coast,Guéla Doué,73.0,False,False
+2026-10-01,Egipto,Costa de Marfil,Egipto,Omar Marmoush,4.0,False,False
+2026-10-01,Egipto,Costa de Marfil,Egipto,Ramy Rabia,32.0,False,False
+2026-10-01,Egipto,Costa de Marfil,Costa de Marfil,Ahmed Abou El Fotouh,40.0,False,False
+2026-10-01,Egipto,Costa de Marfil,Egipto,Mohamed Salah,52.0,False,False
+2026-10-01,Egipto,Costa de Marfil,Costa de Marfil,Guéla Doué,73.0,False,False
 ,Senegal,Egipto,Senegal,Sadio Mané,78.0,False,False
 ,Czech Republic,Republic Of Ireland,Czech Republic,Patrik Schick,27.0,False,False
 ,Czech Republic,Republic Of Ireland,Czech Republic,Ladislav Krej?í,86.0,False,False
