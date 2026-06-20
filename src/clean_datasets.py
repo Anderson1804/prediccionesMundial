@@ -20,6 +20,7 @@ PATH_VAL_OUT = os.path.join(DATA_DIR, "clean_jugadores_valores.csv")
 FECHA_CORTE_MUNDIAL = "2026-06-11"
 
 # Diccionario de normalización y traducción de nombres de países
+
 DIC_UNIVERSAL = {
     "france": "Francia", "germany": "Alemania", "spain": "España", "brazil": "Brasil",
     "england": "Inglaterra", "italy": "Italia", "netherlands": "Países Bajos", 
@@ -34,7 +35,12 @@ DIC_UNIVERSAL = {
     "dr congo": "RD Congo", "congo dr": "RD Congo", "congo": "RD Congo", 
     "república democrática del congo": "RD Congo", "republica democratica del congo": "RD Congo",
     "panama": "Panamá", "panamá": "Panamá", "ghana": "Ghana", "uzbekistan": "Uzbekistán", "uzbekistán": "Uzbekistán",
+    "south korea": "Corea del Sur", "korea republic": "Corea del Sur", "korea south": "Corea del Sur", "corea del sur": "Corea del Sur",
     
+    #  REGULARIZACIÓN EVOLUTIVA PARA HAITÍ:
+    "haiti": "Haití",
+    "haití": "Haití",
+
     # Normalización del nombre de Corea del Sur
     "south korea": "Corea del Sur",
     "korea republic": "Corea del Sur",
