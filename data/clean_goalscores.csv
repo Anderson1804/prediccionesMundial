@@ -1759,9 +1759,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Brasil,Chile,Brasil,Didi,26.0,False,False
 ,Brasil,Chile,Brasil,Didi,44.0,False,False
 ,Brasil,Chile,Brasil,José Macia,46.0,False,False
-,Guatemala,Curaçao,Curaçao,Wilfred de Lanoy,23.0,False,False
-,Guatemala,Curaçao,Curaçao,Wilfred de Lanoy,31.0,False,False
-,Guatemala,Curaçao,Curaçao,Edgard Meulens,65.0,False,False
+,Guatemala,Curazao,Curazao,Wilfred de Lanoy,23.0,False,False
+,Guatemala,Curazao,Curazao,Wilfred de Lanoy,31.0,False,False
+,Guatemala,Curazao,Curazao,Edgard Meulens,65.0,False,False
 ,Argentina,Ecuador,Argentina,Antonio Valentín Angelillo,5.0,False,False
 ,Argentina,Ecuador,Argentina,Omar Sívori,14.0,False,False
 ,Argentina,Ecuador,Argentina,Antonio Valentín Angelillo,39.0,False,False
@@ -1926,7 +1926,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Paraguay,Uruguay,Paraguay,Juan Bautista Agüero,90.0,False,False
 ,Uruguay,Paraguay,Uruguay,Eladio Benítez,8.0,False,False
 ,Uruguay,Paraguay,Uruguay,William Martínez,88.0,False,False
-1957-04-08,Curaçao,Costa Rica,Curaçao,Hubert Sambo,21.0,False,False
+1957-04-08,Curazao,Costa Rica,Curazao,Hubert Sambo,21.0,False,False
 1957-01-09,Iceland,Francia,Francia,Thadée Cisowski,29.0,False,False
 1957-01-09,Iceland,Francia,Francia,Thadée Cisowski,32.0,False,False
 1957-01-09,Iceland,Francia,Francia,Joseph Ujlaki,48.0,False,False
@@ -2225,8 +2225,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1960-10-09,Nigeria,Ghana,Ghana,Edward Acquah,83.0,False,False
 ,Finland,Francia,Francia,Maryan Wisniewski,63.0,False,False
 ,Finland,Francia,Francia,Joseph Ujlaki,83.0,False,False
-1960-02-10,Suriname,Curaçao,Curaçao,Eduvigis Rudolfo Dirksz,21.0,False,False
-1960-02-10,Suriname,Curaçao,Curaçao,Eduvigis Rudolfo Dirksz,45.0,False,False
+1960-02-10,Suriname,Curazao,Curazao,Eduvigis Rudolfo Dirksz,21.0,False,False
+1960-02-10,Suriname,Curazao,Curazao,Eduvigis Rudolfo Dirksz,45.0,False,False
 ,Corea del Sur,Vietnam Republic,Corea del Sur,Cho Yoon-ok,15.0,False,False
 ,Corea del Sur,Vietnam Republic,Corea del Sur,Woo Sang-kwon,27.0,False,False
 ,Corea del Sur,Vietnam Republic,Corea del Sur,Choi Chung-min,47.0,False,False
@@ -2303,21 +2303,21 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Portugal,Luxembourg,Portugal,Yaúca,66.0,False,False
 ,Portugal,Luxembourg,Portugal,Yaúca,83.0,False,False
 ,Portugal,Luxembourg,Portugal,Mário Coluna,85.0,False,False
-1961-05-04,México,Curaçao,México,Francisco Flores,28.0,False,False
-1961-05-04,México,Curaçao,México,Salvador Reyes Monteón,45.0,False,False
-1961-05-04,México,Curaçao,México,Francisco Flores,52.0,False,False
-1961-05-04,México,Curaçao,México,Francisco Flores,64.0,False,False
-1961-05-04,México,Curaçao,México,Eduardo González Palmer,65.0,False,False
-1961-05-04,México,Curaçao,México,Salvador Reyes Monteón,75.0,False,False
-1961-05-04,México,Curaçao,México,Eduardo González Palmer,80.0,False,False
+1961-05-04,México,Curazao,México,Francisco Flores,28.0,False,False
+1961-05-04,México,Curazao,México,Salvador Reyes Monteón,45.0,False,False
+1961-05-04,México,Curazao,México,Francisco Flores,52.0,False,False
+1961-05-04,México,Curazao,México,Francisco Flores,64.0,False,False
+1961-05-04,México,Curazao,México,Eduardo González Palmer,65.0,False,False
+1961-05-04,México,Curazao,México,Salvador Reyes Monteón,75.0,False,False
+1961-05-04,México,Curazao,México,Eduardo González Palmer,80.0,False,False
 1961-12-04,México,Costa Rica,México,Francisco Flores,11.0,False,False
 1961-12-04,México,Costa Rica,México,Raúl Cárdenas,31.0,False,False
 1961-12-04,México,Costa Rica,México,Crescencio Gutiérrez,77.0,False,False
 1961-12-04,México,Costa Rica,México,Sigfrido Mercado,87.0,False,False
 ,Wales,España,España,Alfonso Rodríguez Salas,21.0,False,False
 ,Wales,España,España,Alfredo Di Stéfano,78.0,False,False
-,Curaçao,Costa Rica,Curaçao,Edwin Miliano Loran,30.0,False,False
-,Curaçao,Costa Rica,Curaçao,Edwin Miliano Loran,34.0,False,False
+,Curazao,Costa Rica,Curazao,Edwin Miliano Loran,30.0,False,False
+,Curazao,Costa Rica,Curazao,Edwin Miliano Loran,34.0,False,False
 ,Colombia,Perú,Colombia,Eusebio Escobar,27.0,False,False
 1961-03-05,Scotland,Republic Of Ireland,Scotland,Ralph Brand,14.0,False,False
 1961-03-05,Scotland,Republic Of Ireland,Scotland,Ralph Brand,40.0,False,False
@@ -2518,9 +2518,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Argentina,Brasil,Argentina,Raúl Armando Savoy,33.0,False,False
 ,Argentina,Brasil,Argentina,Ernesto Humberto Juárez,86.0,False,False
 ,Colombia,Perú,Colombia,Francisco González,33.0,False,False
-,México,Curaçao,Curaçao,Ronald Delanoy,12.0,False,False
-,México,Curaçao,México,Guillermo Ortiz Camargo,24.0,False,False
-,México,Curaçao,Curaçao,Jesús del Muro,80.0,False,False
+,México,Curazao,Curazao,Ronald Delanoy,12.0,False,False
+,México,Curazao,México,Guillermo Ortiz Camargo,24.0,False,False
+,México,Curazao,Curazao,Jesús del Muro,80.0,False,False
 ,El Salvador,Panamá,Panamá,Benjamín Velasco,82.0,False,False
 ,Brasil,Ecuador,Brasil,Oswaldo Taurisano,5.0,False,False
 ,Brasil,Ecuador,Brasil,Oswaldo Taurisano,60.0,False,False
@@ -2545,8 +2545,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Nicaragua,Panamá,Panamá,Juan Santamaría,45.0,False,False
 ,Nicaragua,Panamá,Panamá,Juan Santamaría,58.0,False,False
 ,Nicaragua,Panamá,Panamá,Luis Carlos Ponce,71.0,False,False
-,Jamaica,Curaçao,Curaçao,Toribio Briesen,8.0,False,False
-,Jamaica,Curaçao,Curaçao,Daniel Pablo,73.0,False,False
+,Jamaica,Curazao,Curazao,Toribio Briesen,8.0,False,False
+,Jamaica,Curazao,Curazao,Daniel Pablo,73.0,False,False
 ,Argentina,Paraguay,Paraguay,César Cabrera,33.0,False,False
 ,Argentina,Paraguay,Argentina,Juan Carlos Lallana,58.0,False,False
 ,Bolivia,Brasil,Brasil,Marco Antônio García Alves,26.0,False,False
@@ -2562,12 +2562,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Colombia,Ecuador,Ecuador,Carlos Alberto Raffo,88.0,False,False
 ,Suiza,Países Bajos,Países Bajos,Piet Kruiver,6.0,False,False
 ,Suiza,Países Bajos,Suiza,Anton Allemann,37.0,False,False
-1963-03-04,Honduras,Curaçao,Curaçao,Eugene Testing,2.0,False,False
-1963-03-04,Honduras,Curaçao,Curaçao,George Sillie,21.0,False,False
-1963-03-04,Honduras,Curaçao,Curaçao,Ruben Brandborg,75.0,False,False
-1963-03-04,Honduras,Curaçao,Curaçao,Ruben Brandborg,89.0,False,False
-1963-07-04,El Salvador,Curaçao,Curaçao,Eugene Testing,7.0,False,False
-1963-07-04,El Salvador,Curaçao,Curaçao,Juan Maximiliano Pablo,78.0,False,False
+1963-03-04,Honduras,Curazao,Curazao,Eugene Testing,2.0,False,False
+1963-03-04,Honduras,Curazao,Curazao,George Sillie,21.0,False,False
+1963-03-04,Honduras,Curazao,Curazao,Ruben Brandborg,75.0,False,False
+1963-03-04,Honduras,Curazao,Curazao,Ruben Brandborg,89.0,False,False
+1963-07-04,El Salvador,Curazao,Curazao,Eugene Testing,7.0,False,False
+1963-07-04,El Salvador,Curazao,Curazao,Juan Maximiliano Pablo,78.0,False,False
 ,España,Northern Ireland,España,Amancio Amaro,60.0,False,False
 1963-11-09,Países Bajos,Luxembourg,Países Bajos,Klaas Nuninga,5.0,False,False
 ,Suecia,Yugoslavia,Suecia,Örjan Persson,30.0,False,False
@@ -2633,14 +2633,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1964-11-11,Francia,Noruega,Francia,Angel Rambert,17.0,False,False
 ,Suiza,Northern Ireland,Suiza,René-Pierre Quentin,29.0,False,False
 ,Suiza,Northern Ireland,Suiza,Köbi Kuhn,34.0,False,False
-,Cuba,Curaçao,Curaçao,Virgilio Sille,50.0,False,False
+,Cuba,Curazao,Curazao,Virgilio Sille,50.0,False,False
 ,Portugal,Turquía,Portugal,Mário Coluna,16.0,False,False
 ,Portugal,Turquía,Portugal,Eusébio,21.0,False,False
 ,Portugal,Turquía,Turquía,Fevzi Zemzem,33.0,False,False
 ,Portugal,Turquía,Portugal,Jaime Graça,52.0,False,False
 ,Portugal,Turquía,Portugal,Eusébio,63.0,False,False
 ,Portugal,Turquía,Portugal,Eusébio,77.0,False,False
-,Cuba,Curaçao,Curaçao,Virgilio Sille,27.0,False,False
+,Cuba,Curazao,Curazao,Virgilio Sille,27.0,False,False
 ,Honduras,México,México,Isidoro Díaz,62.0,False,False
 1965-04-03,México,Honduras,México,José Luis González Dávila,6.0,False,False
 1965-04-03,México,Honduras,México,José Luis Aussin,14.0,False,False
@@ -2657,20 +2657,20 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,El Salvador,México,México,Isidoro Díaz,22.0,False,False
 ,El Salvador,México,México,Javier Valdivia,55.0,False,False
 ,Costa Rica,Haití,Haití,Guy Saint-Vil,67.0,False,False
-,El Salvador,Curaçao,Curaçao,Virgilio Sillie,59.0,False,False
-1965-01-04,México,Curaçao,México,Javier Fragoso,57.0,False,False
-1965-01-04,México,Curaçao,México,Ernesto Cisneros,71.0,False,False
-1965-01-04,México,Curaçao,México,Javier Fragoso,85.0,False,False
-1965-01-04,México,Curaçao,México,Ernesto Cisneros,86.0,False,False
-1965-01-04,México,Curaçao,México,Ernesto Cisneros,89.0,False,False
+,El Salvador,Curazao,Curazao,Virgilio Sillie,59.0,False,False
+1965-01-04,México,Curazao,México,Javier Fragoso,57.0,False,False
+1965-01-04,México,Curazao,México,Ernesto Cisneros,71.0,False,False
+1965-01-04,México,Curazao,México,Javier Fragoso,85.0,False,False
+1965-01-04,México,Curazao,México,Ernesto Cisneros,86.0,False,False
+1965-01-04,México,Curazao,México,Ernesto Cisneros,89.0,False,False
 1965-04-04,Haití,México,México,Ernesto Cisneros,30.0,False,False
 1965-04-04,Haití,México,México,Ernesto Cisneros,39.0,False,False
 1965-04-04,Haití,México,México,Javier Fragoso,41.0,False,False
 1965-06-04,Costa Rica,México,México,Felipe Ruvalcaba,45.0,False,False
-1965-06-04,Guatemala,Curaçao,Curaçao,Edwin Loran,26.0,False,False
-1965-06-04,Guatemala,Curaçao,Curaçao,Virgilio Sillie,47.0,False,False
-1965-08-04,Haití,Curaçao,Curaçao,Eugene Testing,62.0,False,False
-1965-08-04,Haití,Curaçao,Haití,Joseph Obas,84.0,False,False
+1965-06-04,Guatemala,Curazao,Curazao,Edwin Loran,26.0,False,False
+1965-06-04,Guatemala,Curazao,Curazao,Virgilio Sillie,47.0,False,False
+1965-08-04,Haití,Curazao,Curazao,Eugene Testing,62.0,False,False
+1965-08-04,Haití,Curazao,Haití,Joseph Obas,84.0,False,False
 1965-11-04,Albania,Suiza,Suiza,René-Pierre Quentin,21.0,False,False
 1965-11-04,Albania,Suiza,Suiza,Köbi Kuhn,88.0,False,False
 1965-11-04,El Salvador,Haití,Haití,Guy Saint-Vil,22.0,False,False
@@ -3202,8 +3202,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Haití,Trinidad And Tobago,Haití,Guy François,86.0,False,False
 ,Haití,Trinidad And Tobago,Haití,Hugues Guillaume,23.0,False,False
 ,Haití,Trinidad And Tobago,Haití,Philippe Vorbe,52.0,False,False
-1968-05-12,Curaçao,Suriname,Curaçao,Wouter Brokke,,False,False
-1968-05-12,Curaçao,Suriname,Curaçao,Antonio Martina,,False,False
+1968-05-12,Curazao,Suriname,Curazao,Wouter Brokke,,False,False
+1968-05-12,Curazao,Suriname,Curazao,Antonio Martina,,False,False
 1968-08-12,Haití,Guatemala,Haití,Hugues Guillaume,,False,False
 1968-08-12,Haití,Guatemala,Haití,Reynold Saint Surin,,False,False
 1968-11-12,Cyprus,Scotland,Scotland,Alan Gilzean,5.0,False,False
@@ -3215,7 +3215,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1968-11-12,Greece,Portugal,Portugal,Eusébio,64.0,False,False
 1968-11-12,España,Bélgica,Bélgica,Johan Devrindt,3.0,False,False
 1968-11-12,España,Bélgica,España,José Eulogio Gárate,75.0,False,False
-,El Salvador,Curaçao,Curaçao,Elcio Martina,,False,False
+,El Salvador,Curazao,Curazao,Elcio Martina,,False,False
 1969-05-01,Senegal,Marruecos,Marruecos,Hassan Akesbi,14.0,False,False
 1969-05-01,Senegal,Marruecos,Senegal,Emile Pierre Diéme,26.0,False,False
 1969-05-01,Senegal,Marruecos,Senegal,Abdoulaye Makhtar Diop,32.0,False,False
@@ -3379,22 +3379,22 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1969-05-11,Austria,Scotland,Austria,Helmut Redl,52.0,False,False
 ,Turquía,Russia,Turquía,Ender Konca,24.0,False,False
 ,Zimbabwe,Australia,Australia,Tom McColl,68.0,False,False
-,Costa Rica,Curaçao,Curaçao,Ismael Croes,30.0,False,False
+,Costa Rica,Curazao,Curazao,Ismael Croes,30.0,False,False
 ,México,Jamaica,México,Francisco Mancilla,15.0,False,False
 ,México,Jamaica,México,Alfonso Sabater,83.0,False,False
-,Guatemala,Curaçao,Curaçao,Carlos Regales,22.0,False,False
+,Guatemala,Curazao,Curazao,Carlos Regales,22.0,False,False
 ,Zimbabwe,Australia,Australia,Johnny Warren,17.0,False,False
 ,Zimbabwe,Australia,Australia,Phillemon Tegire,22.0,False,False
 ,Zimbabwe,Australia,Australia,Willie Rutherford,57.0,False,False
-1969-02-12,Curaçao,Trinidad And Tobago,Curaçao,Melvin Loefstok,11.0,False,False
-1969-02-12,Curaçao,Trinidad And Tobago,Curaçao,Melvin Loefstok,49.0,False,False
-1969-02-12,Curaçao,Trinidad And Tobago,Curaçao,Martijn,65.0,False,False
-1969-04-12,México,Curaçao,Curaçao,Adelbert Toppenberg,42.0,False,False
-1969-04-12,México,Curaçao,Curaçao,Adelbert Toppenberg,65.0,False,False
-1969-04-12,México,Curaçao,México,José Álvarez Crespo,69.0,False,False
-1969-04-12,México,Curaçao,México,Leopoldo Barba,71.0,False,False
-1969-06-12,Jamaica,Curaçao,Curaçao,Carlos Regales,6.0,False,False
-1969-06-12,Jamaica,Curaçao,Curaçao,Martijn,48.0,False,False
+1969-02-12,Curazao,Trinidad And Tobago,Curazao,Melvin Loefstok,11.0,False,False
+1969-02-12,Curazao,Trinidad And Tobago,Curazao,Melvin Loefstok,49.0,False,False
+1969-02-12,Curazao,Trinidad And Tobago,Curazao,Martijn,65.0,False,False
+1969-04-12,México,Curazao,Curazao,Adelbert Toppenberg,42.0,False,False
+1969-04-12,México,Curazao,Curazao,Adelbert Toppenberg,65.0,False,False
+1969-04-12,México,Curazao,México,José Álvarez Crespo,69.0,False,False
+1969-04-12,México,Curazao,México,Leopoldo Barba,71.0,False,False
+1969-06-12,Jamaica,Curazao,Curazao,Carlos Regales,6.0,False,False
+1969-06-12,Jamaica,Curazao,Curazao,Martijn,48.0,False,False
 ,Australia,Israel,Australia,Johnny Watkiss,88.0,False,False
 1970-06-02,Cameroon,Costa de Marfil,Costa de Marfil,Laurent Pokou,25.0,False,False
 1970-06-02,Cameroon,Costa de Marfil,Costa de Marfil,Laurent Pokou,45.0,False,False
@@ -3965,28 +3965,28 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Austria,Suecia,Suecia,Roland Sandberg,12.0,False,False
 ,Austria,Suecia,Suecia,Bo Larsson,28.0,False,False
 ,Austria,Suecia,Austria,Roland Hattenberger,39.0,False,False
-1973-01-12,Haití,Curaçao,Haití,Emmanuel Sanon,25.0,False,False
-1973-01-12,Haití,Curaçao,Haití,Jean-Claude Désir,29.0,False,False
-1973-01-12,Haití,Curaçao,Haití,Emmanuel Sanon,61.0,False,False
+1973-01-12,Haití,Curazao,Haití,Emmanuel Sanon,25.0,False,False
+1973-01-12,Haití,Curazao,Haití,Jean-Claude Désir,29.0,False,False
+1973-01-12,Haití,Curazao,Haití,Emmanuel Sanon,61.0,False,False
 1973-03-12,Honduras,México,México,Horacio López Salgado,73.0,False,False
 1973-04-12,Haití,Trinidad And Tobago,Haití,Emmanuel Sanon,9.0,False,False
 1973-04-12,Haití,Trinidad And Tobago,Haití,Roger Saint-Vil,88.0,False,False
-1973-05-12,Guatemala,Curaçao,Curaçao,Adelbert Toppenberg,18.0,False,False
-1973-05-12,Guatemala,Curaçao,Curaçao,Siegfried Schoop,75.0,False,False
+1973-05-12,Guatemala,Curazao,Curazao,Adelbert Toppenberg,18.0,False,False
+1973-05-12,Guatemala,Curazao,Curazao,Siegfried Schoop,75.0,False,False
 1973-07-12,Haití,Honduras,Haití,Guy Saint-Vil,59.0,False,False
-1973-08-12,México,Curaçao,México,Horacio López Salgado,10.0,False,False
-1973-08-12,México,Curaçao,México,Octavio Muciño,32.0,False,False
-1973-08-12,México,Curaçao,México,Héctor Pulido,35.0,False,False
-1973-08-12,México,Curaçao,México,Octavio Muciño,45.0,False,False
-1973-08-12,México,Curaçao,México,Octavio Muciño,46.0,False,False
-1973-08-12,México,Curaçao,México,Horacio López Salgado,76.0,False,False
-1973-08-12,México,Curaçao,México,Manuel Lapuente,78.0,False,False
-1973-08-12,México,Curaçao,México,Octavio Muciño,82.0,False,False
+1973-08-12,México,Curazao,México,Horacio López Salgado,10.0,False,False
+1973-08-12,México,Curazao,México,Octavio Muciño,32.0,False,False
+1973-08-12,México,Curazao,México,Héctor Pulido,35.0,False,False
+1973-08-12,México,Curazao,México,Octavio Muciño,45.0,False,False
+1973-08-12,México,Curazao,México,Octavio Muciño,46.0,False,False
+1973-08-12,México,Curazao,México,Horacio López Salgado,76.0,False,False
+1973-08-12,México,Curazao,México,Manuel Lapuente,78.0,False,False
+1973-08-12,México,Curazao,México,Octavio Muciño,82.0,False,False
 1973-09-12,RD Congo,Marruecos,RD Congo,Kembo Uba Kembo,58.0,False,False
 1973-09-12,RD Congo,Marruecos,RD Congo,Kembo Uba Kembo,61.0,False,False
 1973-09-12,RD Congo,Marruecos,RD Congo,Mbungu Ekofa,79.0,False,False
-1973-12-12,Honduras,Curaçao,Curaçao,Rignald Alfonso Clemencia,62.0,False,False
-1973-12-12,Honduras,Curaçao,Curaçao,Erroll Maximino St. Jago,73.0,False,False
+1973-12-12,Honduras,Curazao,Curazao,Rignald Alfonso Clemencia,62.0,False,False
+1973-12-12,Honduras,Curazao,Curazao,Erroll Maximino St. Jago,73.0,False,False
 ,Haití,Guatemala,Haití,Emmanuel Sanon,28.0,False,False
 ,Haití,Guatemala,Haití,Emmanuel Sanon,72.0,False,False
 ,Haití,México,México,Enrique Borja,30.0,False,False
@@ -7049,7 +7049,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Costa de Marfil,Zambia,Costa de Marfil,Donald-Olivier Sié,94.0,False,False
 ,Nigeria,Ghana,Ghana,Abedi Pele,43.0,False,False
 ,Nigeria,Ghana,Ghana,Prince Polley,54.0,False,False
-,Curaçao,Antigua And Barbuda,Curaçao,Giovanni Regales,38.0,False,False
+,Curazao,Antigua And Barbuda,Curazao,Giovanni Regales,38.0,False,False
 ,Bélgica,Cyprus,Bélgica,Marc Wilmots,24.0,False,False
 ,España,Albania,España,Míchel,2.0,False,False
 ,España,Albania,España,Míchel,66.0,False,False
@@ -8441,7 +8441,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ecuador,Perú,Ecuador,Eduardo Hurtado,88.0,False,False
 ,Venezuela,Uruguay,Uruguay,Marcelo Otero,54.0,False,False
 ,Venezuela,Uruguay,Uruguay,Gustavo Poyet,77.0,False,False
-1996-04-05,Dominican Republic,Curaçao,Curaçao,Gijsberta Gersley,40.0,False,False
+1996-04-05,Dominican Republic,Curazao,Curazao,Gijsberta Gersley,40.0,False,False
 1996-12-05,Haití,Grenada,Haití,Wilson Chevalier,11.0,False,False
 1996-12-05,Haití,Grenada,Haití,Golman Pierre,35.0,False,False
 1996-12-05,Haití,Grenada,Haití,Golman Pierre,58.0,False,False
@@ -10177,7 +10177,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-11-03,Haití,Dominica,Haití,Golman Pierre,22.0,False,False
 2000-11-03,Haití,Dominica,Haití,Jean-Robert Menelas,42.0,False,False
 2000-11-03,Haití,Dominica,Haití,Golman Pierre,47.0,False,False
-,Curaçao,Trinidad And Tobago,Curaçao,Angelo Martina,11.0,False,False
+,Curazao,Trinidad And Tobago,Curazao,Angelo Martina,11.0,False,False
 ,Dominica,Haití,Haití,Golman Pierre,56.0,False,False
 ,Dominica,Haití,Haití,Roosevelt Desir,69.0,False,False
 ,Dominica,Haití,Haití,Golman Pierre,87.0,False,False
@@ -12046,9 +12046,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Turks And Caicos Islands,Haití,Haití,Roody Lormera,10.0,False,False
 ,Turks And Caicos Islands,Haití,Haití,Lawrence Harvey,41.0,False,False
 ,Argentina,Ecuador,Argentina,Hernán Crespo,60.0,False,False
-,Curaçao,Antigua And Barbuda,Curaçao,Rocky Siberie,27.0,False,False
-,Curaçao,Antigua And Barbuda,Curaçao,Eugene Martha,46.0,False,False
-,Curaçao,Antigua And Barbuda,Curaçao,Brutil Hosé,48.0,False,False
+,Curazao,Antigua And Barbuda,Curazao,Rocky Siberie,27.0,False,False
+,Curazao,Antigua And Barbuda,Curazao,Eugene Martha,46.0,False,False
+,Curazao,Antigua And Barbuda,Curazao,Brutil Hosé,48.0,False,False
 ,Jordania,Qatar,Jordania,Mo'ayyad Salim,70.0,False,False
 ,Laos,Iran,Iran,Ali Daei,9.0,False,False
 ,Laos,Iran,Iran,Ali Daei,17.0,False,False
@@ -12162,7 +12162,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-09-06,Uzbekistán,Palestine,Uzbekistán,Bakhtiyor Ashurmatov,6.0,False,False
 2004-09-06,Uzbekistán,Palestine,Uzbekistán,Vladimir Shishelov,42.0,False,False
 2004-09-06,Uzbekistán,Palestine,Uzbekistán,Server Djeparov,89.0,False,False
-2004-12-06,Curaçao,Honduras,Curaçao,Brutil Hosé,75.0,False,False
+2004-12-06,Curazao,Honduras,Curazao,Brutil Hosé,75.0,False,False
 2004-12-06,Haití,Jamaica,Haití,Jean-Philippe Peguero,50.0,False,False
 2004-12-06,Portugal,Greece,Portugal,Cristiano Ronaldo,90.0,False,False
 2004-12-06,España,Russia,España,Juan Carlos Valerón,60.0,False,False
@@ -14056,7 +14056,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-06-02,Japón,Thailand,Japón,Yuji Nakazawa,66.0,False,False
 2008-06-02,Japón,Thailand,Japón,Seiichiro Maki,90.0,False,False
 2008-06-02,Lebanon,Uzbekistán,Uzbekistán,Odil Ahmedov,44.0,False,False
-2008-06-02,Nicaragua,Curaçao,Curaçao,Anton Jongsma,15.0,False,False
+2008-06-02,Nicaragua,Curazao,Curazao,Anton Jongsma,15.0,False,False
 2008-06-02,Arabia Saudita,Singapore,Arabia Saudita,Yasser Al-Qahtani,38.0,False,False
 2008-06-02,Arabia Saudita,Singapore,Arabia Saudita,Malek Mouath,81.0,False,False
 2008-06-02,Corea del Sur,Turkmenistan,Corea del Sur,Kwak Tae-hwi,43.0,False,False
@@ -14075,8 +14075,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-09-02,Ghana,Costa de Marfil,Ghana,Junior Agogo,80.0,False,False
 2008-09-02,Ghana,Costa de Marfil,Ghana,Haminu Draman,84.0,False,False
 2008-10-02,Cameroon,Egipto,Egipto,Mohamed Aboutrika,76.0,False,False
-,Curaçao,Nicaragua,Curaçao,Tyrone Loran,42.0,False,False
-,Curaçao,Nicaragua,Curaçao,Angelo Zimmerman,81.0,False,False
+,Curazao,Nicaragua,Curazao,Tyrone Loran,42.0,False,False
+,Curazao,Nicaragua,Curazao,Angelo Zimmerman,81.0,False,False
 ,Kuwait,Iran,Iran,Alireza Vahedi Nikbakht,2.0,False,False
 ,Kuwait,Iran,Iran,Jalal Hosseini,5.0,False,False
 ,Qatar,Iraq,Qatar,Fábio César Montezine,1.0,False,False
@@ -14284,7 +14284,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Cape Verde,Mauritius,Cape Verde,Marco Soares,76.0,False,False
 ,RD Congo,Chad,RD Congo,Edson Minga,13.0,False,False
 ,RD Congo,Chad,RD Congo,Franchel Ibara,67.0,False,False
-,Curaçao,Haití,Haití,Eugene Martha,77.0,False,False
+,Curazao,Haití,Haití,Eugene Martha,77.0,False,False
 ,RD Congo,Djibouti,RD Congo,Shabani Nonda,10.0,False,False
 ,RD Congo,Djibouti,RD Congo,Shabani Nonda,45.0,False,False
 ,RD Congo,Djibouti,RD Congo,Shabani Nonda,52.0,False,False
@@ -15524,8 +15524,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Vietnam,Qatar,Qatar,Yusef Ahmed,17.0,False,False
 2011-02-09,Albania,Francia,Francia,Karim Benzema,11.0,False,False
 2011-02-09,Albania,Francia,Francia,Yann M'Vila,18.0,False,False
-2011-02-09,Antigua And Barbuda,Curaçao,Curaçao,Rihairo Meulens,9.0,False,False
-2011-02-09,Antigua And Barbuda,Curaçao,Curaçao,Rocky Siberie,74.0,False,False
+2011-02-09,Antigua And Barbuda,Curazao,Curazao,Rihairo Meulens,9.0,False,False
+2011-02-09,Antigua And Barbuda,Curazao,Curazao,Rocky Siberie,74.0,False,False
 2011-02-09,Australia,Thailand,Australia,Joshua Kennedy,58.0,False,False
 2011-02-09,Australia,Thailand,Australia,Alex Brosque,86.0,False,False
 2011-02-09,Azerbaijan,Bélgica,Bélgica,Timmy Simons,55.0,False,False
@@ -15595,12 +15595,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-06-09,Croacia,Israel,Croacia,Luka Modri?,47.0,False,False
 2011-06-09,Croacia,Israel,Croacia,Eduardo da Silva,55.0,False,False
 2011-06-09,Croacia,Israel,Croacia,Eduardo da Silva,57.0,False,False
-2011-06-09,Curaçao,Haití,Curaçao,Orin de Waard,12.0,False,False
-2011-06-09,Curaçao,Haití,Haití,Kevin Lafrance,37.0,False,False
-2011-06-09,Curaçao,Haití,Curaçao,Angelo Zimmerman,43.0,False,False
-2011-06-09,Curaçao,Haití,Haití,James Marcelin,58.0,False,False
-2011-06-09,Curaçao,Haití,Haití,Wilde-Donald Guerrier,61.0,False,False
-2011-06-09,Curaçao,Haití,Haití,Angelo Zimmerman,75.0,False,False
+2011-06-09,Curazao,Haití,Curazao,Orin de Waard,12.0,False,False
+2011-06-09,Curazao,Haití,Haití,Kevin Lafrance,37.0,False,False
+2011-06-09,Curazao,Haití,Curazao,Angelo Zimmerman,43.0,False,False
+2011-06-09,Curazao,Haití,Haití,James Marcelin,58.0,False,False
+2011-06-09,Curazao,Haití,Haití,Wilde-Donald Guerrier,61.0,False,False
+2011-06-09,Curazao,Haití,Haití,Angelo Zimmerman,75.0,False,False
 2011-06-09,Inglaterra,Wales,Inglaterra,Ashley Young,35.0,False,False
 2011-06-09,Finland,Países Bajos,Países Bajos,Kevin Strootman,29.0,False,False
 2011-06-09,Finland,Países Bajos,Países Bajos,Luuk de Jong,90.0,False,False
@@ -15714,10 +15714,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-11-10,Alemania,Bélgica,Alemania,André Schürrle,33.0,False,False
 2011-11-10,Alemania,Bélgica,Alemania,Mario Gómez,48.0,False,False
 2011-11-10,Alemania,Bélgica,Bélgica,Marouane Fellaini,86.0,False,False
-2011-11-10,Haití,Curaçao,Curaçao,Rocky Siberie,7.0,False,False
-2011-11-10,Haití,Curaçao,Curaçao,Sendley Sidney Bito,14.0,False,False
-2011-11-10,Haití,Curaçao,Haití,Jean-Eudes Maurice,25.0,False,False
-2011-11-10,Haití,Curaçao,Haití,Kervens Belfort,60.0,False,False
+2011-11-10,Haití,Curazao,Curazao,Rocky Siberie,7.0,False,False
+2011-11-10,Haití,Curazao,Curazao,Sendley Sidney Bito,14.0,False,False
+2011-11-10,Haití,Curazao,Haití,Jean-Eudes Maurice,25.0,False,False
+2011-11-10,Haití,Curazao,Haití,Kervens Belfort,60.0,False,False
 2011-11-10,Indonesia,Qatar,Qatar,Abdulaziz Al Sulaiti,14.0,False,False
 2011-11-10,Indonesia,Qatar,Qatar,Khalfan Ibrahim,32.0,False,False
 2011-11-10,Indonesia,Qatar,Qatar,Mohammed Razak,59.0,False,False
@@ -15802,9 +15802,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-11-11,Turquía,Croacia,Croacia,Vedran ?orluka,51.0,False,False
 2011-11-11,United Arab Emirates,Corea del Sur,Corea del Sur,Lee Keun-ho,88.0,False,False
 2011-11-11,United Arab Emirates,Corea del Sur,Corea del Sur,Park Chu-young,90.0,False,False
-2011-11-11,United States Virgin Islands,Curaçao,Curaçao,Rocky Siberie,8.0,False,False
-2011-11-11,United States Virgin Islands,Curaçao,Curaçao,Rocky Siberie,14.0,False,False
-2011-11-11,United States Virgin Islands,Curaçao,Curaçao,Sendley Sidney Bito,26.0,False,False
+2011-11-11,United States Virgin Islands,Curazao,Curazao,Rocky Siberie,8.0,False,False
+2011-11-11,United States Virgin Islands,Curazao,Curazao,Rocky Siberie,14.0,False,False
+2011-11-11,United States Virgin Islands,Curazao,Curazao,Sendley Sidney Bito,26.0,False,False
 2011-11-11,Uruguay,Chile,Uruguay,Luis Suárez,42.0,False,False
 2011-11-11,Uruguay,Chile,Uruguay,Luis Suárez,45.0,False,False
 2011-11-11,Uruguay,Chile,Uruguay,Luis Suárez,67.0,False,False
@@ -15818,12 +15818,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Colombia,Argentina,Argentina,Lionel Messi,61.0,False,False
 ,Colombia,Argentina,Argentina,Sergio Agüero,83.0,False,False
 ,RD Congo,São Tomé And Príncipe,RD Congo,Francis N'Ganga,56.0,False,False
-,Curaçao,United States Virgin Islands,Curaçao,Shanon Carmelia,33.0,False,False
-,Curaçao,United States Virgin Islands,Curaçao,Rocky Siberie,40.0,False,False
-,Curaçao,United States Virgin Islands,Curaçao,Everon Espacia,73.0,False,False
-,Curaçao,United States Virgin Islands,Curaçao,Shanon Carmelia,78.0,False,False
-,Curaçao,United States Virgin Islands,Curaçao,Rocky Siberie,86.0,False,False
-,Curaçao,United States Virgin Islands,Curaçao,Angelo Cijntje,90.0,False,False
+,Curazao,United States Virgin Islands,Curazao,Shanon Carmelia,33.0,False,False
+,Curazao,United States Virgin Islands,Curazao,Rocky Siberie,40.0,False,False
+,Curazao,United States Virgin Islands,Curazao,Everon Espacia,73.0,False,False
+,Curazao,United States Virgin Islands,Curazao,Shanon Carmelia,78.0,False,False
+,Curazao,United States Virgin Islands,Curazao,Rocky Siberie,86.0,False,False
+,Curazao,United States Virgin Islands,Curazao,Angelo Cijntje,90.0,False,False
 ,RD Congo,Eswatini,RD Congo,Trésor Mputu,8.0,False,False
 ,RD Congo,Eswatini,RD Congo,Dioko Kaluyituka,46.0,False,False
 ,RD Congo,Eswatini,RD Congo,Trésor Mputu,49.0,False,False
@@ -17194,8 +17194,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-05-02,Equatorial Guinea,Ghana,Ghana,Jordan Ayew,42.0,False,False
 2015-05-02,Equatorial Guinea,Ghana,Ghana,Mubarak Wakaso,45.0,False,False
 2015-05-02,Equatorial Guinea,Ghana,Ghana,André Ayew,75.0,False,False
-,Curaçao,Montserrat,Curaçao,Papito Merencia,8.0,False,False
-,Curaçao,Montserrat,Curaçao,Felitciano Zschusschen,39.0,False,False
+,Curazao,Montserrat,Curazao,Papito Merencia,8.0,False,False
+,Curazao,Montserrat,Curazao,Felitciano Zschusschen,39.0,False,False
 ,Inglaterra,Lithuania,Inglaterra,Wayne Rooney,6.0,False,False
 ,Inglaterra,Lithuania,Inglaterra,Danny Welbeck,45.0,False,False
 ,Inglaterra,Lithuania,Inglaterra,Raheem Sterling,58.0,False,False
@@ -17239,8 +17239,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Scotland,Gibraltar,Scotland,Steven Fletcher,77.0,False,False
 ,Scotland,Gibraltar,Scotland,Steven Fletcher,90.0,False,False
 ,Israel,Bélgica,Bélgica,Marouane Fellaini,9.0,False,False
-,Montserrat,Curaçao,Curaçao,Darryl Lachman,41.0,False,False
-,Montserrat,Curaçao,Curaçao,Charlton Vicento,89.0,False,False
+,Montserrat,Curazao,Curazao,Darryl Lachman,41.0,False,False
+,Montserrat,Curazao,Curazao,Charlton Vicento,89.0,False,False
 2015-11-06,Dominica,Canadá,Canadá,Cyle Larin,5.0,False,False
 2015-11-06,Dominica,Canadá,Canadá,Russell Teibert,64.0,False,False
 2015-11-06,Maldives,Qatar,Qatar,Ahmed Abdul Maqsoud,90.0,False,False
@@ -17277,7 +17277,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Belarus,España,España,David Silva,45.0,False,False
 ,Brasil,Perú,Brasil,Neymar,4.0,False,False
 ,Brasil,Perú,Brasil,Douglas Costa,90.0,False,False
-,Cuba,Curaçao,Curaçao,Papito Merencia,16.0,False,False
+,Cuba,Curazao,Curazao,Papito Merencia,16.0,False,False
 ,Lithuania,Suiza,Suiza,Josip Drmi?,69.0,False,False
 ,Lithuania,Suiza,Suiza,Xherdan Shaqiri,84.0,False,False
 ,Russia,Austria,Austria,Marc Janko,33.0,False,False
@@ -18502,8 +18502,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Estados Unidos,Nicaragua,Estados Unidos,Joe Corona,37.0,False,False
 ,Estados Unidos,Nicaragua,Estados Unidos,Kelyn Rowe,56.0,False,False
 ,Estados Unidos,Nicaragua,Estados Unidos,Matt Miazga,88.0,False,False
-,Curaçao,México,México,Ángel Sepúlveda,22.0,False,False
-,Curaçao,México,México,Edson Álvarez,90.0,False,False
+,Curazao,México,México,Ángel Sepúlveda,22.0,False,False
+,Curazao,México,México,Edson Álvarez,90.0,False,False
 ,Estados Unidos,El Salvador,Estados Unidos,Omar Gonzalez,41.0,False,False
 ,Estados Unidos,El Salvador,Estados Unidos,Eric Lichaj,45.0,False,False
 ,Jamaica,Canadá,Canadá,Junior Hoilett,61.0,False,False
@@ -19313,7 +19313,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Uruguay,Japón,Uruguay,José María Giménez,66.0,False,False
 ,Ecuador,Chile,Ecuador,Enner Valencia,26.0,False,False
 ,Egipto,Zimbabwe,Egipto,Trézéguet,41.0,False,False
-,Honduras,Curaçao,Curaçao,Leandro Bacuna,40.0,False,False
+,Honduras,Curazao,Curazao,Leandro Bacuna,40.0,False,False
 ,Brasil,Perú,Brasil,Casemiro,12.0,False,False
 ,Brasil,Perú,Brasil,Roberto Firmino,19.0,False,False
 ,Brasil,Perú,Brasil,Everton Soares,32.0,False,False
@@ -19356,7 +19356,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Túnez,Angola,Túnez,Youssef Msakni,34.0,False,False
 ,Ghana,Benin,Ghana,André Ayew,9.0,False,False
 ,Ghana,Benin,Ghana,Jordan Ayew,42.0,False,False
-,Jamaica,Curaçao,Curaçao,Juriën Gaari,90.0,False,False
+,Jamaica,Curazao,Curazao,Juriën Gaari,90.0,False,False
 ,Egipto,RD Congo,Egipto,Ahmed Elmohamady,25.0,False,False
 ,Egipto,RD Congo,Egipto,Mohamed Salah,43.0,False,False
 ,Estados Unidos,Panamá,Estados Unidos,Jozy Altidore,66.0,False,False
@@ -19374,7 +19374,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,México,Costa Rica,México,Raúl Jiménez,44.0,False,False
 ,Egipto,Uganda,Egipto,Mohamed Salah,36.0,False,False
 ,Egipto,Uganda,Egipto,Ahmed Elmohamady,45.0,False,False
-,Estados Unidos,Curaçao,Estados Unidos,Weston McKennie,25.0,False,False
+,Estados Unidos,Curazao,Estados Unidos,Weston McKennie,25.0,False,False
 ,Zimbabwe,RD Congo,RD Congo,Jonathan Bolingi,4.0,False,False
 ,Zimbabwe,RD Congo,RD Congo,Cédric Bakambu,34.0,False,False
 ,Zimbabwe,RD Congo,RD Congo,Cédric Bakambu,65.0,False,False
@@ -20014,11 +20014,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Canadá,Bermuda,Canadá,Richie Laryea,53.0,False,False
 ,Canadá,Bermuda,Canadá,Cyle Larin,69.0,False,False
 ,Canadá,Bermuda,Canadá,Theo Corbeanu,81.0,False,False
-,Curaçao,Saint Vincent And The Grenadines,Curaçao,Juninho Bacuna,1.0,False,False
-,Curaçao,Saint Vincent And The Grenadines,Curaçao,Anthony van den Hurk,17.0,False,False
-,Curaçao,Saint Vincent And The Grenadines,Curaçao,Juninho Bacuna,35.0,False,False
-,Curaçao,Saint Vincent And The Grenadines,Curaçao,Jarchinio Antonia,45.0,False,False
-,Curaçao,Saint Vincent And The Grenadines,Curaçao,Elson Hooi,87.0,False,False
+,Curazao,Saint Vincent And The Grenadines,Curazao,Juninho Bacuna,1.0,False,False
+,Curazao,Saint Vincent And The Grenadines,Curazao,Anthony van den Hurk,17.0,False,False
+,Curazao,Saint Vincent And The Grenadines,Curazao,Juninho Bacuna,35.0,False,False
+,Curazao,Saint Vincent And The Grenadines,Curazao,Jarchinio Antonia,45.0,False,False
+,Curazao,Saint Vincent And The Grenadines,Curazao,Elson Hooi,87.0,False,False
 ,Inglaterra,San Marino,Inglaterra,James Ward-Prowse,14.0,False,False
 ,Inglaterra,San Marino,Inglaterra,Dominic Calvert-Lewin,21.0,False,False
 ,Inglaterra,San Marino,Inglaterra,Raheem Sterling,31.0,False,False
@@ -20051,8 +20051,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Austria,Faroe Islands,Austria,Aleksandar Dragovi?,30.0,False,False
 ,Austria,Faroe Islands,Austria,Christoph Baumgartner,37.0,False,False
 ,Austria,Faroe Islands,Austria,Saa Kalajdi?,44.0,False,False
-,Cuba,Curaçao,Curaçao,Leandro Bacuna,11.0,False,False
-,Cuba,Curaçao,Curaçao,Charlison Benschop,44.0,False,False
+,Cuba,Curazao,Curazao,Leandro Bacuna,11.0,False,False
+,Cuba,Curazao,Curazao,Charlison Benschop,44.0,False,False
 ,Dominica,Panamá,Panamá,Briel Thomas,28.0,False,False
 ,Dominica,Panamá,Panamá,José Fajardo,85.0,False,False
 ,Georgia,España,España,Ferran Torres,56.0,False,False
@@ -20161,14 +20161,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-05-06,Aruba,Canadá,Canadá,Alphonso Davies,78.0,False,False
 2021-05-06,Aruba,Canadá,Canadá,Cyle Larin,87.0,False,False
 2021-05-06,Aruba,Canadá,Canadá,Jonathan David,89.0,False,False
-2021-05-06,British Virgin Islands,Curaçao,Curaçao,Brandley Kuwas,7.0,False,False
-2021-05-06,British Virgin Islands,Curaçao,Curaçao,Michaël Maria,9.0,False,False
-2021-05-06,British Virgin Islands,Curaçao,Curaçao,Leandro Bacuna,11.0,False,False
-2021-05-06,British Virgin Islands,Curaçao,Curaçao,Charlison Benschop,18.0,False,False
-2021-05-06,British Virgin Islands,Curaçao,Curaçao,Charlison Benschop,22.0,False,False
-2021-05-06,British Virgin Islands,Curaçao,Curaçao,Michaël Maria,27.0,False,False
-2021-05-06,British Virgin Islands,Curaçao,Curaçao,Kenji Gorré,57.0,False,False
-2021-05-06,British Virgin Islands,Curaçao,Curaçao,Kenji Gorré,90.0,False,False
+2021-05-06,British Virgin Islands,Curazao,Curazao,Brandley Kuwas,7.0,False,False
+2021-05-06,British Virgin Islands,Curazao,Curazao,Michaël Maria,9.0,False,False
+2021-05-06,British Virgin Islands,Curazao,Curazao,Leandro Bacuna,11.0,False,False
+2021-05-06,British Virgin Islands,Curazao,Curazao,Charlison Benschop,18.0,False,False
+2021-05-06,British Virgin Islands,Curazao,Curazao,Charlison Benschop,22.0,False,False
+2021-05-06,British Virgin Islands,Curazao,Curazao,Michaël Maria,27.0,False,False
+2021-05-06,British Virgin Islands,Curazao,Curazao,Kenji Gorré,57.0,False,False
+2021-05-06,British Virgin Islands,Curazao,Curazao,Kenji Gorré,90.0,False,False
 2021-05-06,Panamá,Anguilla,Panamá,Armando Cooper,7.0,False,False
 2021-05-06,Panamá,Anguilla,Panamá,Cecilio Waterman,18.0,False,False
 2021-05-06,Panamá,Anguilla,Panamá,Jorman Aguilar,31.0,False,False
@@ -20264,9 +20264,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-11-06,Arabia Saudita,Singapore,Arabia Saudita,Saleh Al-Shehri,90.0,False,False
 2021-11-06,Yemen,Uzbekistán,Uzbekistán,Jaloliddin Masharipov,19.0,False,False
 2021-12-06,Haití,Canadá,Canadá,Cyle Larin,14.0,False,False
-2021-12-06,Panamá,Curaçao,Panamá,Alberto Quintero,55.0,False,False
-2021-12-06,Panamá,Curaçao,Panamá,Cecilio Waterman,77.0,False,False
-2021-12-06,Panamá,Curaçao,Curaçao,Rangelo Janga,87.0,False,False
+2021-12-06,Panamá,Curazao,Panamá,Alberto Quintero,55.0,False,False
+2021-12-06,Panamá,Curazao,Panamá,Cecilio Waterman,77.0,False,False
+2021-12-06,Panamá,Curazao,Curazao,Rangelo Janga,87.0,False,False
 2021-12-06,Russia,Bélgica,Bélgica,Romelu Lukaku,10.0,False,False
 2021-12-06,Russia,Bélgica,Bélgica,Thomas Meunier,34.0,False,False
 2021-12-06,Russia,Bélgica,Bélgica,Romelu Lukaku,88.0,False,False
@@ -22156,10 +22156,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Uzbekistán,Hong Kong,Uzbekistán,Eldor Shomurodov,20.0,False,False
 ,Uzbekistán,Hong Kong,Uzbekistán,Khojimat Erkinov,63.0,False,False
 ,Uzbekistán,Hong Kong,Uzbekistán,Oston Urunov,70.0,False,False
-2024-05-06,Curaçao,Barbados,Curaçao,Rangelo Janga,25.0,False,False
-2024-05-06,Curaçao,Barbados,Curaçao,Rangelo Janga,62.0,False,False
-2024-05-06,Curaçao,Barbados,Curaçao,Rangelo Janga,86.0,False,False
-2024-05-06,Curaçao,Barbados,Curaçao,Gervane Kastaneer,90.0,False,False
+2024-05-06,Curazao,Barbados,Curazao,Rangelo Janga,25.0,False,False
+2024-05-06,Curazao,Barbados,Curazao,Rangelo Janga,62.0,False,False
+2024-05-06,Curazao,Barbados,Curazao,Rangelo Janga,86.0,False,False
+2024-05-06,Curazao,Barbados,Curazao,Gervane Kastaneer,90.0,False,False
 2024-05-06,Túnez,Equatorial Guinea,Túnez,Mohamed Ali Ben Romdhane,82.0,False,False
 2024-06-06,Argelia,Guinea,Argelia,Yasser Baldé,52.0,False,False
 2024-06-06,Bangladesh,Australia,Australia,Ajdin Hrustic,29.0,False,False
@@ -22205,8 +22205,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-07-06,Marruecos,Zambia,Marruecos,Hakim Ziyech,6.0,False,False
 2024-07-06,Marruecos,Zambia,Marruecos,Eliesse Ben Seghir,67.0,False,False
 2024-07-06,Nigeria,South Africa,South Africa,Themba Zwane,29.0,False,False
-2024-08-06,Aruba,Curaçao,Curaçao,Juninho Bacuna,59.0,False,False
-2024-08-06,Aruba,Curaçao,Curaçao,Xander Severina,90.0,False,False
+2024-08-06,Aruba,Curazao,Curazao,Juninho Bacuna,59.0,False,False
+2024-08-06,Aruba,Curazao,Curazao,Xander Severina,90.0,False,False
 2024-08-06,Cameroon,Cape Verde,Cape Verde,Jamiro Monteiro,37.0,False,False
 2024-09-06,Barbados,Haití,Haití,Louicius Don Deedson,12.0,False,False
 2024-09-06,Barbados,Haití,Haití,Duke Lacroix,45.0,False,False
@@ -22927,10 +22927,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-05-06,España,Francia,Francia,Rayan Cherki,79.0,False,False
 2025-05-06,España,Francia,Francia,Daniel Vivian,84.0,False,False
 2025-05-06,España,Francia,Francia,Randal Kolo Muani,90.0,False,False
-2025-06-06,Curaçao,Saint Lucia,Curaçao,Gervane Kastaneer,37.0,False,False
-2025-06-06,Curaçao,Saint Lucia,Curaçao,Gervane Kastaneer,52.0,False,False
-2025-06-06,Curaçao,Saint Lucia,Curaçao,Gervane Kastaneer,57.0,False,False
-2025-06-06,Curaçao,Saint Lucia,Curaçao,Juninho Bacuna,74.0,False,False
+2025-06-06,Curazao,Saint Lucia,Curazao,Gervane Kastaneer,37.0,False,False
+2025-06-06,Curazao,Saint Lucia,Curazao,Gervane Kastaneer,52.0,False,False
+2025-06-06,Curazao,Saint Lucia,Curazao,Gervane Kastaneer,57.0,False,False
+2025-06-06,Curazao,Saint Lucia,Curazao,Juninho Bacuna,74.0,False,False
 2025-06-06,Czech Republic,Montenegro,Czech Republic,Adam Hloek,23.0,False,False
 2025-06-06,Czech Republic,Montenegro,Czech Republic,Patrik Schick,65.0,False,False
 2025-06-06,Gibraltar,Croacia,Croacia,Mario Paali?,28.0,False,False
@@ -22977,12 +22977,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-10-06,Argentina,Colombia,Colombia,Luis Díaz,24.0,False,False
 2025-10-06,Argentina,Colombia,Argentina,Thiago Almada,81.0,False,False
 2025-10-06,Brasil,Paraguay,Brasil,Vinícius Júnior,44.0,False,False
-2025-10-06,Haití,Curaçao,Curaçao,Gervane Kastaneer,12.0,False,False
-2025-10-06,Haití,Curaçao,Curaçao,Kenji Gorré,15.0,False,False
-2025-10-06,Haití,Curaçao,Haití,Louicius Don Deedson,61.0,False,False
-2025-10-06,Haití,Curaçao,Curaçao,Jearl Margaritha,69.0,False,False
-2025-10-06,Haití,Curaçao,Curaçao,Kevin Felida,89.0,False,False
-2025-10-06,Haití,Curaçao,Curaçao,Jeremy Antonisse,90.0,False,False
+2025-10-06,Haití,Curazao,Curazao,Gervane Kastaneer,12.0,False,False
+2025-10-06,Haití,Curazao,Curazao,Kenji Gorré,15.0,False,False
+2025-10-06,Haití,Curazao,Haití,Louicius Don Deedson,61.0,False,False
+2025-10-06,Haití,Curazao,Curazao,Jearl Margaritha,69.0,False,False
+2025-10-06,Haití,Curazao,Curazao,Kevin Felida,89.0,False,False
+2025-10-06,Haití,Curazao,Curazao,Jeremy Antonisse,90.0,False,False
 2025-10-06,Iran,North Korea,Iran,Mohammad Mehdi Mohebi,74.0,False,False
 2025-10-06,Iran,North Korea,Iran,Mehdi Taremi,77.0,False,False
 2025-10-06,Iran,North Korea,Iran,Amirhossein Hosseinzadeh,90.0,False,False
@@ -23045,15 +23045,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Trinidad And Tobago,Haití,Haití,Frantzdy Pierrot,49.0,False,False
 ,Estados Unidos,Arabia Saudita,Estados Unidos,Chris Richards,63.0,False,False
 ,Guatemala,Panamá,Panamá,Tomás Rodríguez,19.0,False,False
-,Curaçao,Canadá,Canadá,Nathan Saliba,9.0,False,False
-,Curaçao,Canadá,Curaçao,Jeremy Antonisse,90.0,False,False
+,Curazao,Canadá,Canadá,Nathan Saliba,9.0,False,False
+,Curazao,Canadá,Curazao,Jeremy Antonisse,90.0,False,False
 ,Arabia Saudita,Trinidad And Tobago,Arabia Saudita,Firas Al-Buraikan,60.0,False,False
 ,Estados Unidos,Haití,Estados Unidos,Malik Tillman,10.0,False,False
 ,Estados Unidos,Haití,Haití,Don Deedson Louicius,19.0,False,False
 ,Estados Unidos,Haití,Estados Unidos,Patrick Agyemang,75.0,False,False
 ,Canadá,El Salvador,Canadá,Jonathan David,53.0,False,False
 ,Canadá,El Salvador,Canadá,Tajon Buchanan,56.0,False,False
-,Honduras,Curaçao,Curaçao,Edrick Menjívar,42.0,False,False
+,Honduras,Curazao,Curazao,Edrick Menjívar,42.0,False,False
 ,Panamá,Jamaica,Panamá,Ismael Díaz,4.0,False,False
 ,Panamá,Jamaica,Panamá,Ismael Díaz,17.0,False,False
 ,Panamá,Jamaica,Panamá,Ismael Díaz,45.0,False,False
@@ -23186,9 +23186,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-09-09,Costa Rica,Haití,Haití,Duckens Nazon,55.0,False,False
 2025-09-09,Costa Rica,Haití,Haití,Duckens Nazon,58.0,False,False
 2025-09-09,Costa Rica,Haití,Haití,Duckens Nazon,86.0,False,False
-2025-09-09,Curaçao,Bermuda,Curaçao,Tahith Chong,14.0,False,False
-2025-09-09,Curaçao,Bermuda,Curaçao,Tahith Chong,26.0,False,False
-2025-09-09,Curaçao,Bermuda,Curaçao,Tyrese Noslin,75.0,False,False
+2025-09-09,Curazao,Bermuda,Curazao,Tahith Chong,14.0,False,False
+2025-09-09,Curazao,Bermuda,Curazao,Tahith Chong,26.0,False,False
+2025-09-09,Curazao,Bermuda,Curazao,Tyrese Noslin,75.0,False,False
 2025-09-09,RD Congo,Senegal,RD Congo,Cédric Bakambu,26.0,False,False
 2025-09-09,RD Congo,Senegal,RD Congo,Yoane Wissa,33.0,False,False
 2025-09-09,RD Congo,Senegal,Senegal,Pape Gueye,39.0,False,False
@@ -23264,8 +23264,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-09-10,Scotland,Greece,Scotland,Ryan Christie,64.0,False,False
 2025-09-10,Scotland,Greece,Scotland,Lewis Ferguson,80.0,False,False
 2025-09-10,Scotland,Greece,Scotland,Lyndon Dykes,90.0,False,False
-2025-10-10,Curaçao,Jamaica,Curaçao,Livano Comenencia,14.0,False,False
-2025-10-10,Curaçao,Jamaica,Curaçao,Kenji Gorré,68.0,False,False
+2025-10-10,Curazao,Jamaica,Curazao,Livano Comenencia,14.0,False,False
+2025-10-10,Curazao,Jamaica,Curazao,Kenji Gorré,68.0,False,False
 2025-10-10,El Salvador,Panamá,Panamá,José Fajardo,55.0,False,False
 2025-10-10,Francia,Azerbaijan,Francia,Kylian Mbappé,45.0,False,False
 2025-10-10,Francia,Azerbaijan,Francia,Adrien Rabiot,69.0,False,False
@@ -23337,7 +23337,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Wales,Bélgica,Bélgica,Leandro Trossard,90.0,False,False
 ,Argelia,Uganda,Argelia,Mohamed Amoura,81.0,False,False
 ,Argelia,Uganda,Argelia,Mohamed Amoura,90.0,False,False
-,Curaçao,Trinidad And Tobago,Curaçao,Kenji Gorré,19.0,False,False
+,Curazao,Trinidad And Tobago,Curazao,Kenji Gorré,19.0,False,False
 ,RD Congo,Sudan,RD Congo,Theo Bongonda,29.0,False,False
 ,Costa de Marfil,Kenya,Costa de Marfil,Franck Kessié,7.0,False,False
 ,Costa de Marfil,Kenya,Costa de Marfil,Yan Diomande,54.0,False,False
@@ -23368,13 +23368,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Turquía,Georgia,Turquía,Merih Demiral,22.0,False,False
 ,Turquía,Georgia,Turquía,Yunus Akgün,35.0,False,False
 ,Turquía,Georgia,Turquía,Merih Demiral,52.0,False,False
-,Bermuda,Curaçao,Curaçao,Leandro Bacuna,6.0,False,False
-,Bermuda,Curaçao,Curaçao,Juninho Bacuna,32.0,False,False
-,Bermuda,Curaçao,Curaçao,Jordi Paulina,48.0,False,False
-,Bermuda,Curaçao,Curaçao,Sontje Hansen,59.0,False,False
-,Bermuda,Curaçao,Curaçao,Jordi Paulina,63.0,False,False
-,Bermuda,Curaçao,Curaçao,Ar'jany Martha,82.0,False,False
-,Bermuda,Curaçao,Curaçao,Roshon van Eijma,90.0,False,False
+,Bermuda,Curazao,Curazao,Leandro Bacuna,6.0,False,False
+,Bermuda,Curazao,Curazao,Juninho Bacuna,32.0,False,False
+,Bermuda,Curazao,Curazao,Jordi Paulina,48.0,False,False
+,Bermuda,Curazao,Curazao,Sontje Hansen,59.0,False,False
+,Bermuda,Curazao,Curazao,Jordi Paulina,63.0,False,False
+,Bermuda,Curazao,Curazao,Ar'jany Martha,82.0,False,False
+,Bermuda,Curazao,Curazao,Roshon van Eijma,90.0,False,False
 ,Cameroon,RD Congo,RD Congo,Chancel Mbemba,90.0,False,False
 ,Inglaterra,Serbia,Inglaterra,Bukayo Saka,28.0,False,False
 ,Inglaterra,Serbia,Inglaterra,Eberechi Eze,90.0,False,False

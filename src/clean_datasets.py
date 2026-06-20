@@ -54,7 +54,10 @@ DIC_UNIVERSAL = {
     "bosnia and herzegovina": "Bosnia y Herzegovina",
     "bosnia & herzegovina": "Bosnia y Herzegovina",
     "bosnia-herzegovina": "Bosnia y Herzegovina",
-    "bosnia y herzegovina": "Bosnia y Herzegovina"
+    "bosnia y herzegovina": "Bosnia y Herzegovina",
+    "curacao": "Curazao",
+    "curaçao": "Curazao",
+    "curazao": "Curazao"
 }
 
 def normalizar_pais(nombre):

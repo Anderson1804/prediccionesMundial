@@ -742,7 +742,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1924-03-13,Catalonia,España,0.0,7.0,Friendly
 1924-03-23,Países Bajos,Bélgica,1.0,1.0,Friendly
 1924-03-23,Suiza,Francia,3.0,0.0,Friendly
-1924-04-06,Aruba,Curaçao,0.0,4.0,Friendly
+1924-04-06,Aruba,Curazao,0.0,4.0,Friendly
 1924-04-12,Inglaterra,Scotland,1.0,1.0,British Home Championship
 1924-04-21,Países Bajos,Alemania,0.0,1.0,Friendly
 1924-04-21,Suiza,Dinamarca,2.0,0.0,Friendly
@@ -888,14 +888,14 @@ date,home_team,away_team,home_score,away_score,tournament
 1925-12-17,Brasil,Paraguay,3.0,1.0,Copa América
 1925-12-20,Argentina,Paraguay,3.0,1.0,Copa América
 1925-12-25,Argentina,Brasil,2.0,2.0,Copa América
-1926-01-24,Haití,Curaçao,1.0,1.0,Friendly
-1926-01-31,Haití,Curaçao,0.0,1.0,Friendly
-1926-02-07,Haití,Curaçao,2.0,1.0,Friendly
+1926-01-24,Haití,Curazao,1.0,1.0,Friendly
+1926-01-31,Haití,Curazao,0.0,1.0,Friendly
+1926-02-07,Haití,Curazao,2.0,1.0,Friendly
 1926-02-14,Bélgica,Hungary,0.0,2.0,Friendly
-1926-02-14,Haití,Curaçao,2.0,2.0,Friendly
+1926-02-14,Haití,Curazao,2.0,2.0,Friendly
 1926-02-27,Scotland,Northern Ireland,4.0,0.0,British Home Championship
 1926-03-01,Inglaterra,Wales,1.0,3.0,British Home Championship
-1926-03-03,Jamaica,Curaçao,2.0,0.0,Friendly
+1926-03-03,Jamaica,Curazao,2.0,0.0,Friendly
 1926-03-14,Austria,Czechoslovakia,2.0,0.0,Friendly
 1926-03-14,Bélgica,Países Bajos,1.0,1.0,Friendly
 1926-03-28,Países Bajos,Suiza,5.0,0.0,Friendly
@@ -1156,7 +1156,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1930-04-06,Países Bajos,Italia,1.0,1.0,Friendly
 1930-04-13,Francia,Bélgica,1.0,6.0,Friendly
 1930-04-13,Suiza,Hungary,2.0,2.0,Friendly
-1930-04-20,Curaçao,Aruba,2.0,1.0,Friendly
+1930-04-20,Curazao,Aruba,2.0,1.0,Friendly
 1930-05-04,Países Bajos,Bélgica,2.0,2.0,Friendly
 1930-05-04,Suiza,Alemania,0.0,5.0,Friendly
 1930-05-10,Alemania,Inglaterra,3.0,3.0,Friendly
@@ -1226,7 +1226,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1931-03-28,Scotland,Inglaterra,2.0,0.0,British Home Championship
 1931-03-29,Países Bajos,Bélgica,3.0,2.0,Friendly
 1931-03-29,Suiza,Italia,1.0,1.0,Central European International Cup
-1931-04-05,Curaçao,Aruba,1.0,0.0,Friendly
+1931-04-05,Curazao,Aruba,1.0,0.0,Friendly
 1931-04-12,Austria,Czechoslovakia,2.0,1.0,Central European International Cup
 1931-04-12,Hungary,Suiza,6.0,2.0,Central European International Cup
 1931-04-12,Portugal,Italia,0.0,2.0,Friendly
@@ -1376,8 +1376,8 @@ date,home_team,away_team,home_score,away_score,tournament
 1933-09-24,Yugoslavia,Suiza,2.0,2.0,FIFA World Cup qualification
 1933-10-01,Austria,Hungary,2.0,2.0,Friendly
 1933-10-04,Wales,Scotland,3.0,2.0,British Home Championship
-1933-10-08,Aruba,Curaçao,1.0,3.0,Friendly
-1933-10-11,Aruba,Curaçao,0.0,2.0,Friendly
+1933-10-08,Aruba,Curazao,1.0,3.0,Friendly
+1933-10-11,Aruba,Curazao,0.0,2.0,Friendly
 1933-10-14,Northern Ireland,Inglaterra,0.0,3.0,British Home Championship
 1933-10-22,Alemania,Bélgica,8.0,1.0,Friendly
 1933-10-29,Suiza,Romania,2.0,2.0,FIFA World Cup qualification
@@ -1446,9 +1446,9 @@ date,home_team,away_team,home_score,away_score,tournament
 1934-06-24,Catalonia,Brasil,2.0,2.0,Friendly
 1934-07-01,Suecia,Noruega,3.0,3.0,Nordic Championship
 1934-07-18,Uruguay,Argentina,2.0,2.0,Friendly
-1934-07-22,Curaçao,Suriname,3.0,1.0,Friendly
-1934-07-25,Curaçao,Suriname,3.0,2.0,Friendly
-1934-07-29,Curaçao,Suriname,2.0,2.0,Friendly
+1934-07-22,Curazao,Suriname,3.0,1.0,Friendly
+1934-07-25,Curazao,Suriname,3.0,2.0,Friendly
+1934-07-29,Curazao,Suriname,2.0,2.0,Friendly
 1934-08-15,Argentina,Uruguay,1.0,0.0,Friendly
 1934-09-02,Noruega,Finland,4.0,2.0,Nordic Championship
 1934-09-09,Polonia,Alemania,2.0,5.0,Friendly
@@ -1478,9 +1478,9 @@ date,home_team,away_team,home_score,away_score,tournament
 1935-02-17,Países Bajos,Alemania,2.0,3.0,Friendly
 1935-03-17,Czechoslovakia,Suiza,3.0,1.0,Central European International Cup
 1935-03-17,Francia,Alemania,1.0,3.0,Friendly
-1935-03-23,Curaçao,Aruba,2.0,0.0,Friendly
+1935-03-23,Curazao,Aruba,2.0,0.0,Friendly
 1935-03-24,Austria,Italia,0.0,2.0,Central European International Cup
-1935-03-24,Curaçao,Aruba,4.0,0.0,Friendly
+1935-03-24,Curazao,Aruba,4.0,0.0,Friendly
 1935-03-27,El Salvador,México,1.0,8.0,Central American and Caribbean Games
 1935-03-28,México,Guatemala,5.0,1.0,Central American and Caribbean Games
 1935-03-30,México,Cuba,6.0,1.0,Central American and Caribbean Games
@@ -1502,9 +1502,9 @@ date,home_team,away_team,home_score,away_score,tournament
 1935-05-18,Países Bajos,Inglaterra,0.0,1.0,Friendly
 1935-05-19,Francia,Hungary,2.0,0.0,Friendly
 1935-05-19,Estados Unidos,Scotland,1.0,5.0,Friendly
-1935-05-20,Suriname,Curaçao,0.0,1.0,Friendly
-1935-05-22,Suriname,Curaçao,4.0,1.0,Friendly
-1935-05-24,Suriname,Curaçao,2.0,1.0,Friendly
+1935-05-20,Suriname,Curazao,0.0,1.0,Friendly
+1935-05-22,Suriname,Curazao,4.0,1.0,Friendly
+1935-05-24,Suriname,Curazao,2.0,1.0,Friendly
 1935-05-26,Alemania,Czechoslovakia,2.0,1.0,Friendly
 1935-05-30,Bélgica,Suiza,2.0,2.0,Friendly
 1935-06-09,Estados Unidos,Scotland,1.0,4.0,Friendly
@@ -1524,7 +1524,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1935-09-08,Finland,Noruega,1.0,5.0,Nordic Championship
 1935-09-15,Alemania,Estonia,5.0,0.0,Friendly
 1935-09-15,Alemania,Polonia,1.0,0.0,Friendly
-1935-09-20,Curaçao,Aruba,1.0,0.0,Friendly
+1935-09-20,Curazao,Aruba,1.0,0.0,Friendly
 1935-09-22,Noruega,Suecia,0.0,2.0,Nordic Championship
 1935-10-05,Wales,Scotland,1.0,1.0,British Home Championship
 1935-10-06,Austria,Hungary,4.0,4.0,Central European International Cup
@@ -1541,15 +1541,15 @@ date,home_team,away_team,home_score,away_score,tournament
 1935-11-17,Bélgica,Suecia,5.0,1.0,Friendly
 1935-12-04,Inglaterra,Alemania,3.0,0.0,Friendly
 1935-12-08,Republic Of Ireland,Países Bajos,3.0,5.0,Friendly
-1935-12-15,Curaçao,Trinidad And Tobago,3.0,1.0,Friendly
+1935-12-15,Curazao,Trinidad And Tobago,3.0,1.0,Friendly
 1936-01-12,Francia,Países Bajos,1.0,6.0,Friendly
 1936-01-19,España,Austria,4.0,5.0,Friendly
 1936-01-26,Portugal,Austria,2.0,3.0,Friendly
-1936-01-30,Curaçao,Trinidad And Tobago,4.0,2.0,Friendly
+1936-01-30,Curazao,Trinidad And Tobago,4.0,2.0,Friendly
 1936-02-05,Inglaterra,Wales,1.0,2.0,British Home Championship
 1936-02-09,Francia,Czechoslovakia,0.0,3.0,Friendly
 1936-02-16,Bélgica,Polonia,0.0,2.0,Friendly
-1936-02-22,Trinidad And Tobago,Curaçao,3.0,0.0,Friendly
+1936-02-22,Trinidad And Tobago,Curazao,3.0,0.0,Friendly
 1936-02-23,España,Alemania,1.0,2.0,Friendly
 1936-02-27,Portugal,Alemania,1.0,3.0,Friendly
 1936-03-08,Francia,Bélgica,3.0,0.0,Friendly
@@ -1624,8 +1624,8 @@ date,home_team,away_team,home_score,away_score,tournament
 1937-04-17,Scotland,Inglaterra,3.0,1.0,British Home Championship
 1937-04-18,Bélgica,Suiza,1.0,2.0,Friendly
 1937-04-25,Alemania,Bélgica,1.0,0.0,Friendly
-1937-05-01,Aruba,Curaçao,1.0,1.0,Friendly
-1937-05-02,Aruba,Curaçao,1.0,1.0,Friendly
+1937-05-01,Aruba,Curazao,1.0,1.0,Friendly
+1937-05-02,Aruba,Curazao,1.0,1.0,Friendly
 1937-05-02,Países Bajos,Bélgica,1.0,0.0,Friendly
 1937-05-02,Suiza,Alemania,0.0,1.0,Friendly
 1937-05-09,Austria,Scotland,1.0,1.0,Friendly
@@ -1740,9 +1740,9 @@ date,home_team,away_team,home_score,away_score,tournament
 1938-06-21,Dinamarca,Suecia,0.0,1.0,Nordic Championship
 1938-06-26,Países Bajos,Indonesia,9.0,2.0,Friendly
 1938-07-04,Finland,Suecia,2.0,4.0,Nordic Championship
-1938-07-05,Curaçao,Suriname,2.0,1.0,Friendly
-1938-07-07,Curaçao,Suriname,1.0,0.0,Friendly
-1938-07-10,Curaçao,Suriname,4.0,1.0,Friendly
+1938-07-05,Curazao,Suriname,2.0,1.0,Friendly
+1938-07-07,Curazao,Suriname,1.0,0.0,Friendly
+1938-07-10,Curazao,Suriname,4.0,1.0,Friendly
 1938-08-07,Suecia,Czechoslovakia,2.0,6.0,Friendly
 1938-08-08,Bolivia,Ecuador,1.0,1.0,Bolivarian Games
 1938-08-08,Colombia,Perú,2.0,4.0,Bolivarian Games
@@ -1885,8 +1885,8 @@ date,home_team,away_team,home_score,away_score,tournament
 1941-01-05,Chile,Argentina,1.0,2.0,Friendly
 1941-01-09,Chile,Argentina,2.0,5.0,Friendly
 1941-01-12,Portugal,España,2.0,2.0,Friendly
-1941-01-18,Curaçao,Aruba,4.0,0.0,Friendly
-1941-01-19,Curaçao,Aruba,2.0,1.0,Friendly
+1941-01-18,Curazao,Aruba,4.0,0.0,Friendly
+1941-01-19,Curazao,Aruba,2.0,1.0,Friendly
 1941-01-19,Perú,Argentina,1.0,1.0,Friendly
 1941-01-26,Perú,Argentina,1.0,1.0,Friendly
 1941-01-29,Perú,Argentina,0.0,3.0,Friendly
@@ -1902,14 +1902,14 @@ date,home_team,away_team,home_score,away_score,tournament
 1941-03-09,Alemania,Suiza,4.0,2.0,Friendly
 1941-03-16,España,Portugal,5.0,1.0,Friendly
 1941-04-06,Alemania,Hungary,7.0,0.0,Friendly
-1941-04-13,Aruba,Curaçao,0.0,0.0,Friendly
-1941-04-14,Aruba,Curaçao,2.0,2.0,Friendly
+1941-04-13,Aruba,Curazao,0.0,0.0,Friendly
+1941-04-14,Aruba,Curazao,2.0,2.0,Friendly
 1941-04-20,Suiza,Alemania,2.0,1.0,Friendly
-1941-05-08,Curaçao,Panamá,3.0,3.0,CCCF Championship
+1941-05-08,Curazao,Panamá,3.0,3.0,CCCF Championship
 1941-05-11,Costa Rica,Panamá,7.0,0.0,CCCF Championship
-1941-05-11,Curaçao,El Salvador,2.0,2.0,CCCF Championship
-1941-05-13,Costa Rica,Curaçao,6.0,2.0,CCCF Championship
-1941-05-15,Curaçao,Nicaragua,9.0,1.0,CCCF Championship
+1941-05-11,Curazao,El Salvador,2.0,2.0,CCCF Championship
+1941-05-13,Costa Rica,Curazao,6.0,2.0,CCCF Championship
+1941-05-15,Curazao,Nicaragua,9.0,1.0,CCCF Championship
 1941-05-15,El Salvador,Panamá,4.0,3.0,CCCF Championship
 1941-05-18,Nicaragua,Panamá,2.0,5.0,CCCF Championship
 1941-06-01,Romania,Alemania,1.0,4.0,Friendly
@@ -1954,7 +1954,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1942-04-19,Italia,España,4.0,0.0,Friendly
 1942-05-03,Hungary,Alemania,3.0,5.0,Friendly
 1942-05-25,Argentina,Uruguay,4.0,1.0,Copa Newton
-1942-05-25,Curaçao,Aruba,2.0,2.0,Friendly
+1942-05-25,Curazao,Aruba,2.0,2.0,Friendly
 1942-06-07,Slovakia,Croacia,1.0,2.0,Friendly
 1942-06-14,Hungary,Croacia,1.0,1.0,Friendly
 1942-06-28,Dinamarca,Suecia,0.0,3.0,Friendly
@@ -1983,26 +1983,26 @@ date,home_team,away_team,home_score,away_score,tournament
 1943-07-10,Paraguay,Argentina,2.0,5.0,Copa Chevallier Boutell
 1943-07-11,Paraguay,Argentina,2.0,1.0,Copa Chevallier Boutell
 1943-09-12,Suecia,Hungary,2.0,3.0,Friendly
-1943-09-25,Curaçao,Aruba,3.0,3.0,Friendly
-1943-09-26,Curaçao,Aruba,2.0,2.0,Friendly
+1943-09-25,Curazao,Aruba,3.0,3.0,Friendly
+1943-09-26,Curazao,Aruba,2.0,2.0,Friendly
 1943-10-03,Finland,Suecia,1.0,1.0,Friendly
 1943-11-07,Hungary,Suecia,2.0,7.0,Friendly
-1943-12-11,Aruba,Curaçao,1.0,2.0,Friendly
-1943-12-12,Aruba,Curaçao,1.0,1.0,Friendly
-1944-04-02,Curaçao,Haití,5.0,0.0,Friendly
+1943-12-11,Aruba,Curazao,1.0,2.0,Friendly
+1943-12-12,Aruba,Curazao,1.0,1.0,Friendly
+1944-04-02,Curazao,Haití,5.0,0.0,Friendly
 1944-04-05,Haití,Venezuela,0.0,2.0,Friendly
 1944-04-08,Aruba,Haití,1.0,1.0,Friendly
 1944-04-09,Croacia,Slovakia,7.0,3.0,Friendly
-1944-04-09,Curaçao,Venezuela,3.0,3.0,Friendly
-1944-04-10,Curaçao,Aruba,3.0,1.0,Friendly
+1944-04-09,Curazao,Venezuela,3.0,3.0,Friendly
+1944-04-10,Curazao,Aruba,3.0,1.0,Friendly
 1944-05-14,Brasil,Uruguay,6.0,1.0,Friendly
 1944-05-17,Brasil,Uruguay,4.0,0.0,Friendly
-1944-07-29,Curaçao,Aruba,2.0,4.0,Friendly
-1944-07-30,Curaçao,Aruba,2.0,3.0,Friendly
-1944-08-25,Suriname,Curaçao,1.0,2.0,Friendly
-1944-08-29,Aruba,Curaçao,1.0,2.0,Friendly
-1944-08-31,Suriname,Curaçao,0.0,2.0,Friendly
-1944-09-02,Aruba,Curaçao,1.0,5.0,Friendly
+1944-07-29,Curazao,Aruba,2.0,4.0,Friendly
+1944-07-30,Curazao,Aruba,2.0,3.0,Friendly
+1944-08-25,Suriname,Curazao,1.0,2.0,Friendly
+1944-08-29,Aruba,Curazao,1.0,2.0,Friendly
+1944-08-31,Suriname,Curazao,0.0,2.0,Friendly
+1944-09-02,Aruba,Curazao,1.0,5.0,Friendly
 1944-12-24,Francia,Bélgica,3.0,1.0,Friendly
 1945-01-06,Argentina,Paraguay,5.0,2.0,Copa Chevallier Boutell
 1945-01-09,Argentina,Paraguay,5.0,3.0,Copa Chevallier Boutell
@@ -2052,8 +2052,8 @@ date,home_team,away_team,home_score,away_score,tournament
 1945-11-11,Suiza,Italia,4.0,4.0,Friendly
 1945-11-25,Suiza,Suecia,3.0,0.0,Friendly
 1945-12-06,Austria,Francia,4.0,1.0,Friendly
-1945-12-08,Aruba,Curaçao,2.0,1.0,Friendly
-1945-12-09,Aruba,Curaçao,2.0,1.0,Friendly
+1945-12-08,Aruba,Curazao,2.0,1.0,Friendly
+1945-12-09,Aruba,Curazao,2.0,1.0,Friendly
 1945-12-15,Bélgica,Francia,2.0,1.0,Friendly
 1945-12-16,Brasil,Argentina,3.0,4.0,Copa Roca
 1945-12-20,Brasil,Argentina,6.0,2.0,Copa Roca
@@ -2092,9 +2092,9 @@ date,home_team,away_team,home_score,away_score,tournament
 1946-05-12,Países Bajos,Bélgica,6.0,3.0,Friendly
 1946-05-15,Scotland,Suiza,3.0,1.0,Friendly
 1946-05-19,Francia,Inglaterra,2.0,1.0,Friendly
-1946-05-26,Curaçao,Aruba,2.0,1.0,Friendly
+1946-05-26,Curazao,Aruba,2.0,1.0,Friendly
 1946-05-30,Bélgica,Países Bajos,2.0,2.0,Friendly
-1946-06-10,Curaçao,Suriname,6.0,0.0,Friendly
+1946-06-10,Curazao,Suriname,6.0,0.0,Friendly
 1946-06-16,Noruega,Dinamarca,2.0,1.0,Friendly
 1946-06-16,Portugal,Republic Of Ireland,3.0,1.0,Friendly
 1946-06-23,Dinamarca,Suecia,3.0,1.0,Friendly
@@ -2117,30 +2117,30 @@ date,home_team,away_team,home_score,away_score,tournament
 1946-11-10,El Salvador,Panamá,3.0,3.0,Friendly
 1946-11-10,Suiza,Austria,1.0,0.0,Friendly
 1946-11-13,Inglaterra,Wales,3.0,0.0,British Home Championship
-1946-11-23,Aruba,Curaçao,0.0,4.0,Friendly
-1946-11-24,Aruba,Curaçao,3.0,1.0,Friendly
+1946-11-23,Aruba,Curazao,0.0,4.0,Friendly
+1946-11-24,Aruba,Curazao,3.0,1.0,Friendly
 1946-11-27,Inglaterra,Países Bajos,8.0,2.0,Friendly
 1946-11-27,Scotland,Northern Ireland,0.0,0.0,British Home Championship
 1946-12-01,Italia,Austria,3.0,2.0,Friendly
-1946-12-09,Colombia,Curaçao,4.0,2.0,Central American and Caribbean Games
+1946-12-09,Colombia,Curazao,4.0,2.0,Central American and Caribbean Games
 1946-12-09,Panamá,Guatemala,4.0,2.0,Central American and Caribbean Games
 1946-12-12,Colombia,Venezuela,2.0,0.0,Central American and Caribbean Games
-1946-12-12,Curaçao,Guatemala,2.0,2.0,Central American and Caribbean Games
+1946-12-12,Curazao,Guatemala,2.0,2.0,Central American and Caribbean Games
 1946-12-13,Panamá,Puerto Rico,12.0,1.0,Central American and Caribbean Games
 1946-12-15,Colombia,Guatemala,4.0,2.0,Central American and Caribbean Games
-1946-12-15,Curaçao,Puerto Rico,14.0,0.0,Central American and Caribbean Games
+1946-12-15,Curazao,Puerto Rico,14.0,0.0,Central American and Caribbean Games
 1946-12-16,Colombia,Puerto Rico,4.0,1.0,Central American and Caribbean Games
 1946-12-16,Panamá,Venezuela,2.0,1.0,Central American and Caribbean Games
-1946-12-17,Panamá,Curaçao,2.0,2.0,Central American and Caribbean Games
+1946-12-17,Panamá,Curazao,2.0,2.0,Central American and Caribbean Games
 1946-12-18,Colombia,Costa Rica,4.0,1.0,Central American and Caribbean Games
-1946-12-19,Curaçao,Venezuela,1.0,0.0,Central American and Caribbean Games
+1946-12-19,Curazao,Venezuela,1.0,0.0,Central American and Caribbean Games
 1946-12-20,Colombia,Panamá,2.0,1.0,Central American and Caribbean Games
-1946-12-20,Curaçao,Costa Rica,4.0,2.0,Central American and Caribbean Games
+1946-12-20,Curazao,Costa Rica,4.0,2.0,Central American and Caribbean Games
 1946-12-21,Panamá,Costa Rica,2.0,0.0,Central American and Caribbean Games
 1947-01-05,Portugal,Suiza,2.0,2.0,Friendly
 1947-01-26,Portugal,España,4.0,1.0,Friendly
-1947-03-01,Curaçao,Trinidad And Tobago,4.0,0.0,Friendly
-1947-03-02,Curaçao,Trinidad And Tobago,3.0,0.0,Friendly
+1947-03-01,Curazao,Trinidad And Tobago,4.0,0.0,Friendly
+1947-03-02,Curazao,Trinidad And Tobago,3.0,0.0,Friendly
 1947-03-02,Republic Of Ireland,España,3.0,2.0,Friendly
 1947-03-23,Francia,Portugal,1.0,0.0,Friendly
 1947-03-29,Uruguay,Brasil,0.0,0.0,Copa Rio Branco
@@ -2166,8 +2166,8 @@ date,home_team,away_team,home_score,away_score,tournament
 1947-06-11,Noruega,Polonia,3.0,1.0,Friendly
 1947-06-14,Australia,South Africa,1.0,2.0,Friendly
 1947-06-15,Dinamarca,Suecia,1.0,4.0,Nordic Championship
-1947-06-21,Curaçao,Aruba,4.0,1.0,Friendly
-1947-06-22,Curaçao,Aruba,0.0,0.0,Friendly
+1947-06-21,Curazao,Aruba,4.0,1.0,Friendly
+1947-06-22,Curazao,Aruba,0.0,0.0,Friendly
 1947-06-26,Finland,Noruega,1.0,2.0,Friendly
 1947-06-26,Suecia,Dinamarca,6.0,1.0,Friendly
 1947-06-28,Nueva Zelanda,South Africa,5.0,6.0,Friendly
@@ -2223,19 +2223,19 @@ date,home_team,away_team,home_score,away_score,tournament
 1947-12-28,Argentina,Uruguay,3.0,1.0,Copa América
 1947-12-29,Chile,Colombia,4.0,1.0,Copa América
 1947-12-29,Ecuador,Paraguay,0.0,4.0,Copa América
-1948-03-04,Panamá,Curaçao,1.0,3.0,CCCF Championship
-1948-03-05,Guatemala,Curaçao,2.0,2.0,CCCF Championship
-1948-03-07,Costa Rica,Curaçao,2.0,1.0,CCCF Championship
+1948-03-04,Panamá,Curazao,1.0,3.0,CCCF Championship
+1948-03-05,Guatemala,Curazao,2.0,2.0,CCCF Championship
+1948-03-07,Costa Rica,Curazao,2.0,1.0,CCCF Championship
 1948-03-07,El Salvador,Panamá,1.0,2.0,CCCF Championship
-1948-03-09,El Salvador,Curaçao,1.0,0.0,CCCF Championship
+1948-03-09,El Salvador,Curazao,1.0,0.0,CCCF Championship
 1948-03-09,Guatemala,Panamá,4.0,3.0,CCCF Championship
 1948-03-11,Costa Rica,Panamá,3.0,1.0,CCCF Championship
-1948-03-11,Curaçao,El Salvador,0.0,2.0,CCCF Championship
+1948-03-11,Curazao,El Salvador,0.0,2.0,CCCF Championship
 1948-03-14,Bélgica,Países Bajos,1.0,1.0,Friendly
-1948-03-14,Curaçao,Panamá,2.0,5.0,CCCF Championship
+1948-03-14,Curazao,Panamá,2.0,5.0,CCCF Championship
 1948-03-16,Panamá,El Salvador,2.0,0.0,CCCF Championship
-1948-03-18,Guatemala,Curaçao,2.0,2.0,CCCF Championship
-1948-03-20,Curaçao,Costa Rica,4.0,1.0,CCCF Championship
+1948-03-18,Guatemala,Curazao,2.0,2.0,CCCF Championship
+1948-03-20,Curazao,Costa Rica,4.0,1.0,CCCF Championship
 1948-03-21,Guatemala,Panamá,4.0,5.0,CCCF Championship
 1948-03-21,España,Portugal,2.0,0.0,Friendly
 1948-04-04,Francia,Italia,1.0,3.0,Friendly
@@ -2363,7 +2363,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1949-06-19,Estados Unidos,Scotland,0.0,4.0,Friendly
 1949-06-26,Suiza,Luxembourg,5.0,2.0,FIFA World Cup qualification
 1949-07-08,Finland,Noruega,1.0,1.0,Nordic Championship
-1949-07-30,Curaçao,Aruba,3.0,0.0,Friendly
+1949-07-30,Curazao,Aruba,3.0,0.0,Friendly
 1949-08-03,El Salvador,Panamá,3.0,1.0,Friendly
 1949-08-04,El Salvador,Panamá,2.0,3.0,Friendly
 1949-09-04,México,Estados Unidos,6.0,0.0,NAFC Championship
@@ -2483,13 +2483,13 @@ date,home_team,away_team,home_score,away_score,tournament
 1950-11-12,Bélgica,Países Bajos,7.0,2.0,Friendly
 1950-11-12,Suiza,Suecia,4.0,2.0,Friendly
 1950-11-15,Inglaterra,Wales,4.0,2.0,British Home Championship
-1950-11-18,Curaçao,Suriname,2.0,3.0,Friendly
+1950-11-18,Curazao,Suriname,2.0,3.0,Friendly
 1950-11-22,Inglaterra,Yugoslavia,2.0,2.0,Friendly
 1950-11-22,Alemania,Suiza,1.0,0.0,Friendly
-1950-11-22,Trinidad And Tobago,Curaçao,3.0,2.0,Friendly
+1950-11-22,Trinidad And Tobago,Curazao,3.0,2.0,Friendly
 1950-11-26,Republic Of Ireland,Noruega,2.0,2.0,Friendly
-1950-11-28,Curaçao,Suriname,3.0,0.0,Friendly
-1950-12-02,Trinidad And Tobago,Curaçao,5.0,1.0,Friendly
+1950-11-28,Curazao,Suriname,3.0,0.0,Friendly
+1950-12-02,Trinidad And Tobago,Curazao,5.0,1.0,Friendly
 1950-12-03,Turquía,Israel,3.0,2.0,Friendly
 1950-12-10,Francia,Países Bajos,5.0,2.0,Friendly
 1950-12-13,Scotland,Austria,0.0,1.0,Friendly
@@ -2567,8 +2567,8 @@ date,home_team,away_team,home_score,away_score,tournament
 1951-12-26,Jamaica,Haití,2.0,2.0,Friendly
 1951-12-27,Jamaica,Haití,0.0,1.0,Friendly
 1951-12-29,Jamaica,Haití,2.0,1.0,Friendly
-1952-02-02,Curaçao,Aruba,3.0,0.0,Friendly
-1952-02-03,Curaçao,Aruba,3.0,1.0,Friendly
+1952-02-02,Curazao,Aruba,3.0,0.0,Friendly
+1952-02-03,Curazao,Aruba,3.0,1.0,Friendly
 1952-02-24,Bélgica,Italia,2.0,0.0,Friendly
 1952-03-16,Chile,Panamá,6.0,1.0,Pan American Championship
 1952-03-23,Austria,Bélgica,2.0,0.0,Friendly
@@ -2609,7 +2609,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1952-06-22,Suecia,Dinamarca,4.0,3.0,Nordic Championship
 1952-06-22,Suiza,Austria,1.0,1.0,Friendly
 1952-06-25,Yugoslavia,Noruega,4.0,1.0,Friendly
-1952-07-03,Países Bajos,Curaçao,3.0,3.0,Friendly
+1952-07-03,Países Bajos,Curazao,3.0,3.0,Friendly
 1952-07-19,Haití,Jamaica,4.0,1.0,Friendly
 1952-07-20,Haití,Jamaica,3.0,3.0,Friendly
 1952-07-23,Haití,Jamaica,2.0,0.0,Friendly
@@ -2657,23 +2657,23 @@ date,home_team,away_team,home_score,away_score,tournament
 1953-03-07,Países Bajos,Dinamarca,1.0,2.0,Friendly
 1953-03-08,Bolivia,Ecuador,1.0,1.0,Copa América
 1953-03-08,Perú,Paraguay,2.0,2.0,Copa América
-1953-03-09,Guatemala,Curaçao,1.0,1.0,CCCF Championship
+1953-03-09,Guatemala,Curazao,1.0,1.0,CCCF Championship
 1953-03-10,Costa Rica,Panamá,3.0,0.0,CCCF Championship
-1953-03-11,Curaçao,Nicaragua,8.0,0.0,CCCF Championship
+1953-03-11,Curazao,Nicaragua,8.0,0.0,CCCF Championship
 1953-03-12,Brasil,Ecuador,2.0,0.0,Copa América
-1953-03-12,Panamá,Curaçao,2.0,4.0,CCCF Championship
+1953-03-12,Panamá,Curazao,2.0,4.0,CCCF Championship
 1953-03-12,Paraguay,Uruguay,2.0,2.0,Copa América
 1953-03-14,Panamá,Nicaragua,0.0,2.0,CCCF Championship
 1953-03-15,Brasil,Uruguay,1.0,0.0,Copa América
-1953-03-15,Costa Rica,Curaçao,1.0,0.0,CCCF Championship
+1953-03-15,Costa Rica,Curazao,1.0,0.0,CCCF Championship
 1953-03-16,Bolivia,Paraguay,1.0,2.0,Copa América
 1953-03-17,Panamá,Guatemala,2.0,2.0,CCCF Championship
 1953-03-19,Chile,Ecuador,3.0,0.0,Copa América
-1953-03-19,Curaçao,Honduras,3.0,4.0,CCCF Championship
+1953-03-19,Curazao,Honduras,3.0,4.0,CCCF Championship
 1953-03-19,El Salvador,Panamá,2.0,1.0,CCCF Championship
 1953-03-19,Perú,Brasil,1.0,0.0,Copa América
 1953-03-19,España,Bélgica,3.0,1.0,Friendly
-1953-03-21,El Salvador,Curaçao,1.0,1.0,CCCF Championship
+1953-03-21,El Salvador,Curazao,1.0,1.0,CCCF Championship
 1953-03-21,Honduras,Panamá,3.0,1.0,CCCF Championship
 1953-03-22,Alemania,Austria,0.0,0.0,Friendly
 1953-03-22,Países Bajos,Suiza,1.0,2.0,Friendly
@@ -2831,9 +2831,9 @@ date,home_team,away_team,home_score,away_score,tournament
 1954-07-03,Austria,Uruguay,3.0,1.0,FIFA World Cup
 1954-07-04,Alemania,Hungary,3.0,2.0,FIFA World Cup
 1954-07-04,Iceland,Noruega,1.0,0.0,Friendly
-1954-07-25,Curaçao,Países Bajos,2.0,0.0,Friendly
+1954-07-25,Curazao,Países Bajos,2.0,0.0,Friendly
 1954-07-27,Aruba,Países Bajos,2.0,2.0,Friendly
-1954-07-29,Curaçao,Países Bajos,2.0,1.0,Friendly
+1954-07-29,Curazao,Países Bajos,2.0,1.0,Friendly
 1954-08-01,Suriname,Países Bajos,3.0,4.0,Friendly
 1954-08-05,Suriname,Países Bajos,0.0,2.0,Friendly
 1954-08-14,Australia,Nueva Zelanda,1.0,2.0,Soccer Ashes
@@ -2916,14 +2916,14 @@ date,home_team,away_team,home_score,away_score,tournament
 1955-06-26,Suecia,Russia,0.0,6.0,Friendly
 1955-06-26,Yugoslavia,Suiza,0.0,0.0,Central European International Cup
 1955-08-14,Finland,Noruega,1.0,3.0,Nordic Championship
-1955-08-16,Curaçao,Aruba,2.0,1.0,CCCF Championship
-1955-08-18,Guatemala,Curaçao,4.0,1.0,CCCF Championship
-1955-08-20,Honduras,Curaçao,0.0,2.0,CCCF Championship
+1955-08-16,Curazao,Aruba,2.0,1.0,CCCF Championship
+1955-08-18,Guatemala,Curazao,4.0,1.0,CCCF Championship
+1955-08-20,Honduras,Curazao,0.0,2.0,CCCF Championship
 1955-08-21,Russia,Alemania,3.0,2.0,Friendly
-1955-08-24,Costa Rica,Curaçao,2.0,1.0,CCCF Championship
+1955-08-24,Costa Rica,Curazao,2.0,1.0,CCCF Championship
 1955-08-25,Iceland,Estados Unidos,3.0,2.0,Friendly
-1955-08-26,Curaçao,El Salvador,3.0,0.0,CCCF Championship
-1955-08-28,Curaçao,Cuba,2.0,0.0,CCCF Championship
+1955-08-26,Curazao,El Salvador,3.0,0.0,CCCF Championship
+1955-08-28,Curazao,Cuba,2.0,0.0,CCCF Championship
 1955-08-28,Suecia,Finland,3.0,0.0,Nordic Championship
 1955-09-03,Australia,South Africa,0.0,3.0,Friendly
 1955-09-10,Australia,South Africa,0.0,2.0,Friendly
@@ -2967,8 +2967,8 @@ date,home_team,away_team,home_score,away_score,tournament
 1955-12-23,Egipto,Portugal,0.0,4.0,Friendly
 1955-12-25,Bélgica,Francia,2.0,1.0,Friendly
 1956-01-02,RD Congo,Cameroon,2.0,4.0,Friendly
-1956-01-13,Curaçao,Martinique,3.0,1.0,Friendly
-1956-01-15,Curaçao,Martinique,3.0,1.0,Friendly
+1956-01-13,Curazao,Martinique,3.0,1.0,Friendly
+1956-01-15,Curazao,Martinique,3.0,1.0,Friendly
 1956-01-21,Uruguay,Paraguay,4.0,2.0,Copa América
 1956-01-22,Argentina,Perú,2.0,1.0,Copa América
 1956-01-24,Brasil,Chile,1.0,4.0,Copa América
@@ -3007,8 +3007,8 @@ date,home_team,away_team,home_score,away_score,tournament
 1956-03-18,Argentina,Brasil,2.0,2.0,Pan American Championship
 1956-03-25,Francia,Austria,3.0,1.0,Friendly
 1956-03-25,Portugal,Turquía,3.0,1.0,Friendly
-1956-03-31,Guadeloupe,Curaçao,1.0,2.0,Friendly
-1956-04-01,Martinique,Curaçao,0.0,1.0,Friendly
+1956-03-31,Guadeloupe,Curazao,1.0,2.0,Friendly
+1956-04-01,Martinique,Curazao,0.0,1.0,Friendly
 1956-04-08,Bélgica,Países Bajos,0.0,1.0,Friendly
 1956-04-08,Portugal,Brasil,0.0,1.0,Friendly
 1956-04-11,Suiza,Brasil,1.0,1.0,Friendly
@@ -3099,14 +3099,14 @@ date,home_team,away_team,home_score,away_score,tournament
 1957-02-16,Egipto,Ethiopia,4.0,0.0,African Cup of Nations
 1957-02-17,Sudan,Egipto,3.0,4.0,Friendly
 1957-02-24,Malta,Austria,2.0,3.0,Friendly
-1957-03-03,Costa Rica,Curaçao,4.0,0.0,FIFA World Cup qualification
+1957-03-03,Costa Rica,Curazao,4.0,0.0,FIFA World Cup qualification
 1957-03-07,Ecuador,Uruguay,2.0,5.0,Copa América
 1957-03-10,Austria,Alemania,2.0,3.0,Friendly
 1957-03-10,Perú,Ecuador,2.0,1.0,Copa América
 1957-03-10,España,Suiza,2.0,2.0,FIFA World Cup qualification
 1957-03-13,Argentina,Colombia,8.0,2.0,Copa América
 1957-03-13,Brasil,Chile,4.0,2.0,Copa América
-1957-03-14,Guatemala,Curaçao,1.0,3.0,FIFA World Cup qualification
+1957-03-14,Guatemala,Curazao,1.0,3.0,FIFA World Cup qualification
 1957-03-17,Argentina,Ecuador,3.0,0.0,Copa América
 1957-03-17,Colombia,Uruguay,1.0,0.0,Copa América
 1957-03-20,Argentina,Uruguay,4.0,0.0,Copa América
@@ -3178,16 +3178,16 @@ date,home_team,away_team,home_score,away_score,tournament
 1957-07-12,Dinamarca,Noruega,1.0,3.0,Friendly
 1957-07-14,Paraguay,Uruguay,5.0,0.0,FIFA World Cup qualification
 1957-07-28,Uruguay,Paraguay,2.0,0.0,FIFA World Cup qualification
-1957-08-04,Curaçao,Costa Rica,1.0,2.0,FIFA World Cup qualification
-1957-08-13,Curaçao,Haití,1.0,3.0,CCCF Championship
+1957-08-04,Curazao,Costa Rica,1.0,2.0,FIFA World Cup qualification
+1957-08-13,Curazao,Haití,1.0,3.0,CCCF Championship
 1957-08-14,Cuba,Panamá,0.0,1.0,CCCF Championship
 1957-08-18,Bolivia,Paraguay,3.0,3.0,Copa Paz del Chaco
-1957-08-18,Curaçao,Cuba,2.0,0.0,CCCF Championship
+1957-08-18,Curazao,Cuba,2.0,0.0,CCCF Championship
 1957-08-21,Bolivia,Paraguay,2.0,1.0,Copa Paz del Chaco
-1957-08-21,Curaçao,Panamá,3.0,0.0,CCCF Championship
+1957-08-21,Curazao,Panamá,3.0,0.0,CCCF Championship
 1957-08-23,Cuba,Haití,1.0,6.0,CCCF Championship
 1957-08-24,Sierra Leone,Ghana,2.0,3.0,Friendly
-1957-08-25,Curaçao,Honduras,1.0,1.0,CCCF Championship
+1957-08-25,Curazao,Honduras,1.0,1.0,CCCF Championship
 1957-08-26,Aruba,Panamá,2.0,2.0,Friendly
 1957-09-01,Finland,Noruega,0.0,4.0,Nordic Championship
 1957-09-01,Iceland,Francia,1.0,5.0,FIFA World Cup qualification
@@ -3242,7 +3242,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1958-04-16,Francia,Suiza,0.0,0.0,Friendly
 1958-04-19,Scotland,Inglaterra,0.0,4.0,British Home Championship
 1958-04-20,Paraguay,Argentina,1.0,0.0,Friendly
-1958-04-23,Países Bajos,Curaçao,8.0,1.0,Friendly
+1958-04-23,Países Bajos,Curazao,8.0,1.0,Friendly
 1958-04-26,Argentina,Paraguay,2.0,0.0,Friendly
 1958-04-30,Argentina,Uruguay,2.0,0.0,Friendly
 1958-05-04,Brasil,Paraguay,5.0,1.0,Copa Oswaldo Cruz
@@ -3255,7 +3255,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1958-05-11,Yugoslavia,Inglaterra,5.0,0.0,Friendly
 1958-05-14,Austria,Republic Of Ireland,3.0,1.0,Friendly
 1958-05-14,Brasil,Bulgaria,4.0,0.0,Friendly
-1958-05-15,Dinamarca,Curaçao,3.0,2.0,Friendly
+1958-05-15,Dinamarca,Curazao,3.0,2.0,Friendly
 1958-05-18,Brasil,Bulgaria,3.0,1.0,Friendly
 1958-05-18,Russia,Inglaterra,1.0,1.0,Friendly
 1958-05-26,Suiza,Bélgica,0.0,2.0,Friendly
@@ -3450,12 +3450,12 @@ date,home_team,away_team,home_score,away_score,tournament
 1960-01-06,Italia,Suiza,3.0,0.0,Central European International Cup
 1960-01-08,Egipto,Yugoslavia,0.0,1.0,Friendly
 1960-02-07,Ghana,Sierra Leone,6.0,2.0,Friendly
-1960-02-14,Costa Rica,Curaçao,1.0,1.0,CCCF Championship
-1960-02-19,Honduras,Curaçao,3.0,3.0,CCCF Championship
-1960-02-23,Cuba,Curaçao,3.0,4.0,CCCF Championship
-1960-02-27,Curaçao,Suriname,1.0,0.0,CCCF Championship
+1960-02-14,Costa Rica,Curazao,1.0,1.0,CCCF Championship
+1960-02-19,Honduras,Curazao,3.0,3.0,CCCF Championship
+1960-02-23,Cuba,Curazao,3.0,4.0,CCCF Championship
+1960-02-27,Curazao,Suriname,1.0,0.0,CCCF Championship
 1960-02-28,Bélgica,Francia,1.0,0.0,Friendly
-1960-02-29,Costa Rica,Curaçao,4.0,0.0,CCCF Championship
+1960-02-29,Costa Rica,Curazao,4.0,0.0,CCCF Championship
 1960-03-06,Brasil,México,2.0,2.0,Pan American Championship
 1960-03-08,Costa Rica,Argentina,0.0,0.0,Pan American Championship
 1960-03-10,Argentina,México,3.0,2.0,Pan American Championship
@@ -3512,7 +3512,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1960-06-22,Noruega,Austria,1.0,2.0,Friendly
 1960-06-26,México,Países Bajos,3.0,1.0,Friendly
 1960-06-29,Brasil,Chile,4.0,0.0,Friendly
-1960-06-29,Curaçao,Países Bajos,0.0,0.0,Friendly
+1960-06-29,Curazao,Países Bajos,0.0,0.0,Friendly
 1960-07-03,Ghana,Egipto,2.0,2.0,Friendly
 1960-07-03,Paraguay,Brasil,1.0,2.0,Atlantic Cup
 1960-07-03,Suriname,Países Bajos,3.0,4.0,Friendly
@@ -3548,7 +3548,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1960-09-28,Polonia,Francia,2.0,2.0,Friendly
 1960-10-02,Bélgica,Países Bajos,1.0,4.0,Friendly
 1960-10-02,Ghana,Mali,5.0,1.0,Friendly
-1960-10-02,Suriname,Curaçao,1.0,2.0,FIFA World Cup qualification
+1960-10-02,Suriname,Curazao,1.0,2.0,FIFA World Cup qualification
 1960-10-08,Northern Ireland,Inglaterra,2.0,5.0,British Home Championship
 1960-10-09,Nigeria,Ghana,0.0,3.0,Friendly
 1960-10-12,Suiza,Francia,6.0,2.0,Friendly
@@ -3579,7 +3579,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1960-11-23,Bulgaria,Alemania,2.0,1.0,Friendly
 1960-11-23,Inglaterra,Wales,5.0,1.0,British Home Championship
 1960-11-27,Bulgaria,Turquía,2.0,1.0,Friendly
-1960-11-27,Curaçao,Suriname,0.0,0.0,FIFA World Cup qualification
+1960-11-27,Curazao,Suriname,0.0,0.0,FIFA World Cup qualification
 1960-12-04,Ecuador,Argentina,3.0,6.0,FIFA World Cup qualification
 1960-12-04,Túnez,German Dr,0.0,3.0,Friendly
 1960-12-08,Malta,Túnez,1.0,0.0,Friendly
@@ -3594,13 +3594,13 @@ date,home_team,away_team,home_score,away_score,tournament
 1961-02-05,Colombia,Estados Unidos,2.0,0.0,Friendly
 1961-02-17,Egipto,Hungary,0.0,2.0,Friendly
 1961-03-05,Ghana,Mali,3.0,0.0,Friendly
-1961-03-06,Curaçao,El Salvador,0.0,0.0,CCCF Championship
+1961-03-06,Curazao,El Salvador,0.0,0.0,CCCF Championship
 1961-03-07,Cuba,Haití,1.0,2.0,CCCF Championship
 1961-03-08,Alemania,Bélgica,1.0,0.0,Friendly
 1961-03-09,Guatemala,Haití,1.0,3.0,CCCF Championship
 1961-03-10,Cuba,Panamá,0.0,1.0,CCCF Championship
-1961-03-10,Curaçao,Honduras,2.0,4.0,CCCF Championship
-1961-03-13,Curaçao,Nicaragua,2.0,1.0,CCCF Championship
+1961-03-10,Curazao,Honduras,2.0,4.0,CCCF Championship
+1961-03-13,Curazao,Nicaragua,2.0,1.0,CCCF Championship
 1961-03-13,Haití,Panamá,3.0,1.0,CCCF Championship
 1961-03-15,Francia,Bélgica,1.0,1.0,Friendly
 1961-03-17,Haití,Honduras,0.0,2.0,CCCF Championship
@@ -3612,16 +3612,16 @@ date,home_team,away_team,home_score,away_score,tournament
 1961-03-23,Panamá,Haití,0.0,2.0,Friendly
 1961-03-26,Chile,Alemania,3.0,1.0,Friendly
 1961-03-26,Czechoslovakia,Suecia,2.0,1.0,Friendly
-1961-03-29,Costa Rica,Curaçao,6.0,0.0,FIFA World Cup qualification
+1961-03-29,Costa Rica,Curazao,6.0,0.0,FIFA World Cup qualification
 1961-04-02,Ghana,Marruecos,0.0,0.0,FIFA World Cup qualification
 1961-04-02,España,Francia,2.0,0.0,Friendly
-1961-04-05,México,Curaçao,7.0,0.0,FIFA World Cup qualification
+1961-04-05,México,Curazao,7.0,0.0,FIFA World Cup qualification
 1961-04-08,Nigeria,Ghana,0.0,0.0,African Cup of Nations qualification
 1961-04-12,México,Costa Rica,4.0,1.0,FIFA World Cup qualification
 1961-04-15,Inglaterra,Scotland,9.0,3.0,British Home Championship
 1961-04-19,Países Bajos,México,1.0,2.0,Friendly
 1961-04-19,Wales,España,1.0,2.0,FIFA World Cup qualification
-1961-04-23,Curaçao,Costa Rica,2.0,0.0,FIFA World Cup qualification
+1961-04-23,Curazao,Costa Rica,2.0,0.0,FIFA World Cup qualification
 1961-04-29,Czechoslovakia,México,2.0,1.0,Friendly
 1961-04-30,Colombia,Perú,1.0,0.0,FIFA World Cup qualification
 1961-04-30,Ghana,Nigeria,2.0,2.0,African Cup of Nations qualification
@@ -3642,7 +3642,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1961-05-17,Paraguay,Argentina,0.0,0.0,Friendly
 1961-05-18,España,Wales,1.0,1.0,FIFA World Cup qualification
 1961-05-20,Suiza,Bélgica,2.0,1.0,FIFA World Cup qualification
-1961-05-21,Curaçao,México,0.0,0.0,FIFA World Cup qualification
+1961-05-21,Curazao,México,0.0,0.0,FIFA World Cup qualification
 1961-05-21,Portugal,Inglaterra,1.0,1.0,FIFA World Cup qualification
 1961-05-24,Italia,Inglaterra,2.0,3.0,Friendly
 1961-05-27,Austria,Inglaterra,3.0,1.0,Friendly
@@ -3743,7 +3743,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1962-03-11,Libya,Túnez,6.0,3.0,Friendly
 1962-03-13,Uruguay,Argentina,1.0,1.0,Friendly
 1962-03-17,Ghana,Mali,0.0,0.0,Friendly
-1962-03-27,Curaçao,Suriname,1.0,0.0,Friendly
+1962-03-27,Curazao,Suriname,1.0,0.0,Friendly
 1962-03-28,Argentina,México,1.0,0.0,Friendly
 1962-04-01,Bélgica,Países Bajos,3.0,1.0,Friendly
 1962-04-01,Colombia,México,0.0,1.0,Friendly
@@ -3815,10 +3815,10 @@ date,home_team,away_team,home_score,away_score,tournament
 1962-06-21,Noruega,Suecia,0.0,2.0,UEFA Euro qualification
 1962-06-24,Austria,Hungary,1.0,2.0,Friendly
 1962-07-03,Noruega,Malta,5.0,0.0,Friendly
-1962-07-07,Jamaica,Curaçao,4.0,4.0,Friendly
+1962-07-07,Jamaica,Curazao,4.0,4.0,Friendly
 1962-07-09,Iceland,Noruega,1.0,3.0,Friendly
-1962-07-09,Jamaica,Curaçao,2.0,1.0,Friendly
-1962-07-11,Jamaica,Curaçao,1.0,2.0,Friendly
+1962-07-09,Jamaica,Curazao,2.0,1.0,Friendly
+1962-07-11,Jamaica,Curazao,1.0,2.0,Friendly
 1962-07-14,Gabon,RD Congo,3.0,1.0,Friendly
 1962-08-10,Bolivia,Paraguay,3.0,1.0,Copa Paz del Chaco
 1962-08-12,Bolivia,Paraguay,3.0,2.0,Copa Paz del Chaco
@@ -3831,9 +3831,9 @@ date,home_team,away_team,home_score,away_score,tournament
 1962-08-30,Corea del Sur,Japón,1.0,0.0,Asian Games
 1962-09-01,Corea del Sur,Malaysia,2.0,1.0,Asian Games
 1962-09-04,India,Corea del Sur,2.0,1.0,Asian Games
-1962-09-05,Países Bajos,Curaçao,8.0,0.0,Friendly
+1962-09-05,Países Bajos,Curazao,8.0,0.0,Friendly
 1962-09-08,Malaysia,Japón,2.0,2.0,Merdeka Tournament
-1962-09-11,Dinamarca,Curaçao,3.0,1.0,Friendly
+1962-09-11,Dinamarca,Curazao,3.0,1.0,Friendly
 1962-09-12,Japón,Pakistan,1.0,1.0,Merdeka Tournament
 1962-09-15,Myanmar,Japón,3.0,1.0,Merdeka Tournament
 1962-09-16,Austria,Czechoslovakia,0.0,6.0,Friendly
@@ -3898,14 +3898,14 @@ date,home_team,away_team,home_score,away_score,tournament
 1963-02-23,Jamaica,Haití,3.0,2.0,Phillip Seaga Cup
 1963-02-24,Mali,Senegal,3.0,1.0,Friendly
 1963-02-27,Francia,Inglaterra,5.0,2.0,UEFA Euro qualification
-1963-02-27,Jamaica,Curaçao,1.0,2.0,Phillip Seaga Cup
+1963-02-27,Jamaica,Curazao,1.0,2.0,Phillip Seaga Cup
 1963-02-27,Nigeria,Senegal,4.0,0.0,Friendly
-1963-03-02,Haití,Curaçao,0.0,1.0,Phillip Seaga Cup
+1963-03-02,Haití,Curazao,0.0,1.0,Phillip Seaga Cup
 1963-03-03,Ghana,Mali,4.0,0.0,Friendly
 1963-03-03,Países Bajos,Bélgica,0.0,1.0,Friendly
 1963-03-03,Paraguay,Brasil,2.0,2.0,Friendly
 1963-03-03,Túnez,Kuwait,2.0,1.0,Friendly
-1963-03-04,Jamaica,Curaçao,1.0,2.0,Friendly
+1963-03-04,Jamaica,Curazao,1.0,2.0,Friendly
 1963-03-06,Jamaica,Haití,0.0,3.0,Friendly
 1963-03-10,Argentina,Colombia,4.0,2.0,Copa América
 1963-03-10,Bolivia,Ecuador,4.0,4.0,Copa América
@@ -3924,17 +3924,17 @@ date,home_team,away_team,home_score,away_score,tournament
 1963-03-24,Argentina,Brasil,3.0,0.0,Copa América
 1963-03-24,Bolivia,Paraguay,2.0,0.0,Copa América
 1963-03-24,Colombia,Perú,1.0,1.0,Copa América
-1963-03-24,México,Curaçao,1.0,2.0,CONCACAF Championship
+1963-03-24,México,Curazao,1.0,2.0,CONCACAF Championship
 1963-03-25,El Salvador,Panamá,1.0,1.0,CONCACAF Championship
 1963-03-27,Brasil,Ecuador,2.0,2.0,Copa América
 1963-03-27,Paraguay,Perú,4.0,1.0,Copa América
 1963-03-27,Turquía,Italia,0.0,1.0,UEFA Euro qualification
 1963-03-28,Bolivia,Argentina,3.0,2.0,Copa América
-1963-03-28,Costa Rica,Curaçao,1.0,0.0,CONCACAF Championship
+1963-03-28,Costa Rica,Curazao,1.0,0.0,CONCACAF Championship
 1963-03-28,Jamaica,México,0.0,8.0,CONCACAF Championship
 1963-03-29,Nicaragua,Panamá,0.0,5.0,CONCACAF Championship
 1963-03-30,Costa Rica,México,0.0,0.0,CONCACAF Championship
-1963-03-30,Jamaica,Curaçao,1.0,2.0,CONCACAF Championship
+1963-03-30,Jamaica,Curazao,1.0,2.0,CONCACAF Championship
 1963-03-31,Panamá,Honduras,0.0,1.0,CONCACAF Championship
 1963-03-31,Argentina,Paraguay,1.0,1.0,Copa América
 1963-03-31,Bélgica,Yugoslavia,0.0,1.0,UEFA Euro qualification
@@ -3944,13 +3944,13 @@ date,home_team,away_team,home_score,away_score,tournament
 1963-03-31,Suiza,Países Bajos,1.0,1.0,UEFA Euro qualification
 1963-04-02,Syria,Túnez,0.0,1.0,Arab Cup
 1963-04-02,Kuwait,Jordania,4.0,0.0,Arab Cup
-1963-04-03,Honduras,Curaçao,1.0,4.0,CONCACAF Championship
+1963-04-03,Honduras,Curazao,1.0,4.0,CONCACAF Championship
 1963-04-04,Jordania,Túnez,0.0,4.0,Arab Cup
-1963-04-05,Costa Rica,Curaçao,1.0,0.0,CONCACAF Championship
+1963-04-05,Costa Rica,Curazao,1.0,0.0,CONCACAF Championship
 1963-04-06,Inglaterra,Scotland,1.0,2.0,British Home Championship
 1963-04-06,Kuwait,Túnez,1.0,5.0,Arab Cup
 1963-04-06,Lebanon,Jordania,5.0,0.0,Arab Cup
-1963-04-07,El Salvador,Curaçao,3.0,2.0,CONCACAF Championship
+1963-04-07,El Salvador,Curazao,3.0,2.0,CONCACAF Championship
 1963-04-07,Lebanon,Túnez,0.0,1.0,Arab Cup
 1963-04-12,Senegal,Cameroon,1.0,0.0,African Friendship Games
 1963-04-12,Francia,Gambia,5.0,1.0,African Friendship Games
@@ -4035,7 +4035,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1963-10-12,Wales,Inglaterra,0.0,4.0,British Home Championship
 1963-10-13,Republic Of Ireland,Austria,3.0,2.0,UEFA Euro qualification
 1963-10-15,Paraguay,Argentina,0.0,4.0,Copa Chevallier Boutell
-1963-10-15,Suriname,Curaçao,2.0,3.0,Friendly
+1963-10-15,Suriname,Curazao,2.0,3.0,Friendly
 1963-10-20,Países Bajos,Bélgica,1.0,1.0,Friendly
 1963-10-26,Francia,Bulgaria,3.0,1.0,UEFA Euro qualification
 1963-10-27,Hungary,Austria,2.0,1.0,Friendly
@@ -4166,19 +4166,19 @@ date,home_team,away_team,home_score,away_score,tournament
 1965-01-03,Uruguay,German Dr,0.0,2.0,Friendly
 1965-01-09,Togo,RD Congo,0.0,3.0,Friendly
 1965-01-17,Costa de Marfil,RD Congo,2.0,0.0,African Cup of Nations qualification
-1965-01-20,Cuba,Curaçao,1.0,1.0,FIFA World Cup qualification
-1965-01-23,Jamaica,Curaçao,2.0,0.0,FIFA World Cup qualification
+1965-01-20,Cuba,Curazao,1.0,1.0,FIFA World Cup qualification
+1965-01-23,Jamaica,Curazao,2.0,0.0,FIFA World Cup qualification
 1965-01-24,Portugal,Turquía,5.0,1.0,FIFA World Cup qualification
 1965-01-26,Israel,Países Bajos,0.0,1.0,Friendly
-1965-01-30,Cuba,Curaçao,0.0,1.0,FIFA World Cup qualification
+1965-01-30,Cuba,Curazao,0.0,1.0,FIFA World Cup qualification
 1965-02-01,RD Congo,RD Congo,0.0,3.0,Friendly
-1965-02-03,Curaçao,Jamaica,0.0,0.0,FIFA World Cup qualification
+1965-02-03,Curazao,Jamaica,0.0,0.0,FIFA World Cup qualification
 1965-02-25,Senegal,Guinea,2.0,0.0,African Cup of Nations qualification
 1965-02-28,Honduras,México,0.0,1.0,FIFA World Cup qualification
 1965-02-28,Túnez,Marruecos,0.0,0.0,Friendly
 1965-03-04,México,Honduras,3.0,0.0,FIFA World Cup qualification
 1965-03-07,Estados Unidos,México,2.0,2.0,FIFA World Cup qualification
-1965-03-09,Curaçao,Costa Rica,1.0,2.0,Friendly
+1965-03-09,Curazao,Costa Rica,1.0,2.0,Friendly
 1965-03-10,Guatemala,Paraguay,1.0,4.0,Friendly
 1965-03-11,Hong Kong,Japón,1.0,4.0,Friendly
 1965-03-12,Kuwait,Marruecos,0.0,2.0,Friendly
@@ -4198,20 +4198,20 @@ date,home_team,away_team,home_score,away_score,tournament
 1965-03-24,Republic Of Ireland,Bélgica,0.0,2.0,Friendly
 1965-03-25,Singapore,Japón,1.0,4.0,Friendly
 1965-03-27,Malaysia,Japón,1.0,1.0,Friendly
-1965-03-28,Costa Rica,Curaçao,6.0,0.0,CONCACAF Championship
+1965-03-28,Costa Rica,Curazao,6.0,0.0,CONCACAF Championship
 1965-03-28,El Salvador,México,0.0,2.0,CONCACAF Championship
 1965-03-28,Guatemala,Haití,3.0,0.0,CONCACAF Championship
-1965-03-30,El Salvador,Curaçao,1.0,1.0,CONCACAF Championship
+1965-03-30,El Salvador,Curazao,1.0,1.0,CONCACAF Championship
 1965-03-30,Costa Rica,Haití,3.0,1.0,CONCACAF Championship
 1965-03-31,Guinea,Senegal,3.0,1.0,African Cup of Nations qualification
-1965-04-01,México,Curaçao,5.0,0.0,CONCACAF Championship
+1965-04-01,México,Curazao,5.0,0.0,CONCACAF Championship
 1965-04-03,Perú,Paraguay,0.0,1.0,Friendly
 1965-04-04,Haití,México,0.0,3.0,CONCACAF Championship
 1965-04-06,Costa Rica,México,1.0,1.0,CONCACAF Championship
-1965-04-06,Guatemala,Curaçao,3.0,2.0,CONCACAF Championship
+1965-04-06,Guatemala,Curazao,3.0,2.0,CONCACAF Championship
 1965-04-07,Bélgica,Polonia,0.0,0.0,Friendly
 1965-04-07,Países Bajos,Northern Ireland,0.0,0.0,FIFA World Cup qualification
-1965-04-08,Haití,Curaçao,1.0,1.0,CONCACAF Championship
+1965-04-08,Haití,Curazao,1.0,1.0,CONCACAF Championship
 1965-04-10,Inglaterra,Scotland,2.0,2.0,British Home Championship
 1965-04-11,Albania,Suiza,0.0,2.0,FIFA World Cup qualification
 1965-04-11,Guatemala,México,1.0,2.0,CONCACAF Championship
@@ -4448,23 +4448,23 @@ date,home_team,away_team,home_score,away_score,tournament
 1966-06-05,Russia,Francia,3.0,3.0,Friendly
 1966-06-08,Brasil,Polonia,2.0,1.0,Friendly
 1966-06-08,Brasil,Perú,3.0,1.0,Friendly
-1966-06-10,Curaçao,Jamaica,0.0,0.0,Friendly
+1966-06-10,Curazao,Jamaica,0.0,0.0,Friendly
 1966-06-11,Argentina,Polonia,1.0,1.0,Friendly
 1966-06-11,Haití,Guadeloupe,3.0,0.0,Friendly
 1966-06-12,Brasil,Czechoslovakia,2.0,1.0,Friendly
 1966-06-12,Portugal,Noruega,4.0,0.0,Friendly
-1966-06-12,Trinidad And Tobago,Curaçao,1.0,0.0,Friendly
+1966-06-12,Trinidad And Tobago,Curazao,1.0,0.0,Friendly
 1966-06-13,Haití,Suriname,1.0,4.0,Friendly
 1966-06-15,Brasil,Czechoslovakia,2.0,2.0,Friendly
 1966-06-15,Israel,Uruguay,1.0,2.0,Friendly
-1966-06-16,Haití,Curaçao,3.0,0.0,Friendly
-1966-06-18,Guadeloupe,Curaçao,0.0,4.0,Friendly
+1966-06-16,Haití,Curazao,3.0,0.0,Friendly
+1966-06-18,Guadeloupe,Curazao,0.0,4.0,Friendly
 1966-06-18,Haití,Trinidad And Tobago,1.0,0.0,Friendly
 1966-06-18,Italia,Austria,1.0,0.0,Friendly
 1966-06-18,Scotland,Portugal,0.0,1.0,Friendly
 1966-06-19,Romania,Uruguay,1.0,0.0,Friendly
 1966-06-19,Suiza,México,1.0,1.0,Friendly
-1966-06-20,Curaçao,Suriname,1.0,1.0,Friendly
+1966-06-20,Curazao,Suriname,1.0,1.0,Friendly
 1966-06-21,Dinamarca,Portugal,1.0,3.0,Friendly
 1966-06-22,Haití,Jamaica,3.0,0.0,Friendly
 1966-06-22,Italia,Argentina,3.0,0.0,Friendly
@@ -4582,15 +4582,15 @@ date,home_team,away_team,home_score,away_score,tournament
 1967-01-04,Uruguay,Romania,1.0,1.0,Friendly
 1967-01-05,México,Suiza,3.0,0.0,Friendly
 1967-01-08,México,Suiza,0.0,2.0,Friendly
-1967-01-11,Jamaica,Curaçao,1.0,1.0,CONCACAF Championship qualification
+1967-01-11,Jamaica,Curazao,1.0,1.0,CONCACAF Championship qualification
 1967-01-12,Cuba,Haití,1.0,1.0,CONCACAF Championship qualification
-1967-01-13,Curaçao,Trinidad And Tobago,1.0,2.0,CONCACAF Championship qualification
+1967-01-13,Curazao,Trinidad And Tobago,1.0,2.0,CONCACAF Championship qualification
 1967-01-16,Haití,Trinidad And Tobago,4.0,2.0,CONCACAF Championship qualification
 1967-01-17,Uruguay,Bolivia,4.0,0.0,Copa América
-1967-01-17,Curaçao,Cuba,2.0,2.0,CONCACAF Championship qualification
+1967-01-17,Curazao,Cuba,2.0,2.0,CONCACAF Championship qualification
 1967-01-17,Egipto,German Dr,1.0,2.0,Friendly
 1967-01-18,Argentina,Paraguay,4.0,1.0,Copa América
-1967-01-19,Curaçao,Haití,0.0,1.0,CONCACAF Championship qualification
+1967-01-19,Curazao,Haití,0.0,1.0,CONCACAF Championship qualification
 1967-01-20,Egipto,German Dr,0.0,3.0,Friendly
 1967-01-21,Jamaica,Haití,0.0,1.0,CONCACAF Championship qualification
 1967-01-21,Uruguay,Venezuela,4.0,0.0,Copa América
@@ -4892,7 +4892,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1968-09-25,Francia,Alemania,1.0,1.0,Friendly
 1968-09-25,Estados Unidos,Israel,0.0,4.0,Friendly
 1968-09-29,México,Ethiopia,3.0,0.0,Friendly
-1968-10-04,Curaçao,Costa Rica,1.0,1.0,Friendly
+1968-10-04,Curazao,Costa Rica,1.0,1.0,Friendly
 1968-10-06,Canadá,Bermuda,4.0,0.0,FIFA World Cup qualification
 1968-10-08,Nueva Zelanda,New Caledonia,1.0,3.0,Friendly
 1968-10-09,Bélgica,Finland,6.0,1.0,FIFA World Cup qualification
@@ -4931,22 +4931,22 @@ date,home_team,away_team,home_score,away_score,tournament
 1968-11-23,Haití,Trinidad And Tobago,4.0,0.0,FIFA World Cup qualification
 1968-11-23,Romania,Suiza,2.0,0.0,FIFA World Cup qualification
 1968-11-24,RD Congo,Túnez,1.0,0.0,Friendly
-1968-11-24,Suriname,Curaçao,6.0,0.0,FIFA World Cup qualification
+1968-11-24,Suriname,Curazao,6.0,0.0,FIFA World Cup qualification
 1968-11-25,Haití,Trinidad And Tobago,2.0,4.0,FIFA World Cup qualification
 1968-11-27,Argentina,Chile,4.0,0.0,Copa Carlos Dittborn
 1968-12-01,Cameroon,Túnez,4.0,2.0,Friendly
 1968-12-01,Ghana,Senegal,2.0,0.0,Friendly
 1968-12-04,Chile,Argentina,2.0,1.0,Copa Carlos Dittborn
-1968-12-05,Curaçao,Suriname,2.0,0.0,FIFA World Cup qualification
+1968-12-05,Curazao,Suriname,2.0,0.0,FIFA World Cup qualification
 1968-12-08,Haití,Guatemala,2.0,0.0,FIFA World Cup qualification
 1968-12-11,Cyprus,Scotland,0.0,5.0,FIFA World Cup qualification
 1968-12-11,Inglaterra,Bulgaria,1.0,1.0,Friendly
 1968-12-11,Greece,Portugal,4.0,2.0,FIFA World Cup qualification
 1968-12-11,España,Bélgica,1.0,1.0,FIFA World Cup qualification
 1968-12-11,Turquía,Northern Ireland,0.0,3.0,FIFA World Cup qualification
-1968-12-12,El Salvador,Curaçao,1.0,0.0,FIFA World Cup qualification
+1968-12-12,El Salvador,Curazao,1.0,0.0,FIFA World Cup qualification
 1968-12-14,Brasil,Alemania,2.0,2.0,Friendly
-1968-12-15,El Salvador,Curaçao,2.0,1.0,FIFA World Cup qualification
+1968-12-15,El Salvador,Curazao,2.0,1.0,FIFA World Cup qualification
 1968-12-17,Argentina,Polonia,1.0,0.0,Friendly
 1968-12-17,Brasil,Yugoslavia,3.0,3.0,Friendly
 1968-12-18,Chile,Alemania,2.0,1.0,Friendly
@@ -5153,18 +5153,18 @@ date,home_team,away_team,home_score,away_score,tournament
 1969-11-23,Zimbabwe,Australia,1.0,1.0,FIFA World Cup qualification
 1969-11-26,Corea del Sur,Vietnam Republic,3.0,0.0,King's Cup
 1969-11-27,Australia,Zimbabwe,0.0,0.0,FIFA World Cup qualification
-1969-11-27,Costa Rica,Curaçao,2.0,1.0,CONCACAF Championship
+1969-11-27,Costa Rica,Curazao,2.0,1.0,CONCACAF Championship
 1969-11-27,México,Jamaica,2.0,0.0,CONCACAF Championship
 1969-11-28,Indonesia,Corea del Sur,0.0,1.0,King's Cup
-1969-11-29,Guatemala,Curaçao,6.0,1.0,CONCACAF Championship
+1969-11-29,Guatemala,Curazao,6.0,1.0,CONCACAF Championship
 1969-11-29,Zimbabwe,Australia,1.0,3.0,FIFA World Cup qualification
 1969-11-30,Costa Rica,México,2.0,0.0,CONCACAF Championship
-1969-12-02,Curaçao,Trinidad And Tobago,3.0,1.0,CONCACAF Championship
+1969-12-02,Curazao,Trinidad And Tobago,3.0,1.0,CONCACAF Championship
 1969-12-02,México,Guatemala,0.0,1.0,CONCACAF Championship
 1969-12-04,Israel,Australia,1.0,0.0,FIFA World Cup qualification
-1969-12-04,México,Curaçao,2.0,2.0,CONCACAF Championship
+1969-12-04,México,Curazao,2.0,2.0,CONCACAF Championship
 1969-12-05,Argelia,North Korea,1.0,3.0,Friendly
-1969-12-06,Jamaica,Curaçao,1.0,2.0,CONCACAF Championship
+1969-12-06,Jamaica,Curazao,1.0,2.0,CONCACAF Championship
 1969-12-07,México,Trinidad And Tobago,0.0,0.0,CONCACAF Championship
 1969-12-08,Iraq,German Dr,1.0,1.0,Friendly
 1969-12-10,Inglaterra,Portugal,1.0,0.0,Friendly
@@ -5306,9 +5306,9 @@ date,home_team,away_team,home_score,away_score,tournament
 1970-09-30,Brasil,México,2.0,1.0,Friendly
 1970-10-04,Chile,Brasil,1.0,5.0,Friendly
 1970-10-07,Austria,Francia,1.0,0.0,Friendly
-1970-10-07,Curaçao,Trinidad And Tobago,1.0,1.0,Friendly
+1970-10-07,Curazao,Trinidad And Tobago,1.0,1.0,Friendly
 1970-10-07,Noruega,Hungary,1.0,3.0,UEFA Euro qualification
-1970-10-09,Suriname,Curaçao,5.0,1.0,Friendly
+1970-10-09,Suriname,Curazao,5.0,1.0,Friendly
 1970-10-11,Países Bajos,Yugoslavia,1.0,1.0,UEFA Euro qualification
 1970-10-11,Sierra Leone,Senegal,1.0,0.0,Friendly
 1970-10-14,Dinamarca,Portugal,0.0,1.0,UEFA Euro qualification
@@ -5527,7 +5527,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1971-11-26,Trinidad And Tobago,México,0.0,2.0,CONCACAF Championship
 1971-11-28,Cuba,México,0.0,1.0,CONCACAF Championship
 1971-11-28,Trinidad And Tobago,Haití,1.0,6.0,CONCACAF Championship
-1971-11-30,Barbados,Curaçao,1.0,3.0,Friendly
+1971-11-30,Barbados,Curazao,1.0,3.0,Friendly
 1971-12-01,Greece,Inglaterra,0.0,2.0,UEFA Euro qualification
 1971-12-01,Haití,Honduras,3.0,1.0,CONCACAF Championship
 1971-12-01,Países Bajos,Scotland,2.0,1.0,Friendly
@@ -5772,10 +5772,10 @@ date,home_team,away_team,home_score,away_score,tournament
 1972-12-03,Senegal,Marruecos,1.0,2.0,FIFA World Cup qualification
 1972-12-08,Egipto,Túnez,2.0,1.0,FIFA World Cup qualification
 1972-12-10,Turquía,Luxembourg,3.0,0.0,FIFA World Cup qualification
-1972-12-14,Haití,Curaçao,3.0,0.0,Friendly
+1972-12-14,Haití,Curazao,3.0,0.0,Friendly
 1972-12-14,Panamá,Puerto Rico,5.0,0.0,Friendly
 1972-12-16,Panamá,Puerto Rico,0.0,1.0,Friendly
-1972-12-17,Haití,Curaçao,4.0,1.0,Friendly
+1972-12-17,Haití,Curazao,4.0,1.0,Friendly
 1972-12-17,Túnez,Egipto,2.0,0.0,FIFA World Cup qualification
 1972-12-28,Ghana,Togo,2.0,2.0,Friendly
 1972-12-29,Liberia,Ghana,2.0,2.0,Friendly
@@ -6024,9 +6024,9 @@ date,home_team,away_team,home_score,away_score,tournament
 1973-10-20,Italia,Suiza,2.0,0.0,FIFA World Cup qualification
 1973-10-21,Yugoslavia,España,0.0,0.0,FIFA World Cup qualification
 1973-10-21,Zambia,Marruecos,4.0,0.0,FIFA World Cup qualification
-1973-10-27,Curaçao,Suriname,1.0,1.0,Friendly
+1973-10-27,Curazao,Suriname,1.0,1.0,Friendly
 1973-10-28,Australia,Corea del Sur,0.0,0.0,FIFA World Cup qualification
-1973-10-29,Curaçao,Suriname,2.0,2.0,Friendly
+1973-10-29,Curazao,Suriname,2.0,2.0,Friendly
 1973-10-31,Argelia,Marruecos,2.0,0.0,Friendly
 1973-10-31,Bélgica,Noruega,2.0,0.0,FIFA World Cup qualification
 1973-11-03,Haití,Estados Unidos,1.0,0.0,Friendly
@@ -6050,19 +6050,19 @@ date,home_team,away_team,home_score,away_score,tournament
 1973-11-25,Marruecos,Zambia,2.0,0.0,FIFA World Cup qualification
 1973-11-27,Austria,Suecia,1.0,2.0,FIFA World Cup qualification
 1973-11-30,Guatemala,México,0.0,0.0,CONCACAF Championship
-1973-12-01,Haití,Curaçao,3.0,0.0,CONCACAF Championship
+1973-12-01,Haití,Curazao,3.0,0.0,CONCACAF Championship
 1973-12-02,Panamá,Nicaragua,2.0,0.0,Friendly
 1973-12-03,Honduras,México,1.0,1.0,CONCACAF Championship
 1973-12-04,Haití,Trinidad And Tobago,2.0,1.0,CONCACAF Championship
-1973-12-05,Guatemala,Curaçao,2.0,2.0,CONCACAF Championship
+1973-12-05,Guatemala,Curazao,2.0,2.0,CONCACAF Championship
 1973-12-07,Haití,Honduras,1.0,0.0,CONCACAF Championship
-1973-12-08,México,Curaçao,8.0,0.0,CONCACAF Championship
+1973-12-08,México,Curazao,8.0,0.0,CONCACAF Championship
 1973-12-09,RD Congo,Marruecos,3.0,0.0,FIFA World Cup qualification
-1973-12-12,Honduras,Curaçao,2.0,2.0,CONCACAF Championship
+1973-12-12,Honduras,Curazao,2.0,2.0,CONCACAF Championship
 1973-12-13,Haití,Guatemala,2.0,1.0,CONCACAF Championship
 1973-12-14,México,Trinidad And Tobago,0.0,4.0,CONCACAF Championship
 1973-12-16,Cambodia,Corea del Sur,0.0,5.0,King's Cup
-1973-12-17,Curaçao,Trinidad And Tobago,0.0,4.0,CONCACAF Championship
+1973-12-17,Curazao,Trinidad And Tobago,0.0,4.0,CONCACAF Championship
 1973-12-18,Haití,México,0.0,1.0,CONCACAF Championship
 1973-12-18,Corea del Sur,Malaysia,0.0,0.0,King's Cup
 1973-12-21,RD Congo,Túnez,0.0,1.0,Friendly
@@ -6652,7 +6652,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1976-07-05,Cameroon,RD Congo,2.0,1.0,Friendly
 1976-07-07,Burundi,RD Congo,0.0,1.0,Friendly
 1976-07-11,Costa Rica,Panamá,3.0,0.0,CONCACAF Championship qualification
-1976-07-30,Curaçao,Haití,1.0,2.0,CONCACAF Championship qualification
+1976-07-30,Curazao,Haití,1.0,2.0,CONCACAF Championship qualification
 1976-08-07,Malaysia,Corea del Sur,2.0,1.0,Merdeka Tournament
 1976-08-08,India,Japón,1.0,5.0,Merdeka Tournament
 1976-08-08,São Tomé And Príncipe,RD Congo,2.0,3.0,Friendly
@@ -6663,7 +6663,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1976-08-11,Suecia,Finland,6.0,0.0,Nordic Championship
 1976-08-12,Indonesia,Corea del Sur,0.0,2.0,Merdeka Tournament
 1976-08-13,Myanmar,Japón,2.0,2.0,Merdeka Tournament
-1976-08-14,Haití,Curaçao,7.0,0.0,CONCACAF Championship qualification
+1976-08-14,Haití,Curazao,7.0,0.0,CONCACAF Championship qualification
 1976-08-15,Myanmar,Corea del Sur,2.0,2.0,Merdeka Tournament
 1976-08-16,Japón,Thailand,2.0,2.0,Merdeka Tournament
 1976-08-17,Suiza,Bulgaria,2.0,2.0,Friendly
@@ -7171,7 +7171,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1978-06-23,Indonesia,Corea del Sur,1.0,3.0,Indonesia Tournament
 1978-06-24,Brasil,Italia,2.0,1.0,FIFA World Cup
 1978-06-25,Argentina,Países Bajos,3.0,1.0,FIFA World Cup
-1978-06-25,Barbados,Curaçao,0.0,0.0,CFU Caribbean Cup qualification
+1978-06-25,Barbados,Curazao,0.0,0.0,CFU Caribbean Cup qualification
 1978-06-28,Suecia,Finland,2.0,1.0,Nordic Championship
 1978-07-02,Argelia,Iraq,1.0,1.0,Friendly
 1978-07-04,Argelia,Iraq,0.0,0.0,Friendly
@@ -7204,7 +7204,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1978-07-27,Corea del Sur,Syria,2.0,0.0,Merdeka Tournament
 1978-07-28,Ghana,Malawi,1.0,0.0,All-African Games
 1978-07-28,Argelia,Nigeria,1.0,0.0,All-African Games
-1978-07-29,Curaçao,Barbados,1.0,0.0,CFU Caribbean Cup qualification
+1978-07-29,Curazao,Barbados,1.0,0.0,CFU Caribbean Cup qualification
 1978-07-29,Iraq,Corea del Sur,0.0,2.0,Merdeka Tournament
 1978-08-09,Finland,Noruega,1.0,1.0,Nordic Championship
 1978-08-16,Dinamarca,Suecia,2.0,1.0,Nordic Championship
@@ -7226,7 +7226,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1978-09-20,Países Bajos,Iceland,3.0,0.0,UEFA Euro qualification
 1978-09-20,Portugal,Estados Unidos,1.0,0.0,Friendly
 1978-09-23,Italia,Turquía,1.0,0.0,Friendly
-1978-09-30,Curaçao,Suriname,0.0,2.0,CFU Caribbean Cup qualification
+1978-09-30,Curazao,Suriname,0.0,2.0,CFU Caribbean Cup qualification
 1978-10-01,Martinique,Haití,0.0,0.0,CFU Caribbean Cup qualification
 1978-10-01,Singapore,Nueva Zelanda,0.0,2.0,Friendly
 1978-10-04,Suecia,Czechoslovakia,1.0,3.0,UEFA Euro qualification
@@ -7236,7 +7236,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1978-10-11,Czechoslovakia,Alemania,3.0,4.0,Friendly
 1978-10-11,Portugal,Bélgica,1.0,1.0,UEFA Euro qualification
 1978-10-11,Suiza,Países Bajos,1.0,3.0,UEFA Euro qualification
-1978-10-13,Suriname,Curaçao,3.0,0.0,CFU Caribbean Cup qualification
+1978-10-13,Suriname,Curazao,3.0,0.0,CFU Caribbean Cup qualification
 1978-10-22,Haití,Suriname,0.0,3.0,CFU Caribbean Cup
 1978-10-22,Malawi,Argelia,1.0,1.0,Friendly
 1978-10-24,Malawi,Argelia,2.0,1.0,Friendly
@@ -7677,7 +7677,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1980-09-10,Republic Of Ireland,Países Bajos,2.0,1.0,FIFA World Cup qualification
 1980-09-10,Suecia,Scotland,0.0,1.0,FIFA World Cup qualification
 1980-09-10,Suiza,Alemania,2.0,3.0,Friendly
-1980-09-12,Haití,Curaçao,1.0,0.0,CONCACAF Championship qualification
+1980-09-12,Haití,Curazao,1.0,0.0,CONCACAF Championship qualification
 1980-09-15,Canadá,Nueva Zelanda,4.0,0.0,Friendly
 1980-09-16,Malaysia,Corea del Sur,1.0,1.0,AFC Asian Cup
 1980-09-17,Canadá,Nueva Zelanda,3.0,0.0,Friendly
@@ -7753,7 +7753,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1980-11-09,Honduras,Canadá,2.0,0.0,Friendly
 1980-11-09,México,Estados Unidos,5.0,1.0,CONCACAF Championship qualification
 1980-11-09,Senegal,Mauritania,3.0,0.0,Friendly
-1980-11-09,Trinidad And Tobago,Curaçao,0.0,0.0,CONCACAF Championship qualification
+1980-11-09,Trinidad And Tobago,Curazao,0.0,0.0,CONCACAF Championship qualification
 1980-11-11,Greece,Australia,3.0,3.0,Friendly
 1980-11-11,Guatemala,Canadá,0.0,1.0,Friendly
 1980-11-12,Israel,Suecia,0.0,0.0,FIFA World Cup qualification
@@ -7773,7 +7773,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1980-11-19,Portugal,Northern Ireland,1.0,0.0,FIFA World Cup qualification
 1980-11-23,Guinea,RD Congo,2.0,1.0,Friendly
 1980-11-23,Estados Unidos,México,2.0,1.0,CONCACAF Championship qualification
-1980-11-29,Curaçao,Trinidad And Tobago,0.0,0.0,CONCACAF Championship qualification
+1980-11-29,Curazao,Trinidad And Tobago,0.0,0.0,CONCACAF Championship qualification
 1980-11-30,RD Congo,Angola,0.0,0.0,African Cup of Nations qualification
 1980-11-30,Sierra Leone,Senegal,1.0,2.0,African Cup of Nations qualification
 1980-11-30,Zambia,Marruecos,2.0,0.0,FIFA World Cup qualification
@@ -7787,7 +7787,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1980-12-08,Uruguay,Finland,6.0,0.0,Friendly
 1980-12-11,Uruguay,Bolivia,5.0,0.0,Friendly
 1980-12-12,Argelia,Sudan,2.0,0.0,FIFA World Cup qualification
-1980-12-12,Curaçao,Haití,1.0,1.0,CONCACAF Championship qualification
+1980-12-12,Curazao,Haití,1.0,1.0,CONCACAF Championship qualification
 1980-12-12,Arabia Saudita,Indonesia,8.0,0.0,Friendly
 1980-12-14,Honduras,Panamá,5.0,0.0,CONCACAF Championship qualification
 1980-12-14,Arabia Saudita,Indonesia,3.0,0.0,Friendly
@@ -7809,9 +7809,9 @@ date,home_team,away_team,home_score,away_score,tournament
 1981-01-06,Países Bajos,Italia,1.0,1.0,Mundialito
 1981-01-07,Brasil,Alemania,4.0,1.0,Mundialito
 1981-01-10,Uruguay,Brasil,2.0,1.0,Mundialito
-1981-01-11,Curaçao,Venezuela,3.0,1.0,Friendly
+1981-01-11,Curazao,Venezuela,3.0,1.0,Friendly
 1981-01-11,Túnez,Qatar,4.0,0.0,Friendly
-1981-01-18,Venezuela,Curaçao,1.0,0.0,Friendly
+1981-01-18,Venezuela,Curazao,1.0,0.0,Friendly
 1981-01-20,México,Bulgaria,1.0,1.0,Friendly
 1981-01-27,Ecuador,Bulgaria,1.0,3.0,Friendly
 1981-02-01,Colombia,Brasil,1.0,1.0,Friendly
@@ -8741,12 +8741,12 @@ date,home_team,away_team,home_score,away_score,tournament
 1984-09-26,Italia,Suecia,1.0,0.0,Friendly
 1984-09-26,Polonia,Turquía,2.0,0.0,Friendly
 1984-09-26,Túnez,Nigeria,5.0,0.0,Friendly
-1984-09-29,Curaçao,Estados Unidos,0.0,0.0,CONCACAF Championship qualification
+1984-09-29,Curazao,Estados Unidos,0.0,0.0,CONCACAF Championship qualification
 1984-09-30,Corea del Sur,Japón,1.0,2.0,Friendly
 1984-09-30,Zimbabwe,Egipto,1.0,1.0,FIFA World Cup qualification
 1984-10-03,Perú,Uruguay,1.0,3.0,Friendly
 1984-10-04,Corea del Sur,Cameroon,5.0,0.0,Friendly
-1984-10-06,Estados Unidos,Curaçao,4.0,0.0,CONCACAF Championship qualification
+1984-10-06,Estados Unidos,Curazao,4.0,0.0,CONCACAF Championship qualification
 1984-10-08,Arabia Saudita,Thailand,2.0,1.0,Friendly
 1984-10-09,México,Colombia,1.0,0.0,Friendly
 1984-10-09,Estados Unidos,El Salvador,3.0,1.0,Friendly
@@ -9829,7 +9829,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1988-06-17,Honduras,Ecuador,0.0,1.0,Friendly
 1988-06-18,Inglaterra,Russia,1.0,3.0,UEFA Euro
 1988-06-18,Republic Of Ireland,Países Bajos,0.0,1.0,UEFA Euro
-1988-06-19,Antigua And Barbuda,Curaçao,0.0,1.0,CONCACAF Championship qualification
+1988-06-19,Antigua And Barbuda,Curazao,0.0,1.0,CONCACAF Championship qualification
 1988-06-19,Corea del Sur,Zambia,4.0,0.0,Korea Cup
 1988-06-19,Corea del Sur,Yemen Dpr,1.0,1.0,AFC Asian Cup qualification
 1988-06-21,Alemania,Países Bajos,1.0,2.0,UEFA Euro
@@ -9838,9 +9838,9 @@ date,home_team,away_team,home_score,away_score,tournament
 1988-06-23,Arabia Saudita,Nueva Zelanda,2.0,3.0,Friendly
 1988-06-25,Russia,Países Bajos,0.0,2.0,UEFA Euro
 1988-06-29,Hong Kong,Arabia Saudita,0.0,3.0,Friendly
-1988-07-01,Curaçao,Costa Rica,1.0,1.0,Friendly
+1988-07-01,Curazao,Costa Rica,1.0,1.0,Friendly
 1988-07-01,Hong Kong,Arabia Saudita,0.0,1.0,Friendly
-1988-07-03,Curaçao,Costa Rica,1.0,0.0,Friendly
+1988-07-03,Curazao,Costa Rica,1.0,0.0,Friendly
 1988-07-06,Argentina,Arabia Saudita,2.0,2.0,Friendly
 1988-07-07,Australia,Brasil,0.0,1.0,Friendly
 1988-07-08,Jordania,Bahrain,0.0,0.0,Arab Cup
@@ -9868,7 +9868,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1988-07-25,Benin,Ghana,1.0,1.0,Tournament Burkina Faso
 1988-07-27,Burkina Faso,Ghana,3.0,1.0,Tournament Burkina Faso
 1988-07-28,Noruega,Brasil,1.0,1.0,Friendly
-1988-07-29,Curaçao,Antigua And Barbuda,3.0,1.0,CONCACAF Championship qualification
+1988-07-29,Curazao,Antigua And Barbuda,3.0,1.0,CONCACAF Championship qualification
 1988-07-29,Ghana,Niger,0.0,3.0,Tournament Burkina Faso
 1988-07-31,Ghana,Mali,1.0,0.0,Tournament Burkina Faso
 1988-07-31,Panamá,Costa Rica,0.0,2.0,CONCACAF Championship qualification
@@ -9898,13 +9898,13 @@ date,home_team,away_team,home_score,away_score,tournament
 1988-09-21,Luxembourg,Suiza,1.0,4.0,FIFA World Cup qualification
 1988-09-21,Perú,Paraguay,0.0,1.0,Friendly
 1988-09-21,Turquía,Greece,3.0,1.0,Friendly
-1988-09-26,Curaçao,Venezuela,0.0,0.0,Friendly
+1988-09-26,Curazao,Venezuela,0.0,0.0,Friendly
 1988-09-27,Ecuador,Uruguay,1.0,2.0,Friendly
 1988-09-27,Paraguay,Chile,2.0,0.0,Friendly
 1988-09-28,Francia,Noruega,1.0,0.0,FIFA World Cup qualification
 1988-09-29,Chile,Ecuador,0.0,0.0,Friendly
 1988-09-29,Paraguay,Uruguay,3.0,1.0,Friendly
-1988-10-01,Curaçao,El Salvador,0.0,1.0,CONCACAF Championship qualification
+1988-10-01,Curazao,El Salvador,0.0,1.0,CONCACAF Championship qualification
 1988-10-02,Indonesia,Qatar,0.0,1.0,Friendly
 1988-10-02,Trinidad And Tobago,Canadá,1.0,2.0,Friendly
 1988-10-04,Indonesia,Qatar,1.0,4.0,Friendly
@@ -9918,7 +9918,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1988-10-12,Uruguay,Paraguay,2.0,0.0,Friendly
 1988-10-15,Canadá,Guatemala,3.0,2.0,CONCACAF Championship qualification
 1988-10-16,Australia,Nueva Zelanda,2.0,0.0,Trans-Tasman Cup
-1988-10-16,El Salvador,Curaçao,5.0,0.0,CONCACAF Championship qualification
+1988-10-16,El Salvador,Curazao,5.0,0.0,CONCACAF Championship qualification
 1988-10-19,Bélgica,Suiza,1.0,0.0,FIFA World Cup qualification
 1988-10-19,Inglaterra,Suecia,0.0,0.0,FIFA World Cup qualification
 1988-10-19,Alemania,Países Bajos,0.0,0.0,FIFA World Cup qualification
@@ -10070,8 +10070,8 @@ date,home_team,away_team,home_score,away_score,tournament
 1989-03-29,Portugal,Angola,6.0,0.0,Friendly
 1989-03-30,Syria,Arabia Saudita,0.0,0.0,FIFA World Cup qualification
 1989-03-30,Venezuela,Paraguay,0.0,0.0,Friendly
-1989-04-01,Curaçao,Trinidad And Tobago,1.0,1.0,Friendly
-1989-04-02,Curaçao,Aruba,1.0,0.0,Friendly
+1989-04-01,Curazao,Trinidad And Tobago,1.0,1.0,Friendly
+1989-04-02,Curazao,Aruba,1.0,0.0,Friendly
 1989-04-02,Nueva Zelanda,Australia,2.0,0.0,FIFA World Cup qualification
 1989-04-04,Argelia,Túnez,2.0,0.0,Friendly
 1989-04-04,Hungary,Suiza,3.0,0.0,Friendly
@@ -10096,7 +10096,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1989-04-23,Ghana,Gabon,1.0,0.0,African Cup of Nations qualification
 1989-04-23,Costa de Marfil,Angola,4.0,1.0,African Cup of Nations qualification
 1989-04-23,Marruecos,Mali,1.0,1.0,African Cup of Nations qualification
-1989-04-26,Curaçao,Martinique,3.0,1.0,CFU Caribbean Cup qualification
+1989-04-26,Curazao,Martinique,3.0,1.0,CFU Caribbean Cup qualification
 1989-04-26,Inglaterra,Albania,5.0,0.0,FIFA World Cup qualification
 1989-04-26,Republic Of Ireland,España,1.0,0.0,FIFA World Cup qualification
 1989-04-26,Países Bajos,Alemania,1.0,1.0,FIFA World Cup qualification
@@ -10120,7 +10120,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1989-05-15,Paraguay,Perú,1.0,1.0,Friendly
 1989-05-20,German Dr,Austria,1.0,1.0,FIFA World Cup qualification
 1989-05-21,Noruega,Cyprus,3.0,1.0,FIFA World Cup qualification
-1989-05-21,Saint Vincent And The Grenadines,Curaçao,3.0,2.0,CFU Caribbean Cup qualification
+1989-05-21,Saint Vincent And The Grenadines,Curazao,3.0,2.0,CFU Caribbean Cup qualification
 1989-05-22,Hong Kong,Japón,0.0,0.0,FIFA World Cup qualification
 1989-05-23,Ecuador,Uruguay,1.0,1.0,Friendly
 1989-05-23,Inglaterra,Chile,0.0,0.0,Rous Cup
@@ -10149,7 +10149,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1989-06-01,Paraguay,Bolivia,2.0,0.0,Friendly
 1989-06-02,Cape Verde,Guinea,0.0,1.0,Amílcar Cabral Cup
 1989-06-03,Cape Verde,Sierra Leone,1.0,0.0,Amílcar Cabral Cup
-1989-06-03,Curaçao,British Virgin Islands,4.0,0.0,CFU Caribbean Cup qualification
+1989-06-03,Curazao,British Virgin Islands,4.0,0.0,CFU Caribbean Cup qualification
 1989-06-03,Egipto,Chile,2.0,0.0,Friendly
 1989-06-03,Inglaterra,Polonia,3.0,0.0,FIFA World Cup qualification
 1989-06-03,Malawi,Túnez,1.0,0.0,Friendly
@@ -10177,7 +10177,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1989-06-17,Estados Unidos,Guatemala,2.0,1.0,CONCACAF Championship
 1989-06-18,Dinamarca,Brasil,4.0,0.0,Friendly
 1989-06-18,Japón,Hong Kong,0.0,0.0,FIFA World Cup qualification
-1989-06-18,Sint Maarten,Curaçao,1.0,2.0,CFU Caribbean Cup qualification
+1989-06-18,Sint Maarten,Curazao,1.0,2.0,CFU Caribbean Cup qualification
 1989-06-19,Uruguay,Chile,2.0,2.0,Friendly
 1989-06-20,Ecuador,Perú,1.0,2.0,Friendly
 1989-06-21,Suiza,Brasil,1.0,0.0,Friendly
@@ -10196,11 +10196,11 @@ date,home_team,away_team,home_score,away_score,tournament
 1989-07-03,Brasil,Perú,0.0,0.0,Copa América
 1989-07-03,Venezuela,Colombia,2.0,4.0,Copa América
 1989-07-04,Argentina,Ecuador,0.0,0.0,Copa América
-1989-07-04,Curaçao,Saint Vincent And The Grenadines,1.0,1.0,CFU Caribbean Cup
+1989-07-04,Curazao,Saint Vincent And The Grenadines,1.0,1.0,CFU Caribbean Cup
 1989-07-04,Uruguay,Bolivia,3.0,0.0,Copa América
 1989-07-05,Colombia,Paraguay,0.0,1.0,Copa América
 1989-07-06,Chile,Uruguay,0.0,3.0,Copa América
-1989-07-06,Curaçao,Grenada,1.0,1.0,CFU Caribbean Cup
+1989-07-06,Curazao,Grenada,1.0,1.0,CFU Caribbean Cup
 1989-07-06,Ecuador,Bolivia,0.0,0.0,Copa América
 1989-07-07,Brasil,Colombia,0.0,0.0,Copa América
 1989-07-07,Paraguay,Venezuela,3.0,0.0,Copa América
@@ -10418,7 +10418,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1990-04-11,Austria,Hungary,3.0,0.0,Friendly
 1990-04-11,Dinamarca,Turquía,1.0,0.0,Friendly
 1990-04-11,German Dr,Egipto,2.0,0.0,Friendly
-1990-04-17,Grenada,Curaçao,1.0,1.0,CFU Caribbean Cup qualification
+1990-04-17,Grenada,Curazao,1.0,1.0,CFU Caribbean Cup qualification
 1990-04-17,México,Colombia,2.0,0.0,Friendly
 1990-04-22,Estados Unidos,Colombia,0.0,1.0,Friendly
 1990-04-25,Inglaterra,Czechoslovakia,4.0,2.0,Friendly
@@ -10438,7 +10438,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1990-05-16,Scotland,Egipto,1.0,3.0,Friendly
 1990-05-18,Northern Ireland,Uruguay,1.0,0.0,Friendly
 1990-05-19,Scotland,Polonia,1.0,1.0,Friendly
-1990-05-20,Guyana,Curaçao,1.0,1.0,CFU Caribbean Cup qualification
+1990-05-20,Guyana,Curazao,1.0,1.0,CFU Caribbean Cup qualification
 1990-05-21,Romania,Egipto,1.0,0.0,Friendly
 1990-05-22,Inglaterra,Uruguay,1.0,2.0,Friendly
 1990-05-22,Israel,Argentina,1.0,2.0,Friendly
@@ -10447,7 +10447,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1990-05-26,Alemania,Czechoslovakia,1.0,0.0,Friendly
 1990-05-26,Turquía,Republic Of Ireland,0.0,0.0,Friendly
 1990-05-26,Yugoslavia,España,0.0,1.0,Friendly
-1990-05-27,Curaçao,Suriname,1.0,1.0,CFU Caribbean Cup qualification
+1990-05-27,Curazao,Suriname,1.0,1.0,CFU Caribbean Cup qualification
 1990-05-27,Suecia,Finland,6.0,0.0,Friendly
 1990-05-28,Malta,Scotland,1.0,2.0,Friendly
 1990-05-30,Austria,Países Bajos,3.0,2.0,Friendly
@@ -10561,7 +10561,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1990-09-27,China,Corea del Sur,0.0,2.0,Asian Games
 1990-09-28,North Korea,Iran,1.0,2.0,Asian Games
 1990-09-28,Japón,Arabia Saudita,0.0,2.0,Asian Games
-1990-09-30,Aruba,Curaçao,1.0,3.0,Friendly
+1990-09-30,Aruba,Curazao,1.0,3.0,Friendly
 1990-09-30,Niger,Costa de Marfil,0.0,1.0,African Cup of Nations qualification
 1990-09-30,Togo,Ghana,0.0,1.0,African Cup of Nations qualification
 1990-10-01,Corea del Sur,Kuwait,1.0,0.0,Asian Games
@@ -10913,9 +10913,9 @@ date,home_team,away_team,home_score,away_score,tournament
 1992-02-22,Túnez,Nigeria,1.0,1.0,Friendly
 1992-02-26,Brasil,Estados Unidos,3.0,0.0,Friendly
 1992-02-26,Túnez,Bélgica,2.0,1.0,Friendly
-1992-03-04,Saint Vincent And The Grenadines,Curaçao,2.0,2.0,CFU Caribbean Cup qualification
-1992-03-06,Barbados,Curaçao,1.0,0.0,CFU Caribbean Cup qualification
-1992-03-08,Grenada,Curaçao,0.0,1.0,CFU Caribbean Cup qualification
+1992-03-04,Saint Vincent And The Grenadines,Curazao,2.0,2.0,CFU Caribbean Cup qualification
+1992-03-06,Barbados,Curazao,1.0,0.0,CFU Caribbean Cup qualification
+1992-03-08,Grenada,Curazao,0.0,1.0,CFU Caribbean Cup qualification
 1992-03-08,México,Russia,4.0,0.0,Friendly
 1992-03-11,México,Russia,1.0,1.0,Friendly
 1992-03-11,España,Estados Unidos,2.0,0.0,Friendly
@@ -10934,12 +10934,12 @@ date,home_team,away_team,home_score,away_score,tournament
 1992-04-08,Turquía,Dinamarca,2.0,1.0,Friendly
 1992-04-14,Austria,Lithuania,4.0,0.0,Friendly
 1992-04-15,Brasil,Finland,3.0,1.0,Friendly
-1992-04-19,Curaçao,Antigua And Barbuda,1.0,1.0,FIFA World Cup qualification
+1992-04-19,Curazao,Antigua And Barbuda,1.0,1.0,FIFA World Cup qualification
 1992-04-22,Bélgica,Cyprus,1.0,0.0,FIFA World Cup qualification
 1992-04-22,Czechoslovakia,Alemania,1.0,1.0,Friendly
 1992-04-22,España,Albania,3.0,0.0,FIFA World Cup qualification
 1992-04-22,Túnez,Suecia,0.0,1.0,Friendly
-1992-04-26,Antigua And Barbuda,Curaçao,3.0,0.0,FIFA World Cup qualification
+1992-04-26,Antigua And Barbuda,Curazao,3.0,0.0,FIFA World Cup qualification
 1992-04-26,Bermuda,Haití,1.0,0.0,FIFA World Cup qualification
 1992-04-28,Suiza,Bulgaria,0.0,2.0,Friendly
 1992-04-29,Austria,Wales,1.0,1.0,Friendly
@@ -12084,21 +12084,21 @@ date,home_team,away_team,home_score,away_score,tournament
 1995-04-26,Noruega,Luxembourg,5.0,0.0,UEFA Euro qualification
 1995-04-26,San Marino,Scotland,0.0,2.0,UEFA Euro qualification
 1995-04-26,Suiza,Turquía,1.0,2.0,UEFA Euro qualification
-1995-05-07,Aruba,Curaçao,3.0,4.0,CFU Caribbean Cup qualification
+1995-05-07,Aruba,Curazao,3.0,4.0,CFU Caribbean Cup qualification
 1995-05-08,Slovakia,Czech Republic,1.0,1.0,Friendly
 1995-05-13,Costa de Marfil,Mali,0.0,1.0,Friendly
 1995-05-13,South Africa,Argentina,1.0,1.0,Friendly
 1995-05-14,Bolivia,Paraguay,1.0,1.0,Copa Paz del Chaco
-1995-05-14,Curaçao,Aruba,3.0,2.0,CFU Caribbean Cup qualification
+1995-05-14,Curazao,Aruba,3.0,2.0,CFU Caribbean Cup qualification
 1995-05-17,Israel,Brasil,1.0,2.0,Friendly
 1995-05-18,Marruecos,Egipto,0.0,0.0,Friendly
 1995-05-21,Japón,Scotland,0.0,0.0,Kirin Cup
 1995-05-22,Canadá,Northern Ireland,2.0,0.0,Friendly
-1995-05-23,Cuba,Curaçao,3.0,0.0,CFU Caribbean Cup qualification
+1995-05-23,Cuba,Curazao,3.0,0.0,CFU Caribbean Cup qualification
 1995-05-24,Ecuador,Scotland,1.0,2.0,Kirin Cup
-1995-05-25,Curaçao,Puerto Rico,2.0,2.0,CFU Caribbean Cup qualification
+1995-05-25,Curazao,Puerto Rico,2.0,2.0,CFU Caribbean Cup qualification
 1995-05-25,Noruega,Ghana,3.0,2.0,Friendly
-1995-05-27,Dominican Republic,Curaçao,1.0,2.0,CFU Caribbean Cup qualification
+1995-05-27,Dominican Republic,Curazao,1.0,2.0,CFU Caribbean Cup qualification
 1995-05-28,Canadá,Chile,1.0,2.0,Friendly
 1995-05-28,Costa de Marfil,Liberia,1.0,1.0,Friendly
 1995-05-28,Japón,Ecuador,3.0,0.0,Kirin Cup
@@ -12389,7 +12389,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1996-03-20,Egipto,Marruecos,0.0,2.0,United Arab Emirates Friendship Tournament
 1996-03-21,Colombia,Trinidad And Tobago,3.0,0.0,Friendly
 1996-03-22,United Arab Emirates,Egipto,0.0,0.0,United Arab Emirates Friendship Tournament
-1996-03-23,Curaçao,Grenada,0.0,1.0,CFU Caribbean Cup qualification
+1996-03-23,Curazao,Grenada,0.0,1.0,CFU Caribbean Cup qualification
 1996-03-23,Corea del Sur,Marruecos,2.0,2.0,United Arab Emirates Friendship Tournament
 1996-03-25,Egipto,Corea del Sur,1.0,1.0,United Arab Emirates Friendship Tournament
 1996-03-26,Croacia,Israel,2.0,0.0,Friendly
@@ -12433,10 +12433,10 @@ date,home_team,away_team,home_score,away_score,tournament
 1996-04-28,Turkmenistan,Iran,0.0,1.0,Friendly
 1996-04-30,Israel,Corea del Sur,4.0,5.0,Friendly
 1996-05-01,Turquía,Ucrania,3.0,2.0,Friendly
-1996-05-04,Dominican Republic,Curaçao,2.0,1.0,FIFA World Cup qualification
+1996-05-04,Dominican Republic,Curazao,2.0,1.0,FIFA World Cup qualification
 1996-05-08,Tajikistan,Uzbekistán,4.0,0.0,AFC Asian Cup qualification
 1996-05-09,Suecia,Slovakia,2.0,1.0,Friendly
-1996-05-11,Curaçao,Dominican Republic,0.0,0.0,FIFA World Cup qualification
+1996-05-11,Curazao,Dominican Republic,0.0,0.0,FIFA World Cup qualification
 1996-05-12,Haití,Grenada,6.0,1.0,FIFA World Cup qualification
 1996-05-16,Corea del Sur,Suecia,0.0,2.0,Friendly
 1996-05-17,Iran,Qatar,2.0,0.0,Friendly
@@ -12818,7 +12818,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1997-03-02,México,Canadá,4.0,0.0,FIFA World Cup qualification
 1997-03-02,Arabia Saudita,Syria,3.0,0.0,Friendly
 1997-03-02,Thailand,Corea del Sur,1.0,3.0,FIFA World Cup qualification
-1997-03-05,Aruba,Curaçao,2.0,1.0,CFU Caribbean Cup qualification
+1997-03-05,Aruba,Curazao,2.0,1.0,CFU Caribbean Cup qualification
 1997-03-09,Arabia Saudita,Indonesia,2.0,0.0,Friendly
 1997-03-12,Czech Republic,Polonia,2.0,1.0,Friendly
 1997-03-12,Israel,Suecia,0.0,1.0,Friendly
@@ -13301,11 +13301,11 @@ date,home_team,away_team,home_score,away_score,tournament
 1998-02-27,Burkina Faso,RD Congo,4.0,4.0,African Cup of Nations
 1998-02-28,South Africa,Egipto,0.0,2.0,African Cup of Nations
 1998-03-01,Japón,Corea del Sur,2.0,1.0,Dynasty Cup
-1998-03-03,Suriname,Curaçao,3.0,3.0,CFU Caribbean Cup qualification
+1998-03-03,Suriname,Curazao,3.0,3.0,CFU Caribbean Cup qualification
 1998-03-04,China,Corea del Sur,1.0,2.0,Dynasty Cup
 1998-03-04,Japón,Hong Kong,5.0,1.0,Dynasty Cup
-1998-03-05,Aruba,Curaçao,0.0,1.0,CFU Caribbean Cup qualification
-1998-03-07,Curaçao,French Guiana,2.0,1.0,CFU Caribbean Cup qualification
+1998-03-05,Aruba,Curazao,0.0,1.0,CFU Caribbean Cup qualification
+1998-03-07,Curazao,French Guiana,2.0,1.0,CFU Caribbean Cup qualification
 1998-03-07,Japón,China,0.0,2.0,Dynasty Cup
 1998-03-08,Hong Kong,Corea del Sur,0.0,1.0,Dynasty Cup
 1998-03-10,Argentina,Bulgaria,2.0,0.0,Friendly
@@ -13467,13 +13467,13 @@ date,home_team,away_team,home_score,away_score,tournament
 1998-07-11,Países Bajos,Croacia,1.0,2.0,FIFA World Cup
 1998-07-12,Francia,Brasil,3.0,0.0,FIFA World Cup
 1998-07-20,Syria,Jordania,3.0,0.0,Arab Cup qualification
-1998-07-22,Curaçao,Haití,0.0,4.0,CFU Caribbean Cup
+1998-07-22,Curazao,Haití,0.0,4.0,CFU Caribbean Cup
 1998-07-22,Senegal,Cape Verde,1.0,0.0,Friendly
 1998-07-23,Lebanon,Jordania,0.0,2.0,Arab Cup qualification
 1998-07-24,Cayman Islands,Haití,0.0,1.0,CFU Caribbean Cup
-1998-07-24,Jamaica,Curaçao,3.0,2.0,CFU Caribbean Cup
+1998-07-24,Jamaica,Curazao,3.0,2.0,CFU Caribbean Cup
 1998-07-25,Benin,Ghana,0.0,1.0,Friendly
-1998-07-26,Curaçao,Cayman Islands,0.0,2.0,CFU Caribbean Cup
+1998-07-26,Curazao,Cayman Islands,0.0,2.0,CFU Caribbean Cup
 1998-07-26,Jamaica,Haití,2.0,1.0,CFU Caribbean Cup
 1998-07-26,Jordania,Palestine,1.0,1.0,Arab Cup qualification
 1998-07-26,Niger,Costa de Marfil,1.0,0.0,Friendly
@@ -13729,10 +13729,10 @@ date,home_team,away_team,home_score,away_score,tournament
 1999-04-28,Paraguay,México,2.0,1.0,Friendly
 1999-04-28,Polonia,Czech Republic,2.0,1.0,Friendly
 1999-04-28,Romania,Bélgica,1.0,0.0,Friendly
-1999-05-04,Curaçao,Grenada,1.0,3.0,CFU Caribbean Cup qualification
+1999-05-04,Curazao,Grenada,1.0,3.0,CFU Caribbean Cup qualification
 1999-05-05,España,Croacia,3.0,1.0,Friendly
 1999-05-06,Trinidad And Tobago,South Africa,2.0,0.0,Friendly
-1999-05-08,Curaçao,Suriname,1.0,1.0,CFU Caribbean Cup qualification
+1999-05-08,Curazao,Suriname,1.0,1.0,CFU Caribbean Cup qualification
 1999-05-09,Jamaica,South Africa,1.0,1.0,Friendly
 1999-05-16,Libya,Senegal,2.0,1.0,Friendly
 1999-05-20,Noruega,Jamaica,6.0,0.0,Friendly
@@ -14090,7 +14090,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2000-02-27,Canadá,Colombia,2.0,0.0,Gold Cup
 2000-02-29,El Salvador,Panamá,3.0,1.0,Friendly
 2000-02-29,Uzbekistán,Mongolia,8.0,1.0,Friendly
-2000-03-04,Trinidad And Tobago,Curaçao,5.0,0.0,FIFA World Cup qualification
+2000-03-04,Trinidad And Tobago,Curazao,5.0,0.0,FIFA World Cup qualification
 2000-03-05,Bolivia,Haití,9.0,2.0,Friendly
 2000-03-06,Syria,Jordania,0.0,0.0,Friendly
 2000-03-08,Ecuador,Honduras,1.0,3.0,Friendly
@@ -14103,7 +14103,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2000-03-15,Japón,China,0.0,0.0,Friendly
 2000-03-15,Jordania,Bosnia y Herzegovina,1.0,2.0,Friendly
 2000-03-17,Jordania,Syria,0.0,0.0,Friendly
-2000-03-18,Curaçao,Trinidad And Tobago,1.0,1.0,FIFA World Cup qualification
+2000-03-18,Curazao,Trinidad And Tobago,1.0,1.0,FIFA World Cup qualification
 2000-03-19,Dominica,Haití,1.0,3.0,FIFA World Cup qualification
 2000-03-19,Nicaragua,Panamá,0.0,2.0,FIFA World Cup qualification
 2000-03-22,Bahrain,Qatar,1.0,0.0,Friendly
@@ -15310,9 +15310,9 @@ date,home_team,away_team,home_score,away_score,tournament
 2002-07-19,Iraq,Syria,2.0,0.0,Friendly
 2002-07-21,South Africa,Madagascar,0.0,0.0,COSAFA Cup
 2002-07-22,Iraq,Syria,2.0,1.0,Friendly
-2002-07-28,Guyana,Curaçao,2.0,1.0,Gold Cup qualification
+2002-07-28,Guyana,Curazao,2.0,1.0,Gold Cup qualification
 2002-08-08,Egipto,Ethiopia,4.0,1.0,Friendly
-2002-08-11,Curaçao,Guyana,1.0,0.0,Gold Cup qualification
+2002-08-11,Curazao,Guyana,1.0,0.0,Gold Cup qualification
 2002-08-17,Jordania,Kenya,1.0,1.0,Friendly
 2002-08-19,Jordania,Sudan,0.0,0.0,Friendly
 2002-08-20,Argelia,RD Congo,1.0,1.0,Friendly
@@ -15425,7 +15425,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2002-11-17,Estados Unidos,El Salvador,2.0,0.0,Friendly
 2002-11-18,Haití,Antigua And Barbuda,1.0,0.0,Gold Cup qualification
 2002-11-19,South Africa,Senegal,1.0,1.0,Friendly
-2002-11-20,Antigua And Barbuda,Curaçao,1.0,1.0,Gold Cup qualification
+2002-11-20,Antigua And Barbuda,Curazao,1.0,1.0,Gold Cup qualification
 2002-11-20,Austria,Noruega,0.0,1.0,Friendly
 2002-11-20,Czech Republic,Suecia,3.0,3.0,Friendly
 2002-11-20,Ecuador,Costa Rica,2.0,2.0,Friendly
@@ -15443,7 +15443,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2002-11-20,España,Bulgaria,1.0,0.0,Friendly
 2002-11-20,Túnez,Egipto,0.0,0.0,Friendly
 2002-11-20,Venezuela,Uruguay,1.0,0.0,Friendly
-2002-11-22,Haití,Curaçao,3.0,0.0,Gold Cup qualification
+2002-11-22,Haití,Curazao,3.0,0.0,Gold Cup qualification
 2002-11-23,Bahrain,Iraq,2.0,2.0,Friendly
 2002-11-25,Nigeria,Egipto,1.0,1.0,Friendly
 2002-11-29,Jordania,Malaysia,1.0,0.0,Friendly
@@ -15892,12 +15892,12 @@ date,home_team,away_team,home_score,away_score,tournament
 2004-01-08,Kuwait,Qatar,1.0,2.0,Gulf Cup
 2004-01-08,Yemen,Arabia Saudita,0.0,2.0,Gulf Cup
 2004-01-10,Mauritius,South Africa,2.0,0.0,COSAFA Cup
-2004-01-10,Suriname,Curaçao,1.0,1.0,Friendly
+2004-01-10,Suriname,Curazao,1.0,1.0,Friendly
 2004-01-11,Oman,Qatar,2.0,0.0,Gulf Cup
 2004-01-14,Egipto,RD Congo,2.0,2.0,Friendly
 2004-01-14,Túnez,Benin,2.0,0.0,Friendly
 2004-01-15,Argelia,Mali,0.0,2.0,Friendly
-2004-01-17,Curaçao,Suriname,2.0,0.0,Friendly
+2004-01-17,Curazao,Suriname,2.0,0.0,Friendly
 2004-01-17,Egipto,Burkina Faso,1.0,1.0,Friendly
 2004-01-17,Túnez,Benin,2.0,1.0,Friendly
 2004-01-18,Barbados,Canadá,0.0,1.0,Friendly
@@ -15911,7 +15911,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2004-01-26,Senegal,Burkina Faso,0.0,0.0,African Cup of Nations
 2004-01-27,Nigeria,Marruecos,0.0,1.0,African Cup of Nations
 2004-01-27,South Africa,Benin,2.0,0.0,African Cup of Nations
-2004-01-28,Curaçao,Aruba,6.0,1.0,Friendly
+2004-01-28,Curazao,Aruba,6.0,1.0,Friendly
 2004-01-28,El Salvador,Panamá,1.0,1.0,Friendly
 2004-01-28,Singapore,Noruega,2.0,5.0,Friendly
 2004-01-28,Túnez,RD Congo,3.0,0.0,African Cup of Nations
@@ -15937,7 +15937,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2004-02-14,Corea del Sur,Oman,5.0,0.0,Friendly
 2004-02-14,Túnez,Marruecos,2.0,1.0,African Cup of Nations
 2004-02-18,Albania,Suecia,2.0,1.0,Friendly
-2004-02-18,Antigua And Barbuda,Curaçao,2.0,0.0,FIFA World Cup qualification
+2004-02-18,Antigua And Barbuda,Curazao,2.0,0.0,FIFA World Cup qualification
 2004-02-18,Bélgica,Francia,0.0,2.0,Friendly
 2004-02-18,Croacia,Alemania,1.0,2.0,Friendly
 2004-02-18,Haití,Turks And Caicos Islands,5.0,0.0,FIFA World Cup qualification
@@ -15972,7 +15972,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2004-03-30,Argentina,Ecuador,1.0,0.0,FIFA World Cup qualification
 2004-03-30,Australia,South Africa,1.0,0.0,Friendly
 2004-03-31,Croacia,Turquía,2.0,2.0,Friendly
-2004-03-31,Curaçao,Antigua And Barbuda,3.0,0.0,FIFA World Cup qualification
+2004-03-31,Curazao,Antigua And Barbuda,3.0,0.0,FIFA World Cup qualification
 2004-03-31,Egipto,Trinidad And Tobago,2.0,1.0,Friendly
 2004-03-31,Alemania,Bélgica,3.0,0.0,Friendly
 2004-03-31,Greece,Suiza,1.0,0.0,Friendly
@@ -16001,7 +16001,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2004-03-31,Taiwan,Uzbekistán,0.0,1.0,FIFA World Cup qualification
 2004-04-07,Honduras,Panamá,0.0,0.0,Friendly
 2004-04-25,Hungary,Japón,3.0,2.0,Friendly
-2004-04-27,Curaçao,Dominican Republic,3.0,1.0,Friendly
+2004-04-27,Curazao,Dominican Republic,3.0,1.0,Friendly
 2004-04-28,Argelia,China,0.0,1.0,Friendly
 2004-04-28,Austria,Luxembourg,4.0,1.0,Friendly
 2004-04-28,Bélgica,Turquía,2.0,3.0,Friendly
@@ -16107,7 +16107,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2004-06-09,Qatar,Laos,5.0,0.0,FIFA World Cup qualification
 2004-06-09,Arabia Saudita,Turkmenistan,3.0,0.0,FIFA World Cup qualification
 2004-06-09,Uzbekistán,Palestine,3.0,0.0,FIFA World Cup qualification
-2004-06-12,Curaçao,Honduras,1.0,2.0,FIFA World Cup qualification
+2004-06-12,Curazao,Honduras,1.0,2.0,FIFA World Cup qualification
 2004-06-12,Haití,Jamaica,1.0,1.0,FIFA World Cup qualification
 2004-06-12,Portugal,Greece,1.0,2.0,UEFA Euro
 2004-06-12,España,Russia,1.0,0.0,UEFA Euro
@@ -16131,7 +16131,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2004-06-18,Italia,Suecia,1.0,1.0,UEFA Euro
 2004-06-19,Cape Verde,Uganda,1.0,0.0,FIFA World Cup qualification
 2004-06-19,Dominica,México,0.0,10.0,FIFA World Cup qualification
-2004-06-19,Honduras,Curaçao,4.0,0.0,FIFA World Cup qualification
+2004-06-19,Honduras,Curazao,4.0,0.0,FIFA World Cup qualification
 2004-06-19,Iraq,Palestine,2.0,1.0,WAFF Championship
 2004-06-19,Latvia,Alemania,0.0,0.0,UEFA Euro
 2004-06-19,Países Bajos,Czech Republic,2.0,3.0,UEFA Euro
@@ -17193,7 +17193,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2006-09-06,Armenia,Bélgica,0.0,1.0,UEFA Euro qualification
 2006-09-06,Austria,Venezuela,0.0,1.0,Friendly
 2006-09-06,Bosnia y Herzegovina,Hungary,1.0,3.0,UEFA Euro qualification
-2006-09-06,Curaçao,Grenada,1.0,1.0,CFU Caribbean Cup qualification
+2006-09-06,Curazao,Grenada,1.0,1.0,CFU Caribbean Cup qualification
 2006-09-06,Ecuador,Perú,1.0,1.0,Friendly
 2006-09-06,Finland,Portugal,1.0,1.0,UEFA Euro qualification
 2006-09-06,Francia,Italia,3.0,1.0,UEFA Euro qualification
@@ -17217,8 +17217,8 @@ date,home_team,away_team,home_score,away_score,tournament
 2006-09-06,Turquía,Malta,2.0,0.0,UEFA Euro qualification
 2006-09-06,United Arab Emirates,Jordania,0.0,0.0,AFC Asian Cup qualification
 2006-09-06,Yemen,Japón,0.0,1.0,AFC Asian Cup qualification
-2006-09-08,Curaçao,Guyana,0.0,5.0,CFU Caribbean Cup qualification
-2006-09-10,Curaçao,Suriname,0.0,1.0,CFU Caribbean Cup qualification
+2006-09-08,Curazao,Guyana,0.0,5.0,CFU Caribbean Cup qualification
+2006-09-10,Curazao,Suriname,0.0,1.0,CFU Caribbean Cup qualification
 2006-09-15,Haití,Dominican Republic,3.0,1.0,Friendly
 2006-09-17,Haití,Dominican Republic,2.0,1.0,Friendly
 2006-09-27,Venezuela,Uruguay,1.0,0.0,Friendly
@@ -17837,7 +17837,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-02-06,Jordania,North Korea,0.0,1.0,FIFA World Cup qualification
 2008-02-06,Corea del Sur,Turkmenistan,4.0,0.0,FIFA World Cup qualification
 2008-02-06,Lebanon,Uzbekistán,0.0,1.0,FIFA World Cup qualification
-2008-02-06,Nicaragua,Curaçao,0.0,1.0,FIFA World Cup qualification
+2008-02-06,Nicaragua,Curazao,0.0,1.0,FIFA World Cup qualification
 2008-02-06,Arabia Saudita,Singapore,2.0,0.0,FIFA World Cup qualification
 2008-02-06,España,Francia,1.0,0.0,Friendly
 2008-02-06,Turquía,Suecia,0.0,0.0,Friendly
@@ -17872,7 +17872,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-03-26,Bosnia y Herzegovina,North Macedonia,2.0,2.0,Friendly
 2008-03-26,Brasil,Suecia,1.0,0.0,Friendly
 2008-03-26,China,Australia,0.0,0.0,FIFA World Cup qualification
-2008-03-26,Curaçao,Nicaragua,2.0,0.0,FIFA World Cup qualification
+2008-03-26,Curazao,Nicaragua,2.0,0.0,FIFA World Cup qualification
 2008-03-26,Dinamarca,Czech Republic,1.0,1.0,Friendly
 2008-03-26,Ecuador,Haití,3.0,1.0,Friendly
 2008-03-26,Egipto,Argentina,0.0,2.0,Friendly
@@ -17899,7 +17899,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-05-17,Syria,Iraq,2.0,1.0,Friendly
 2008-05-20,Turquía,Slovakia,1.0,0.0,Friendly
 2008-05-20,Brittany,RD Congo,3.0,1.0,Friendly
-2008-05-21,Curaçao,Suriname,2.0,1.0,Friendly
+2008-05-21,Curazao,Suriname,2.0,1.0,Friendly
 2008-05-22,Costa de Marfil,Paraguay,1.0,1.0,Kirin Cup
 2008-05-23,Australia,Ghana,1.0,0.0,Friendly
 2008-05-23,Qatar,Kuwait,1.0,1.0,Friendly
@@ -17989,7 +17989,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-06-08,Madagascar,Costa de Marfil,0.0,0.0,FIFA World Cup qualification
 2008-06-08,México,Perú,4.0,0.0,Friendly
 2008-06-08,Estados Unidos,Argentina,0.0,0.0,Friendly
-2008-06-09,Curaçao,Venezuela,0.0,1.0,Friendly
+2008-06-09,Curazao,Venezuela,0.0,1.0,Friendly
 2008-06-09,Países Bajos,Italia,3.0,0.0,UEFA Euro
 2008-06-09,Romania,Francia,0.0,0.0,UEFA Euro
 2008-06-10,Greece,Suecia,0.0,2.0,UEFA Euro
@@ -18021,7 +18021,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-06-15,Argentina,Ecuador,1.0,1.0,FIFA World Cup qualification
 2008-06-15,Belize,México,0.0,2.0,FIFA World Cup qualification
 2008-06-15,Burundi,Túnez,0.0,1.0,FIFA World Cup qualification
-2008-06-15,Haití,Curaçao,0.0,0.0,FIFA World Cup qualification
+2008-06-15,Haití,Curazao,0.0,0.0,FIFA World Cup qualification
 2008-06-15,Liberia,Senegal,2.0,2.0,FIFA World Cup qualification
 2008-06-15,Mauritius,Cape Verde,0.0,1.0,FIFA World Cup qualification
 2008-06-15,Panamá,El Salvador,1.0,0.0,FIFA World Cup qualification
@@ -18055,7 +18055,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-06-22,Cape Verde,Mauritius,3.0,1.0,FIFA World Cup qualification
 2008-06-22,RD Congo,Chad,2.0,0.0,FIFA World Cup qualification
 2008-06-22,RD Congo,Djibouti,5.0,1.0,FIFA World Cup qualification
-2008-06-22,Curaçao,Haití,0.0,1.0,FIFA World Cup qualification
+2008-06-22,Curazao,Haití,0.0,1.0,FIFA World Cup qualification
 2008-06-22,Egipto,Malawi,2.0,0.0,FIFA World Cup qualification
 2008-06-22,El Salvador,Panamá,3.0,1.0,FIFA World Cup qualification
 2008-06-22,Ghana,Gabon,2.0,0.0,FIFA World Cup qualification
@@ -18070,12 +18070,12 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-06-25,Alemania,Turquía,3.0,2.0,UEFA Euro
 2008-06-26,Russia,España,0.0,3.0,UEFA Euro
 2008-06-29,Alemania,España,0.0,1.0,UEFA Euro
-2008-07-17,Trinidad And Tobago,Curaçao,2.0,0.0,Friendly
+2008-07-17,Trinidad And Tobago,Curazao,2.0,0.0,Friendly
 2008-07-26,South Africa,Namibia,1.0,0.0,COSAFA Cup
-2008-07-27,Curaçao,Aruba,0.0,0.0,CFU Caribbean Cup qualification
+2008-07-27,Curazao,Aruba,0.0,0.0,CFU Caribbean Cup qualification
 2008-07-30,South Africa,Zambia,1.0,0.0,COSAFA Cup
 2008-07-30,Trinidad And Tobago,Haití,2.0,0.0,Friendly
-2008-07-31,Curaçao,Grenada,2.0,0.0,CFU Caribbean Cup qualification
+2008-07-31,Curazao,Grenada,2.0,0.0,CFU Caribbean Cup qualification
 2008-08-03,South Africa,Mozambique,2.0,1.0,COSAFA Cup
 2008-08-07,Iran,Palestine,3.0,0.0,WAFF Championship
 2008-08-07,Syria,Jordania,0.0,0.0,WAFF Championship
@@ -18245,10 +18245,10 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-10-15,South Africa,Ghana,2.0,1.0,Friendly
 2008-10-15,Trinidad And Tobago,Estados Unidos,2.0,1.0,FIFA World Cup qualification
 2008-10-15,Venezuela,Ecuador,3.0,1.0,FIFA World Cup qualification
-2008-10-23,Cuba,Curaçao,7.0,1.0,CFU Caribbean Cup qualification
-2008-10-25,Suriname,Curaçao,2.0,1.0,CFU Caribbean Cup qualification
+2008-10-23,Cuba,Curazao,7.0,1.0,CFU Caribbean Cup qualification
+2008-10-25,Suriname,Curazao,2.0,1.0,CFU Caribbean Cup qualification
 2008-10-26,Palestine,Jordania,1.0,1.0,Friendly
-2008-10-27,Curaçao,Barbados,1.0,2.0,CFU Caribbean Cup qualification
+2008-10-27,Curazao,Barbados,1.0,2.0,CFU Caribbean Cup qualification
 2008-11-08,Arabia Saudita,Thailand,1.0,0.0,Friendly
 2008-11-09,Qatar,Iran,0.0,1.0,Friendly
 2008-11-12,México,Ecuador,2.0,1.0,Friendly
@@ -18697,11 +18697,11 @@ date,home_team,away_team,home_score,away_score,tournament
 2009-10-14,Uruguay,Argentina,0.0,1.0,FIFA World Cup qualification
 2009-10-14,Estados Unidos,Costa Rica,2.0,2.0,FIFA World Cup qualification
 2009-10-26,South Africa,Angola,2.0,0.0,COSAFA Cup
-2009-10-28,Curaçao,French Guiana,1.0,4.0,Friendly
+2009-10-28,Curazao,French Guiana,1.0,4.0,Friendly
 2009-10-28,Zimbabwe,South Africa,1.0,1.0,COSAFA Cup
-2009-10-30,Guyana,Curaçao,1.0,0.0,Friendly
+2009-10-30,Guyana,Curazao,1.0,0.0,Friendly
 2009-10-31,South Africa,Mozambique,0.0,1.0,COSAFA Cup
-2009-11-01,Suriname,Curaçao,1.0,1.0,Friendly
+2009-11-01,Suriname,Curazao,1.0,1.0,Friendly
 2009-11-04,Chile,Paraguay,2.0,1.0,Friendly
 2009-11-05,Egipto,Tanzania,5.0,1.0,Friendly
 2009-11-10,Iran,Iceland,1.0,0.0,Friendly
@@ -19125,12 +19125,12 @@ date,home_team,away_team,home_score,away_score,tournament
 2010-10-12,Scotland,España,2.0,3.0,UEFA Euro qualification
 2010-10-12,Suiza,Wales,4.0,1.0,UEFA Euro qualification
 2010-10-12,Estados Unidos,Colombia,0.0,0.0,Friendly
-2010-10-13,Suriname,Curaçao,2.0,1.0,CFU Caribbean Cup qualification
-2010-10-15,Curaçao,Guyana,2.0,3.0,CFU Caribbean Cup qualification
-2010-10-17,Saint Lucia,Curaçao,2.0,2.0,CFU Caribbean Cup qualification
+2010-10-13,Suriname,Curazao,2.0,1.0,CFU Caribbean Cup qualification
+2010-10-15,Curazao,Guyana,2.0,3.0,CFU Caribbean Cup qualification
+2010-10-17,Saint Lucia,Curazao,2.0,2.0,CFU Caribbean Cup qualification
 2010-10-26,Panamá,Cuba,0.0,3.0,Friendly
-2010-10-29,Curaçao,Aruba,3.0,0.0,ABCS Tournament
-2010-10-31,Curaçao,Suriname,2.0,2.0,ABCS Tournament
+2010-10-29,Curazao,Aruba,3.0,0.0,ABCS Tournament
+2010-10-31,Curazao,Suriname,2.0,2.0,ABCS Tournament
 2010-11-02,Haití,Guyana,0.0,0.0,CFU Caribbean Cup qualification
 2010-11-06,Trinidad And Tobago,Haití,4.0,0.0,CFU Caribbean Cup qualification
 2010-11-11,Iraq,India,2.0,0.0,Friendly
@@ -19460,14 +19460,14 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-08-10,Estados Unidos,México,1.0,1.0,Friendly
 2011-08-10,Wales,Australia,1.0,2.0,Friendly
 2011-08-19,Qatar,Iraq,0.0,1.0,Friendly
-2011-08-20,Dominican Republic,Curaçao,1.0,0.0,Friendly
-2011-08-21,Dominican Republic,Curaçao,1.0,0.0,Friendly
+2011-08-20,Dominican Republic,Curazao,1.0,0.0,Friendly
+2011-08-21,Dominican Republic,Curazao,1.0,0.0,Friendly
 2011-08-22,Jordania,Túnez,3.0,3.0,Friendly
 2011-08-25,United Arab Emirates,Qatar,3.0,1.0,Friendly
 2011-08-27,Angola,RD Congo,1.0,2.0,Friendly
 2011-08-27,Jordania,Indonesia,1.0,0.0,Friendly
 2011-09-02,Albania,Francia,1.0,2.0,UEFA Euro qualification
-2011-09-02,Antigua And Barbuda,Curaçao,5.0,2.0,FIFA World Cup qualification
+2011-09-02,Antigua And Barbuda,Curazao,5.0,2.0,FIFA World Cup qualification
 2011-09-02,Argentina,Venezuela,1.0,0.0,Friendly
 2011-09-02,Australia,Thailand,2.0,1.0,FIFA World Cup qualification
 2011-09-02,Azerbaijan,Bélgica,1.0,1.0,UEFA Euro qualification
@@ -19514,7 +19514,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-09-06,Bélgica,Estados Unidos,1.0,0.0,Friendly
 2011-09-06,Bosnia y Herzegovina,Belarus,1.0,0.0,UEFA Euro qualification
 2011-09-06,Croacia,Israel,3.0,1.0,UEFA Euro qualification
-2011-09-06,Curaçao,Haití,2.0,4.0,FIFA World Cup qualification
+2011-09-06,Curazao,Haití,2.0,4.0,FIFA World Cup qualification
 2011-09-06,Czech Republic,Ucrania,4.0,0.0,Friendly
 2011-09-06,Dinamarca,Noruega,2.0,0.0,UEFA Euro qualification
 2011-09-06,Ecuador,Costa Rica,4.0,0.0,Friendly
@@ -19537,8 +19537,8 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-09-06,Suiza,Bulgaria,3.0,1.0,UEFA Euro qualification
 2011-09-06,Uzbekistán,Japón,1.0,1.0,FIFA World Cup qualification
 2011-09-14,Argentina,Brasil,0.0,0.0,Superclásico de las Américas
-2011-09-23,Suriname,Curaçao,2.0,0.0,Friendly
-2011-09-25,Suriname,Curaçao,2.0,2.0,Friendly
+2011-09-23,Suriname,Curazao,2.0,0.0,Friendly
+2011-09-25,Suriname,Curazao,2.0,2.0,Friendly
 2011-09-28,Brasil,Argentina,2.0,0.0,Superclásico de las Américas
 2011-10-05,Iran,Palestine,7.0,0.0,Friendly
 2011-10-06,Thailand,Jordania,0.0,0.0,Friendly
@@ -19549,7 +19549,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-10-07,Bosnia y Herzegovina,Luxembourg,5.0,0.0,UEFA Euro qualification
 2011-10-07,RD Congo,Cameroon,2.0,3.0,African Cup of Nations qualification
 2011-10-07,Costa Rica,Brasil,0.0,1.0,Friendly
-2011-10-07,Curaçao,Antigua And Barbuda,0.0,1.0,FIFA World Cup qualification
+2011-10-07,Curazao,Antigua And Barbuda,0.0,1.0,FIFA World Cup qualification
 2011-10-07,Czech Republic,España,0.0,2.0,UEFA Euro qualification
 2011-10-07,Dominica,Panamá,0.0,5.0,FIFA World Cup qualification
 2011-10-07,Ecuador,Venezuela,2.0,0.0,FIFA World Cup qualification
@@ -19589,7 +19589,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-10-11,Francia,Bosnia y Herzegovina,1.0,1.0,UEFA Euro qualification
 2011-10-11,Alemania,Bélgica,3.0,1.0,UEFA Euro qualification
 2011-10-11,Ghana,Nigeria,0.0,0.0,Friendly
-2011-10-11,Haití,Curaçao,2.0,2.0,FIFA World Cup qualification
+2011-10-11,Haití,Curazao,2.0,2.0,FIFA World Cup qualification
 2011-10-11,Indonesia,Qatar,2.0,3.0,FIFA World Cup qualification
 2011-10-11,Iran,Bahrain,6.0,0.0,FIFA World Cup qualification
 2011-10-11,Japón,Tajikistan,8.0,0.0,FIFA World Cup qualification
@@ -19642,7 +19642,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-11-11,United Arab Emirates,Corea del Sur,0.0,2.0,FIFA World Cup qualification
 2011-11-11,Uruguay,Chile,4.0,0.0,FIFA World Cup qualification
 2011-11-11,Uzbekistán,North Korea,1.0,0.0,FIFA World Cup qualification
-2011-11-11,United States Virgin Islands,Curaçao,0.0,3.0,FIFA World Cup qualification
+2011-11-11,United States Virgin Islands,Curazao,0.0,3.0,FIFA World Cup qualification
 2011-11-12,Argelia,Túnez,1.0,0.0,Friendly
 2011-11-12,Inglaterra,España,1.0,0.0,Friendly
 2011-11-12,South Africa,Costa de Marfil,1.0,1.0,Friendly
@@ -19656,7 +19656,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-11-15,RD Congo,Eswatini,5.0,1.0,FIFA World Cup qualification
 2011-11-15,Costa Rica,España,2.0,2.0,Friendly
 2011-11-15,Croacia,Turquía,0.0,0.0,UEFA Euro qualification
-2011-11-15,Curaçao,United States Virgin Islands,6.0,1.0,FIFA World Cup qualification
+2011-11-15,Curazao,United States Virgin Islands,6.0,1.0,FIFA World Cup qualification
 2011-11-15,Ecuador,Perú,2.0,0.0,FIFA World Cup qualification
 2011-11-15,Inglaterra,Suecia,1.0,0.0,Friendly
 2011-11-15,Francia,Bélgica,0.0,0.0,Friendly
@@ -19679,8 +19679,8 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-11-15,Ucrania,Austria,2.0,1.0,Friendly
 2011-11-15,Uzbekistán,Tajikistan,3.0,0.0,FIFA World Cup qualification
 2011-11-15,Zimbabwe,South Africa,2.0,1.0,Friendly
-2011-12-02,Curaçao,Bonaire,1.0,3.0,ABCS Tournament
-2011-12-04,Suriname,Curaçao,2.0,0.0,ABCS Tournament
+2011-12-02,Curazao,Bonaire,1.0,3.0,ABCS Tournament
+2011-12-04,Suriname,Curazao,2.0,0.0,ABCS Tournament
 2011-12-21,Chile,Paraguay,3.0,2.0,Friendly
 2011-12-28,Basque Country,Túnez,0.0,2.0,Friendly
 2011-12-30,Catalonia,Túnez,0.0,0.0,Friendly
@@ -19921,8 +19921,8 @@ date,home_team,away_team,home_score,away_score,tournament
 2012-07-01,España,Italia,4.0,0.0,UEFA Euro
 2012-07-03,Arabia Saudita,Libya,0.0,2.0,Arab Cup
 2012-07-05,Arabia Saudita,Iraq,0.0,1.0,Arab Cup
-2012-07-13,Aruba,Curaçao,3.0,2.0,ABCS Tournament
-2012-07-15,Bonaire,Curaçao,2.0,9.0,ABCS Tournament
+2012-07-13,Aruba,Curazao,3.0,2.0,ABCS Tournament
+2012-07-15,Bonaire,Curazao,2.0,9.0,ABCS Tournament
 2012-08-13,Jordania,Uzbekistán,0.0,1.0,Friendly
 2012-08-15,Austria,Turquía,2.0,0.0,Friendly
 2012-08-15,Bélgica,Países Bajos,4.0,2.0,Friendly
@@ -20083,9 +20083,9 @@ date,home_team,away_team,home_score,away_score,tournament
 2012-10-16,Estados Unidos,Guatemala,3.0,1.0,FIFA World Cup qualification
 2012-10-16,Venezuela,Ecuador,1.0,1.0,FIFA World Cup qualification
 2012-10-17,Polonia,Inglaterra,1.0,1.0,FIFA World Cup qualification
-2012-10-21,Saint Lucia,Curaçao,5.0,1.0,CFU Caribbean Cup qualification
-2012-10-23,Curaçao,Guyana,1.0,2.0,CFU Caribbean Cup qualification
-2012-10-25,Saint Vincent And The Grenadines,Curaçao,4.0,0.0,CFU Caribbean Cup qualification
+2012-10-21,Saint Lucia,Curazao,5.0,1.0,CFU Caribbean Cup qualification
+2012-10-23,Curazao,Guyana,1.0,2.0,CFU Caribbean Cup qualification
+2012-10-25,Saint Vincent And The Grenadines,Curazao,4.0,0.0,CFU Caribbean Cup qualification
 2012-11-06,Iran,Tajikistan,6.0,1.0,Friendly
 2012-11-08,Bahrain,Jordania,3.0,0.0,Friendly
 2012-11-14,Argelia,Bosnia y Herzegovina,0.0,1.0,Friendly
@@ -20593,7 +20593,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2013-11-13,Jordania,Uruguay,0.0,5.0,FIFA World Cup qualification
 2013-11-13,México,Nueva Zelanda,5.0,1.0,FIFA World Cup qualification
 2013-11-14,Bélgica,Colombia,0.0,2.0,Friendly
-2013-11-14,Curaçao,Aruba,2.0,0.0,ABCS Tournament
+2013-11-14,Curazao,Aruba,2.0,0.0,ABCS Tournament
 2013-11-14,Egipto,Zambia,2.0,0.0,Friendly
 2013-11-15,Argentina,Ecuador,0.0,0.0,Friendly
 2013-11-15,Czech Republic,Canadá,2.0,0.0,Friendly
@@ -20611,7 +20611,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2013-11-15,Ucrania,Francia,2.0,0.0,FIFA World Cup qualification
 2013-11-15,Vietnam,Uzbekistán,0.0,3.0,AFC Asian Cup qualification
 2013-11-15,Yemen,Qatar,1.0,4.0,AFC Asian Cup qualification
-2013-11-16,Curaçao,Suriname,1.0,3.0,ABCS Tournament
+2013-11-16,Curazao,Suriname,1.0,3.0,ABCS Tournament
 2013-11-16,Equatorial Guinea,España,1.0,2.0,Friendly
 2013-11-16,Honduras,Brasil,0.0,5.0,Friendly
 2013-11-16,Países Bajos,Japón,2.0,2.0,Friendly
@@ -20850,7 +20850,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-09-03,Inglaterra,Noruega,1.0,0.0,Friendly
 2014-09-03,Alemania,Argentina,2.0,4.0,Friendly
 2014-09-03,Marruecos,Qatar,0.0,0.0,Friendly
-2014-09-03,Puerto Rico,Curaçao,2.0,2.0,CFU Caribbean Cup qualification
+2014-09-03,Puerto Rico,Curazao,2.0,2.0,CFU Caribbean Cup qualification
 2014-09-04,Bélgica,Australia,2.0,0.0,Friendly
 2014-09-04,Bosnia y Herzegovina,Liechtenstein,3.0,0.0,Friendly
 2014-09-04,Croacia,Cyprus,2.0,0.0,Friendly
@@ -20859,7 +20859,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-09-04,Italia,Países Bajos,2.0,0.0,Friendly
 2014-09-04,Suecia,Estonia,2.0,0.0,Friendly
 2014-09-04,Uzbekistán,Jordania,2.0,0.0,Friendly
-2014-09-05,Curaçao,Grenada,2.0,1.0,CFU Caribbean Cup qualification
+2014-09-05,Curazao,Grenada,2.0,1.0,CFU Caribbean Cup qualification
 2014-09-05,Japón,Uruguay,0.0,2.0,Kirin Challenge Cup
 2014-09-05,Brasil,Colombia,1.0,0.0,Friendly
 2014-09-05,Corea del Sur,Venezuela,3.0,1.0,Friendly
@@ -20874,7 +20874,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-09-06,Nigeria,RD Congo,2.0,3.0,African Cup of Nations qualification
 2014-09-06,Túnez,Botswana,2.0,1.0,African Cup of Nations qualification
 2014-09-07,Costa Rica,Panamá,2.0,2.0,UNCAF Cup
-2014-09-07,French Guiana,Curaçao,0.0,0.0,CFU Caribbean Cup qualification
+2014-09-07,French Guiana,Curazao,0.0,0.0,CFU Caribbean Cup qualification
 2014-09-07,Alemania,Scotland,2.0,1.0,UEFA Euro qualification
 2014-09-07,Marruecos,Libya,3.0,0.0,Friendly
 2014-09-07,Paraguay,United Arab Emirates,0.0,0.0,Friendly
@@ -20906,7 +20906,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-09-10,South Africa,Nigeria,0.0,0.0,African Cup of Nations qualification
 2014-09-10,Togo,Ghana,2.0,3.0,African Cup of Nations qualification
 2014-10-06,Qatar,Uzbekistán,3.0,0.0,Friendly
-2014-10-08,Curaçao,Martinique,1.0,1.0,CFU Caribbean Cup qualification
+2014-10-08,Curazao,Martinique,1.0,1.0,CFU Caribbean Cup qualification
 2014-10-08,Haití,French Guiana,2.0,2.0,CFU Caribbean Cup qualification
 2014-10-09,Inglaterra,San Marino,5.0,0.0,UEFA Euro qualification
 2014-10-09,Moldova,Austria,1.0,2.0,UEFA Euro qualification
@@ -20925,7 +20925,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-10-10,Países Bajos,Kazakhstan,3.0,1.0,UEFA Euro qualification
 2014-10-10,Arabia Saudita,Uruguay,1.0,1.0,Friendly
 2014-10-10,Senegal,Túnez,0.0,0.0,African Cup of Nations qualification
-2014-10-10,Saint Vincent And The Grenadines,Curaçao,1.0,0.0,CFU Caribbean Cup qualification
+2014-10-10,Saint Vincent And The Grenadines,Curazao,1.0,0.0,CFU Caribbean Cup qualification
 2014-10-10,Turquía,Czech Republic,1.0,2.0,UEFA Euro qualification
 2014-10-10,United Arab Emirates,Australia,0.0,0.0,Friendly
 2014-10-10,Uzbekistán,Bahrain,0.0,0.0,Friendly
@@ -20942,7 +20942,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-10-11,Scotland,Georgia,1.0,0.0,UEFA Euro qualification
 2014-10-12,Austria,Montenegro,1.0,0.0,UEFA Euro qualification
 2014-10-12,Estonia,Inglaterra,0.0,1.0,UEFA Euro qualification
-2014-10-12,Guadeloupe,Curaçao,0.0,1.0,CFU Caribbean Cup qualification
+2014-10-12,Guadeloupe,Curazao,0.0,1.0,CFU Caribbean Cup qualification
 2014-10-12,Haití,Saint Kitts And Nevis,0.0,0.0,CFU Caribbean Cup qualification
 2014-10-12,Luxembourg,España,0.0,4.0,UEFA Euro qualification
 2014-10-12,México,Panamá,1.0,0.0,Friendly
@@ -20980,14 +20980,14 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-10-25,Zambia,Costa de Marfil,1.0,1.0,Friendly
 2014-11-06,Qatar,North Korea,3.0,1.0,Friendly
 2014-11-06,Arabia Saudita,Palestine,2.0,0.0,Friendly
-2014-11-11,Curaçao,Trinidad And Tobago,2.0,3.0,CFU Caribbean Cup
+2014-11-11,Curazao,Trinidad And Tobago,2.0,3.0,CFU Caribbean Cup
 2014-11-12,Argentina,Croacia,2.0,1.0,Friendly
 2014-11-12,Bélgica,Iceland,3.0,1.0,Friendly
 2014-11-12,Haití,Antigua And Barbuda,2.0,2.0,CFU Caribbean Cup
 2014-11-12,Países Bajos,México,2.0,3.0,Friendly
 2014-11-12,Noruega,Estonia,0.0,1.0,Friendly
 2014-11-12,Turquía,Brasil,0.0,4.0,Friendly
-2014-11-13,Curaçao,Cuba,2.0,3.0,CFU Caribbean Cup
+2014-11-13,Curazao,Cuba,2.0,3.0,CFU Caribbean Cup
 2014-11-13,Marruecos,Benin,6.0,1.0,Friendly
 2014-11-13,Arabia Saudita,Qatar,1.0,1.0,Gulf Cup
 2014-11-13,Uruguay,Costa Rica,3.0,3.0,Friendly
@@ -21011,7 +21011,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-11-15,RD Congo,Nigeria,0.0,2.0,African Cup of Nations qualification
 2014-11-15,Egipto,Senegal,0.0,1.0,African Cup of Nations qualification
 2014-11-15,Inglaterra,Slovenia,3.0,1.0,UEFA Euro qualification
-2014-11-15,French Guiana,Curaçao,4.0,1.0,CFU Caribbean Cup
+2014-11-15,French Guiana,Curazao,4.0,1.0,CFU Caribbean Cup
 2014-11-15,Montenegro,Suecia,1.0,1.0,UEFA Euro qualification
 2014-11-15,South Africa,Sudan,2.0,1.0,African Cup of Nations qualification
 2014-11-15,España,Belarus,3.0,0.0,UEFA Euro qualification
@@ -21132,12 +21132,12 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-01-27,South Africa,Ghana,1.0,2.0,African Cup of Nations
 2015-01-28,Cameroon,Costa de Marfil,0.0,1.0,African Cup of Nations
 2015-01-28,Chile,Estados Unidos,3.0,2.0,Friendly
-2015-01-30,Curaçao,Aruba,0.0,0.0,ABCS Tournament
+2015-01-30,Curazao,Aruba,0.0,0.0,ABCS Tournament
 2015-01-30,Iraq,United Arab Emirates,2.0,3.0,AFC Asian Cup
 2015-01-31,Australia,Corea del Sur,2.0,1.0,AFC Asian Cup
 2015-01-31,RD Congo,RD Congo,2.0,4.0,African Cup of Nations
 2015-01-31,Equatorial Guinea,Túnez,2.0,1.0,African Cup of Nations
-2015-02-01,Curaçao,Bonaire,4.0,1.0,ABCS Tournament
+2015-02-01,Curazao,Bonaire,4.0,1.0,ABCS Tournament
 2015-02-01,Ghana,Guinea,3.0,0.0,African Cup of Nations
 2015-02-01,Costa de Marfil,Argelia,3.0,1.0,African Cup of Nations
 2015-02-04,RD Congo,Costa de Marfil,1.0,3.0,African Cup of Nations
@@ -21158,7 +21158,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-03-26,Qatar,Argelia,1.0,0.0,Friendly
 2015-03-27,Canadá,Guatemala,1.0,0.0,Friendly
 2015-03-27,China,Haití,2.0,2.0,Friendly
-2015-03-27,Curaçao,Montserrat,2.0,1.0,FIFA World Cup qualification
+2015-03-27,Curazao,Montserrat,2.0,1.0,FIFA World Cup qualification
 2015-03-27,Inglaterra,Lithuania,4.0,0.0,UEFA Euro qualification
 2015-03-27,Japón,Túnez,2.0,0.0,Kirin Challenge Cup
 2015-03-27,Corea del Sur,Uzbekistán,1.0,1.0,Friendly
@@ -21198,7 +21198,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-03-31,Japón,Uzbekistán,5.0,1.0,Friendly
 2015-03-31,Corea del Sur,Nueva Zelanda,1.0,0.0,Friendly
 2015-03-31,Luxembourg,Turquía,1.0,2.0,Friendly
-2015-03-31,Montserrat,Curaçao,2.0,2.0,FIFA World Cup qualification
+2015-03-31,Montserrat,Curazao,2.0,2.0,FIFA World Cup qualification
 2015-03-31,Países Bajos,España,2.0,0.0,Friendly
 2015-03-31,Panamá,Costa Rica,2.0,1.0,Friendly
 2015-03-31,Portugal,Cape Verde,0.0,2.0,Friendly
@@ -21217,7 +21217,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-05-31,Northern Ireland,Qatar,1.0,1.0,Friendly
 2015-06-03,Panamá,Ecuador,1.0,1.0,Friendly
 2015-06-03,Perú,México,1.0,1.0,Friendly
-2015-06-05,Curaçao,Trinidad And Tobago,1.0,0.0,Friendly
+2015-06-05,Curazao,Trinidad And Tobago,1.0,0.0,Friendly
 2015-06-05,Jordania,Kuwait,2.0,2.0,Friendly
 2015-06-05,Países Bajos,Estados Unidos,3.0,4.0,Friendly
 2015-06-05,Scotland,Qatar,1.0,0.0,Friendly
@@ -21236,7 +21236,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-06-08,Turquía,Bulgaria,4.0,0.0,Friendly
 2015-06-09,RD Congo,Cameroon,1.0,1.0,Friendly
 2015-06-10,Brasil,Honduras,1.0,0.0,Friendly
-2015-06-10,Curaçao,Cuba,0.0,0.0,FIFA World Cup qualification
+2015-06-10,Curazao,Cuba,0.0,0.0,FIFA World Cup qualification
 2015-06-10,Alemania,Estados Unidos,1.0,2.0,Friendly
 2015-06-10,Suiza,Liechtenstein,3.0,0.0,Friendly
 2015-06-11,Chile,Ecuador,2.0,0.0,Copa América
@@ -21273,7 +21273,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-06-14,Colombia,Venezuela,0.0,1.0,Copa América
 2015-06-14,RD Congo,Kenya,1.0,1.0,African Cup of Nations qualification
 2015-06-14,RD Congo,Madagascar,2.0,1.0,African Cup of Nations qualification
-2015-06-14,Cuba,Curaçao,1.0,1.0,FIFA World Cup qualification
+2015-06-14,Cuba,Curazao,1.0,1.0,FIFA World Cup qualification
 2015-06-14,Egipto,Tanzania,3.0,0.0,African Cup of Nations qualification
 2015-06-14,Gabon,Costa de Marfil,0.0,0.0,Friendly
 2015-06-14,Ghana,Mauritius,7.0,1.0,African Cup of Nations qualification
@@ -21351,7 +21351,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-09-03,Arabia Saudita,Timor-Leste,7.0,0.0,FIFA World Cup qualification
 2015-09-03,Turquía,Latvia,1.0,1.0,UEFA Euro qualification
 2015-09-03,Uzbekistán,Yemen,1.0,0.0,FIFA World Cup qualification
-2015-09-04,Curaçao,El Salvador,0.0,1.0,FIFA World Cup qualification
+2015-09-04,Curazao,El Salvador,0.0,1.0,FIFA World Cup qualification
 2015-09-04,Georgia,Scotland,1.0,0.0,UEFA Euro qualification
 2015-09-04,Alemania,Polonia,3.0,1.0,UEFA Euro qualification
 2015-09-04,Grenada,Haití,1.0,3.0,FIFA World Cup qualification
@@ -21389,7 +21389,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-09-08,Afghanistan,Japón,0.0,6.0,FIFA World Cup qualification
 2015-09-08,Bangladesh,Jordania,0.0,4.0,FIFA World Cup qualification
 2015-09-08,Ecuador,Honduras,2.0,0.0,Friendly
-2015-09-08,El Salvador,Curaçao,1.0,0.0,FIFA World Cup qualification
+2015-09-08,El Salvador,Curazao,1.0,0.0,FIFA World Cup qualification
 2015-09-08,Inglaterra,Suiza,2.0,0.0,UEFA Euro qualification
 2015-09-08,Hong Kong,Qatar,2.0,3.0,FIFA World Cup qualification
 2015-09-08,India,Iran,0.0,3.0,FIFA World Cup qualification
@@ -21557,7 +21557,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2016-02-14,Uzbekistán,Lebanon,2.0,0.0,Friendly
 2016-02-27,Egipto,Burkina Faso,2.0,0.0,Friendly
 2016-03-18,Iraq,Syria,0.0,1.0,Friendly
-2016-03-23,Barbados,Curaçao,1.0,0.0,CFU Caribbean Cup qualification
+2016-03-23,Barbados,Curazao,1.0,0.0,CFU Caribbean Cup qualification
 2016-03-23,Croacia,Israel,2.0,0.0,Friendly
 2016-03-23,Zambia,RD Congo,1.0,1.0,African Cup of Nations qualification
 2016-03-24,Australia,Tajikistan,7.0,0.0,FIFA World Cup qualification
@@ -21593,7 +21593,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2016-03-26,Cameroon,South Africa,2.0,2.0,African Cup of Nations qualification
 2016-03-26,Cape Verde,Marruecos,0.0,1.0,African Cup of Nations qualification
 2016-03-26,RD Congo,Angola,2.0,1.0,African Cup of Nations qualification
-2016-03-26,Curaçao,Dominican Republic,2.0,1.0,CFU Caribbean Cup qualification
+2016-03-26,Curazao,Dominican Republic,2.0,1.0,CFU Caribbean Cup qualification
 2016-03-26,Alemania,Inglaterra,2.0,3.0,Friendly
 2016-03-26,Hungary,Croacia,1.0,1.0,Friendly
 2016-03-26,Senegal,Niger,2.0,0.0,African Cup of Nations qualification
@@ -21658,7 +21658,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2016-05-31,Austria,Malta,2.0,1.0,Friendly
 2016-05-31,Vanuatu,Nueva Zelanda,0.0,5.0,Oceania Nations Cup
 2016-06-01,Bélgica,Finland,1.0,1.0,Friendly
-2016-06-01,Curaçao,Guyana,5.0,2.0,CFU Caribbean Cup qualification
+2016-06-01,Curazao,Guyana,5.0,2.0,CFU Caribbean Cup qualification
 2016-06-01,Czech Republic,Russia,2.0,1.0,Friendly
 2016-06-01,Noruega,Iceland,3.0,2.0,Friendly
 2016-06-01,Polonia,Países Bajos,1.0,2.0,Friendly
@@ -21702,7 +21702,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2016-06-07,Australia,Greece,1.0,2.0,Friendly
 2016-06-07,Canadá,Uzbekistán,2.0,1.0,Friendly
 2016-06-07,Colombia,Paraguay,2.0,1.0,Copa América
-2016-06-07,Curaçao,United States Virgin Islands,7.0,0.0,CFU Caribbean Cup qualification
+2016-06-07,Curazao,United States Virgin Islands,7.0,0.0,CFU Caribbean Cup qualification
 2016-06-07,Iran,Kyrgyzstan,6.0,0.0,Friendly
 2016-06-07,Japón,Bosnia y Herzegovina,1.0,2.0,Kirin Cup
 2016-06-07,España,Georgia,0.0,1.0,Friendly
@@ -21852,7 +21852,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2016-09-06,Venezuela,Argentina,2.0,2.0,FIFA World Cup qualification
 2016-09-29,Qatar,Serbia,3.0,0.0,Friendly
 2016-10-04,RD Congo,Kenya,0.0,1.0,Friendly
-2016-10-05,Curaçao,Antigua And Barbuda,3.0,0.0,CFU Caribbean Cup qualification
+2016-10-05,Curazao,Antigua And Barbuda,3.0,0.0,CFU Caribbean Cup qualification
 2016-10-06,Austria,Wales,2.0,2.0,FIFA World Cup qualification
 2016-10-06,Brasil,Bolivia,5.0,0.0,FIFA World Cup qualification
 2016-10-06,Ecuador,Chile,3.0,0.0,FIFA World Cup qualification
@@ -21910,7 +21910,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2016-10-11,México,Panamá,1.0,0.0,Friendly
 2016-10-11,Marruecos,Canadá,4.0,0.0,Friendly
 2016-10-11,Noruega,San Marino,4.0,1.0,FIFA World Cup qualification
-2016-10-11,Puerto Rico,Curaçao,2.0,4.0,CFU Caribbean Cup qualification
+2016-10-11,Puerto Rico,Curazao,2.0,4.0,CFU Caribbean Cup qualification
 2016-10-11,Qatar,Syria,1.0,0.0,FIFA World Cup qualification
 2016-10-11,Arabia Saudita,United Arab Emirates,3.0,0.0,FIFA World Cup qualification
 2016-10-11,Slovakia,Scotland,3.0,0.0,FIFA World Cup qualification
@@ -22032,7 +22032,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2017-02-22,Ecuador,Honduras,3.0,1.0,Friendly
 2017-03-09,Qatar,Azerbaijan,1.0,2.0,Friendly
 2017-03-18,Iran,Iraq,0.0,1.0,Friendly
-2017-03-22,Curaçao,El Salvador,1.0,1.0,Friendly
+2017-03-22,Curazao,El Salvador,1.0,1.0,Friendly
 2017-03-22,Czech Republic,Lithuania,3.0,0.0,Friendly
 2017-03-22,Alemania,Inglaterra,1.0,0.0,Friendly
 2017-03-22,Scotland,Canadá,1.0,1.0,Friendly
@@ -22165,7 +22165,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2017-06-12,Iran,Uzbekistán,2.0,0.0,FIFA World Cup qualification
 2017-06-13,Australia,Brasil,0.0,4.0,Friendly
 2017-06-13,Cameroon,Colombia,0.0,4.0,Friendly
-2017-06-13,Canadá,Curaçao,2.0,1.0,Friendly
+2017-06-13,Canadá,Curazao,2.0,1.0,Friendly
 2017-06-13,El Salvador,Ecuador,0.0,3.0,Friendly
 2017-06-13,Francia,Inglaterra,3.0,2.0,Friendly
 2017-06-13,Iraq,Japón,1.0,1.0,FIFA World Cup qualification
@@ -22175,7 +22175,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2017-06-13,Singapore,Argentina,0.0,6.0,Friendly
 2017-06-13,South Africa,Zambia,1.0,2.0,Friendly
 2017-06-13,Vietnam,Jordania,0.0,0.0,AFC Asian Cup qualification
-2017-06-17,Curaçao,Nicaragua,0.0,0.0,Friendly
+2017-06-17,Curazao,Nicaragua,0.0,0.0,Friendly
 2017-06-17,Russia,Nueva Zelanda,2.0,0.0,Confederations Cup
 2017-06-18,Portugal,México,2.0,2.0,Confederations Cup
 2017-06-19,Australia,Alemania,2.0,3.0,Confederations Cup
@@ -22183,12 +22183,12 @@ date,home_team,away_team,home_score,away_score,tournament
 2017-06-21,Russia,Portugal,0.0,1.0,Confederations Cup
 2017-06-22,Cameroon,Australia,1.0,1.0,Confederations Cup
 2017-06-22,Alemania,Chile,1.0,1.0,Confederations Cup
-2017-06-22,Martinique,Curaçao,1.0,2.0,CFU Caribbean Cup
+2017-06-22,Martinique,Curazao,1.0,2.0,CFU Caribbean Cup
 2017-06-24,Nueva Zelanda,Portugal,0.0,4.0,Confederations Cup
 2017-06-24,Russia,México,1.0,2.0,Confederations Cup
 2017-06-25,Chile,Australia,1.0,1.0,Confederations Cup
 2017-06-25,Alemania,Cameroon,3.0,1.0,Confederations Cup
-2017-06-25,Jamaica,Curaçao,1.0,2.0,CFU Caribbean Cup
+2017-06-25,Jamaica,Curazao,1.0,2.0,CFU Caribbean Cup
 2017-06-28,Portugal,Chile,0.0,0.0,Confederations Cup
 2017-06-29,Alemania,México,4.0,1.0,Confederations Cup
 2017-07-01,México,Paraguay,2.0,1.0,Friendly
@@ -22200,17 +22200,17 @@ date,home_team,away_team,home_score,away_score,tournament
 2017-07-07,French Guiana,Canadá,2.0,4.0,Gold Cup
 2017-07-07,South Africa,Namibia,1.0,0.0,COSAFA Cup
 2017-07-08,Estados Unidos,Panamá,1.0,1.0,Gold Cup
-2017-07-09,Curaçao,Jamaica,0.0,2.0,Gold Cup
+2017-07-09,Curazao,Jamaica,0.0,2.0,Gold Cup
 2017-07-09,México,El Salvador,3.0,1.0,Gold Cup
 2017-07-11,Costa Rica,Canadá,1.0,1.0,Gold Cup
 2017-07-12,Panamá,Nicaragua,2.0,1.0,Gold Cup
 2017-07-12,Estados Unidos,Martinique,3.0,2.0,Gold Cup
-2017-07-13,El Salvador,Curaçao,2.0,0.0,Gold Cup
+2017-07-13,El Salvador,Curazao,2.0,0.0,Gold Cup
 2017-07-13,México,Jamaica,0.0,0.0,Gold Cup
 2017-07-14,Canadá,Honduras,0.0,0.0,Gold Cup
 2017-07-15,Panamá,Martinique,3.0,0.0,Gold Cup
 2017-07-15,Estados Unidos,Nicaragua,3.0,0.0,Gold Cup
-2017-07-16,Curaçao,México,0.0,2.0,Gold Cup
+2017-07-16,Curazao,México,0.0,2.0,Gold Cup
 2017-07-19,Costa Rica,Panamá,1.0,0.0,Gold Cup
 2017-07-19,Estados Unidos,El Salvador,2.0,0.0,Gold Cup
 2017-07-20,Jamaica,Canadá,2.0,1.0,Gold Cup
@@ -22359,7 +22359,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2017-10-10,Paraguay,Venezuela,0.0,1.0,FIFA World Cup qualification
 2017-10-10,Perú,Colombia,1.0,1.0,FIFA World Cup qualification
 2017-10-10,Portugal,Suiza,2.0,0.0,FIFA World Cup qualification
-2017-10-10,Qatar,Curaçao,1.0,2.0,Friendly
+2017-10-10,Qatar,Curazao,1.0,2.0,Friendly
 2017-10-10,Russia,Iran,1.0,1.0,Friendly
 2017-10-10,Arabia Saudita,Ghana,0.0,3.0,Friendly
 2017-10-10,Trinidad And Tobago,Estados Unidos,2.0,1.0,FIFA World Cup qualification
@@ -22455,7 +22455,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-03-22,Dinamarca,Panamá,1.0,0.0,Friendly
 2018-03-23,Austria,Slovenia,3.0,0.0,Friendly
 2018-03-23,Bulgaria,Bosnia y Herzegovina,0.0,1.0,Friendly
-2018-03-23,Curaçao,Bolivia,1.0,1.0,Friendly
+2018-03-23,Curazao,Bolivia,1.0,1.0,Friendly
 2018-03-23,Francia,Colombia,2.0,3.0,Friendly
 2018-03-23,Alemania,España,1.0,1.0,Friendly
 2018-03-23,Greece,Suiza,0.0,1.0,Friendly
@@ -22482,7 +22482,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-03-24,Zambia,South Africa,0.0,2.0,Friendly
 2018-03-26,Albania,Noruega,0.0,1.0,Friendly
 2018-03-26,China,Czech Republic,1.0,4.0,Friendly
-2018-03-26,Curaçao,Bolivia,1.0,0.0,Friendly
+2018-03-26,Curazao,Bolivia,1.0,0.0,Friendly
 2018-03-26,Portugal,Países Bajos,0.0,3.0,Friendly
 2018-03-26,Wales,Uruguay,0.0,1.0,Friendly
 2018-03-27,Argelia,Iran,1.0,2.0,Friendly
@@ -22685,7 +22685,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-09-10,Russia,Czech Republic,5.0,1.0,Friendly
 2018-09-10,Arabia Saudita,Bolivia,2.0,2.0,Friendly
 2018-09-10,Haití,Sint Maarten,13.0,0.0,CONCACAF Nations League qualification
-2018-09-10,Curaçao,Grenada,10.0,0.0,CONCACAF Nations League qualification
+2018-09-10,Curazao,Grenada,10.0,0.0,CONCACAF Nations League qualification
 2018-09-11,Iceland,Bélgica,0.0,3.0,UEFA Nations League
 2018-09-11,España,Croacia,6.0,0.0,UEFA Nations League
 2018-09-11,Bosnia y Herzegovina,Austria,1.0,0.0,UEFA Nations League
@@ -22721,7 +22721,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-10-12,Costa de Marfil,Central African Republic,4.0,0.0,African Cup of Nations qualification
 2018-10-12,Egipto,Eswatini,4.0,1.0,African Cup of Nations qualification
 2018-10-12,Cape Verde,Tanzania,3.0,0.0,African Cup of Nations qualification
-2018-10-12,United States Virgin Islands,Curaçao,0.0,5.0,CONCACAF Nations League qualification
+2018-10-12,United States Virgin Islands,Curazao,0.0,5.0,CONCACAF Nations League qualification
 2018-10-12,Argelia,Benin,2.0,0.0,African Cup of Nations qualification
 2018-10-13,Países Bajos,Alemania,3.0,0.0,UEFA Nations League
 2018-10-13,Slovakia,Czech Republic,1.0,2.0,UEFA Nations League
@@ -22808,7 +22808,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-11-19,Czech Republic,Slovakia,1.0,0.0,UEFA Nations League
 2018-11-19,Cyprus,Noruega,0.0,2.0,UEFA Nations League
 2018-11-19,Iceland,Qatar,2.0,2.0,Friendly
-2018-11-19,Curaçao,Guadeloupe,6.0,0.0,CONCACAF Nations League qualification
+2018-11-19,Curazao,Guadeloupe,6.0,0.0,CONCACAF Nations League qualification
 2018-11-20,Portugal,Polonia,1.0,1.0,UEFA Nations League
 2018-11-20,Suecia,Russia,2.0,0.0,UEFA Nations League
 2018-11-20,Scotland,Israel,3.0,2.0,UEFA Nations League
@@ -22906,7 +22906,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-03-23,Senegal,Madagascar,2.0,0.0,African Cup of Nations qualification
 2019-03-23,Ghana,Kenya,1.0,0.0,African Cup of Nations qualification
 2019-03-23,Niger,Egipto,1.0,1.0,African Cup of Nations qualification
-2019-03-23,Antigua And Barbuda,Curaçao,2.0,1.0,CONCACAF Nations League qualification
+2019-03-23,Antigua And Barbuda,Curazao,2.0,1.0,CONCACAF Nations League qualification
 2019-03-23,Costa de Marfil,Rwanda,3.0,0.0,African Cup of Nations qualification
 2019-03-24,Países Bajos,Alemania,2.0,3.0,UEFA Euro qualification
 2019-03-24,Hungary,Croacia,2.0,1.0,UEFA Euro qualification
@@ -23017,7 +23017,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-06-16,Marruecos,Zambia,2.0,3.0,Friendly
 2019-06-16,Senegal,Nigeria,1.0,0.0,Friendly
 2019-06-17,Japón,Chile,0.0,4.0,Copa América
-2019-06-17,Curaçao,El Salvador,0.0,1.0,Gold Cup
+2019-06-17,Curazao,El Salvador,0.0,1.0,Gold Cup
 2019-06-17,Túnez,Burundi,2.0,1.0,Friendly
 2019-06-18,Brasil,Venezuela,0.0,0.0,Copa América
 2019-06-18,Panamá,Trinidad And Tobago,2.0,0.0,Gold Cup
@@ -23030,7 +23030,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-06-20,Nicaragua,Haití,0.0,2.0,Gold Cup
 2019-06-21,Egipto,Zimbabwe,1.0,0.0,African Cup of Nations
 2019-06-21,Ecuador,Chile,1.0,2.0,Copa América
-2019-06-21,Honduras,Curaçao,0.0,1.0,Gold Cup
+2019-06-21,Honduras,Curazao,0.0,1.0,Gold Cup
 2019-06-22,RD Congo,Uganda,0.0,2.0,African Cup of Nations
 2019-06-22,Guyana,Panamá,2.0,4.0,Gold Cup
 2019-06-22,Estados Unidos,Trinidad And Tobago,6.0,0.0,Gold Cup
@@ -23048,7 +23048,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-06-24,Ecuador,Japón,1.0,1.0,Copa América
 2019-06-24,Haití,Costa Rica,2.0,1.0,Gold Cup
 2019-06-25,Ghana,Benin,2.0,2.0,African Cup of Nations
-2019-06-25,Jamaica,Curaçao,1.0,1.0,Gold Cup
+2019-06-25,Jamaica,Curazao,1.0,1.0,Gold Cup
 2019-06-26,Egipto,RD Congo,2.0,0.0,African Cup of Nations
 2019-06-26,Estados Unidos,Panamá,1.0,0.0,Gold Cup
 2019-06-27,Senegal,Argelia,0.0,1.0,African Cup of Nations
@@ -23065,7 +23065,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-06-30,Egipto,Uganda,2.0,0.0,African Cup of Nations
 2019-06-30,Zimbabwe,RD Congo,0.0,4.0,African Cup of Nations
 2019-06-30,Jamaica,Panamá,1.0,0.0,Gold Cup
-2019-06-30,Estados Unidos,Curaçao,1.0,0.0,Gold Cup
+2019-06-30,Estados Unidos,Curazao,1.0,0.0,Gold Cup
 2019-07-01,Kenya,Senegal,0.0,3.0,African Cup of Nations
 2019-07-01,Tanzania,Argelia,0.0,3.0,African Cup of Nations
 2019-07-01,Namibia,Costa de Marfil,1.0,4.0,African Cup of Nations
@@ -23136,7 +23136,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-09-07,Francia,Albania,4.0,1.0,UEFA Euro qualification
 2019-09-07,Turquía,Andorra,1.0,0.0,UEFA Euro qualification
 2019-09-07,Canadá,Cuba,6.0,0.0,CONCACAF Nations League
-2019-09-07,Curaçao,Haití,1.0,0.0,CONCACAF Nations League
+2019-09-07,Curazao,Haití,1.0,0.0,CONCACAF Nations League
 2019-09-08,Suiza,Gibraltar,4.0,0.0,UEFA Euro qualification
 2019-09-08,España,Faroe Islands,4.0,0.0,UEFA Euro qualification
 2019-09-08,Suecia,Noruega,1.0,1.0,UEFA Euro qualification
@@ -23163,7 +23163,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-09-10,Francia,Andorra,3.0,0.0,UEFA Euro qualification
 2019-09-10,Moldova,Turquía,0.0,4.0,UEFA Euro qualification
 2019-09-10,Cuba,Canadá,0.0,1.0,CONCACAF Nations League
-2019-09-10,Haití,Curaçao,1.0,1.0,CONCACAF Nations League
+2019-09-10,Haití,Curazao,1.0,1.0,CONCACAF Nations League
 2019-09-10,Kuwait,Australia,0.0,3.0,FIFA World Cup qualification
 2019-09-10,Hong Kong,Iran,0.0,2.0,FIFA World Cup qualification
 2019-09-10,Yemen,Arabia Saudita,2.0,2.0,FIFA World Cup qualification
@@ -23219,7 +23219,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-10-13,Ecuador,Argentina,1.0,6.0,Friendly
 2019-10-13,Slovakia,Paraguay,1.0,1.0,Friendly
 2019-10-13,South Africa,Mali,2.0,1.0,Friendly
-2019-10-13,Costa Rica,Curaçao,0.0,0.0,CONCACAF Nations League
+2019-10-13,Costa Rica,Curazao,0.0,0.0,CONCACAF Nations League
 2019-10-14,Bulgaria,Inglaterra,0.0,6.0,UEFA Euro qualification
 2019-10-14,Ucrania,Portugal,2.0,1.0,UEFA Euro qualification
 2019-10-14,Francia,Turquía,1.0,1.0,UEFA Euro qualification
@@ -23257,7 +23257,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-11-14,Portugal,Lithuania,6.0,0.0,UEFA Euro qualification
 2019-11-14,Turquía,Iceland,0.0,0.0,UEFA Euro qualification
 2019-11-14,Francia,Moldova,2.0,1.0,UEFA Euro qualification
-2019-11-14,Curaçao,Costa Rica,1.0,2.0,CONCACAF Nations League
+2019-11-14,Curazao,Costa Rica,1.0,2.0,CONCACAF Nations League
 2019-11-14,Bulgaria,Paraguay,0.0,1.0,Friendly
 2019-11-14,Ecuador,Trinidad And Tobago,3.0,0.0,Friendly
 2019-11-14,Qatar,Singapore,2.0,0.0,Friendly
@@ -23539,7 +23539,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-03-25,Arabia Saudita,Kuwait,1.0,0.0,Friendly
 2021-03-25,Estados Unidos,Jamaica,4.0,1.0,Friendly
 2021-03-25,Canadá,Bermuda,5.0,1.0,FIFA World Cup qualification
-2021-03-25,Curaçao,Saint Vincent And The Grenadines,5.0,0.0,FIFA World Cup qualification
+2021-03-25,Curazao,Saint Vincent And The Grenadines,5.0,0.0,FIFA World Cup qualification
 2021-03-25,Panamá,Barbados,1.0,0.0,FIFA World Cup qualification
 2021-03-25,Haití,Belize,2.0,0.0,FIFA World Cup qualification
 2021-03-25,España,Greece,1.0,1.0,FIFA World Cup qualification
@@ -23566,7 +23566,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-03-27,Noruega,Turquía,0.0,3.0,FIFA World Cup qualification
 2021-03-27,Croacia,Cyprus,1.0,0.0,FIFA World Cup qualification
 2021-03-28,Northern Ireland,Estados Unidos,1.0,2.0,Friendly
-2021-03-28,Cuba,Curaçao,1.0,2.0,FIFA World Cup qualification
+2021-03-28,Cuba,Curazao,1.0,2.0,FIFA World Cup qualification
 2021-03-28,Dominica,Panamá,1.0,2.0,FIFA World Cup qualification
 2021-03-28,Georgia,España,1.0,2.0,FIFA World Cup qualification
 2021-03-28,Kosovo,Suecia,0.0,3.0,FIFA World Cup qualification
@@ -23650,7 +23650,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-06-05,Arabia Saudita,Yemen,3.0,0.0,FIFA World Cup qualification
 2021-06-05,Corea del Sur,Turkmenistan,5.0,0.0,FIFA World Cup qualification
 2021-06-05,Aruba,Canadá,0.0,7.0,FIFA World Cup qualification
-2021-06-05,British Virgin Islands,Curaçao,0.0,8.0,FIFA World Cup qualification
+2021-06-05,British Virgin Islands,Curazao,0.0,8.0,FIFA World Cup qualification
 2021-06-05,Panamá,Anguilla,13.0,0.0,FIFA World Cup qualification
 2021-06-05,Turks And Caicos Islands,Haití,0.0,10.0,FIFA World Cup qualification
 2021-06-06,Argelia,Mali,1.0,0.0,Friendly
@@ -23676,7 +23676,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-06-08,Senegal,Cape Verde,2.0,0.0,Friendly
 2021-06-08,España,Lithuania,4.0,0.0,Friendly
 2021-06-08,Canadá,Suriname,4.0,0.0,FIFA World Cup qualification
-2021-06-08,Curaçao,Guatemala,0.0,0.0,FIFA World Cup qualification
+2021-06-08,Curazao,Guatemala,0.0,0.0,FIFA World Cup qualification
 2021-06-08,Panamá,Dominican Republic,3.0,0.0,FIFA World Cup qualification
 2021-06-08,Haití,Nicaragua,1.0,0.0,FIFA World Cup qualification
 2021-06-08,Ecuador,Perú,1.0,2.0,FIFA World Cup qualification
@@ -23699,7 +23699,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-06-11,Italia,Turquía,3.0,0.0,UEFA Euro
 2021-06-11,Arabia Saudita,Singapore,3.0,0.0,FIFA World Cup qualification
 2021-06-12,Haití,Canadá,0.0,1.0,FIFA World Cup qualification
-2021-06-12,Panamá,Curaçao,2.0,1.0,FIFA World Cup qualification
+2021-06-12,Panamá,Curazao,2.0,1.0,FIFA World Cup qualification
 2021-06-12,Ghana,Costa de Marfil,0.0,0.0,Friendly
 2021-06-12,México,Honduras,0.0,0.0,Friendly
 2021-06-12,Marruecos,Burkina Faso,1.0,0.0,Friendly
@@ -23720,7 +23720,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-06-15,Arabia Saudita,Uzbekistán,3.0,0.0,FIFA World Cup qualification
 2021-06-15,Japón,Kyrgyzstan,5.0,1.0,FIFA World Cup qualification
 2021-06-15,Canadá,Haití,3.0,0.0,FIFA World Cup qualification
-2021-06-15,Curaçao,Panamá,0.0,0.0,FIFA World Cup qualification
+2021-06-15,Curazao,Panamá,0.0,0.0,FIFA World Cup qualification
 2021-06-15,Túnez,Mali,1.0,0.0,Friendly
 2021-06-15,Hungary,Portugal,0.0,3.0,UEFA Euro
 2021-06-15,Alemania,Francia,0.0,1.0,UEFA Euro
@@ -23919,7 +23919,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-09-09,Brasil,Perú,2.0,0.0,FIFA World Cup qualification
 2021-09-30,Egipto,Liberia,2.0,0.0,Friendly
 2021-10-06,Marruecos,Guinea-Bissau,5.0,0.0,FIFA World Cup qualification
-2021-10-06,Bahrain,Curaçao,4.0,0.0,Friendly
+2021-10-06,Bahrain,Curazao,4.0,0.0,Friendly
 2021-10-06,Jordania,Malaysia,4.0,0.0,Friendly
 2021-10-06,Italia,España,1.0,2.0,UEFA Nations League
 2021-10-07,Iraq,Lebanon,0.0,0.0,FIFA World Cup qualification
@@ -23956,7 +23956,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-10-09,Ghana,Zimbabwe,3.0,1.0,FIFA World Cup qualification
 2021-10-09,Togo,RD Congo,1.0,1.0,FIFA World Cup qualification
 2021-10-09,Senegal,Namibia,4.0,1.0,FIFA World Cup qualification
-2021-10-09,Curaçao,Nueva Zelanda,1.0,2.0,Friendly
+2021-10-09,Curazao,Nueva Zelanda,1.0,2.0,Friendly
 2021-10-09,Portugal,Qatar,3.0,0.0,Friendly
 2021-10-09,Uzbekistán,Malaysia,5.0,1.0,Friendly
 2021-10-09,Marruecos,Guinea-Bissau,3.0,0.0,FIFA World Cup qualification
@@ -24289,7 +24289,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2022-06-02,México,Uruguay,0.0,3.0,Friendly
 2022-06-03,Burkina Faso,Cape Verde,2.0,0.0,African Cup of Nations qualification
 2022-06-03,Costa de Marfil,Zambia,3.0,1.0,African Cup of Nations qualification
-2022-06-03,Curaçao,Honduras,0.0,1.0,CONCACAF Nations League
+2022-06-03,Curazao,Honduras,0.0,1.0,CONCACAF Nations League
 2022-06-03,Croacia,Austria,0.0,3.0,UEFA Nations League
 2022-06-03,Francia,Dinamarca,1.0,2.0,UEFA Nations League
 2022-06-03,Bélgica,Países Bajos,1.0,4.0,UEFA Nations League
@@ -24313,7 +24313,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2022-06-05,Perú,Nueva Zelanda,1.0,0.0,Friendly
 2022-06-05,Arabia Saudita,Colombia,0.0,1.0,Friendly
 2022-06-05,Estados Unidos,Uruguay,0.0,0.0,Friendly
-2022-06-06,Honduras,Curaçao,1.0,2.0,CONCACAF Nations League
+2022-06-06,Honduras,Curazao,1.0,2.0,CONCACAF Nations League
 2022-06-06,Austria,Dinamarca,1.0,2.0,UEFA Nations League
 2022-06-06,Croacia,Francia,1.0,1.0,UEFA Nations League
 2022-06-06,Corea del Sur,Chile,2.0,0.0,Friendly
@@ -24337,7 +24337,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2022-06-09,Lesotho,Costa de Marfil,0.0,0.0,African Cup of Nations qualification
 2022-06-09,Marruecos,South Africa,2.0,1.0,African Cup of Nations qualification
 2022-06-09,Panamá,Martinique,5.0,0.0,CONCACAF Nations League
-2022-06-09,Canadá,Curaçao,4.0,0.0,CONCACAF Nations League
+2022-06-09,Canadá,Curazao,4.0,0.0,CONCACAF Nations League
 2022-06-09,Portugal,Czech Republic,2.0,0.0,UEFA Nations League
 2022-06-09,Suiza,España,0.0,1.0,UEFA Nations League
 2022-06-09,Noruega,Slovenia,0.0,0.0,UEFA Nations League
@@ -24430,7 +24430,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2022-09-23,Bosnia y Herzegovina,Montenegro,1.0,0.0,UEFA Nations League
 2022-09-24,Bolivia,Senegal,0.0,2.0,Friendly
 2022-09-24,Colombia,Guatemala,4.0,1.0,Friendly
-2022-09-24,Indonesia,Curaçao,3.0,2.0,Friendly
+2022-09-24,Indonesia,Curazao,3.0,2.0,Friendly
 2022-09-24,Costa de Marfil,Togo,2.0,1.0,Friendly
 2022-09-24,Madagascar,RD Congo,3.0,3.0,Friendly
 2022-09-24,México,Perú,1.0,0.0,Friendly
@@ -24459,7 +24459,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2022-09-27,Ecuador,Japón,0.0,0.0,Kirin Challenge Cup
 2022-09-27,Egipto,Liberia,3.0,0.0,Friendly
 2022-09-27,Ghana,Nicaragua,1.0,0.0,Friendly
-2022-09-27,Indonesia,Curaçao,2.0,1.0,Friendly
+2022-09-27,Indonesia,Curazao,2.0,1.0,Friendly
 2022-09-27,Iran,Senegal,1.0,1.0,Friendly
 2022-09-27,Costa de Marfil,Guinea,3.0,1.0,Friendly
 2022-09-27,Corea del Sur,Cameroon,1.0,0.0,Friendly
@@ -24632,7 +24632,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-03-25,Croacia,Wales,1.0,1.0,UEFA Euro qualification
 2023-03-25,Armenia,Turquía,1.0,2.0,UEFA Euro qualification
 2023-03-25,Belarus,Suiza,0.0,5.0,UEFA Euro qualification
-2023-03-25,Curaçao,Canadá,0.0,2.0,CONCACAF Nations League
+2023-03-25,Curazao,Canadá,0.0,2.0,CONCACAF Nations League
 2023-03-25,Montserrat,Haití,0.0,4.0,CONCACAF Nations League
 2023-03-26,Nueva Zelanda,China,2.0,1.0,Friendly
 2023-03-26,Russia,Iraq,2.0,0.0,Friendly
@@ -24650,7 +24650,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-03-27,Austria,Estonia,2.0,1.0,UEFA Euro qualification
 2023-03-27,Suecia,Azerbaijan,5.0,0.0,UEFA Euro qualification
 2023-03-27,Estados Unidos,El Salvador,1.0,0.0,CONCACAF Nations League
-2023-03-28,Argentina,Curaçao,7.0,0.0,Friendly
+2023-03-28,Argentina,Curazao,7.0,0.0,Friendly
 2023-03-28,Australia,Ecuador,1.0,2.0,Friendly
 2023-03-28,Alemania,Bélgica,2.0,3.0,Friendly
 2023-03-28,Iran,Kenya,2.0,1.0,Friendly
@@ -24682,7 +24682,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-06-12,Alemania,Ucrania,3.0,3.0,Friendly
 2023-06-12,Marruecos,Cape Verde,0.0,0.0,Friendly
 2023-06-13,Iran,Afghanistan,6.0,1.0,CAFA Nations Cup
-2023-06-13,Curaçao,Costa Rica,0.0,0.0,Friendly
+2023-06-13,Curazao,Costa Rica,0.0,0.0,Friendly
 2023-06-14,RD Congo,Uganda,1.0,0.0,Friendly
 2023-06-14,Uruguay,Nicaragua,4.0,1.0,Friendly
 2023-06-14,Países Bajos,Croacia,2.0,4.0,UEFA Nations League
@@ -24694,7 +24694,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-06-15,Jamaica,Qatar,1.0,2.0,Friendly
 2023-06-15,Japón,El Salvador,6.0,0.0,Friendly
 2023-06-15,España,Italia,2.0,1.0,UEFA Nations League
-2023-06-16,Curaçao,Saint Kitts And Nevis,1.0,1.0,Gold Cup qualification
+2023-06-16,Curazao,Saint Kitts And Nevis,1.0,1.0,Gold Cup qualification
 2023-06-16,Colombia,Iraq,1.0,0.0,Friendly
 2023-06-16,Corea del Sur,Perú,0.0,1.0,Friendly
 2023-06-16,Polonia,Alemania,1.0,0.0,Friendly
@@ -24776,7 +24776,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-07-16,México,Panamá,1.0,0.0,Gold Cup
 2023-07-16,South Africa,Malawi,0.0,0.0,COSAFA Cup
 2023-08-27,Bolivia,Panamá,1.0,2.0,Friendly
-2023-09-07,Trinidad And Tobago,Curaçao,1.0,0.0,CONCACAF Nations League
+2023-09-07,Trinidad And Tobago,Curazao,1.0,0.0,CONCACAF Nations League
 2023-09-07,Panamá,Martinique,3.0,0.0,CONCACAF Nations League
 2023-09-07,Colombia,Venezuela,1.0,0.0,FIFA World Cup qualification
 2023-09-07,Paraguay,Perú,0.0,0.0,FIFA World Cup qualification
@@ -24816,7 +24816,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-09-09,Estonia,Suecia,0.0,5.0,UEFA Euro qualification
 2023-09-09,Kosovo,Suiza,2.0,2.0,UEFA Euro qualification
 2023-09-10,Guatemala,Panamá,1.0,1.0,CONCACAF Nations League
-2023-09-10,Martinique,Curaçao,1.0,0.0,CONCACAF Nations League
+2023-09-10,Martinique,Curazao,1.0,0.0,CONCACAF Nations League
 2023-09-10,Hungary,Czech Republic,1.0,1.0,Friendly
 2023-09-10,Togo,Cape Verde,3.0,2.0,African Cup of Nations qualification
 2023-09-10,Gambia,RD Congo,2.0,2.0,African Cup of Nations qualification
@@ -24862,7 +24862,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-10-12,Cyprus,Noruega,0.0,4.0,UEFA Euro qualification
 2023-10-12,Croacia,Turquía,0.0,1.0,UEFA Euro qualification
 2023-10-12,Albania,Czech Republic,3.0,0.0,UEFA Euro qualification
-2023-10-13,Curaçao,Panamá,1.0,2.0,CONCACAF Nations League
+2023-10-13,Curazao,Panamá,1.0,2.0,CONCACAF Nations League
 2023-10-13,RD Congo,Nueva Zelanda,1.0,1.0,Friendly
 2023-10-13,Inglaterra,Australia,1.0,0.0,Friendly
 2023-10-13,Iraq,Qatar,0.0,0.0,Friendly
@@ -24892,7 +24892,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-10-16,Bélgica,Suecia,1.0,1.0,UEFA Euro qualification
 2023-10-16,Bosnia y Herzegovina,Portugal,0.0,5.0,UEFA Euro qualification
 2023-10-17,Panamá,Guatemala,3.0,0.0,CONCACAF Nations League
-2023-10-17,Curaçao,Trinidad And Tobago,5.0,3.0,CONCACAF Nations League
+2023-10-17,Curazao,Trinidad And Tobago,5.0,3.0,CONCACAF Nations League
 2023-10-17,Ecuador,Colombia,0.0,0.0,FIFA World Cup qualification
 2023-10-17,Paraguay,Bolivia,1.0,0.0,FIFA World Cup qualification
 2023-10-17,Perú,Argentina,0.0,2.0,FIFA World Cup qualification
@@ -24929,7 +24929,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-11-16,Egipto,Djibouti,6.0,0.0,FIFA World Cup qualification
 2023-11-16,Cape Verde,Angola,0.0,0.0,FIFA World Cup qualification
 2023-11-16,Argelia,Somalia,3.0,1.0,FIFA World Cup qualification
-2023-11-16,Curaçao,El Salvador,1.0,1.0,Friendly
+2023-11-16,Curazao,El Salvador,1.0,1.0,Friendly
 2023-11-16,Noruega,Faroe Islands,2.0,0.0,Friendly
 2023-11-16,Cyprus,España,1.0,3.0,UEFA Euro qualification
 2023-11-16,Georgia,Scotland,2.0,2.0,UEFA Euro qualification
@@ -24965,7 +24965,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-11-20,Panamá,Costa Rica,3.0,1.0,CONCACAF Nations League
 2023-11-20,Trinidad And Tobago,Estados Unidos,2.0,1.0,CONCACAF Nations League
 2023-11-20,Gambia,Costa de Marfil,0.0,2.0,FIFA World Cup qualification
-2023-11-20,Curaçao,El Salvador,1.0,1.0,Friendly
+2023-11-20,Curazao,El Salvador,1.0,1.0,Friendly
 2023-11-20,North Macedonia,Inglaterra,1.0,1.0,UEFA Euro qualification
 2023-11-20,Czech Republic,Moldova,3.0,0.0,UEFA Euro qualification
 2023-11-21,Canadá,Jamaica,2.0,3.0,CONCACAF Nations League
@@ -25179,7 +25179,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-06-05,Noruega,Kosovo,3.0,0.0,Friendly
 2024-06-05,España,Andorra,5.0,0.0,Friendly
 2024-06-05,Túnez,Equatorial Guinea,1.0,0.0,FIFA World Cup qualification
-2024-06-05,Curaçao,Barbados,4.0,1.0,FIFA World Cup qualification
+2024-06-05,Curazao,Barbados,4.0,1.0,FIFA World Cup qualification
 2024-06-06,Países Bajos,Canadá,4.0,0.0,Friendly
 2024-06-06,Egipto,Burkina Faso,2.0,1.0,FIFA World Cup qualification
 2024-06-06,Senegal,RD Congo,1.0,1.0,FIFA World Cup qualification
@@ -25213,7 +25213,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-06-08,Suiza,Austria,1.0,1.0,Friendly
 2024-06-08,Estados Unidos,Colombia,1.0,5.0,Friendly
 2024-06-08,Cameroon,Cape Verde,4.0,1.0,FIFA World Cup qualification
-2024-06-08,Aruba,Curaçao,0.0,2.0,FIFA World Cup qualification
+2024-06-08,Aruba,Curazao,0.0,2.0,FIFA World Cup qualification
 2024-06-09,Argentina,Ecuador,1.0,0.0,Friendly
 2024-06-09,Francia,Canadá,0.0,0.0,Friendly
 2024-06-09,Italia,Bosnia y Herzegovina,1.0,0.0,Friendly
@@ -25353,7 +25353,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-09-06,RD Congo,Guinea,1.0,0.0,African Cup of Nations qualification
 2024-09-06,South Africa,Uganda,2.0,2.0,African Cup of Nations qualification
 2024-09-06,Senegal,Burkina Faso,1.0,1.0,African Cup of Nations qualification
-2024-09-06,Saint Lucia,Curaçao,2.0,1.0,CONCACAF Nations League
+2024-09-06,Saint Lucia,Curazao,2.0,1.0,CONCACAF Nations League
 2024-09-06,Puerto Rico,Haití,1.0,4.0,CONCACAF Nations League
 2024-09-06,Bélgica,Israel,3.0,1.0,UEFA Nations League
 2024-09-06,Francia,Italia,1.0,3.0,UEFA Nations League
@@ -25379,7 +25379,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-09-09,Ethiopia,RD Congo,0.0,2.0,African Cup of Nations qualification
 2024-09-09,Uganda,RD Congo,2.0,0.0,African Cup of Nations qualification
 2024-09-09,Burundi,Senegal,0.0,1.0,African Cup of Nations qualification
-2024-09-09,Curaçao,Saint Martin,4.0,0.0,CONCACAF Nations League
+2024-09-09,Curazao,Saint Martin,4.0,0.0,CONCACAF Nations League
 2024-09-09,Haití,Sint Maarten,6.0,0.0,CONCACAF Nations League
 2024-09-09,Francia,Bélgica,2.0,0.0,UEFA Nations League
 2024-09-09,Noruega,Austria,2.0,1.0,UEFA Nations League
@@ -25432,7 +25432,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-10-11,Costa de Marfil,Sierra Leone,4.0,1.0,African Cup of Nations qualification
 2024-10-11,South Africa,RD Congo,5.0,0.0,African Cup of Nations qualification
 2024-10-11,Senegal,Malawi,4.0,0.0,African Cup of Nations qualification
-2024-10-11,Grenada,Curaçao,0.0,0.0,CONCACAF Nations League
+2024-10-11,Grenada,Curazao,0.0,0.0,CONCACAF Nations League
 2024-10-11,Aruba,Haití,1.0,3.0,CONCACAF Nations League
 2024-10-11,Bosnia y Herzegovina,Alemania,1.0,2.0,UEFA Nations League
 2024-10-11,Hungary,Países Bajos,1.0,1.0,UEFA Nations League
@@ -25451,7 +25451,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-10-13,Austria,Noruega,5.0,1.0,UEFA Nations League
 2024-10-14,Nueva Zelanda,Malaysia,4.0,0.0,Friendly
 2024-10-14,Togo,Argelia,0.0,1.0,African Cup of Nations qualification
-2024-10-14,Curaçao,Grenada,1.0,0.0,CONCACAF Nations League
+2024-10-14,Curazao,Grenada,1.0,0.0,CONCACAF Nations League
 2024-10-14,Aruba,Haití,3.0,5.0,CONCACAF Nations League
 2024-10-14,Bélgica,Francia,1.0,2.0,UEFA Nations League
 2024-10-14,Bosnia y Herzegovina,Hungary,0.0,2.0,UEFA Nations League
@@ -25508,7 +25508,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-11-15,Scotland,Croacia,1.0,0.0,UEFA Nations League
 2024-11-15,Dinamarca,España,1.0,2.0,UEFA Nations League
 2024-11-15,Suiza,Serbia,1.0,1.0,UEFA Nations League
-2024-11-15,Curaçao,Saint Martin,5.0,0.0,CONCACAF Nations League
+2024-11-15,Curazao,Saint Martin,5.0,0.0,CONCACAF Nations League
 2024-11-15,Sint Maarten,Haití,0.0,8.0,CONCACAF Nations League
 2024-11-15,Honduras,México,2.0,0.0,CONCACAF Nations League
 2024-11-15,Suriname,Canadá,0.0,1.0,CONCACAF Nations League
@@ -25535,7 +25535,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-11-18,Croacia,Portugal,1.0,1.0,UEFA Nations League
 2024-11-18,Polonia,Scotland,1.0,2.0,UEFA Nations League
 2024-11-18,España,Suiza,3.0,2.0,UEFA Nations League
-2024-11-18,Saint Lucia,Curaçao,1.0,4.0,CONCACAF Nations League
+2024-11-18,Saint Lucia,Curazao,1.0,4.0,CONCACAF Nations League
 2024-11-18,Puerto Rico,Haití,0.0,3.0,CONCACAF Nations League
 2024-11-18,Panamá,Costa Rica,2.0,2.0,CONCACAF Nations League
 2024-11-18,Estados Unidos,Jamaica,4.0,2.0,CONCACAF Nations League
@@ -25585,7 +25585,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-02-08,Chile,Panamá,6.0,1.0,Friendly
 2025-03-14,Jordania,North Korea,1.0,1.0,Friendly
 2025-03-19,Liberia,Túnez,0.0,1.0,FIFA World Cup qualification
-2025-03-19,Kazakhstan,Curaçao,2.0,0.0,Friendly
+2025-03-19,Kazakhstan,Curazao,2.0,0.0,Friendly
 2025-03-20,Canadá,México,0.0,2.0,CONCACAF Nations League
 2025-03-20,Estados Unidos,Panamá,0.0,1.0,CONCACAF Nations League
 2025-03-20,Croacia,Francia,2.0,0.0,UEFA Nations League
@@ -25692,7 +25692,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-06-06,North Macedonia,Bélgica,1.0,1.0,FIFA World Cup qualification
 2025-06-06,Czech Republic,Montenegro,2.0,0.0,FIFA World Cup qualification
 2025-06-06,Gibraltar,Croacia,0.0,7.0,FIFA World Cup qualification
-2025-06-06,Curaçao,Saint Lucia,4.0,0.0,FIFA World Cup qualification
+2025-06-06,Curazao,Saint Lucia,4.0,0.0,FIFA World Cup qualification
 2025-06-07,México,Suiza,2.0,4.0,Friendly
 2025-06-07,Estados Unidos,Turquía,1.0,2.0,Friendly
 2025-06-07,Finland,Países Bajos,0.0,2.0,FIFA World Cup qualification
@@ -25733,23 +25733,23 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-06-10,San Marino,Austria,0.0,4.0,FIFA World Cup qualification
 2025-06-10,Nueva Zelanda,Ucrania,1.0,2.0,Canadian Shield
 2025-06-10,Canadá,Costa de Marfil,0.0,0.0,Canadian Shield
-2025-06-10,Haití,Curaçao,1.0,5.0,FIFA World Cup qualification
+2025-06-10,Haití,Curazao,1.0,5.0,FIFA World Cup qualification
 2025-06-10,Panamá,Nicaragua,3.0,0.0,FIFA World Cup qualification
 2025-06-14,México,Dominican Republic,3.0,2.0,Gold Cup
 2025-06-15,Estados Unidos,Trinidad And Tobago,5.0,0.0,Gold Cup
 2025-06-15,Haití,Arabia Saudita,0.0,1.0,Gold Cup
 2025-06-16,Panamá,Guadeloupe,5.0,2.0,Gold Cup
-2025-06-17,Curaçao,El Salvador,0.0,0.0,Gold Cup
+2025-06-17,Curazao,El Salvador,0.0,0.0,Gold Cup
 2025-06-17,Canadá,Honduras,6.0,0.0,Gold Cup
 2025-06-18,Suriname,México,0.0,2.0,Gold Cup
 2025-06-19,Trinidad And Tobago,Haití,1.0,1.0,Gold Cup
 2025-06-19,Estados Unidos,Arabia Saudita,1.0,0.0,Gold Cup
 2025-06-20,Guatemala,Panamá,0.0,1.0,Gold Cup
-2025-06-21,Curaçao,Canadá,1.0,1.0,Gold Cup
+2025-06-21,Curazao,Canadá,1.0,1.0,Gold Cup
 2025-06-22,México,Costa Rica,0.0,0.0,Gold Cup
 2025-06-22,Arabia Saudita,Trinidad And Tobago,1.0,1.0,Gold Cup
 2025-06-22,Estados Unidos,Haití,2.0,1.0,Gold Cup
-2025-06-24,Honduras,Curaçao,2.0,1.0,Gold Cup
+2025-06-24,Honduras,Curazao,2.0,1.0,Gold Cup
 2025-06-24,Canadá,El Salvador,2.0,0.0,Gold Cup
 2025-06-24,Panamá,Jamaica,4.0,1.0,Gold Cup
 2025-06-28,Panamá,Honduras,1.0,1.0,Gold Cup
@@ -25795,7 +25795,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-09-05,Ucrania,Francia,0.0,2.0,FIFA World Cup qualification
 2025-09-05,Faroe Islands,Croacia,0.0,1.0,FIFA World Cup qualification
 2025-09-05,Montenegro,Czech Republic,0.0,2.0,FIFA World Cup qualification
-2025-09-05,Trinidad And Tobago,Curaçao,0.0,0.0,FIFA World Cup qualification
+2025-09-05,Trinidad And Tobago,Curazao,0.0,0.0,FIFA World Cup qualification
 2025-09-05,Haití,Honduras,0.0,0.0,FIFA World Cup qualification
 2025-09-06,México,Japón,0.0,0.0,Friendly
 2025-09-06,Estados Unidos,Corea del Sur,0.0,2.0,Friendly
@@ -25839,7 +25839,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-09-09,Bosnia y Herzegovina,Austria,1.0,2.0,FIFA World Cup qualification
 2025-09-09,Noruega,Moldova,11.0,1.0,FIFA World Cup qualification
 2025-09-09,Serbia,Inglaterra,0.0,5.0,FIFA World Cup qualification
-2025-09-09,Curaçao,Bermuda,3.0,2.0,FIFA World Cup qualification
+2025-09-09,Curazao,Bermuda,3.0,2.0,FIFA World Cup qualification
 2025-09-09,Costa Rica,Haití,3.0,3.0,FIFA World Cup qualification
 2025-10-08,Qatar,Oman,0.0,0.0,FIFA World Cup qualification
 2025-10-08,Arabia Saudita,Indonesia,3.0,2.0,FIFA World Cup qualification
@@ -25876,7 +25876,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-10-10,Francia,Azerbaijan,3.0,0.0,FIFA World Cup qualification
 2025-10-10,Bélgica,North Macedonia,0.0,0.0,FIFA World Cup qualification
 2025-10-10,El Salvador,Panamá,0.0,1.0,FIFA World Cup qualification
-2025-10-10,Curaçao,Jamaica,2.0,0.0,FIFA World Cup qualification
+2025-10-10,Curazao,Jamaica,2.0,0.0,FIFA World Cup qualification
 2025-10-11,México,Colombia,0.0,4.0,Friendly
 2025-10-11,Iraq,Indonesia,1.0,0.0,FIFA World Cup qualification
 2025-10-11,España,Georgia,2.0,0.0,FIFA World Cup qualification
@@ -25922,7 +25922,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-10-14,Portugal,Hungary,2.0,2.0,FIFA World Cup qualification
 2025-10-14,Latvia,Inglaterra,0.0,5.0,FIFA World Cup qualification
 2025-10-14,Panamá,Suriname,1.0,1.0,FIFA World Cup qualification
-2025-10-14,Curaçao,Trinidad And Tobago,1.0,1.0,FIFA World Cup qualification
+2025-10-14,Curazao,Trinidad And Tobago,1.0,1.0,FIFA World Cup qualification
 2025-11-12,Túnez,Mauritania,1.0,1.0,Friendly
 2025-11-13,Argelia,Zimbabwe,3.0,1.0,Friendly
 2025-11-13,Canadá,Ecuador,0.0,0.0,Friendly
@@ -25935,7 +25935,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-11-13,Inglaterra,Serbia,2.0,0.0,FIFA World Cup qualification
 2025-11-13,Iran,Cape Verde,0.0,0.0,Al Ain International Cup
 2025-11-13,Guatemala,Panamá,2.0,3.0,FIFA World Cup qualification
-2025-11-13,Bermuda,Curaçao,0.0,7.0,FIFA World Cup qualification
+2025-11-13,Bermuda,Curazao,0.0,7.0,FIFA World Cup qualification
 2025-11-13,Haití,Costa Rica,1.0,0.0,FIFA World Cup qualification
 2025-11-14,Angola,Argentina,0.0,2.0,Friendly
 2025-11-14,Australia,Venezuela,0.0,1.0,Friendly
@@ -25993,7 +25993,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-11-18,Bélgica,Liechtenstein,7.0,0.0,FIFA World Cup qualification
 2025-11-18,Iran,Uzbekistán,0.0,0.0,Al Ain International Cup
 2025-11-18,Panamá,El Salvador,3.0,0.0,FIFA World Cup qualification
-2025-11-18,Jamaica,Curaçao,0.0,0.0,FIFA World Cup qualification
+2025-11-18,Jamaica,Curazao,0.0,0.0,FIFA World Cup qualification
 2025-11-18,Haití,Nicaragua,2.0,0.0,FIFA World Cup qualification
 2025-12-01,Túnez,Syria,0.0,1.0,Arab Cup
 2025-12-01,Qatar,Palestine,0.0,1.0,Arab Cup
@@ -26084,7 +26084,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2026-03-27,Suiza,Alemania,3.0,4.0,Friendly
 2026-03-27,Costa Rica,Jordania,2.0,2.0,Friendly
 2026-03-27,Iran,Nigeria,1.0,2.0,Friendly
-2026-03-27,China,Curaçao,2.0,0.0,FIFA Series
+2026-03-27,China,Curazao,2.0,0.0,FIFA Series
 2026-03-27,Australia,Cameroon,1.0,0.0,FIFA Series
 2026-03-27,Chile,Cape Verde,4.0,2.0,FIFA Series
 2026-03-27,Nueva Zelanda,Finland,0.0,2.0,FIFA Series
@@ -26126,7 +26126,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2026-03-31,Suecia,Polonia,3.0,2.0,FIFA World Cup qualification
 2026-03-31,Kosovo,Turquía,0.0,1.0,FIFA World Cup qualification
 2026-03-31,Czech Republic,Dinamarca,2.0,2.0,FIFA World Cup qualification
-2026-03-31,Australia,Curaçao,5.0,1.0,FIFA Series
+2026-03-31,Australia,Curazao,5.0,1.0,FIFA Series
 2026-05-22,México,Ghana,2.0,0.0,Friendly
 2026-05-26,Marruecos,Burundi,5.0,0.0,Friendly
 2026-05-28,Republic Of Ireland,Qatar,1.0,0.0,Friendly
@@ -26138,7 +26138,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2026-05-30,Ecuador,Arabia Saudita,2.0,1.0,Friendly
 2026-05-30,Corea del Sur,Trinidad And Tobago,5.0,0.0,Friendly
 2026-05-30,México,Australia,1.0,0.0,Friendly
-2026-05-30,Scotland,Curaçao,4.0,1.0,Friendly
+2026-05-30,Scotland,Curazao,4.0,1.0,Friendly
 2026-05-31,Brasil,Panamá,6.0,2.0,Friendly
 2026-05-31,Cape Verde,Serbia,3.0,0.0,Friendly
 2026-05-31,Czech Republic,Kosovo,2.0,1.0,Friendly
@@ -26175,7 +26175,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2026-06-06,Bermuda,Cape Verde,3.0,0.0,Friendly
 2026-06-06,Bolivia,Scotland,0.0,4.0,Friendly
 2026-06-06,Brasil,Egipto,2.0,1.0,Friendly
-2026-06-06,Curaçao,Aruba,4.0,0.0,Friendly
+2026-06-06,Curazao,Aruba,4.0,0.0,Friendly
 2026-06-06,Inglaterra,Nueva Zelanda,1.0,0.0,Friendly
 2026-06-06,Jamaica,South Africa,0.0,1.0,Friendly
 2026-06-06,Panamá,Bosnia y Herzegovina,1.0,1.0,Friendly
