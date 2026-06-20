@@ -8612,11 +8612,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-06-10,Finland,Suiza,Suiza,Ciriaco Sforza,34.0,False,False
 1996-06-10,Finland,Suiza,Suiza,Murat Yakin,54.0,False,False
 1996-06-10,Panamá,El Salvador,Panamá,Juan Carlos Cubillas,43.0,False,False
-1996-08-10,Bosnia And Herzegovina,Croacia,Croacia,Slaven Bili?,13.0,False,False
-1996-08-10,Bosnia And Herzegovina,Croacia,Bosnia And Herzegovina,Hasan Salihamidi?,25.0,False,False
-1996-08-10,Bosnia And Herzegovina,Croacia,Croacia,Goran Vlaovi?,32.0,False,False
-1996-08-10,Bosnia And Herzegovina,Croacia,Croacia,Alen Boki?,64.0,False,False
-1996-08-10,Bosnia And Herzegovina,Croacia,Croacia,Alen Boki?,85.0,False,False
+1996-08-10,Bosnia y Herzegovina,Croacia,Croacia,Slaven Bili?,13.0,False,False
+1996-08-10,Bosnia y Herzegovina,Croacia,Bosnia y Herzegovina,Hasan Salihamidi?,25.0,False,False
+1996-08-10,Bosnia y Herzegovina,Croacia,Croacia,Goran Vlaovi?,32.0,False,False
+1996-08-10,Bosnia y Herzegovina,Croacia,Croacia,Alen Boki?,64.0,False,False
+1996-08-10,Bosnia y Herzegovina,Croacia,Croacia,Alen Boki?,85.0,False,False
 1996-08-10,Uruguay,Bolivia,Uruguay,Eber Moas,72.0,False,False
 1996-09-10,Albania,Portugal,Portugal,Luís Figo,10.0,False,False
 1996-09-10,Albania,Portugal,Portugal,Hélder Cristóvão,75.0,False,False
@@ -8706,8 +8706,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-10-11,Liberia,Túnez,Túnez,Riadh Jelassi,87.0,False,False
 1996-10-11,Paraguay,Ecuador,Paraguay,Miguel Ángel Benítez,24.0,False,False
 1996-10-11,Scotland,Suecia,Scotland,John McGinlay,7.0,False,False
-1996-10-11,Slovenia,Bosnia And Herzegovina,Bosnia And Herzegovina,Elvir Boli?,5.0,False,False
-1996-10-11,Slovenia,Bosnia And Herzegovina,Bosnia And Herzegovina,Meho Kodro,33.0,False,False
+1996-10-11,Slovenia,Bosnia y Herzegovina,Bosnia y Herzegovina,Elvir Boli?,5.0,False,False
+1996-10-11,Slovenia,Bosnia y Herzegovina,Bosnia y Herzegovina,Meho Kodro,33.0,False,False
 1996-10-11,Suiza,Noruega,Noruega,Øyvind Leonhardsen,32.0,False,False
 1996-10-11,Turquía,San Marino,Turquía,Oktay Derelio?lu,25.0,False,False
 1996-10-11,Turquía,San Marino,Turquía,Oktay Derelio?lu,38.0,False,False
@@ -9191,9 +9191,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Túnez,Namibia,Túnez,Jameleddine Limam,70.0,False,False
 ,Belarus,Suecia,Suecia,Kennet Andersson,74.0,False,False
 ,Belarus,Suecia,Suecia,Pär Zetterberg,84.0,False,False
-,Bosnia And Herzegovina,Dinamarca,Bosnia And Herzegovina,Edin Muj?in,19.0,False,False
-,Bosnia And Herzegovina,Dinamarca,Bosnia And Herzegovina,Elvir Boli?,25.0,False,False
-,Bosnia And Herzegovina,Dinamarca,Bosnia And Herzegovina,Elvir Boli?,35.0,False,False
+,Bosnia y Herzegovina,Dinamarca,Bosnia y Herzegovina,Edin Muj?in,19.0,False,False
+,Bosnia y Herzegovina,Dinamarca,Bosnia y Herzegovina,Elvir Boli?,25.0,False,False
+,Bosnia y Herzegovina,Dinamarca,Bosnia y Herzegovina,Elvir Boli?,35.0,False,False
 ,Colombia,Bolivia,Colombia,Antony de Ávila,1.0,False,False
 ,Colombia,Bolivia,Colombia,Carlos Valderrama,30.0,False,False
 ,Colombia,Bolivia,Colombia,Faustino Asprilla,76.0,False,False
@@ -9231,11 +9231,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Uzbekistán,Yemen,Uzbekistán,Oleg Shatskikh,75.0,False,False
 1997-06-09,Austria,Suecia,Austria,Andreas Herzog,76.0,False,False
 1997-06-09,Azerbaijan,Noruega,Noruega,Tore André Flo,42.0,False,False
-1997-06-09,Croacia,Bosnia And Herzegovina,Bosnia And Herzegovina,Draen Ladi?,17.0,False,False
-1997-06-09,Croacia,Bosnia And Herzegovina,Croacia,Slaven Bili?,27.0,False,False
-1997-06-09,Croacia,Bosnia And Herzegovina,Croacia,Silvio Mari?,39.0,False,False
-1997-06-09,Croacia,Bosnia And Herzegovina,Bosnia And Herzegovina,Hasan Salihamidi?,55.0,False,False
-1997-06-09,Croacia,Bosnia And Herzegovina,Croacia,Zvonimir Boban,79.0,False,False
+1997-06-09,Croacia,Bosnia y Herzegovina,Bosnia y Herzegovina,Draen Ladi?,17.0,False,False
+1997-06-09,Croacia,Bosnia y Herzegovina,Croacia,Slaven Bili?,27.0,False,False
+1997-06-09,Croacia,Bosnia y Herzegovina,Croacia,Silvio Mari?,39.0,False,False
+1997-06-09,Croacia,Bosnia y Herzegovina,Bosnia y Herzegovina,Hasan Salihamidi?,55.0,False,False
+1997-06-09,Croacia,Bosnia y Herzegovina,Croacia,Zvonimir Boban,79.0,False,False
 1997-06-09,Faroe Islands,Czech Republic,Czech Republic,Vladimír micer,16.0,False,False
 1997-06-09,Faroe Islands,Czech Republic,Czech Republic,Pavel Kuka,33.0,False,False
 1997-06-09,Alemania,Portugal,Portugal,Pedro Barbosa,70.0,False,False
@@ -9263,7 +9263,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-07-09,Scotland,Belarus,Scotland,David Hopkin,88.0,False,False
 1997-07-09,Estados Unidos,Costa Rica,Estados Unidos,Tab Ramos,79.0,False,False
 1997-10-09,Belarus,Austria,Austria,Heimo Pfeifenberger,50.0,False,False
-1997-10-09,Bosnia And Herzegovina,Slovenia,Bosnia And Herzegovina,Elvir Boli?,22.0,False,False
+1997-10-09,Bosnia y Herzegovina,Slovenia,Bosnia y Herzegovina,Elvir Boli?,22.0,False,False
 1997-10-09,Chile,Argentina,Argentina,Marcelo Gallardo,25.0,False,False
 1997-10-09,Chile,Argentina,Argentina,Claudio López,86.0,False,False
 1997-10-09,Colombia,Venezuela,Colombia,Wilmer Cabrera,68.0,False,False
@@ -9692,9 +9692,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1998-12-07,Francia,Brasil,Francia,Zinedine Zidane,27.0,False,False
 1998-12-07,Francia,Brasil,Francia,Zinedine Zidane,45.0,False,False
 1998-12-07,Francia,Brasil,Francia,Emmanuel Petit,90.0,False,False
-,Bosnia And Herzegovina,Faroe Islands,Bosnia And Herzegovina,Elvir Balji?,65.0,False,False
+,Bosnia y Herzegovina,Faroe Islands,Bosnia y Herzegovina,Elvir Balji?,65.0,False,False
 1998-05-09,Austria,Israel,Austria,Hannes Reinmayr,7.0,False,False
-1998-05-09,Bosnia And Herzegovina,Estonia,Bosnia And Herzegovina,Sergej Barbarez,74.0,False,False
+1998-05-09,Bosnia y Herzegovina,Estonia,Bosnia y Herzegovina,Sergej Barbarez,74.0,False,False
 1998-05-09,Cyprus,España,España,Raúl,73.0,False,False
 1998-05-09,Cyprus,España,España,Fernando Morientes,90.0,False,False
 1998-05-09,Iceland,Francia,Francia,Christophe Dugarry,35.0,False,False
@@ -9743,10 +9743,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1998-02-10,Australia,Tahiti,Australia,Carl Veart,86.0,False,False
 1998-02-10,Nueva Zelanda,Fiji,Nueva Zelanda,Danny Hay,88.0,False,False
 1998-04-10,Australia,Nueva Zelanda,Nueva Zelanda,Mark Burton,24.0,False,False
-1998-10-10,Bosnia And Herzegovina,Czech Republic,Czech Republic,Miroslav Baranek,12.0,False,False
-1998-10-10,Bosnia And Herzegovina,Czech Republic,Czech Republic,Vladimír micer,58.0,False,False
-1998-10-10,Bosnia And Herzegovina,Czech Republic,Bosnia And Herzegovina,Marko Topi?,87.0,False,False
-1998-10-10,Bosnia And Herzegovina,Czech Republic,Czech Republic,Pavel Kuka,90.0,False,False
+1998-10-10,Bosnia y Herzegovina,Czech Republic,Czech Republic,Miroslav Baranek,12.0,False,False
+1998-10-10,Bosnia y Herzegovina,Czech Republic,Czech Republic,Vladimír micer,58.0,False,False
+1998-10-10,Bosnia y Herzegovina,Czech Republic,Bosnia y Herzegovina,Marko Topi?,87.0,False,False
+1998-10-10,Bosnia y Herzegovina,Czech Republic,Czech Republic,Pavel Kuka,90.0,False,False
 1998-10-10,Cyprus,Austria,Austria,Harald Cerny,55.0,False,False
 1998-10-10,Cyprus,Austria,Austria,Harald Cerny,61.0,False,False
 1998-10-10,Cyprus,Austria,Austria,Hannes Reinmayr,74.0,False,False
@@ -9775,8 +9775,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Francia,Andorra,Francia,Youri Djorkaeff,59.0,False,False
 ,Israel,España,España,Fernando Hierro,65.0,False,False
 ,Israel,España,España,Joseba Etxeberria,78.0,False,False
-,Lithuania,Bosnia And Herzegovina,Bosnia And Herzegovina,Muhamed Konji?,4.0,False,False
-,Lithuania,Bosnia And Herzegovina,Bosnia And Herzegovina,Elvir Balji?,68.0,False,False
+,Lithuania,Bosnia y Herzegovina,Bosnia y Herzegovina,Muhamed Konji?,4.0,False,False
+,Lithuania,Bosnia y Herzegovina,Bosnia y Herzegovina,Elvir Balji?,68.0,False,False
 ,Luxembourg,Inglaterra,Inglaterra,Michael Owen,18.0,False,False
 ,Luxembourg,Inglaterra,Inglaterra,Alan Shearer,38.0,False,False
 ,Luxembourg,Inglaterra,Inglaterra,Gareth Southgate,88.0,False,False
@@ -9868,8 +9868,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1999-04-06,Alemania,Moldova,Alemania,Oliver Bierhoff,82.0,False,False
 1999-05-06,Albania,Noruega,Noruega,Steffen Iversen,3.0,False,False
 1999-05-06,Albania,Noruega,Noruega,Tore André Flo,83.0,False,False
-1999-05-06,Bosnia And Herzegovina,Lithuania,Bosnia And Herzegovina,Meho Kodro,26.0,False,False
-1999-05-06,Bosnia And Herzegovina,Lithuania,Bosnia And Herzegovina,Elvir Boli?,90.0,False,False
+1999-05-06,Bosnia y Herzegovina,Lithuania,Bosnia y Herzegovina,Meho Kodro,26.0,False,False
+1999-05-06,Bosnia y Herzegovina,Lithuania,Bosnia y Herzegovina,Elvir Boli?,90.0,False,False
 1999-05-06,Estonia,Czech Republic,Czech Republic,Patrik Berger,45.0,False,False
 1999-05-06,Estonia,Czech Republic,Czech Republic,Jan Koller,86.0,False,False
 1999-05-06,Faroe Islands,Scotland,Scotland,Allan Johnston,38.0,False,False
@@ -9897,8 +9897,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1999-09-06,Czech Republic,Scotland,Czech Republic,Tomá ?epka,65.0,False,False
 1999-09-06,Czech Republic,Scotland,Czech Republic,Pavel Kuka,75.0,False,False
 1999-09-06,Czech Republic,Scotland,Czech Republic,Jan Koller,87.0,False,False
-1999-09-06,Faroe Islands,Bosnia And Herzegovina,Bosnia And Herzegovina,Elvir Boli?,13.0,False,False
-1999-09-06,Faroe Islands,Bosnia And Herzegovina,Bosnia And Herzegovina,Elvir Boli?,50.0,False,False
+1999-09-06,Faroe Islands,Bosnia y Herzegovina,Bosnia y Herzegovina,Elvir Boli?,13.0,False,False
+1999-09-06,Faroe Islands,Bosnia y Herzegovina,Bosnia y Herzegovina,Elvir Boli?,50.0,False,False
 1999-09-06,Portugal,Liechtenstein,Portugal,Ricardo Sá Pinto,29.0,False,False
 1999-09-06,Portugal,Liechtenstein,Portugal,João Vieira Pinto,40.0,False,False
 1999-09-06,Portugal,Liechtenstein,Portugal,Ricardo Sá Pinto,45.0,False,False
@@ -10024,9 +10024,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1999-04-09,Austria,España,España,Fernando Hierro,56.0,False,False
 1999-04-09,Austria,España,España,Luis Enrique,88.0,False,False
 1999-04-09,Azerbaijan,Portugal,Portugal,Luís Figo,90.0,False,False
-1999-04-09,Bosnia And Herzegovina,Scotland,Scotland,Don Hutchison,13.0,False,False
-1999-04-09,Bosnia And Herzegovina,Scotland,Bosnia And Herzegovina,Elvir Boli?,23.0,False,False
-1999-04-09,Bosnia And Herzegovina,Scotland,Scotland,Billy Dodds,45.0,False,False
+1999-04-09,Bosnia y Herzegovina,Scotland,Scotland,Don Hutchison,13.0,False,False
+1999-04-09,Bosnia y Herzegovina,Scotland,Bosnia y Herzegovina,Elvir Boli?,23.0,False,False
+1999-04-09,Bosnia y Herzegovina,Scotland,Scotland,Billy Dodds,45.0,False,False
 1999-04-09,Croacia,Republic Of Ireland,Croacia,Davor uker,90.0,False,False
 1999-04-09,Dinamarca,Suiza,Suiza,Kubilay Türkyilmaz,79.0,False,False
 1999-04-09,Inglaterra,Luxembourg,Inglaterra,Alan Shearer,12.0,False,False
@@ -10049,9 +10049,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1999-08-09,Armenia,Francia,Francia,Youri Djorkaeff,45.0,False,False
 1999-08-09,Armenia,Francia,Francia,Zinedine Zidane,67.0,False,False
 1999-08-09,Armenia,Francia,Francia,Lilian Laslandes,74.0,False,False
-1999-08-09,Czech Republic,Bosnia And Herzegovina,Czech Republic,Jan Koller,26.0,False,False
-1999-08-09,Czech Republic,Bosnia And Herzegovina,Czech Republic,Patrik Berger,59.0,False,False
-1999-08-09,Czech Republic,Bosnia And Herzegovina,Czech Republic,Karel Poborský,67.0,False,False
+1999-08-09,Czech Republic,Bosnia y Herzegovina,Czech Republic,Jan Koller,26.0,False,False
+1999-08-09,Czech Republic,Bosnia y Herzegovina,Czech Republic,Patrik Berger,59.0,False,False
+1999-08-09,Czech Republic,Bosnia y Herzegovina,Czech Republic,Karel Poborský,67.0,False,False
 1999-08-09,Alemania,Northern Ireland,Alemania,Oliver Bierhoff,2.0,False,False
 1999-08-09,Alemania,Northern Ireland,Alemania,Christian Ziege,16.0,False,False
 1999-08-09,Alemania,Northern Ireland,Alemania,Christian Ziege,33.0,False,False
@@ -10073,7 +10073,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1999-08-09,España,Cyprus,España,Fernando Hierro,88.0,False,False
 1999-08-09,Suiza,Belarus,Suiza,Kubilay Türkyilmaz,68.0,False,False
 1999-08-09,Suiza,Belarus,Suiza,Kubilay Türkyilmaz,86.0,False,False
-1999-05-10,Scotland,Bosnia And Herzegovina,Scotland,John Collins,26.0,False,False
+1999-05-10,Scotland,Bosnia y Herzegovina,Scotland,John Collins,26.0,False,False
 1999-09-10,Austria,Cyprus,Austria,Eduard Glieder,5.0,False,False
 1999-09-10,Austria,Cyprus,Austria,Ivica Vasti?,23.0,False,False
 1999-09-10,Austria,Cyprus,Austria,Andi Herzog,81.0,False,False
@@ -10081,10 +10081,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1999-09-10,Croacia,Serbia,Croacia,Mario Stani?,47.0,False,False
 1999-09-10,Czech Republic,Faroe Islands,Czech Republic,Jan Koller,11.0,False,False
 1999-09-10,Czech Republic,Faroe Islands,Czech Republic,Pavel Verbí?,84.0,False,False
-1999-09-10,Estonia,Bosnia And Herzegovina,Bosnia And Herzegovina,Elvir Balji?,42.0,False,False
-1999-09-10,Estonia,Bosnia And Herzegovina,Bosnia And Herzegovina,Elvir Balji?,57.0,False,False
-1999-09-10,Estonia,Bosnia And Herzegovina,Bosnia And Herzegovina,Elvir Balji?,67.0,False,False
-1999-09-10,Estonia,Bosnia And Herzegovina,Bosnia And Herzegovina,Elvir Balji?,87.0,False,False
+1999-09-10,Estonia,Bosnia y Herzegovina,Bosnia y Herzegovina,Elvir Balji?,42.0,False,False
+1999-09-10,Estonia,Bosnia y Herzegovina,Bosnia y Herzegovina,Elvir Balji?,57.0,False,False
+1999-09-10,Estonia,Bosnia y Herzegovina,Bosnia y Herzegovina,Elvir Balji?,67.0,False,False
+1999-09-10,Estonia,Bosnia y Herzegovina,Bosnia y Herzegovina,Elvir Balji?,87.0,False,False
 1999-09-10,Francia,Iceland,Francia,Ríkharður Daðason,17.0,False,False
 1999-09-10,Francia,Iceland,Francia,Youri Djorkaeff,38.0,False,False
 1999-09-10,Francia,Iceland,Francia,David Trezeguet,71.0,False,False
@@ -10431,9 +10431,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Estados Unidos,Barbados,Estados Unidos,Earnie Stewart,74.0,False,False
 ,Estados Unidos,Barbados,Estados Unidos,Joe-Max Moore,82.0,False,False
 2000-02-09,Azerbaijan,Suecia,Suecia,Anders Svensson,10.0,False,False
-2000-02-09,Bosnia And Herzegovina,España,España,Gerard López,39.0,False,False
-2000-02-09,Bosnia And Herzegovina,España,Bosnia And Herzegovina,Elvir Balji?,41.0,False,False
-2000-02-09,Bosnia And Herzegovina,España,España,Joseba Etxeberria,72.0,False,False
+2000-02-09,Bosnia y Herzegovina,España,España,Gerard López,39.0,False,False
+2000-02-09,Bosnia y Herzegovina,España,Bosnia y Herzegovina,Elvir Balji?,41.0,False,False
+2000-02-09,Bosnia y Herzegovina,España,España,Joseba Etxeberria,72.0,False,False
 2000-02-09,Bulgaria,Czech Republic,Czech Republic,Karel Poborský,73.0,False,False
 2000-02-09,Chile,Colombia,Colombia,Jairo Castillo,66.0,False,False
 2000-02-09,Alemania,Greece,Alemania,Sebastian Deisler,18.0,False,False
@@ -10521,7 +10521,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-11-10,Azerbaijan,Turquía,Turquía,Hakan ?ükür,73.0,False,False
 2000-11-10,Croacia,Scotland,Croacia,Alen Boki?,16.0,False,False
 2000-11-10,Croacia,Scotland,Scotland,Kevin Gallacher,24.0,False,False
-2000-11-10,Israel,Bosnia And Herzegovina,Bosnia And Herzegovina,Bruno Akrapovi?,48.0,False,False
+2000-11-10,Israel,Bosnia y Herzegovina,Bosnia y Herzegovina,Bruno Akrapovi?,48.0,False,False
 2000-11-10,Países Bajos,Portugal,Portugal,Sérgio Conceição,11.0,False,False
 2000-11-10,Países Bajos,Portugal,Portugal,Pauleta,44.0,False,False
 2000-11-10,Slovenia,Suiza,Suiza,Kubilay Türkyilmaz,18.0,False,False
@@ -10712,8 +10712,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Andorra,Países Bajos,Países Bajos,Pierre van Hooijdonk,61.0,False,False
 ,Andorra,Países Bajos,Países Bajos,Pierre van Hooijdonk,70.0,False,False
 ,Andorra,Países Bajos,Países Bajos,Mark van Bommel,84.0,False,False
-,Bosnia And Herzegovina,Austria,Bosnia And Herzegovina,Sergej Barbarez,43.0,False,False
-,Bosnia And Herzegovina,Austria,Austria,Michael Baur,61.0,False,False
+,Bosnia y Herzegovina,Austria,Bosnia y Herzegovina,Sergej Barbarez,43.0,False,False
+,Bosnia y Herzegovina,Austria,Austria,Michael Baur,61.0,False,False
 ,Croacia,Latvia,Croacia,Boko Balaban,8.0,False,False
 ,Croacia,Latvia,Croacia,Boko Balaban,42.0,False,False
 ,Croacia,Latvia,Croacia,Boko Balaban,45.0,False,False
@@ -10764,9 +10764,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Greece,Alemania,Alemania,Marco Bode,90.0,False,False
 ,Honduras,Estados Unidos,Estados Unidos,Earnie Stewart,33.0,False,False
 ,Honduras,Estados Unidos,Estados Unidos,Clint Mathis,87.0,False,False
-,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Sergej Barbarez,10.0,False,False
-,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Sergej Barbarez,72.0,False,False
-,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Almedin Hota,89.0,False,False
+,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Sergej Barbarez,10.0,False,False
+,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Sergej Barbarez,72.0,False,False
+,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Almedin Hota,89.0,False,False
 ,Moldova,Suecia,Suecia,Marcus Allbäck,86.0,False,False
 ,Moldova,Suecia,Suecia,Marcus Allbäck,90.0,False,False
 ,North Macedonia,Turquía,Turquía,Igor Mitreski,68.0,False,False
@@ -10990,11 +10990,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-02-06,Perú,Ecuador,Ecuador,Édison Méndez,11.0,False,False
 2001-02-06,Perú,Ecuador,Ecuador,Agustín Delgado,90.0,False,False
 2001-02-06,Republic Of Ireland,Portugal,Portugal,Luís Figo,78.0,False,False
-2001-02-06,España,Bosnia And Herzegovina,España,Fernando Hierro,26.0,False,False
-2001-02-06,España,Bosnia And Herzegovina,Bosnia And Herzegovina,Mirsad Belija,41.0,False,False
-2001-02-06,España,Bosnia And Herzegovina,España,Javi Moreno,76.0,False,False
-2001-02-06,España,Bosnia And Herzegovina,España,Raúl,89.0,False,False
-2001-02-06,España,Bosnia And Herzegovina,España,Diego Tristán,90.0,False,False
+2001-02-06,España,Bosnia y Herzegovina,España,Fernando Hierro,26.0,False,False
+2001-02-06,España,Bosnia y Herzegovina,Bosnia y Herzegovina,Mirsad Belija,41.0,False,False
+2001-02-06,España,Bosnia y Herzegovina,España,Javi Moreno,76.0,False,False
+2001-02-06,España,Bosnia y Herzegovina,España,Raúl,89.0,False,False
+2001-02-06,España,Bosnia y Herzegovina,España,Diego Tristán,90.0,False,False
 2001-02-06,Suecia,Slovakia,Suecia,Marcus Allbäck,45.0,False,False
 2001-02-06,Suecia,Slovakia,Suecia,Marcus Allbäck,51.0,False,False
 2001-02-06,Turquía,Azerbaijan,Turquía,Tayfun Korkut,2.0,False,False
@@ -11208,8 +11208,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-05-09,Argentina,Brasil,Brasil,Roberto Ayala,2.0,False,False
 2001-05-09,Argentina,Brasil,Argentina,Marcelo Gallardo,76.0,False,False
 2001-05-09,Argentina,Brasil,Argentina,Cris,84.0,False,False
-2001-05-09,Austria,Bosnia And Herzegovina,Austria,Andreas Herzog,38.0,False,False
-2001-05-09,Austria,Bosnia And Herzegovina,Austria,Andreas Herzog,87.0,False,False
+2001-05-09,Austria,Bosnia y Herzegovina,Austria,Andreas Herzog,38.0,False,False
+2001-05-09,Austria,Bosnia y Herzegovina,Austria,Andreas Herzog,87.0,False,False
 2001-05-09,Bélgica,Scotland,Bélgica,Nico Van Kerckhoven,28.0,False,False
 2001-05-09,Bélgica,Scotland,Bélgica,Bart Goor,90.0,False,False
 2001-05-09,Cyprus,Portugal,Portugal,Nuno Gomes,48.0,False,False
@@ -11314,11 +11314,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-06-10,Portugal,Estonia,Portugal,Luís Figo,80.0,False,False
 2001-06-10,Scotland,Latvia,Scotland,Dougie Freedman,44.0,False,False
 2001-06-10,Scotland,Latvia,Scotland,David Weir,53.0,False,False
-2001-07-10,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Muhamed Konji?,33.0,False,False
-2001-07-10,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Elvir Balji?,45.0,False,False
-2001-07-10,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Nermin abi?,69.0,False,False
-2001-07-10,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Elvir Balji?,82.0,False,False
-2001-07-10,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Marijo Dodik,85.0,False,False
+2001-07-10,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Muhamed Konji?,33.0,False,False
+2001-07-10,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Elvir Balji?,45.0,False,False
+2001-07-10,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Nermin abi?,69.0,False,False
+2001-07-10,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Elvir Balji?,82.0,False,False
+2001-07-10,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Marijo Dodik,85.0,False,False
 2001-07-10,Brasil,Chile,Brasil,Edílson,52.0,False,False
 2001-07-10,Brasil,Chile,Brasil,Rivaldo,63.0,False,False
 2001-07-10,Paraguay,Argentina,Paraguay,José Luis Chilavert,51.0,False,False
@@ -11668,8 +11668,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Malta,Francia,Francia,Thierry Henry,35.0,False,False
 ,Malta,Francia,Francia,Sylvain Wiltord,59.0,False,False
 ,Malta,Francia,Francia,Eric Carrière,84.0,False,False
-,Noruega,Bosnia And Herzegovina,Noruega,Claus Lundekvam,7.0,False,False
-,Noruega,Bosnia And Herzegovina,Noruega,John Arne Riise,27.0,False,False
+,Noruega,Bosnia y Herzegovina,Noruega,Claus Lundekvam,7.0,False,False
+,Noruega,Bosnia y Herzegovina,Noruega,John Arne Riise,27.0,False,False
 ,Republic Of Ireland,Suiza,Suiza,Hakan Yakin,45.0,False,False
 ,Republic Of Ireland,Suiza,Suiza,Fabio Celestini,87.0,False,False
 ,Turquía,Liechtenstein,Turquía,Okan Buruk,7.0,False,False
@@ -11677,8 +11677,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Turquía,Liechtenstein,Turquía,?lhan Mans?z,23.0,False,False
 ,Turquía,Liechtenstein,Turquía,Serhat Ak?n,81.0,False,False
 ,Turquía,Liechtenstein,Turquía,Serhat Ak?n,90.0,False,False
-,Bosnia And Herzegovina,Luxembourg,Bosnia And Herzegovina,Elvir Boli?,58.0,False,False
-,Bosnia And Herzegovina,Luxembourg,Bosnia And Herzegovina,Sergej Barbarez,75.0,False,False
+,Bosnia y Herzegovina,Luxembourg,Bosnia y Herzegovina,Elvir Boli?,58.0,False,False
+,Bosnia y Herzegovina,Luxembourg,Bosnia y Herzegovina,Sergej Barbarez,75.0,False,False
 ,Croacia,Bélgica,Croacia,Darijo Srna,9.0,False,False
 ,Croacia,Bélgica,Croacia,Dado Pro,55.0,False,False
 ,Croacia,Bélgica,Croacia,Tomislav Mari?,70.0,False,False
@@ -11704,8 +11704,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2003-02-04,Czech Republic,Austria,Czech Republic,Jan Koller,32.0,False,False
 2003-02-04,Czech Republic,Austria,Czech Republic,Marek Jankulovski,56.0,False,False
 2003-02-04,Czech Republic,Austria,Czech Republic,Jan Koller,62.0,False,False
-2003-02-04,Dinamarca,Bosnia And Herzegovina,Bosnia And Herzegovina,Sergej Barbarez,23.0,False,False
-2003-02-04,Dinamarca,Bosnia And Herzegovina,Bosnia And Herzegovina,Elvir Balji?,29.0,False,False
+2003-02-04,Dinamarca,Bosnia y Herzegovina,Bosnia y Herzegovina,Sergej Barbarez,23.0,False,False
+2003-02-04,Dinamarca,Bosnia y Herzegovina,Bosnia y Herzegovina,Elvir Balji?,29.0,False,False
 2003-02-04,Inglaterra,Turquía,Inglaterra,Darius Vassell,75.0,False,False
 2003-02-04,Inglaterra,Turquía,Inglaterra,David Beckham,90.0,False,False
 2003-02-04,Hungary,Suecia,Suecia,Marcus Allbäck,33.0,False,False
@@ -11835,7 +11835,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2003-06-09,Belarus,Czech Republic,Czech Republic,Pavel Nedv?d,37.0,False,False
 2003-06-09,Belarus,Czech Republic,Czech Republic,Milan Baro,54.0,False,False
 2003-06-09,Belarus,Czech Republic,Czech Republic,Vladimír micer,85.0,False,False
-2003-06-09,Bosnia And Herzegovina,Noruega,Bosnia And Herzegovina,Zlatan Bajramovi?,87.0,False,False
+2003-06-09,Bosnia y Herzegovina,Noruega,Bosnia y Herzegovina,Zlatan Bajramovi?,87.0,False,False
 2003-06-09,Ecuador,Venezuela,Ecuador,Giovanny Espinoza,5.0,False,False
 2003-06-09,Ecuador,Venezuela,Ecuador,Carlos Tenorio,72.0,False,False
 2003-06-09,Francia,Cyprus,Francia,David Trezeguet,7.0,False,False
@@ -11885,7 +11885,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2003-10-09,Alemania,Scotland,Alemania,Fredi Bobi?,26.0,False,False
 2003-10-09,Alemania,Scotland,Alemania,Michael Ballack,50.0,False,False
 2003-10-09,Alemania,Scotland,Scotland,Neil McCann,60.0,False,False
-2003-10-09,Luxembourg,Bosnia And Herzegovina,Bosnia And Herzegovina,Sergej Barbarez,35.0,False,False
+2003-10-09,Luxembourg,Bosnia y Herzegovina,Bosnia y Herzegovina,Sergej Barbarez,35.0,False,False
 2003-10-09,Paraguay,Uruguay,Uruguay,Javier Chevantón,24.0,False,False
 2003-10-09,Paraguay,Uruguay,Paraguay,José Cardozo,26.0,False,False
 2003-10-09,Paraguay,Uruguay,Paraguay,Carlos Humberto Paredes,53.0,False,False
@@ -11909,7 +11909,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2003-11-10,Austria,Czech Republic,Czech Republic,Jan Koller,90.0,False,False
 2003-11-10,Bélgica,Estonia,Bélgica,Raio Piiroja,41.0,False,False
 2003-11-10,Bélgica,Estonia,Bélgica,Thomas Buffel,60.0,False,False
-2003-11-10,Bosnia And Herzegovina,Dinamarca,Bosnia And Herzegovina,Elvir Boli?,39.0,False,False
+2003-11-10,Bosnia y Herzegovina,Dinamarca,Bosnia y Herzegovina,Elvir Boli?,39.0,False,False
 2003-11-10,Croacia,Bulgaria,Croacia,Ivica Oli?,48.0,False,False
 2003-11-10,Francia,Israel,Francia,Thierry Henry,9.0,False,False
 2003-11-10,Francia,Israel,Francia,David Trezeguet,24.0,False,False
@@ -12461,8 +12461,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-05-09,Uruguay,Ecuador,Uruguay,Carlos Bueno,57.0,False,False
 2004-08-09,Austria,Azerbaijan,Austria,Martin Stranzl,23.0,False,False
 2004-08-09,Austria,Azerbaijan,Austria,Roland Kollmann,44.0,False,False
-2004-08-09,Bosnia And Herzegovina,España,España,Vicente Rodríguez,65.0,False,False
-2004-08-09,Bosnia And Herzegovina,España,Bosnia And Herzegovina,Elvir Boli?,79.0,False,False
+2004-08-09,Bosnia y Herzegovina,España,España,Vicente Rodríguez,65.0,False,False
+2004-08-09,Bosnia y Herzegovina,España,Bosnia y Herzegovina,Elvir Boli?,79.0,False,False
 2004-08-09,Faroe Islands,Francia,Francia,Ludovic Giuly,32.0,False,False
 2004-08-09,Faroe Islands,Francia,Francia,Djibril Cissé,73.0,False,False
 2004-08-09,India,Japón,Japón,Takayuki Suzuki,45.0,False,False
@@ -12717,11 +12717,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Kuwait,Uzbekistán,Uzbekistán,Alexander Geynrikh,77.0,False,False
 ,Arabia Saudita,Corea del Sur,Arabia Saudita,Saud Khariri,29.0,False,False
 ,Arabia Saudita,Corea del Sur,Arabia Saudita,Yasser Al-Qahtani,73.0,False,False
-,Bélgica,Bosnia And Herzegovina,Bosnia And Herzegovina,Zlatan Bajramovi?,1.0,False,False
-,Bélgica,Bosnia And Herzegovina,Bélgica,Émile Mpenza,15.0,False,False
-,Bélgica,Bosnia And Herzegovina,Bélgica,Koen Daerden,44.0,False,False
-,Bélgica,Bosnia And Herzegovina,Bélgica,Émile Mpenza,54.0,False,False
-,Bélgica,Bosnia And Herzegovina,Bélgica,Thomas Buffel,77.0,False,False
+,Bélgica,Bosnia y Herzegovina,Bosnia y Herzegovina,Zlatan Bajramovi?,1.0,False,False
+,Bélgica,Bosnia y Herzegovina,Bélgica,Émile Mpenza,15.0,False,False
+,Bélgica,Bosnia y Herzegovina,Bélgica,Koen Daerden,44.0,False,False
+,Bélgica,Bosnia y Herzegovina,Bélgica,Émile Mpenza,54.0,False,False
+,Bélgica,Bosnia y Herzegovina,Bélgica,Thomas Buffel,77.0,False,False
 ,Bolivia,Argentina,Argentina,Luciano Figueroa,57.0,False,False
 ,Bolivia,Argentina,Argentina,Luciano Galletti,63.0,False,False
 ,Bulgaria,Suecia,Suecia,Freddie Ljungberg,17.0,False,False
@@ -12792,7 +12792,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Andorra,Czech Republic,Czech Republic,Tomá Rosický,90.0,False,False
 ,Argentina,Colombia,Argentina,Hernán Crespo,65.0,False,False
 ,Austria,Wales,Austria,René Aufhauser,87.0,False,False
-,Bosnia And Herzegovina,Lithuania,Bosnia And Herzegovina,Elvir Boli?,21.0,False,False
+,Bosnia y Herzegovina,Lithuania,Bosnia y Herzegovina,Elvir Boli?,21.0,False,False
 ,Croacia,Malta,Croacia,Dado Pro,22.0,False,False
 ,Croacia,Malta,Croacia,Dado Pro,35.0,False,False
 ,Croacia,Malta,Croacia,Igor Tudor,79.0,False,False
@@ -12870,9 +12870,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2005-04-06,Países Bajos,Romania,Países Bajos,Dirk Kuyt,47.0,False,False
 2005-04-06,Portugal,Slovakia,Portugal,Fernando Meira,21.0,False,False
 2005-04-06,Portugal,Slovakia,Portugal,Cristiano Ronaldo,42.0,False,False
-2005-04-06,San Marino,Bosnia And Herzegovina,Bosnia And Herzegovina,Hasan Salihamidi?,17.0,False,False
-2005-04-06,San Marino,Bosnia And Herzegovina,Bosnia And Herzegovina,Hasan Salihamidi?,38.0,False,False
-2005-04-06,San Marino,Bosnia And Herzegovina,Bosnia And Herzegovina,Sergej Barbarez,75.0,False,False
+2005-04-06,San Marino,Bosnia y Herzegovina,Bosnia y Herzegovina,Hasan Salihamidi?,17.0,False,False
+2005-04-06,San Marino,Bosnia y Herzegovina,Bosnia y Herzegovina,Hasan Salihamidi?,38.0,False,False
+2005-04-06,San Marino,Bosnia y Herzegovina,Bosnia y Herzegovina,Sergej Barbarez,75.0,False,False
 2005-04-06,Scotland,Moldova,Scotland,Christian Dailly,52.0,False,False
 2005-04-06,Scotland,Moldova,Scotland,James McFadden,88.0,False,False
 2005-04-06,España,Lithuania,España,Albert Luque,68.0,False,False
@@ -12947,8 +12947,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2005-08-06,Arabia Saudita,Uzbekistán,Arabia Saudita,Sami Al-Jaber,8.0,False,False
 2005-08-06,Arabia Saudita,Uzbekistán,Arabia Saudita,Sami Al-Jaber,60.0,False,False
 2005-08-06,Arabia Saudita,Uzbekistán,Arabia Saudita,Saad Al-Harthi,87.0,False,False
-2005-08-06,España,Bosnia And Herzegovina,Bosnia And Herzegovina,Zvjezdan Misimovi?,39.0,False,False
-2005-08-06,España,Bosnia And Herzegovina,España,Carlos Marchena,90.0,False,False
+2005-08-06,España,Bosnia y Herzegovina,Bosnia y Herzegovina,Zvjezdan Misimovi?,39.0,False,False
+2005-08-06,España,Bosnia y Herzegovina,España,Carlos Marchena,90.0,False,False
 2005-11-06,Túnez,Guinea,Túnez,José Clayton,36.0,False,False
 2005-11-06,Túnez,Guinea,Túnez,Adel Chedli,78.0,False,False
 ,Argentina,Túnez,Argentina,Juan Román Riquelme,33.0,False,False
@@ -13080,7 +13080,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2005-03-09,Australia,Solomon Islands,Australia,Brett Emerton,89.0,False,False
 2005-03-09,Bolivia,Ecuador,Ecuador,Agustín Delgado,8.0,False,False
 2005-03-09,Bolivia,Ecuador,Ecuador,Agustín Delgado,49.0,False,False
-2005-03-09,Bosnia And Herzegovina,Bélgica,Bosnia And Herzegovina,Sergej Barbarez,62.0,False,False
+2005-03-09,Bosnia y Herzegovina,Bélgica,Bosnia y Herzegovina,Sergej Barbarez,62.0,False,False
 2005-03-09,Burkina Faso,South Africa,South Africa,Sibusiso Zuma,75.0,False,False
 2005-03-09,Francia,Faroe Islands,Francia,Djibril Cissé,14.0,False,False
 2005-03-09,Francia,Faroe Islands,Francia,Súni Olsen,18.0,False,False
@@ -13156,7 +13156,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2005-07-09,Czech Republic,Armenia,Czech Republic,Milan Baro,58.0,False,False
 2005-07-09,Czech Republic,Armenia,Czech Republic,Jan Polák,76.0,False,False
 2005-07-09,Hungary,Suecia,Suecia,Zlatan Ibrahimovi?,90.0,False,False
-2005-07-09,Lithuania,Bosnia And Herzegovina,Bosnia And Herzegovina,Sergej Barbarez,28.0,False,False
+2005-07-09,Lithuania,Bosnia y Herzegovina,Bosnia y Herzegovina,Sergej Barbarez,28.0,False,False
 2005-07-09,Malta,Croacia,Croacia,Niko Kranj?ar,19.0,False,False
 2005-07-09,México,Panamá,México,Luis Ernesto Pérez,31.0,False,False
 2005-07-09,México,Panamá,México,Rafael Márquez,54.0,False,False
@@ -13175,9 +13175,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2005-07-09,Ucrania,Turquía,Turquía,Tümer Metin,55.0,False,False
 2005-08-10,Bélgica,España,España,Fernando Torres,56.0,False,False
 2005-08-10,Bélgica,España,España,Fernando Torres,66.0,False,False
-2005-08-10,Bosnia And Herzegovina,San Marino,Bosnia And Herzegovina,Elvir Boli?,46.0,False,False
-2005-08-10,Bosnia And Herzegovina,San Marino,Bosnia And Herzegovina,Elvir Boli?,75.0,False,False
-2005-08-10,Bosnia And Herzegovina,San Marino,Bosnia And Herzegovina,Elvir Boli?,82.0,False,False
+2005-08-10,Bosnia y Herzegovina,San Marino,Bosnia y Herzegovina,Elvir Boli?,46.0,False,False
+2005-08-10,Bosnia y Herzegovina,San Marino,Bosnia y Herzegovina,Elvir Boli?,75.0,False,False
+2005-08-10,Bosnia y Herzegovina,San Marino,Bosnia y Herzegovina,Elvir Boli?,82.0,False,False
 2005-08-10,Cameroon,Egipto,Egipto,Mohamed Shawky,79.0,False,False
 2005-08-10,Cape Verde,Ghana,Ghana,Joetex Asamoah Frimpong,5.0,False,False
 2005-08-10,Cape Verde,Ghana,Ghana,Sulley Muntari,35.0,False,False
@@ -13449,11 +13449,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2006-02-09,Hungary,Noruega,Noruega,Ole Gunnar Solskjær,44.0,False,False
 2006-02-09,Latvia,Suecia,Suecia,Kim Källström,38.0,False,False
 2006-02-09,Luxembourg,Países Bajos,Países Bajos,Joris Mathijsen,26.0,False,False
-2006-02-09,Malta,Bosnia And Herzegovina,Bosnia And Herzegovina,Sergej Barbarez,4.0,False,False
-2006-02-09,Malta,Bosnia And Herzegovina,Bosnia And Herzegovina,Mirko Hrgovi?,10.0,False,False
-2006-02-09,Malta,Bosnia And Herzegovina,Bosnia And Herzegovina,Mladen Bartolovi?,45.0,False,False
-2006-02-09,Malta,Bosnia And Herzegovina,Bosnia And Herzegovina,Zlatan Muslimovi?,49.0,False,False
-2006-02-09,Malta,Bosnia And Herzegovina,Bosnia And Herzegovina,Zvjezdan Misimovi?,51.0,False,False
+2006-02-09,Malta,Bosnia y Herzegovina,Bosnia y Herzegovina,Sergej Barbarez,4.0,False,False
+2006-02-09,Malta,Bosnia y Herzegovina,Bosnia y Herzegovina,Mirko Hrgovi?,10.0,False,False
+2006-02-09,Malta,Bosnia y Herzegovina,Bosnia y Herzegovina,Mladen Bartolovi?,45.0,False,False
+2006-02-09,Malta,Bosnia y Herzegovina,Bosnia y Herzegovina,Zlatan Muslimovi?,49.0,False,False
+2006-02-09,Malta,Bosnia y Herzegovina,Bosnia y Herzegovina,Zvjezdan Misimovi?,51.0,False,False
 2006-02-09,Scotland,Faroe Islands,Scotland,Darren Fletcher,7.0,False,False
 2006-02-09,Scotland,Faroe Islands,Scotland,James McFadden,10.0,False,False
 2006-02-09,Scotland,Faroe Islands,Scotland,Kris Boyd,24.0,False,False
@@ -13465,7 +13465,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2006-02-09,España,Liechtenstein,España,David Villa,62.0,False,False
 2006-02-09,España,Liechtenstein,España,Luis García,66.0,False,False
 2006-06-09,Armenia,Bélgica,Bélgica,Daniel Van Buyten,41.0,False,False
-2006-06-09,Bosnia And Herzegovina,Hungary,Bosnia And Herzegovina,Zvjezdan Misimovi?,64.0,False,False
+2006-06-09,Bosnia y Herzegovina,Hungary,Bosnia y Herzegovina,Zvjezdan Misimovi?,64.0,False,False
 2006-06-09,Finland,Portugal,Portugal,Nuno Gomes,42.0,False,False
 2006-06-09,Francia,Italia,Francia,Sidney Govou,2.0,False,False
 2006-06-09,Francia,Italia,Francia,Thierry Henry,18.0,False,False
@@ -13517,8 +13517,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2006-07-10,Czech Republic,San Marino,Czech Republic,Jan Koller,52.0,False,False
 2006-07-10,Czech Republic,San Marino,Czech Republic,Milan Baro,68.0,False,False
 2006-07-10,Hungary,Turquía,Turquía,Tuncay,41.0,False,False
-2006-07-10,Moldova,Bosnia And Herzegovina,Bosnia And Herzegovina,Zvjezdan Misimovi?,63.0,False,False
-2006-07-10,Moldova,Bosnia And Herzegovina,Bosnia And Herzegovina,Ivica Grli?,68.0,False,False
+2006-07-10,Moldova,Bosnia y Herzegovina,Bosnia y Herzegovina,Zvjezdan Misimovi?,63.0,False,False
+2006-07-10,Moldova,Bosnia y Herzegovina,Bosnia y Herzegovina,Ivica Grli?,68.0,False,False
 2006-07-10,Portugal,Azerbaijan,Portugal,Cristiano Ronaldo,25.0,False,False
 2006-07-10,Portugal,Azerbaijan,Portugal,Ricardo Carvalho,31.0,False,False
 2006-07-10,Portugal,Azerbaijan,Portugal,Cristiano Ronaldo,63.0,False,False
@@ -13568,9 +13568,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Greece,Turquía,Turquía,Tümer Metin,70.0,False,False
 ,Greece,Turquía,Turquía,Gökdeniz Karadeniz,81.0,False,False
 ,Lithuania,Francia,Francia,Nicolas Anelka,73.0,False,False
-,Noruega,Bosnia And Herzegovina,Bosnia And Herzegovina,Zvjezdan Misimovi?,18.0,False,False
-,Noruega,Bosnia And Herzegovina,Bosnia And Herzegovina,Zlatan Muslimovi?,33.0,False,False
-,Noruega,Bosnia And Herzegovina,Noruega,John Carew,50.0,False,False
+,Noruega,Bosnia y Herzegovina,Bosnia y Herzegovina,Zvjezdan Misimovi?,18.0,False,False
+,Noruega,Bosnia y Herzegovina,Bosnia y Herzegovina,Zlatan Muslimovi?,33.0,False,False
+,Noruega,Bosnia y Herzegovina,Noruega,John Carew,50.0,False,False
 ,Portugal,Bélgica,Portugal,Nuno Gomes,53.0,False,False
 ,Portugal,Bélgica,Portugal,Cristiano Ronaldo,55.0,False,False
 ,Portugal,Bélgica,Portugal,Ricardo Quaresma,68.0,False,False
@@ -13594,11 +13594,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-02-06,Bélgica,Portugal,Portugal,Nani,43.0,False,False
 2007-02-06,Bélgica,Portugal,Bélgica,Marouane Fellaini,55.0,False,False
 2007-02-06,Bélgica,Portugal,Portugal,Hélder Postiga,64.0,False,False
-2007-02-06,Bosnia And Herzegovina,Turquía,Turquía,Hakan ?ükür,13.0,False,False
-2007-02-06,Bosnia And Herzegovina,Turquía,Bosnia And Herzegovina,Zlatan Muslimovi?,27.0,False,False
-2007-02-06,Bosnia And Herzegovina,Turquía,Turquía,Sabri Sar?o?lu,39.0,False,False
-2007-02-06,Bosnia And Herzegovina,Turquía,Bosnia And Herzegovina,Edin Deko,45.0,False,False
-2007-02-06,Bosnia And Herzegovina,Turquía,Bosnia And Herzegovina,Adnan ?ustovi?,90.0,False,False
+2007-02-06,Bosnia y Herzegovina,Turquía,Turquía,Hakan ?ükür,13.0,False,False
+2007-02-06,Bosnia y Herzegovina,Turquía,Bosnia y Herzegovina,Zlatan Muslimovi?,27.0,False,False
+2007-02-06,Bosnia y Herzegovina,Turquía,Turquía,Sabri Sar?o?lu,39.0,False,False
+2007-02-06,Bosnia y Herzegovina,Turquía,Bosnia y Herzegovina,Edin Deko,45.0,False,False
+2007-02-06,Bosnia y Herzegovina,Turquía,Bosnia y Herzegovina,Adnan ?ustovi?,90.0,False,False
 2007-02-06,Estonia,Croacia,Croacia,Eduardo da Silva,32.0,False,False
 2007-02-06,Francia,Ucrania,Francia,Franck Ribéry,57.0,False,False
 2007-02-06,Francia,Ucrania,Francia,Nicolas Anelka,71.0,False,False
@@ -13614,7 +13614,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-02-06,Noruega,Malta,Noruega,Thorstein Helstad,73.0,False,False
 2007-02-06,Noruega,Malta,Noruega,Steffen Iversen,79.0,False,False
 2007-02-06,Noruega,Malta,Noruega,John Arne Riise,90.0,False,False
-2007-06-06,Bosnia And Herzegovina,Malta,Bosnia And Herzegovina,Zlatan Muslimovi?,6.0,False,False
+2007-06-06,Bosnia y Herzegovina,Malta,Bosnia y Herzegovina,Zlatan Muslimovi?,6.0,False,False
 2007-06-06,Costa Rica,Canadá,Canadá,Julian de Guzman,57.0,False,False
 2007-06-06,Costa Rica,Canadá,Canadá,Julian de Guzman,73.0,False,False
 2007-06-06,Estonia,Inglaterra,Inglaterra,Joe Cole,37.0,False,False
@@ -13862,8 +13862,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Faroe Islands,Francia,Francia,Jérôme Rothen,66.0,False,False
 ,Faroe Islands,Francia,Francia,Karim Benzema,81.0,False,False
 ,Faroe Islands,Francia,Francia,Hatem Ben Arfa,90.0,False,False
-,Greece,Bosnia And Herzegovina,Bosnia And Herzegovina,Mirko Hrgovi?,54.0,False,False
-,Greece,Bosnia And Herzegovina,Bosnia And Herzegovina,Vedad Ibievi?,90.0,False,False
+,Greece,Bosnia y Herzegovina,Bosnia y Herzegovina,Mirko Hrgovi?,54.0,False,False
+,Greece,Bosnia y Herzegovina,Bosnia y Herzegovina,Vedad Ibievi?,90.0,False,False
 ,Liechtenstein,Suecia,Suecia,Freddie Ljungberg,19.0,False,False
 ,Liechtenstein,Suecia,Suecia,Christian Wilhelmsson,29.0,False,False
 ,Liechtenstein,Suecia,Suecia,Anders Svensson,56.0,False,False
@@ -13890,8 +13890,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Bélgica,Armenia,Bélgica,Wesley Sonck,63.0,False,False
 ,Bélgica,Armenia,Bélgica,Mousa Dembélé,69.0,False,False
 ,Bélgica,Armenia,Bélgica,Karel Geraerts,76.0,False,False
-,Bosnia And Herzegovina,Noruega,Noruega,Erik Hagen,5.0,False,False
-,Bosnia And Herzegovina,Noruega,Noruega,Bjørn Helge Riise,74.0,False,False
+,Bosnia y Herzegovina,Noruega,Noruega,Erik Hagen,5.0,False,False
+,Bosnia y Herzegovina,Noruega,Noruega,Bjørn Helge Riise,74.0,False,False
 ,Brasil,Ecuador,Brasil,Vágner Love,19.0,False,False
 ,Brasil,Ecuador,Brasil,Ronaldinho,71.0,False,False
 ,Brasil,Ecuador,Brasil,Kaká,77.0,False,False
@@ -13993,7 +13993,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,España,Northern Ireland,España,Xavi,52.0,False,False
 ,Suecia,Latvia,Suecia,Marcus Allbäck,1.0,False,False
 ,Suecia,Latvia,Suecia,Kim Källström,57.0,False,False
-,Turquía,Bosnia And Herzegovina,Turquía,Nihat Kahveci,43.0,False,False
+,Turquía,Bosnia y Herzegovina,Turquía,Nihat Kahveci,43.0,False,False
 ,Ucrania,Francia,Francia,Thierry Henry,20.0,False,False
 ,Ucrania,Francia,Francia,Sidney Govou,34.0,False,False
 ,Ghana,Guinea,Ghana,Asamoah Gyan,55.0,False,False
@@ -14380,7 +14380,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-06-09,Qatar,Uzbekistán,Qatar,Talal Al-Bloushi,86.0,False,False
 2008-06-09,Arabia Saudita,Iran,Arabia Saudita,Saad Al-Harthi,29.0,False,False
 2008-06-09,Arabia Saudita,Iran,Iran,Javad Nekounam,81.0,False,False
-2008-06-09,España,Bosnia And Herzegovina,España,David Villa,58.0,False,False
+2008-06-09,España,Bosnia y Herzegovina,España,David Villa,58.0,False,False
 2008-07-09,Chile,Brasil,Brasil,Luís Fabiano,21.0,False,False
 2008-07-09,Chile,Brasil,Brasil,Robinho,45.0,False,False
 2008-07-09,Chile,Brasil,Brasil,Luís Fabiano,83.0,False,False
@@ -14389,13 +14389,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-07-09,Mozambique,Costa de Marfil,Costa de Marfil,Bakari Koné,48.0,False,False
 2008-09-09,Paraguay,Venezuela,Paraguay,Cristian Riveros,28.0,False,False
 2008-09-09,Paraguay,Venezuela,Paraguay,Nelson Valdez,45.0,False,False
-2008-10-09,Bosnia And Herzegovina,Estonia,Bosnia And Herzegovina,Zvjezdan Misimovi?,24.0,False,False
-2008-10-09,Bosnia And Herzegovina,Estonia,Bosnia And Herzegovina,Zvjezdan Misimovi?,30.0,False,False
-2008-10-09,Bosnia And Herzegovina,Estonia,Bosnia And Herzegovina,Zvjezdan Misimovi?,56.0,False,False
-2008-10-09,Bosnia And Herzegovina,Estonia,Bosnia And Herzegovina,Zlatan Muslimovi?,59.0,False,False
-2008-10-09,Bosnia And Herzegovina,Estonia,Bosnia And Herzegovina,Edin Deko,60.0,False,False
-2008-10-09,Bosnia And Herzegovina,Estonia,Bosnia And Herzegovina,Edin Deko,72.0,False,False
-2008-10-09,Bosnia And Herzegovina,Estonia,Bosnia And Herzegovina,Senijad Ibri?i?,88.0,False,False
+2008-10-09,Bosnia y Herzegovina,Estonia,Bosnia y Herzegovina,Zvjezdan Misimovi?,24.0,False,False
+2008-10-09,Bosnia y Herzegovina,Estonia,Bosnia y Herzegovina,Zvjezdan Misimovi?,30.0,False,False
+2008-10-09,Bosnia y Herzegovina,Estonia,Bosnia y Herzegovina,Zvjezdan Misimovi?,56.0,False,False
+2008-10-09,Bosnia y Herzegovina,Estonia,Bosnia y Herzegovina,Zlatan Muslimovi?,59.0,False,False
+2008-10-09,Bosnia y Herzegovina,Estonia,Bosnia y Herzegovina,Edin Deko,60.0,False,False
+2008-10-09,Bosnia y Herzegovina,Estonia,Bosnia y Herzegovina,Edin Deko,72.0,False,False
+2008-10-09,Bosnia y Herzegovina,Estonia,Bosnia y Herzegovina,Senijad Ibri?i?,88.0,False,False
 2008-10-09,Croacia,Inglaterra,Inglaterra,Theo Walcott,26.0,False,False
 2008-10-09,Croacia,Inglaterra,Inglaterra,Theo Walcott,59.0,False,False
 2008-10-09,Croacia,Inglaterra,Inglaterra,Wayne Rooney,63.0,False,False
@@ -14481,9 +14481,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-11-10,Túnez,Seychelles,Túnez,Saber Ben Frej,20.0,False,False
 2008-11-10,Túnez,Seychelles,Túnez,Fahid Ben Khalfallah,43.0,False,False
 2008-11-10,Túnez,Seychelles,Túnez,Hichem Essifi,68.0,False,False
-2008-11-10,Turquía,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,27.0,False,False
-2008-11-10,Turquía,Bosnia And Herzegovina,Turquía,Arda Turan,51.0,False,False
-2008-11-10,Turquía,Bosnia And Herzegovina,Turquía,Mevlüt Erdinç,66.0,False,False
+2008-11-10,Turquía,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,27.0,False,False
+2008-11-10,Turquía,Bosnia y Herzegovina,Turquía,Arda Turan,51.0,False,False
+2008-11-10,Turquía,Bosnia y Herzegovina,Turquía,Mevlüt Erdinç,66.0,False,False
 2008-11-10,Estados Unidos,Cuba,Estados Unidos,DaMarcus Beasley,10.0,False,False
 2008-11-10,Estados Unidos,Cuba,Estados Unidos,DaMarcus Beasley,30.0,False,False
 2008-11-10,Estados Unidos,Cuba,Estados Unidos,Landon Donovan,48.0,False,False
@@ -14512,10 +14512,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Bélgica,España,Bélgica,Wesley Sonck,7.0,False,False
 ,Bélgica,España,España,Andrés Iniesta,36.0,False,False
 ,Bélgica,España,España,David Villa,88.0,False,False
-,Bosnia And Herzegovina,Armenia,Bosnia And Herzegovina,Emir Spahi?,31.0,False,False
-,Bosnia And Herzegovina,Armenia,Bosnia And Herzegovina,Edin Deko,39.0,False,False
-,Bosnia And Herzegovina,Armenia,Bosnia And Herzegovina,Zlatan Muslimovi?,56.0,False,False
-,Bosnia And Herzegovina,Armenia,Bosnia And Herzegovina,Zlatan Muslimovi?,89.0,False,False
+,Bosnia y Herzegovina,Armenia,Bosnia y Herzegovina,Emir Spahi?,31.0,False,False
+,Bosnia y Herzegovina,Armenia,Bosnia y Herzegovina,Edin Deko,39.0,False,False
+,Bosnia y Herzegovina,Armenia,Bosnia y Herzegovina,Zlatan Muslimovi?,56.0,False,False
+,Bosnia y Herzegovina,Armenia,Bosnia y Herzegovina,Zlatan Muslimovi?,89.0,False,False
 ,Canadá,México,Canadá,Ali Gerba,13.0,False,False
 ,Canadá,México,México,Carlos Salcido,35.0,False,False
 ,Canadá,México,Canadá,Tomasz Radzinski,50.0,False,False
@@ -14561,12 +14561,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Argentina,Venezuela,Argentina,Carlos Tevez,47.0,False,False
 ,Argentina,Venezuela,Argentina,Maxi Rodríguez,51.0,False,False
 ,Argentina,Venezuela,Argentina,Sergio Agüero,73.0,False,False
-,Bélgica,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,7.0,False,False
-,Bélgica,Bosnia And Herzegovina,Bélgica,Mousa Dembélé,66.0,False,False
-,Bélgica,Bosnia And Herzegovina,Bosnia And Herzegovina,Sanel Jahi?,75.0,False,False
-,Bélgica,Bosnia And Herzegovina,Bosnia And Herzegovina,Zlatan Bajramovi?,77.0,False,False
-,Bélgica,Bosnia And Herzegovina,Bosnia And Herzegovina,Zvjezdan Misimovi?,81.0,False,False
-,Bélgica,Bosnia And Herzegovina,Bélgica,Wesley Sonck,85.0,False,False
+,Bélgica,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,7.0,False,False
+,Bélgica,Bosnia y Herzegovina,Bélgica,Mousa Dembélé,66.0,False,False
+,Bélgica,Bosnia y Herzegovina,Bosnia y Herzegovina,Sanel Jahi?,75.0,False,False
+,Bélgica,Bosnia y Herzegovina,Bosnia y Herzegovina,Zlatan Bajramovi?,77.0,False,False
+,Bélgica,Bosnia y Herzegovina,Bosnia y Herzegovina,Zvjezdan Misimovi?,81.0,False,False
+,Bélgica,Bosnia y Herzegovina,Bélgica,Wesley Sonck,85.0,False,False
 ,Colombia,Bolivia,Colombia,Macnelly Torres,26.0,False,False
 ,Colombia,Bolivia,Colombia,Wason Rentería,88.0,False,False
 ,El Salvador,Estados Unidos,Estados Unidos,Jozy Altidore,77.0,False,False
@@ -14613,9 +14613,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2009-01-04,Austria,Romania,Austria,Erwin Hoffer,26.0,False,False
 2009-01-04,Austria,Romania,Austria,Erwin Hoffer,44.0,False,False
 2009-01-04,Bolivia,Argentina,Argentina,Lucho González,25.0,False,False
-2009-01-04,Bosnia And Herzegovina,Bélgica,Bosnia And Herzegovina,Edin Deko,12.0,False,False
-2009-01-04,Bosnia And Herzegovina,Bélgica,Bosnia And Herzegovina,Edin Deko,14.0,False,False
-2009-01-04,Bosnia And Herzegovina,Bélgica,Bélgica,Gill Swerts,88.0,False,False
+2009-01-04,Bosnia y Herzegovina,Bélgica,Bosnia y Herzegovina,Edin Deko,12.0,False,False
+2009-01-04,Bosnia y Herzegovina,Bélgica,Bosnia y Herzegovina,Edin Deko,14.0,False,False
+2009-01-04,Bosnia y Herzegovina,Bélgica,Bélgica,Gill Swerts,88.0,False,False
 2009-01-04,Brasil,Perú,Brasil,Luís Fabiano,18.0,False,False
 2009-01-04,Brasil,Perú,Brasil,Luís Fabiano,27.0,False,False
 2009-01-04,Brasil,Perú,Brasil,Felipe Melo,64.0,False,False
@@ -14822,8 +14822,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2009-05-09,Argentina,Brasil,Brasil,Luís Fabiano,30.0,False,False
 2009-05-09,Argentina,Brasil,Argentina,Jesús Dátolo,65.0,False,False
 2009-05-09,Argentina,Brasil,Brasil,Luís Fabiano,68.0,False,False
-2009-05-09,Armenia,Bosnia And Herzegovina,Bosnia And Herzegovina,Senijad Ibri?i?,6.0,False,False
-2009-05-09,Armenia,Bosnia And Herzegovina,Bosnia And Herzegovina,Zlatan Muslimovi?,74.0,False,False
+2009-05-09,Armenia,Bosnia y Herzegovina,Bosnia y Herzegovina,Senijad Ibri?i?,6.0,False,False
+2009-05-09,Armenia,Bosnia y Herzegovina,Bosnia y Herzegovina,Zlatan Muslimovi?,74.0,False,False
 2009-05-09,Austria,Faroe Islands,Austria,Stefan Maierhofer,1.0,False,False
 2009-05-09,Austria,Faroe Islands,Austria,Marc Janko,15.0,False,False
 2009-05-09,Austria,Faroe Islands,Austria,Marc Janko,58.0,False,False
@@ -14872,8 +14872,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2009-09-09,Bolivia,Ecuador,Ecuador,Édison Méndez,4.0,False,False
 2009-09-09,Bolivia,Ecuador,Ecuador,Antonio Valencia,46.0,False,False
 2009-09-09,Bolivia,Ecuador,Ecuador,Christian Benítez,66.0,False,False
-2009-09-09,Bosnia And Herzegovina,Turquía,Turquía,Emre Belözo?lu,4.0,False,False
-2009-09-09,Bosnia And Herzegovina,Turquía,Bosnia And Herzegovina,Sejad Salihovi?,25.0,False,False
+2009-09-09,Bosnia y Herzegovina,Turquía,Turquía,Emre Belözo?lu,4.0,False,False
+2009-09-09,Bosnia y Herzegovina,Turquía,Bosnia y Herzegovina,Sejad Salihovi?,25.0,False,False
 2009-09-09,Brasil,Chile,Brasil,Nilmar,31.0,False,False
 2009-09-09,Brasil,Chile,Brasil,Júlio Baptista,40.0,False,False
 2009-09-09,Brasil,Chile,Brasil,Nilmar,74.0,False,False
@@ -14931,8 +14931,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2009-10-10,Ecuador,Uruguay,Ecuador,Antonio Valencia,68.0,False,False
 2009-10-10,Ecuador,Uruguay,Uruguay,Luis Suárez,69.0,False,False
 2009-10-10,Ecuador,Uruguay,Uruguay,Diego Forlán,90.0,False,False
-2009-10-10,Estonia,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,30.0,False,False
-2009-10-10,Estonia,Bosnia And Herzegovina,Bosnia And Herzegovina,Vedad Ibievi?,64.0,False,False
+2009-10-10,Estonia,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,30.0,False,False
+2009-10-10,Estonia,Bosnia y Herzegovina,Bosnia y Herzegovina,Vedad Ibievi?,64.0,False,False
 2009-10-10,Francia,Faroe Islands,Francia,André-Pierre Gignac,34.0,False,False
 2009-10-10,Francia,Faroe Islands,Francia,André-Pierre Gignac,38.0,False,False
 2009-10-10,Francia,Faroe Islands,Francia,William Gallas,52.0,False,False
@@ -14962,13 +14962,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2009-11-10,Argelia,Rwanda,Argelia,Karim Ziani,90.0,False,False
 2009-11-10,Bolivia,Brasil,Brasil,Nilmar,70.0,False,False
 2009-11-10,Túnez,Kenya,Túnez,Issam Jemâa,1.0,False,False
-,Bosnia And Herzegovina,España,España,Gerard Piqué,13.0,False,False
-,Bosnia And Herzegovina,España,España,David Silva,14.0,False,False
-,Bosnia And Herzegovina,España,España,Álvaro Negredo,50.0,False,False
-,Bosnia And Herzegovina,España,España,Álvaro Negredo,55.0,False,False
-,Bosnia And Herzegovina,España,España,Juan Mata,81.0,False,False
-,Bosnia And Herzegovina,España,Bosnia And Herzegovina,Edin Deko,90.0,False,False
-,Bosnia And Herzegovina,España,Bosnia And Herzegovina,Zvjezdan Misimovi?,90.0,False,False
+,Bosnia y Herzegovina,España,España,Gerard Piqué,13.0,False,False
+,Bosnia y Herzegovina,España,España,David Silva,14.0,False,False
+,Bosnia y Herzegovina,España,España,Álvaro Negredo,50.0,False,False
+,Bosnia y Herzegovina,España,España,Álvaro Negredo,55.0,False,False
+,Bosnia y Herzegovina,España,España,Juan Mata,81.0,False,False
+,Bosnia y Herzegovina,España,Bosnia y Herzegovina,Edin Deko,90.0,False,False
+,Bosnia y Herzegovina,España,Bosnia y Herzegovina,Zvjezdan Misimovi?,90.0,False,False
 ,Inglaterra,Belarus,Inglaterra,Peter Crouch,4.0,False,False
 ,Inglaterra,Belarus,Inglaterra,Shaun Wright-Phillips,60.0,False,False
 ,Inglaterra,Belarus,Inglaterra,Peter Crouch,76.0,False,False
@@ -15003,12 +15003,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Costa de Marfil,Guinea,Costa de Marfil,Gervinho,31.0,False,False
 ,Costa de Marfil,Guinea,Costa de Marfil,Siaka Tiéné,67.0,False,False
 ,Nueva Zelanda,Bahrain,Nueva Zelanda,Rory Fallon,45.0,False,False
-,Portugal,Bosnia And Herzegovina,Portugal,Bruno Alves,31.0,False,False
+,Portugal,Bosnia y Herzegovina,Portugal,Bruno Alves,31.0,False,False
 ,Republic Of Ireland,Francia,Francia,Nicolas Anelka,72.0,False,False
 ,Ghana,Mali,Ghana,Matthew Amoah,65.0,False,False
 ,Ghana,Mali,Ghana,Anthony Annan,83.0,False,False
 ,Argelia,Egipto,Argelia,Antar Yahia,40.0,False,False
-,Bosnia And Herzegovina,Portugal,Portugal,Raul Meireles,56.0,False,False
+,Bosnia y Herzegovina,Portugal,Portugal,Raul Meireles,56.0,False,False
 ,Francia,Republic Of Ireland,Francia,William Gallas,103.0,False,False
 ,Uruguay,Costa Rica,Uruguay,Sebastián Abreu,70.0,False,False
 2010-12-01,Egipto,Nigeria,Egipto,Emad Moteab,34.0,False,False
@@ -15176,9 +15176,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2010-03-09,Liechtenstein,España,España,David Villa,26.0,False,False
 2010-03-09,Liechtenstein,España,España,Fernando Torres,54.0,False,False
 2010-03-09,Liechtenstein,España,España,David Silva,62.0,False,False
-2010-03-09,Luxembourg,Bosnia And Herzegovina,Bosnia And Herzegovina,Senijad Ibri?i?,6.0,False,False
-2010-03-09,Luxembourg,Bosnia And Herzegovina,Bosnia And Herzegovina,Miralem Pjani?,12.0,False,False
-2010-03-09,Luxembourg,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,16.0,False,False
+2010-03-09,Luxembourg,Bosnia y Herzegovina,Bosnia y Herzegovina,Senijad Ibri?i?,6.0,False,False
+2010-03-09,Luxembourg,Bosnia y Herzegovina,Bosnia y Herzegovina,Miralem Pjani?,12.0,False,False
+2010-03-09,Luxembourg,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,16.0,False,False
 2010-03-09,Portugal,Cyprus,Portugal,Hugo Almeida,8.0,False,False
 2010-03-09,Portugal,Cyprus,Portugal,Raul Meireles,29.0,False,False
 2010-03-09,Portugal,Cyprus,Portugal,Danny,50.0,False,False
@@ -15192,8 +15192,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2010-03-09,Suecia,Hungary,Suecia,Pontus Wernbloom,73.0,False,False
 2010-07-09,Austria,Kazakhstan,Austria,Roland Linz,90.0,False,False
 2010-07-09,Austria,Kazakhstan,Austria,Erwin Hoffer,90.0,False,False
-2010-07-09,Bosnia And Herzegovina,Francia,Francia,Karim Benzema,72.0,False,False
-2010-07-09,Bosnia And Herzegovina,Francia,Francia,Florent Malouda,78.0,False,False
+2010-07-09,Bosnia y Herzegovina,Francia,Francia,Karim Benzema,72.0,False,False
+2010-07-09,Bosnia y Herzegovina,Francia,Francia,Florent Malouda,78.0,False,False
 2010-07-09,Alemania,Azerbaijan,Alemania,Heiko Westermann,28.0,False,False
 2010-07-09,Alemania,Azerbaijan,Alemania,Lukas Podolski,45.0,False,False
 2010-07-09,Alemania,Azerbaijan,Alemania,Miroslav Klose,45.0,False,False
@@ -15220,7 +15220,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2010-07-09,Turquía,Bélgica,Turquía,Semih ?entürk,66.0,False,False
 2010-07-09,Turquía,Bélgica,Bélgica,Daniel Van Buyten,68.0,False,False
 2010-07-09,Turquía,Bélgica,Turquía,Arda Turan,78.0,False,False
-2010-08-10,Albania,Bosnia And Herzegovina,Bosnia And Herzegovina,Vedad Ibievi?,21.0,False,False
+2010-08-10,Albania,Bosnia y Herzegovina,Bosnia y Herzegovina,Vedad Ibievi?,21.0,False,False
 2010-08-10,Austria,Azerbaijan,Austria,Sebastian Prödl,3.0,False,False
 2010-08-10,Austria,Azerbaijan,Austria,Marko Arnautovi?,53.0,False,False
 2010-08-10,Austria,Azerbaijan,Austria,Marko Arnautovi?,90.0,False,False
@@ -15361,8 +15361,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,España,Czech Republic,Czech Republic,Jaroslav Plail,29.0,False,False
 ,España,Czech Republic,España,David Villa,69.0,False,False
 ,España,Czech Republic,España,David Villa,73.0,False,False
-,Bosnia And Herzegovina,Romania,Bosnia And Herzegovina,Vedad Ibievi?,63.0,False,False
-,Bosnia And Herzegovina,Romania,Bosnia And Herzegovina,Edin Deko,83.0,False,False
+,Bosnia y Herzegovina,Romania,Bosnia y Herzegovina,Vedad Ibievi?,63.0,False,False
+,Bosnia y Herzegovina,Romania,Bosnia y Herzegovina,Edin Deko,83.0,False,False
 ,Alemania,Kazakhstan,Alemania,Miroslav Klose,3.0,False,False
 ,Alemania,Kazakhstan,Alemania,Thomas Müller,25.0,False,False
 ,Alemania,Kazakhstan,Alemania,Thomas Müller,43.0,False,False
@@ -15413,8 +15413,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-07-06,Azerbaijan,Alemania,Alemania,Mesut Özil,30.0,False,False
 2011-07-06,Azerbaijan,Alemania,Alemania,Mario Gómez,41.0,False,False
 2011-07-06,Azerbaijan,Alemania,Alemania,André Schürrle,90.0,False,False
-2011-07-06,Bosnia And Herzegovina,Albania,Bosnia And Herzegovina,Haris Medunjanin,67.0,False,False
-2011-07-06,Bosnia And Herzegovina,Albania,Bosnia And Herzegovina,Darko Maleti?,90.0,False,False
+2011-07-06,Bosnia y Herzegovina,Albania,Bosnia y Herzegovina,Haris Medunjanin,67.0,False,False
+2011-07-06,Bosnia y Herzegovina,Albania,Bosnia y Herzegovina,Darko Maleti?,90.0,False,False
 2011-07-06,Panamá,Guadeloupe,Panamá,Blas Pérez,29.0,False,False
 2011-07-06,Panamá,Guadeloupe,Panamá,Luis Tejada,31.0,False,False
 2011-07-06,Panamá,Guadeloupe,Panamá,Gabriel Enrique Gómez,57.0,False,False
@@ -15529,8 +15529,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-02-09,Australia,Thailand,Australia,Joshua Kennedy,58.0,False,False
 2011-02-09,Australia,Thailand,Australia,Alex Brosque,86.0,False,False
 2011-02-09,Azerbaijan,Bélgica,Bélgica,Timmy Simons,55.0,False,False
-2011-02-09,Belarus,Bosnia And Herzegovina,Bosnia And Herzegovina,Sejad Salihovi?,21.0,False,False
-2011-02-09,Belarus,Bosnia And Herzegovina,Bosnia And Herzegovina,Haris Medunjanin,24.0,False,False
+2011-02-09,Belarus,Bosnia y Herzegovina,Bosnia y Herzegovina,Sejad Salihovi?,21.0,False,False
+2011-02-09,Belarus,Bosnia y Herzegovina,Bosnia y Herzegovina,Haris Medunjanin,24.0,False,False
 2011-02-09,Bulgaria,Inglaterra,Inglaterra,Gary Cahill,13.0,False,False
 2011-02-09,Bulgaria,Inglaterra,Inglaterra,Wayne Rooney,21.0,False,False
 2011-02-09,Bulgaria,Inglaterra,Inglaterra,Wayne Rooney,45.0,False,False
@@ -15591,7 +15591,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-03-09,Scotland,Czech Republic,Czech Republic,Jaroslav Plail,78.0,False,False
 2011-03-09,Scotland,Czech Republic,Scotland,Darren Fletcher,82.0,False,False
 2011-03-09,Scotland,Czech Republic,Czech Republic,Michal Kadlec,90.0,False,False
-2011-06-09,Bosnia And Herzegovina,Belarus,Bosnia And Herzegovina,Zvjezdan Misimovi?,87.0,False,False
+2011-06-09,Bosnia y Herzegovina,Belarus,Bosnia y Herzegovina,Zvjezdan Misimovi?,87.0,False,False
 2011-06-09,Croacia,Israel,Croacia,Luka Modri?,47.0,False,False
 2011-06-09,Croacia,Israel,Croacia,Eduardo da Silva,55.0,False,False
 2011-06-09,Croacia,Israel,Croacia,Eduardo da Silva,57.0,False,False
@@ -15649,11 +15649,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-07-10,Bélgica,Kazakhstan,Bélgica,Eden Hazard,43.0,False,False
 2011-07-10,Bélgica,Kazakhstan,Bélgica,Vincent Kompany,49.0,False,False
 2011-07-10,Bélgica,Kazakhstan,Bélgica,Marvin Ogunjimi,84.0,False,False
-2011-07-10,Bosnia And Herzegovina,Luxembourg,Bosnia And Herzegovina,Edin Deko,12.0,False,False
-2011-07-10,Bosnia And Herzegovina,Luxembourg,Bosnia And Herzegovina,Zvjezdan Misimovi?,15.0,False,False
-2011-07-10,Bosnia And Herzegovina,Luxembourg,Bosnia And Herzegovina,Zvjezdan Misimovi?,22.0,False,False
-2011-07-10,Bosnia And Herzegovina,Luxembourg,Bosnia And Herzegovina,Miralem Pjani?,36.0,False,False
-2011-07-10,Bosnia And Herzegovina,Luxembourg,Bosnia And Herzegovina,Haris Medunjanin,51.0,False,False
+2011-07-10,Bosnia y Herzegovina,Luxembourg,Bosnia y Herzegovina,Edin Deko,12.0,False,False
+2011-07-10,Bosnia y Herzegovina,Luxembourg,Bosnia y Herzegovina,Zvjezdan Misimovi?,15.0,False,False
+2011-07-10,Bosnia y Herzegovina,Luxembourg,Bosnia y Herzegovina,Zvjezdan Misimovi?,22.0,False,False
+2011-07-10,Bosnia y Herzegovina,Luxembourg,Bosnia y Herzegovina,Miralem Pjani?,36.0,False,False
+2011-07-10,Bosnia y Herzegovina,Luxembourg,Bosnia y Herzegovina,Haris Medunjanin,51.0,False,False
 2011-07-10,Czech Republic,España,España,Juan Mata,6.0,False,False
 2011-07-10,Czech Republic,España,España,Xabi Alonso,23.0,False,False
 2011-07-10,Dominica,Panamá,Panamá,Amir Waithe,26.0,False,False
@@ -15708,8 +15708,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-11-10,Croacia,Latvia,Croacia,Eduardo da Silva,66.0,False,False
 2011-11-10,Croacia,Latvia,Croacia,Mario Manduki?,72.0,False,False
 2011-11-10,Dinamarca,Portugal,Portugal,Cristiano Ronaldo,90.0,False,False
-2011-11-10,Francia,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,40.0,False,False
-2011-11-10,Francia,Bosnia And Herzegovina,Francia,Samir Nasri,78.0,False,False
+2011-11-10,Francia,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,40.0,False,False
+2011-11-10,Francia,Bosnia y Herzegovina,Francia,Samir Nasri,78.0,False,False
 2011-11-10,Alemania,Bélgica,Alemania,Mesut Özil,30.0,False,False
 2011-11-10,Alemania,Bélgica,Alemania,André Schürrle,33.0,False,False
 2011-11-10,Alemania,Bélgica,Alemania,Mario Gómez,48.0,False,False
@@ -15846,14 +15846,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Panamá,Dominica,Panamá,Rolando Blackburn,6.0,False,False
 ,Panamá,Dominica,Panamá,Ricardo Buitrago,20.0,False,False
 ,Panamá,Dominica,Panamá,Blas Pérez,84.0,False,False
-,Portugal,Bosnia And Herzegovina,Portugal,Cristiano Ronaldo,8.0,False,False
-,Portugal,Bosnia And Herzegovina,Portugal,Nani,24.0,False,False
-,Portugal,Bosnia And Herzegovina,Bosnia And Herzegovina,Zvjezdan Misimovi?,41.0,False,False
-,Portugal,Bosnia And Herzegovina,Portugal,Cristiano Ronaldo,53.0,False,False
-,Portugal,Bosnia And Herzegovina,Bosnia And Herzegovina,Emir Spahi?,65.0,False,False
-,Portugal,Bosnia And Herzegovina,Portugal,Hélder Postiga,72.0,False,False
-,Portugal,Bosnia And Herzegovina,Portugal,Miguel Veloso,80.0,False,False
-,Portugal,Bosnia And Herzegovina,Portugal,Hélder Postiga,82.0,False,False
+,Portugal,Bosnia y Herzegovina,Portugal,Cristiano Ronaldo,8.0,False,False
+,Portugal,Bosnia y Herzegovina,Portugal,Nani,24.0,False,False
+,Portugal,Bosnia y Herzegovina,Bosnia y Herzegovina,Zvjezdan Misimovi?,41.0,False,False
+,Portugal,Bosnia y Herzegovina,Portugal,Cristiano Ronaldo,53.0,False,False
+,Portugal,Bosnia y Herzegovina,Bosnia y Herzegovina,Emir Spahi?,65.0,False,False
+,Portugal,Bosnia y Herzegovina,Portugal,Hélder Postiga,72.0,False,False
+,Portugal,Bosnia y Herzegovina,Portugal,Miguel Veloso,80.0,False,False
+,Portugal,Bosnia y Herzegovina,Portugal,Hélder Postiga,82.0,False,False
 ,Thailand,Australia,Australia,Brett Holman,77.0,False,False
 ,Uzbekistán,Tajikistan,Uzbekistán,Sanzhar Tursunov,35.0,False,False
 ,Uzbekistán,Tajikistan,Uzbekistán,Odil Ahmedov,60.0,False,False
@@ -16073,14 +16073,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2012-07-09,Alemania,Faroe Islands,Alemania,Mesut Özil,54.0,False,False
 2012-07-09,Alemania,Faroe Islands,Alemania,Mesut Özil,72.0,False,False
 2012-07-09,Jamaica,Estados Unidos,Estados Unidos,Clint Dempsey,1.0,False,False
-2012-07-09,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Zvjezdan Misimovi?,26.0,False,False
-2012-07-09,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Zvjezdan Misimovi?,31.0,False,False
-2012-07-09,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Vedad Ibievi?,33.0,False,False
-2012-07-09,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Vedad Ibievi?,39.0,False,False
-2012-07-09,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,46.0,False,False
-2012-07-09,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,64.0,False,False
-2012-07-09,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,80.0,False,False
-2012-07-09,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Vedad Ibievi?,82.0,False,False
+2012-07-09,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Zvjezdan Misimovi?,26.0,False,False
+2012-07-09,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Zvjezdan Misimovi?,31.0,False,False
+2012-07-09,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Vedad Ibievi?,33.0,False,False
+2012-07-09,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Vedad Ibievi?,39.0,False,False
+2012-07-09,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,46.0,False,False
+2012-07-09,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,64.0,False,False
+2012-07-09,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,80.0,False,False
+2012-07-09,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Vedad Ibievi?,82.0,False,False
 2012-07-09,Luxembourg,Portugal,Portugal,Cristiano Ronaldo,28.0,False,False
 2012-07-09,Luxembourg,Portugal,Portugal,Hélder Postiga,54.0,False,False
 2012-07-09,Moldova,Inglaterra,Inglaterra,Frank Lampard,4.0,False,False
@@ -16101,10 +16101,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2012-11-09,Austria,Alemania,Austria,Zlatko Junuzovi?,57.0,False,False
 2012-11-09,Bélgica,Croacia,Croacia,Ivan Perii?,6.0,False,False
 2012-11-09,Bélgica,Croacia,Bélgica,Guillaume Gillet,45.0,False,False
-2012-11-09,Bosnia And Herzegovina,Latvia,Bosnia And Herzegovina,Zvjezdan Misimovi?,12.0,False,False
-2012-11-09,Bosnia And Herzegovina,Latvia,Bosnia And Herzegovina,Miralem Pjani?,44.0,False,False
-2012-11-09,Bosnia And Herzegovina,Latvia,Bosnia And Herzegovina,Zvjezdan Misimovi?,54.0,False,False
-2012-11-09,Bosnia And Herzegovina,Latvia,Bosnia And Herzegovina,Edin Deko,90.0,False,False
+2012-11-09,Bosnia y Herzegovina,Latvia,Bosnia y Herzegovina,Zvjezdan Misimovi?,12.0,False,False
+2012-11-09,Bosnia y Herzegovina,Latvia,Bosnia y Herzegovina,Miralem Pjani?,44.0,False,False
+2012-11-09,Bosnia y Herzegovina,Latvia,Bosnia y Herzegovina,Zvjezdan Misimovi?,54.0,False,False
+2012-11-09,Bosnia y Herzegovina,Latvia,Bosnia y Herzegovina,Edin Deko,90.0,False,False
 2012-11-09,Chile,Colombia,Colombia,James Rodríguez,58.0,False,False
 2012-11-09,Chile,Colombia,Colombia,Radamel Falcao,73.0,False,False
 2012-11-09,Chile,Colombia,Colombia,Teófilo Gutiérrez,76.0,False,False
@@ -16209,9 +16209,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Bélgica,Scotland,Bélgica,Christian Benteke,68.0,False,False
 ,Bélgica,Scotland,Bélgica,Vincent Kompany,71.0,False,False
 ,Bolivia,Uruguay,Uruguay,Luis Suárez,80.0,False,False
-,Bosnia And Herzegovina,Lithuania,Bosnia And Herzegovina,Vedad Ibievi?,29.0,False,False
-,Bosnia And Herzegovina,Lithuania,Bosnia And Herzegovina,Edin Deko,35.0,False,False
-,Bosnia And Herzegovina,Lithuania,Bosnia And Herzegovina,Miralem Pjani?,41.0,False,False
+,Bosnia y Herzegovina,Lithuania,Bosnia y Herzegovina,Vedad Ibievi?,29.0,False,False
+,Bosnia y Herzegovina,Lithuania,Bosnia y Herzegovina,Edin Deko,35.0,False,False
+,Bosnia y Herzegovina,Lithuania,Bosnia y Herzegovina,Miralem Pjani?,41.0,False,False
 ,Chile,Argentina,Argentina,Lionel Messi,28.0,False,False
 ,Chile,Argentina,Argentina,Gonzalo Higuaín,31.0,False,False
 ,Croacia,Wales,Croacia,Mario Manduki?,27.0,False,False
@@ -16311,9 +16311,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Austria,Faroe Islands,Austria,Zlatko Junuzovi?,77.0,False,False
 ,Austria,Faroe Islands,Austria,David Alaba,78.0,False,False
 ,Austria,Faroe Islands,Austria,György Garics,82.0,False,False
-,Bosnia And Herzegovina,Greece,Bosnia And Herzegovina,Edin Deko,29.0,False,False
-,Bosnia And Herzegovina,Greece,Bosnia And Herzegovina,Vedad Ibievi?,36.0,False,False
-,Bosnia And Herzegovina,Greece,Bosnia And Herzegovina,Edin Deko,53.0,False,False
+,Bosnia y Herzegovina,Greece,Bosnia y Herzegovina,Edin Deko,29.0,False,False
+,Bosnia y Herzegovina,Greece,Bosnia y Herzegovina,Vedad Ibievi?,36.0,False,False
+,Bosnia y Herzegovina,Greece,Bosnia y Herzegovina,Edin Deko,53.0,False,False
 ,Colombia,Bolivia,Colombia,Macnelly Torres,20.0,False,False
 ,Colombia,Bolivia,Colombia,Carlos Valdés,49.0,False,False
 ,Colombia,Bolivia,Colombia,Teófilo Gutiérrez,62.0,False,False
@@ -16426,11 +16426,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2013-07-06,Croacia,Scotland,Scotland,Robert Snodgrass,26.0,False,False
 2013-07-06,Jamaica,Estados Unidos,Estados Unidos,Jozy Altidore,30.0,False,False
 2013-07-06,Jamaica,Estados Unidos,Estados Unidos,Brad Evans,90.0,False,False
-2013-07-06,Latvia,Bosnia And Herzegovina,Bosnia And Herzegovina,Senad Luli?,48.0,False,False
-2013-07-06,Latvia,Bosnia And Herzegovina,Bosnia And Herzegovina,Vedad Ibievi?,53.0,False,False
-2013-07-06,Latvia,Bosnia And Herzegovina,Bosnia And Herzegovina,Haris Medunjanin,63.0,False,False
-2013-07-06,Latvia,Bosnia And Herzegovina,Bosnia And Herzegovina,Miralem Pjani?,80.0,False,False
-2013-07-06,Latvia,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,82.0,False,False
+2013-07-06,Latvia,Bosnia y Herzegovina,Bosnia y Herzegovina,Senad Luli?,48.0,False,False
+2013-07-06,Latvia,Bosnia y Herzegovina,Bosnia y Herzegovina,Vedad Ibievi?,53.0,False,False
+2013-07-06,Latvia,Bosnia y Herzegovina,Bosnia y Herzegovina,Haris Medunjanin,63.0,False,False
+2013-07-06,Latvia,Bosnia y Herzegovina,Bosnia y Herzegovina,Miralem Pjani?,80.0,False,False
+2013-07-06,Latvia,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,82.0,False,False
 2013-07-06,Paraguay,Chile,Paraguay,Roque Santa Cruz,87.0,False,False
 2013-07-06,Portugal,Russia,Portugal,Hélder Postiga,9.0,False,False
 2013-07-06,Sudan,Ghana,Ghana,Asamoah Gyan,20.0,False,False
@@ -16678,8 +16678,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2013-10-09,Paraguay,Argentina,Argentina,Maxi Rodríguez,90.0,False,False
 2013-10-09,Romania,Turquía,Turquía,Burak Y?lmaz,22.0,False,False
 2013-10-09,Romania,Turquía,Turquía,Mevlüt Erdinç,90.0,False,False
-2013-10-09,Slovakia,Bosnia And Herzegovina,Bosnia And Herzegovina,Ermin Bi?ak?i?,70.0,False,False
-2013-10-09,Slovakia,Bosnia And Herzegovina,Bosnia And Herzegovina,Izet Hajrovi?,78.0,False,False
+2013-10-09,Slovakia,Bosnia y Herzegovina,Bosnia y Herzegovina,Ermin Bi?ak?i?,70.0,False,False
+2013-10-09,Slovakia,Bosnia y Herzegovina,Bosnia y Herzegovina,Izet Hajrovi?,78.0,False,False
 2013-10-09,Estados Unidos,México,Estados Unidos,Eddie Johnson,49.0,False,False
 2013-10-09,Estados Unidos,México,Estados Unidos,Landon Donovan,78.0,False,False
 2013-10-09,Uruguay,Colombia,Uruguay,Edinson Cavani,77.0,False,False
@@ -16691,10 +16691,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2013-11-10,Argentina,Perú,Argentina,Ezequiel Lavezzi,23.0,False,False
 2013-11-10,Argentina,Perú,Argentina,Ezequiel Lavezzi,34.0,False,False
 2013-11-10,Argentina,Perú,Argentina,Rodrigo Palacio,47.0,False,False
-2013-11-10,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Edin Deko,27.0,False,False
-2013-11-10,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Zvjezdan Misimovi?,34.0,False,False
-2013-11-10,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Vedad Ibievi?,38.0,False,False
-2013-11-10,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Edin Deko,39.0,False,False
+2013-11-10,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Edin Deko,27.0,False,False
+2013-11-10,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Zvjezdan Misimovi?,34.0,False,False
+2013-11-10,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Vedad Ibievi?,38.0,False,False
+2013-11-10,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Edin Deko,39.0,False,False
 2013-11-10,Colombia,Chile,Colombia,Teófilo Gutiérrez,69.0,False,False
 2013-11-10,Colombia,Chile,Colombia,Radamel Falcao,74.0,False,False
 2013-11-10,Colombia,Chile,Colombia,Radamel Falcao,83.0,False,False
@@ -16760,7 +16760,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ghana,Egipto,Ghana,Asamoah Gyan,53.0,False,False
 ,Ghana,Egipto,Ghana,Sulley Muntari,72.0,False,False
 ,Ghana,Egipto,Ghana,Christian Atsu,88.0,False,False
-,Lithuania,Bosnia And Herzegovina,Bosnia And Herzegovina,Vedad Ibievi?,68.0,False,False
+,Lithuania,Bosnia y Herzegovina,Bosnia y Herzegovina,Vedad Ibievi?,68.0,False,False
 ,Noruega,Iceland,Noruega,Daniel Braaten,30.0,False,False
 ,Panamá,Estados Unidos,Panamá,Gabriel Torres,18.0,False,False
 ,Panamá,Estados Unidos,Estados Unidos,Michael Orozco,64.0,False,False
@@ -16848,9 +16848,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Costa de Marfil,Japón,Costa de Marfil,Wilfried Bony,64.0,False,False
 ,Costa de Marfil,Japón,Costa de Marfil,Gervinho,66.0,False,False
 ,Uruguay,Costa Rica,Uruguay,Edinson Cavani,24.0,False,False
-,Argentina,Bosnia And Herzegovina,Argentina,Sead Kolainac,3.0,False,False
-,Argentina,Bosnia And Herzegovina,Argentina,Lionel Messi,65.0,False,False
-,Argentina,Bosnia And Herzegovina,Bosnia And Herzegovina,Vedad Ibievi?,85.0,False,False
+,Argentina,Bosnia y Herzegovina,Argentina,Sead Kolainac,3.0,False,False
+,Argentina,Bosnia y Herzegovina,Argentina,Lionel Messi,65.0,False,False
+,Argentina,Bosnia y Herzegovina,Bosnia y Herzegovina,Vedad Ibievi?,85.0,False,False
 ,Francia,Honduras,Francia,Karim Benzema,45.0,False,False
 ,Francia,Honduras,Francia,Noel Valladares,48.0,False,False
 ,Francia,Honduras,Francia,Karim Benzema,72.0,False,False
@@ -16928,10 +16928,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Japón,Colombia,Colombia,Jackson Martínez,55.0,False,False
 ,Japón,Colombia,Colombia,Jackson Martínez,82.0,False,False
 ,Japón,Colombia,Colombia,James Rodríguez,90.0,False,False
-,Bosnia And Herzegovina,Iran,Bosnia And Herzegovina,Edin Deko,23.0,False,False
-,Bosnia And Herzegovina,Iran,Bosnia And Herzegovina,Miralem Pjani?,59.0,False,False
-,Bosnia And Herzegovina,Iran,Iran,Reza Ghoochannejhad,82.0,False,False
-,Bosnia And Herzegovina,Iran,Bosnia And Herzegovina,Avdija Vrajevi?,83.0,False,False
+,Bosnia y Herzegovina,Iran,Bosnia y Herzegovina,Edin Deko,23.0,False,False
+,Bosnia y Herzegovina,Iran,Bosnia y Herzegovina,Miralem Pjani?,59.0,False,False
+,Bosnia y Herzegovina,Iran,Iran,Reza Ghoochannejhad,82.0,False,False
+,Bosnia y Herzegovina,Iran,Bosnia y Herzegovina,Avdija Vrajevi?,83.0,False,False
 ,Honduras,Suiza,Suiza,Xherdan Shaqiri,6.0,False,False
 ,Honduras,Suiza,Suiza,Xherdan Shaqiri,31.0,False,False
 ,Honduras,Suiza,Suiza,Xherdan Shaqiri,71.0,False,False
@@ -16988,7 +16988,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2014-08-09,España,North Macedonia,España,Pedro,90.0,False,False
 2014-08-09,Suiza,Inglaterra,Inglaterra,Danny Welbeck,58.0,False,False
 2014-08-09,Suiza,Inglaterra,Inglaterra,Danny Welbeck,90.0,False,False
-2014-09-09,Bosnia And Herzegovina,Cyprus,Bosnia And Herzegovina,Vedad Ibievi?,6.0,False,False
+2014-09-09,Bosnia y Herzegovina,Cyprus,Bosnia y Herzegovina,Vedad Ibievi?,6.0,False,False
 2014-09-09,Croacia,Malta,Croacia,Luka Modri?,46.0,False,False
 2014-09-09,Croacia,Malta,Croacia,Andrej Kramari?,81.0,False,False
 2014-09-09,Czech Republic,Países Bajos,Czech Republic,Bo?ek Do?kal,22.0,False,False
@@ -17028,8 +17028,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2014-12-10,Luxembourg,España,España,Juan Bernat,88.0,False,False
 2014-12-10,Suecia,Liechtenstein,Suecia,Erkan Zengin,34.0,False,False
 2014-12-10,Suecia,Liechtenstein,Suecia,Jimmy Durmaz,46.0,False,False
-,Bosnia And Herzegovina,Bélgica,Bosnia And Herzegovina,Edin Deko,28.0,False,False
-,Bosnia And Herzegovina,Bélgica,Bélgica,Radja Nainggolan,51.0,False,False
+,Bosnia y Herzegovina,Bélgica,Bosnia y Herzegovina,Edin Deko,28.0,False,False
+,Bosnia y Herzegovina,Bélgica,Bélgica,Radja Nainggolan,51.0,False,False
 ,Croacia,Azerbaijan,Croacia,Andrej Kramari?,11.0,False,False
 ,Croacia,Azerbaijan,Croacia,Ivan Perii?,34.0,False,False
 ,Croacia,Azerbaijan,Croacia,Ivan Perii?,45.0,False,False
@@ -17211,9 +17211,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Suiza,Estonia,Suiza,Fabian Schär,17.0,False,False
 ,Suiza,Estonia,Suiza,Granit Xhaka,27.0,False,False
 ,Suiza,Estonia,Suiza,Haris Seferovic,80.0,False,False
-,Andorra,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,13.0,False,False
-,Andorra,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,49.0,False,False
-,Andorra,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,62.0,False,False
+,Andorra,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,13.0,False,False
+,Andorra,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,49.0,False,False
+,Andorra,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,62.0,False,False
 ,Bélgica,Cyprus,Bélgica,Marouane Fellaini,21.0,False,False
 ,Bélgica,Cyprus,Bélgica,Christian Benteke,35.0,False,False
 ,Bélgica,Cyprus,Bélgica,Marouane Fellaini,66.0,False,False
@@ -17250,9 +17250,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-11-06,Tajikistan,Jordania,Jordania,Hassan Abdel-Fattah,29.0,False,False
 2015-11-06,Tajikistan,Jordania,Jordania,Hassan Abdel-Fattah,63.0,False,False
 2015-11-06,Tajikistan,Jordania,Jordania,Hassan Abdel-Fattah,88.0,False,False
-2015-12-06,Bosnia And Herzegovina,Israel,Bosnia And Herzegovina,Edin Vi?a,42.0,False,False
-2015-12-06,Bosnia And Herzegovina,Israel,Bosnia And Herzegovina,Edin Deko,45.0,False,False
-2015-12-06,Bosnia And Herzegovina,Israel,Bosnia And Herzegovina,Edin Vi?a,75.0,False,False
+2015-12-06,Bosnia y Herzegovina,Israel,Bosnia y Herzegovina,Edin Vi?a,42.0,False,False
+2015-12-06,Bosnia y Herzegovina,Israel,Bosnia y Herzegovina,Edin Deko,45.0,False,False
+2015-12-06,Bosnia y Herzegovina,Israel,Bosnia y Herzegovina,Edin Vi?a,75.0,False,False
 2015-12-06,Croacia,Italia,Croacia,Mario Manduki?,11.0,False,False
 2015-12-06,Iceland,Czech Republic,Czech Republic,Bo?ek Do?kal,55.0,False,False
 2015-12-06,Kazakhstan,Turquía,Turquía,Arda Turan,83.0,False,False
@@ -17364,10 +17364,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-03-09,Australia,Bangladesh,Australia,Tom Rogic,20.0,False,False
 2015-03-09,Australia,Bangladesh,Australia,Nathan Burns,29.0,False,False
 2015-03-09,Australia,Bangladesh,Australia,Aaron Mooy,61.0,False,False
-2015-03-09,Bélgica,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,15.0,False,False
-2015-03-09,Bélgica,Bosnia And Herzegovina,Bélgica,Marouane Fellaini,23.0,False,False
-2015-03-09,Bélgica,Bosnia And Herzegovina,Bélgica,Kevin De Bruyne,44.0,False,False
-2015-03-09,Bélgica,Bosnia And Herzegovina,Bélgica,Eden Hazard,78.0,False,False
+2015-03-09,Bélgica,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,15.0,False,False
+2015-03-09,Bélgica,Bosnia y Herzegovina,Bélgica,Marouane Fellaini,23.0,False,False
+2015-03-09,Bélgica,Bosnia y Herzegovina,Bélgica,Kevin De Bruyne,44.0,False,False
+2015-03-09,Bélgica,Bosnia y Herzegovina,Bélgica,Eden Hazard,78.0,False,False
 2015-03-09,Bulgaria,Noruega,Noruega,Vegard Forren,57.0,False,False
 2015-03-09,Czech Republic,Kazakhstan,Czech Republic,Milan koda,74.0,False,False
 2015-03-09,Czech Republic,Kazakhstan,Czech Republic,Milan koda,86.0,False,False
@@ -17438,9 +17438,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-05-09,Suiza,Slovenia,Suiza,Josip Drmi?,80.0,False,False
 2015-05-09,Suiza,Slovenia,Suiza,Valentin Stocker,84.0,False,False
 2015-05-09,Suiza,Slovenia,Suiza,Josip Drmi?,90.0,False,False
-2015-06-09,Bosnia And Herzegovina,Andorra,Bosnia And Herzegovina,Ermin Bi?ak?i?,14.0,False,False
-2015-06-09,Bosnia And Herzegovina,Andorra,Bosnia And Herzegovina,Edin Deko,30.0,False,False
-2015-06-09,Bosnia And Herzegovina,Andorra,Bosnia And Herzegovina,Senad Luli?,45.0,False,False
+2015-06-09,Bosnia y Herzegovina,Andorra,Bosnia y Herzegovina,Ermin Bi?ak?i?,14.0,False,False
+2015-06-09,Bosnia y Herzegovina,Andorra,Bosnia y Herzegovina,Edin Deko,30.0,False,False
+2015-06-09,Bosnia y Herzegovina,Andorra,Bosnia y Herzegovina,Senad Luli?,45.0,False,False
 2015-06-09,Cyprus,Bélgica,Bélgica,Eden Hazard,86.0,False,False
 2015-06-09,Latvia,Czech Republic,Czech Republic,David Limberský,13.0,False,False
 2015-06-09,Latvia,Czech Republic,Czech Republic,Vladimír Darida,25.0,False,False
@@ -17543,8 +17543,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-10-10,Andorra,Bélgica,Bélgica,Kevin De Bruyne,42.0,False,False
 2015-10-10,Andorra,Bélgica,Bélgica,Eden Hazard,56.0,False,False
 2015-10-10,Andorra,Bélgica,Bélgica,Laurent Depoitre,64.0,False,False
-2015-10-10,Bosnia And Herzegovina,Wales,Bosnia And Herzegovina,Milan ?uri?,71.0,False,False
-2015-10-10,Bosnia And Herzegovina,Wales,Bosnia And Herzegovina,Vedad Ibievi?,90.0,False,False
+2015-10-10,Bosnia y Herzegovina,Wales,Bosnia y Herzegovina,Milan ?uri?,71.0,False,False
+2015-10-10,Bosnia y Herzegovina,Wales,Bosnia y Herzegovina,Vedad Ibievi?,90.0,False,False
 2015-10-10,Croacia,Bulgaria,Croacia,Ivan Perii?,2.0,False,False
 2015-10-10,Croacia,Bulgaria,Croacia,Ivan Rakiti?,42.0,False,False
 2015-10-10,Croacia,Bulgaria,Croacia,Nikola Kalini?,81.0,False,False
@@ -17580,9 +17580,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Brasil,Venezuela,Brasil,Willian,1.0,False,False
 ,Brasil,Venezuela,Brasil,Willian,42.0,False,False
 ,Brasil,Venezuela,Brasil,Ricardo Oliveira,73.0,False,False
-,Cyprus,Bosnia And Herzegovina,Bosnia And Herzegovina,Haris Medunjanin,13.0,False,False
-,Cyprus,Bosnia And Herzegovina,Bosnia And Herzegovina,Haris Medunjanin,44.0,False,False
-,Cyprus,Bosnia And Herzegovina,Bosnia And Herzegovina,Milan ?uri?,67.0,False,False
+,Cyprus,Bosnia y Herzegovina,Bosnia y Herzegovina,Haris Medunjanin,13.0,False,False
+,Cyprus,Bosnia y Herzegovina,Bosnia y Herzegovina,Haris Medunjanin,44.0,False,False
+,Cyprus,Bosnia y Herzegovina,Bosnia y Herzegovina,Milan ?uri?,67.0,False,False
 ,Ecuador,Bolivia,Ecuador,Miller Bolaños,81.0,False,False
 ,Ecuador,Bolivia,Ecuador,Felipe Caicedo,90.0,False,False
 ,Italia,Noruega,Noruega,Alexander Tettey,23.0,False,False
@@ -17633,7 +17633,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Angola,South Africa,South Africa,Andile Jali,80.0,False,False
 ,Argentina,Brasil,Argentina,Ezequiel Lavezzi,34.0,False,False
 ,Argentina,Brasil,Brasil,Lucas Lima,58.0,False,False
-,Bosnia And Herzegovina,Republic Of Ireland,Bosnia And Herzegovina,Edin Deko,85.0,False,False
+,Bosnia y Herzegovina,Republic Of Ireland,Bosnia y Herzegovina,Edin Deko,85.0,False,False
 ,Canadá,Honduras,Canadá,Cyle Larin,38.0,False,False
 ,Jamaica,Panamá,Panamá,Armando Cooper,43.0,False,False
 ,Jamaica,Panamá,Panamá,Wes Morgan,52.0,False,False
@@ -18009,11 +18009,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-05-09,España,Liechtenstein,España,Álvaro Morata,82.0,False,False
 2016-05-09,España,Liechtenstein,España,Álvaro Morata,83.0,False,False
 2016-05-09,España,Liechtenstein,España,David Silva,90.0,False,False
-2016-06-09,Bosnia And Herzegovina,Estonia,Bosnia And Herzegovina,Emir Spahi?,7.0,False,False
-2016-06-09,Bosnia And Herzegovina,Estonia,Bosnia And Herzegovina,Edin Deko,23.0,False,False
-2016-06-09,Bosnia And Herzegovina,Estonia,Bosnia And Herzegovina,Haris Medunjanin,71.0,False,False
-2016-06-09,Bosnia And Herzegovina,Estonia,Bosnia And Herzegovina,Vedad Ibievi?,83.0,False,False
-2016-06-09,Bosnia And Herzegovina,Estonia,Bosnia And Herzegovina,Emir Spahi?,90.0,False,False
+2016-06-09,Bosnia y Herzegovina,Estonia,Bosnia y Herzegovina,Emir Spahi?,7.0,False,False
+2016-06-09,Bosnia y Herzegovina,Estonia,Bosnia y Herzegovina,Edin Deko,23.0,False,False
+2016-06-09,Bosnia y Herzegovina,Estonia,Bosnia y Herzegovina,Haris Medunjanin,71.0,False,False
+2016-06-09,Bosnia y Herzegovina,Estonia,Bosnia y Herzegovina,Vedad Ibievi?,83.0,False,False
+2016-06-09,Bosnia y Herzegovina,Estonia,Bosnia y Herzegovina,Emir Spahi?,90.0,False,False
 2016-06-09,Brasil,Colombia,Brasil,Miranda,2.0,False,False
 2016-06-09,Brasil,Colombia,Colombia,Marquinhos,37.0,False,False
 2016-06-09,Brasil,Colombia,Brasil,Neymar,74.0,False,False
@@ -18086,10 +18086,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-06-10,Uruguay,Venezuela,Uruguay,Edinson Cavani,46.0,False,False
 2016-06-10,Uruguay,Venezuela,Uruguay,Edinson Cavani,78.0,False,False
 2016-06-10,Uzbekistán,Iran,Iran,Jalal Hosseini,27.0,False,False
-2016-07-10,Bélgica,Bosnia And Herzegovina,Bélgica,Emir Spahi?,26.0,False,False
-2016-07-10,Bélgica,Bosnia And Herzegovina,Bélgica,Eden Hazard,29.0,False,False
-2016-07-10,Bélgica,Bosnia And Herzegovina,Bélgica,Toby Alderweireld,60.0,False,False
-2016-07-10,Bélgica,Bosnia And Herzegovina,Bélgica,Romelu Lukaku,79.0,False,False
+2016-07-10,Bélgica,Bosnia y Herzegovina,Bélgica,Emir Spahi?,26.0,False,False
+2016-07-10,Bélgica,Bosnia y Herzegovina,Bélgica,Eden Hazard,29.0,False,False
+2016-07-10,Bélgica,Bosnia y Herzegovina,Bélgica,Toby Alderweireld,60.0,False,False
+2016-07-10,Bélgica,Bosnia y Herzegovina,Bélgica,Romelu Lukaku,79.0,False,False
 2016-07-10,Francia,Bulgaria,Francia,Kevin Gameiro,23.0,False,False
 2016-07-10,Francia,Bulgaria,Francia,Dimitri Payet,26.0,False,False
 2016-07-10,Francia,Bulgaria,Francia,Antoine Griezmann,38.0,False,False
@@ -18137,8 +18137,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-09-10,Túnez,Guinea,Túnez,Änis Ben-Hatira,79.0,False,False
 2016-10-10,Andorra,Suiza,Suiza,Fabian Schär,19.0,False,False
 2016-10-10,Andorra,Suiza,Suiza,Admir Mehmedi,77.0,False,False
-2016-10-10,Bosnia And Herzegovina,Cyprus,Bosnia And Herzegovina,Edin Deko,70.0,False,False
-2016-10-10,Bosnia And Herzegovina,Cyprus,Bosnia And Herzegovina,Edin Deko,81.0,False,False
+2016-10-10,Bosnia y Herzegovina,Cyprus,Bosnia y Herzegovina,Edin Deko,70.0,False,False
+2016-10-10,Bosnia y Herzegovina,Cyprus,Bosnia y Herzegovina,Edin Deko,81.0,False,False
 2016-10-10,Faroe Islands,Portugal,Portugal,André Silva,12.0,False,False
 2016-10-10,Faroe Islands,Portugal,Portugal,André Silva,22.0,False,False
 2016-10-10,Faroe Islands,Portugal,Portugal,André Silva,37.0,False,False
@@ -18233,7 +18233,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Bélgica,Estonia,Bélgica,Romelu Lukaku,88.0,False,False
 ,Egipto,Ghana,Egipto,Mohamed Salah,42.0,False,False
 ,Egipto,Ghana,Egipto,Abdallah El Said,85.0,False,False
-,Greece,Bosnia And Herzegovina,Bosnia And Herzegovina,Miralem Pjani?,32.0,False,False
+,Greece,Bosnia y Herzegovina,Bosnia y Herzegovina,Miralem Pjani?,32.0,False,False
 ,Guinea,RD Congo,RD Congo,Neeskens Kebano,54.0,False,False
 ,Guinea,RD Congo,RD Congo,Yannick Bolasie,57.0,False,False
 ,Luxembourg,Países Bajos,Países Bajos,Arjen Robben,36.0,False,False
@@ -18337,11 +18337,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Estados Unidos,Honduras,Estados Unidos,Clint Dempsey,49.0,False,False
 ,Estados Unidos,Honduras,Estados Unidos,Clint Dempsey,54.0,False,False
 ,Bélgica,Greece,Bélgica,Romelu Lukaku,89.0,False,False
-,Bosnia And Herzegovina,Gibraltar,Bosnia And Herzegovina,Vedad Ibievi?,4.0,False,False
-,Bosnia And Herzegovina,Gibraltar,Bosnia And Herzegovina,Vedad Ibievi?,43.0,False,False
-,Bosnia And Herzegovina,Gibraltar,Bosnia And Herzegovina,Avdija Vrajevi?,52.0,False,False
-,Bosnia And Herzegovina,Gibraltar,Bosnia And Herzegovina,Edin Vi?a,56.0,False,False
-,Bosnia And Herzegovina,Gibraltar,Bosnia And Herzegovina,Ermin Bi?ak?i?,90.0,False,False
+,Bosnia y Herzegovina,Gibraltar,Bosnia y Herzegovina,Vedad Ibievi?,4.0,False,False
+,Bosnia y Herzegovina,Gibraltar,Bosnia y Herzegovina,Vedad Ibievi?,43.0,False,False
+,Bosnia y Herzegovina,Gibraltar,Bosnia y Herzegovina,Avdija Vrajevi?,52.0,False,False
+,Bosnia y Herzegovina,Gibraltar,Bosnia y Herzegovina,Edin Vi?a,56.0,False,False
+,Bosnia y Herzegovina,Gibraltar,Bosnia y Herzegovina,Ermin Bi?ak?i?,90.0,False,False
 ,Fiji,Nueva Zelanda,Nueva Zelanda,Chris Wood,48.0,False,False
 ,Fiji,Nueva Zelanda,Nueva Zelanda,Marco Rojas,55.0,False,False
 ,Luxembourg,Francia,Francia,Olivier Giroud,28.0,False,False
@@ -18529,8 +18529,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Chile,Paraguay,Paraguay,Arturo Vidal,24.0,False,False
 ,Chile,Paraguay,Paraguay,Víctor Cáceres,55.0,False,False
 ,Chile,Paraguay,Paraguay,Richard Ortiz,90.0,False,False
-,Cyprus,Bosnia And Herzegovina,Bosnia And Herzegovina,Toni unji?,33.0,False,False
-,Cyprus,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Vi?a,44.0,False,False
+,Cyprus,Bosnia y Herzegovina,Bosnia y Herzegovina,Toni unji?,33.0,False,False
+,Cyprus,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Vi?a,44.0,False,False
 ,Francia,Países Bajos,Francia,Antoine Griezmann,14.0,False,False
 ,Francia,Países Bajos,Francia,Thomas Lemar,73.0,False,False
 ,Francia,Países Bajos,Francia,Thomas Lemar,88.0,False,False
@@ -18593,10 +18593,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-03-09,Belarus,Suecia,Suecia,Christoffer Nyman,24.0,False,False
 2017-03-09,Belarus,Suecia,Suecia,Marcus Berg,37.0,False,False
 2017-03-09,Belarus,Suecia,Suecia,Andreas Granqvist,84.0,False,False
-2017-03-09,Gibraltar,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,35.0,False,False
-2017-03-09,Gibraltar,Bosnia And Herzegovina,Bosnia And Herzegovina,Kenan Kodro,65.0,False,False
-2017-03-09,Gibraltar,Bosnia And Herzegovina,Bosnia And Herzegovina,Senad Luli?,83.0,False,False
-2017-03-09,Gibraltar,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,85.0,False,False
+2017-03-09,Gibraltar,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,35.0,False,False
+2017-03-09,Gibraltar,Bosnia y Herzegovina,Bosnia y Herzegovina,Kenan Kodro,65.0,False,False
+2017-03-09,Gibraltar,Bosnia y Herzegovina,Bosnia y Herzegovina,Senad Luli?,83.0,False,False
+2017-03-09,Gibraltar,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,85.0,False,False
 2017-03-09,Greece,Bélgica,Bélgica,Jan Vertonghen,70.0,False,False
 2017-03-09,Greece,Bélgica,Bélgica,Romelu Lukaku,74.0,False,False
 2017-03-09,Hungary,Portugal,Portugal,André Silva,48.0,False,False
@@ -18703,13 +18703,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-07-10,Belarus,Países Bajos,Países Bajos,Davy Pröpper,25.0,False,False
 2017-07-10,Belarus,Países Bajos,Países Bajos,Arjen Robben,84.0,False,False
 2017-07-10,Belarus,Países Bajos,Países Bajos,Memphis Depay,90.0,False,False
-2017-07-10,Bosnia And Herzegovina,Bélgica,Bélgica,Thomas Meunier,4.0,False,False
-2017-07-10,Bosnia And Herzegovina,Bélgica,Bosnia And Herzegovina,Haris Medunjanin,30.0,False,False
-2017-07-10,Bosnia And Herzegovina,Bélgica,Bosnia And Herzegovina,Edin Vi?a,39.0,False,False
-2017-07-10,Bosnia And Herzegovina,Bélgica,Bélgica,Michy Batshuayi,59.0,False,False
-2017-07-10,Bosnia And Herzegovina,Bélgica,Bélgica,Jan Vertonghen,68.0,False,False
-2017-07-10,Bosnia And Herzegovina,Bélgica,Bosnia And Herzegovina,Dario ?umi?,82.0,False,False
-2017-07-10,Bosnia And Herzegovina,Bélgica,Bélgica,Yannick Carrasco,84.0,False,False
+2017-07-10,Bosnia y Herzegovina,Bélgica,Bélgica,Thomas Meunier,4.0,False,False
+2017-07-10,Bosnia y Herzegovina,Bélgica,Bosnia y Herzegovina,Haris Medunjanin,30.0,False,False
+2017-07-10,Bosnia y Herzegovina,Bélgica,Bosnia y Herzegovina,Edin Vi?a,39.0,False,False
+2017-07-10,Bosnia y Herzegovina,Bélgica,Bélgica,Michy Batshuayi,59.0,False,False
+2017-07-10,Bosnia y Herzegovina,Bélgica,Bélgica,Jan Vertonghen,68.0,False,False
+2017-07-10,Bosnia y Herzegovina,Bélgica,Bosnia y Herzegovina,Dario ?umi?,82.0,False,False
+2017-07-10,Bosnia y Herzegovina,Bélgica,Bélgica,Yannick Carrasco,84.0,False,False
 2017-07-10,Bulgaria,Francia,Francia,Blaise Matuidi,3.0,False,False
 2017-07-10,Cape Verde,Senegal,Senegal,Diafra Sakho,82.0,False,False
 2017-07-10,Cape Verde,Senegal,Senegal,Cheikh N'Doye,90.0,False,False
@@ -18774,8 +18774,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-10-10,Ecuador,Argentina,Argentina,Lionel Messi,11.0,False,False
 2017-10-10,Ecuador,Argentina,Argentina,Lionel Messi,19.0,False,False
 2017-10-10,Ecuador,Argentina,Argentina,Lionel Messi,62.0,False,False
-2017-10-10,Estonia,Bosnia And Herzegovina,Bosnia And Herzegovina,Izet Hajrovi?,48.0,False,False
-2017-10-10,Estonia,Bosnia And Herzegovina,Bosnia And Herzegovina,Izet Hajrovi?,84.0,False,False
+2017-10-10,Estonia,Bosnia y Herzegovina,Bosnia y Herzegovina,Izet Hajrovi?,48.0,False,False
+2017-10-10,Estonia,Bosnia y Herzegovina,Bosnia y Herzegovina,Izet Hajrovi?,84.0,False,False
 2017-10-10,Francia,Belarus,Francia,Antoine Griezmann,27.0,False,False
 2017-10-10,Francia,Belarus,Francia,Olivier Giroud,33.0,False,False
 2017-10-10,Honduras,México,México,Oribe Peralta,17.0,False,False
@@ -18963,8 +18963,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2018-08-09,Inglaterra,España,Inglaterra,Marcus Rashford,11.0,False,False
 2018-08-09,Inglaterra,España,España,Saúl Ñíguez,13.0,False,False
 2018-08-09,Inglaterra,España,España,Rodrigo,32.0,False,False
-2018-08-09,Northern Ireland,Bosnia And Herzegovina,Bosnia And Herzegovina,Haris Duljevi?,36.0,False,False
-2018-08-09,Northern Ireland,Bosnia And Herzegovina,Bosnia And Herzegovina,Elvis Sari?,64.0,False,False
+2018-08-09,Northern Ireland,Bosnia y Herzegovina,Bosnia y Herzegovina,Haris Duljevi?,36.0,False,False
+2018-08-09,Northern Ireland,Bosnia y Herzegovina,Bosnia y Herzegovina,Elvis Sari?,64.0,False,False
 2018-08-09,Suiza,Iceland,Suiza,Steven Zuber,13.0,False,False
 2018-08-09,Suiza,Iceland,Suiza,Denis Zakaria,23.0,False,False
 2018-08-09,Suiza,Iceland,Suiza,Xherdan Shaqiri,53.0,False,False
@@ -18982,7 +18982,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2018-10-09,Suecia,Turquía,Turquía,Hakan Çalhano?lu,51.0,False,False
 2018-10-09,Suecia,Turquía,Turquía,Emre Akbaba,88.0,False,False
 2018-10-09,Suecia,Turquía,Turquía,Emre Akbaba,90.0,False,False
-2018-11-09,Bosnia And Herzegovina,Austria,Bosnia And Herzegovina,Edin Deko,78.0,False,False
+2018-11-09,Bosnia y Herzegovina,Austria,Bosnia y Herzegovina,Edin Deko,78.0,False,False
 2018-11-09,Iceland,Bélgica,Bélgica,Eden Hazard,29.0,False,False
 2018-11-09,Iceland,Bélgica,Bélgica,Romelu Lukaku,31.0,False,False
 2018-11-09,Iceland,Bélgica,Bélgica,Romelu Lukaku,81.0,False,False
@@ -19006,8 +19006,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Noruega,Slovenia,Noruega,Ole Selnæs,45.0,False,False
 ,Slovakia,Czech Republic,Czech Republic,Michael Krmen?ík,52.0,False,False
 ,Slovakia,Czech Republic,Czech Republic,Patrik Schick,76.0,False,False
-,Bosnia And Herzegovina,Northern Ireland,Bosnia And Herzegovina,Edin Deko,27.0,False,False
-,Bosnia And Herzegovina,Northern Ireland,Bosnia And Herzegovina,Edin Deko,73.0,False,False
+,Bosnia y Herzegovina,Northern Ireland,Bosnia y Herzegovina,Edin Deko,27.0,False,False
+,Bosnia y Herzegovina,Northern Ireland,Bosnia y Herzegovina,Edin Deko,73.0,False,False
 ,Iceland,Suiza,Suiza,Haris Seferovic,52.0,False,False
 ,Iceland,Suiza,Suiza,Michael Lang,67.0,False,False
 ,España,Inglaterra,Inglaterra,Raheem Sterling,16.0,False,False
@@ -19157,8 +19157,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Moldova,Francia,Francia,Raphaël Varane,27.0,False,False
 ,Moldova,Francia,Francia,Olivier Giroud,36.0,False,False
 ,Moldova,Francia,Francia,Kylian Mbappé,87.0,False,False
-,Bosnia And Herzegovina,Armenia,Bosnia And Herzegovina,Rade Kruni?,33.0,False,False
-,Bosnia And Herzegovina,Armenia,Bosnia And Herzegovina,Deni Miloevi?,80.0,False,False
+,Bosnia y Herzegovina,Armenia,Bosnia y Herzegovina,Rade Kruni?,33.0,False,False
+,Bosnia y Herzegovina,Armenia,Bosnia y Herzegovina,Deni Miloevi?,80.0,False,False
 ,Georgia,Suiza,Suiza,Steven Zuber,56.0,False,False
 ,Georgia,Suiza,Suiza,Denis Zakaria,80.0,False,False
 ,España,Noruega,España,Rodrigo,16.0,False,False
@@ -19192,8 +19192,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Turquía,Moldova,Turquía,Cenk Tosun,26.0,False,False
 ,Turquía,Moldova,Turquía,Cenk Tosun,53.0,False,False
 ,Turquía,Moldova,Turquía,Kaan Ayhan,70.0,False,False
-,Bosnia And Herzegovina,Greece,Bosnia And Herzegovina,Edin Vi?a,10.0,False,False
-,Bosnia And Herzegovina,Greece,Bosnia And Herzegovina,Miralem Pjani?,15.0,False,False
+,Bosnia y Herzegovina,Greece,Bosnia y Herzegovina,Edin Vi?a,10.0,False,False
+,Bosnia y Herzegovina,Greece,Bosnia y Herzegovina,Miralem Pjani?,15.0,False,False
 ,Malta,España,España,Álvaro Morata,31.0,False,False
 ,Malta,España,España,Álvaro Morata,73.0,False,False
 ,Noruega,Suecia,Noruega,Bjørn Maars Johnsen,41.0,False,False
@@ -19265,7 +19265,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-11-06,Alemania,Estonia,Alemania,Timo Werner,79.0,False,False
 2019-11-06,Alemania,Estonia,Alemania,Leroy Sané,88.0,False,False
 2019-11-06,Iceland,Turquía,Turquía,Dorukhan Toköz,40.0,False,False
-2019-11-06,Italia,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,32.0,False,False
+2019-11-06,Italia,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,32.0,False,False
 ,Brasil,Bolivia,Brasil,Philippe Coutinho,50.0,False,False
 ,Brasil,Bolivia,Brasil,Philippe Coutinho,53.0,False,False
 ,Brasil,Bolivia,Brasil,Everton Soares,85.0,False,False
@@ -19427,11 +19427,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Senegal,Túnez,Senegal,Dylan Bronn,101.0,False,False
 ,Senegal,Argelia,Argelia,Baghdad Bounedjah,2.0,False,False
 2019-05-09,Bahrain,Iraq,Iraq,Mohanad Ali,85.0,False,False
-2019-05-09,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Amer Gojak,11.0,False,False
-2019-05-09,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Andreas Malin,80.0,False,False
-2019-05-09,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Edin Deko,85.0,False,False
-2019-05-09,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Edin Vi?a,87.0,False,False
-2019-05-09,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Amer Gojak,89.0,False,False
+2019-05-09,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Amer Gojak,11.0,False,False
+2019-05-09,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Andreas Malin,80.0,False,False
+2019-05-09,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Edin Deko,85.0,False,False
+2019-05-09,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Edin Vi?a,87.0,False,False
+2019-05-09,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Amer Gojak,89.0,False,False
 2019-05-09,Faroe Islands,Suecia,Suecia,Alexander Isak,12.0,False,False
 2019-05-09,Faroe Islands,Suecia,Suecia,Alexander Isak,15.0,False,False
 2019-05-09,Faroe Islands,Suecia,Suecia,Victor Lindelöf,23.0,False,False
@@ -19484,8 +19484,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-07-09,Serbia,Portugal,Portugal,Cristiano Ronaldo,80.0,False,False
 2019-07-09,Serbia,Portugal,Portugal,Bernardo Silva,86.0,False,False
 2019-07-09,Turquía,Andorra,Turquía,Ozan Tufan,89.0,False,False
-2019-08-09,Armenia,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,13.0,False,False
-2019-08-09,Armenia,Bosnia And Herzegovina,Bosnia And Herzegovina,Amer Gojak,70.0,False,False
+2019-08-09,Armenia,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,13.0,False,False
+2019-08-09,Armenia,Bosnia y Herzegovina,Bosnia y Herzegovina,Amer Gojak,70.0,False,False
 2019-08-09,España,Faroe Islands,España,Rodrigo,13.0,False,False
 2019-08-09,España,Faroe Islands,España,Rodrigo,50.0,False,False
 2019-08-09,España,Faroe Islands,España,Paco Alcácer,90.0,False,False
@@ -19609,10 +19609,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-11-10,Portugal,Luxembourg,Portugal,Cristiano Ronaldo,65.0,False,False
 2019-11-10,Portugal,Luxembourg,Portugal,Gonçalo Guedes,89.0,False,False
 2019-11-10,Turquía,Albania,Turquía,Cenk Tosun,90.0,False,False
-2019-12-10,Bosnia And Herzegovina,Finland,Bosnia And Herzegovina,Izet Hajrovi?,29.0,False,False
-2019-12-10,Bosnia And Herzegovina,Finland,Bosnia And Herzegovina,Miralem Pjani?,37.0,False,False
-2019-12-10,Bosnia And Herzegovina,Finland,Bosnia And Herzegovina,Miralem Pjani?,58.0,False,False
-2019-12-10,Bosnia And Herzegovina,Finland,Bosnia And Herzegovina,Armin Hodi?,73.0,False,False
+2019-12-10,Bosnia y Herzegovina,Finland,Bosnia y Herzegovina,Izet Hajrovi?,29.0,False,False
+2019-12-10,Bosnia y Herzegovina,Finland,Bosnia y Herzegovina,Miralem Pjani?,37.0,False,False
+2019-12-10,Bosnia y Herzegovina,Finland,Bosnia y Herzegovina,Miralem Pjani?,58.0,False,False
+2019-12-10,Bosnia y Herzegovina,Finland,Bosnia y Herzegovina,Armin Hodi?,73.0,False,False
 2019-12-10,Malta,Suecia,Suecia,Marcus Danielson,11.0,False,False
 2019-12-10,Malta,Suecia,Suecia,Sebastian Larsson,58.0,False,False
 2019-12-10,Malta,Suecia,Suecia,Andrei Agius,66.0,False,False
@@ -19647,7 +19647,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Cambodia,Iraq,Iraq,Mohanad Ali,41.0,False,False
 ,Cambodia,Iraq,Iraq,Amjad Attwan,57.0,False,False
 ,Cambodia,Iraq,Iraq,Ahmad Ibrahim Khalaf,62.0,False,False
-,Greece,Bosnia And Herzegovina,Bosnia And Herzegovina,Amer Gojak,35.0,False,False
+,Greece,Bosnia y Herzegovina,Bosnia y Herzegovina,Amer Gojak,35.0,False,False
 ,Jordania,Nepal,Jordania,Feras Shelbaieh,56.0,False,False
 ,Jordania,Nepal,Jordania,Ahmad Ersan,78.0,False,False
 ,Jordania,Nepal,Jordania,Baha' Faisal,88.0,False,False
@@ -19744,9 +19744,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Gibraltar,Suiza,Suiza,Loris Benito,75.0,False,False
 ,Gibraltar,Suiza,Suiza,Cedric Itten,84.0,False,False
 ,Gibraltar,Suiza,Suiza,Granit Xhaka,86.0,False,False
-,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Eldar ?ivi?,57.0,False,False
-,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Armin Hodi?,64.0,False,False
-,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Armin Hodi?,72.0,False,False
+,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Eldar ?ivi?,57.0,False,False
+,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Armin Hodi?,64.0,False,False
+,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Armin Hodi?,72.0,False,False
 ,Malta,Noruega,Noruega,Joshua King,7.0,False,False
 ,Malta,Noruega,Noruega,Alexander Sørloth,62.0,False,False
 ,España,Romania,España,Fabián Ruiz,8.0,False,False
@@ -19788,7 +19788,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2020-03-09,Alemania,España,Alemania,Timo Werner,51.0,False,False
 2020-03-09,Alemania,España,España,José Gayà,90.0,False,False
 2020-03-09,Ucrania,Suiza,Suiza,Haris Seferovic,41.0,False,False
-2020-04-09,Italia,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,57.0,False,False
+2020-04-09,Italia,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,57.0,False,False
 2020-04-09,Países Bajos,Polonia,Países Bajos,Steven Bergwijn,61.0,False,False
 2020-04-09,Noruega,Austria,Austria,Michael Gregoritsch,35.0,False,False
 2020-04-09,Noruega,Austria,Austria,Marcel Sabitzer,54.0,False,False
@@ -19814,7 +19814,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2020-06-09,Suiza,Alemania,Suiza,Silvan Widmer,58.0,False,False
 2020-07-09,Austria,Romania,Austria,Christoph Baumgartner,17.0,False,False
 2020-07-09,Austria,Romania,Austria,Karim Onisiwo,81.0,False,False
-2020-07-09,Bosnia And Herzegovina,Polonia,Bosnia And Herzegovina,Haris Hajradinovi?,24.0,False,False
+2020-07-09,Bosnia y Herzegovina,Polonia,Bosnia y Herzegovina,Haris Hajradinovi?,24.0,False,False
 2020-07-09,Czech Republic,Scotland,Czech Republic,Jakub Peek,12.0,False,False
 2020-07-09,Czech Republic,Scotland,Scotland,Lyndon Dykes,27.0,False,False
 2020-07-09,Czech Republic,Scotland,Scotland,Ryan Christie,52.0,False,False
@@ -19837,7 +19837,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2020-08-09,Suecia,Portugal,Portugal,Cristiano Ronaldo,45.0,False,False
 2020-08-09,Suecia,Portugal,Portugal,Cristiano Ronaldo,72.0,False,False
 2020-08-10,Argentina,Ecuador,Argentina,Lionel Messi,13.0,False,False
-2020-08-10,Bosnia And Herzegovina,Northern Ireland,Bosnia And Herzegovina,Rade Kruni?,14.0,False,False
+2020-08-10,Bosnia y Herzegovina,Northern Ireland,Bosnia y Herzegovina,Rade Kruni?,14.0,False,False
 2020-08-10,Noruega,Serbia,Noruega,Mathias Normann,88.0,False,False
 2020-08-10,Paraguay,Perú,Paraguay,Ángel Romero,66.0,False,False
 2020-08-10,Paraguay,Perú,Paraguay,Ángel Romero,81.0,False,False
@@ -19928,10 +19928,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Bélgica,Inglaterra,Bélgica,Youri Tielemans,10.0,False,False
 ,Bélgica,Inglaterra,Bélgica,Dries Mertens,24.0,False,False
 ,Czech Republic,Israel,Czech Republic,Vladimír Darida,7.0,False,False
-,Países Bajos,Bosnia And Herzegovina,Países Bajos,Georginio Wijnaldum,6.0,False,False
-,Países Bajos,Bosnia And Herzegovina,Países Bajos,Georginio Wijnaldum,14.0,False,False
-,Países Bajos,Bosnia And Herzegovina,Países Bajos,Memphis Depay,55.0,False,False
-,Países Bajos,Bosnia And Herzegovina,Bosnia And Herzegovina,Smail Prevljak,63.0,False,False
+,Países Bajos,Bosnia y Herzegovina,Países Bajos,Georginio Wijnaldum,6.0,False,False
+,Países Bajos,Bosnia y Herzegovina,Países Bajos,Georginio Wijnaldum,14.0,False,False
+,Países Bajos,Bosnia y Herzegovina,Países Bajos,Memphis Depay,55.0,False,False
+,Países Bajos,Bosnia y Herzegovina,Bosnia y Herzegovina,Smail Prevljak,63.0,False,False
 ,Turquía,Russia,Turquía,Kenan Karaman,26.0,False,False
 ,Turquía,Russia,Turquía,Cengiz Ünder,32.0,False,False
 ,Turquía,Russia,Turquía,Cenk Tosun,52.0,False,False
@@ -19993,8 +19993,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Estonia,Czech Republic,Czech Republic,Tomá Sou?ek,43.0,False,False
 ,Estonia,Czech Republic,Czech Republic,Tomá Sou?ek,48.0,False,False
 ,Estonia,Czech Republic,Czech Republic,Jakub Jankto,56.0,False,False
-,Finland,Bosnia And Herzegovina,Bosnia And Herzegovina,Miralem Pjani?,55.0,False,False
-,Finland,Bosnia And Herzegovina,Bosnia And Herzegovina,Miroslav Stevanovi?,84.0,False,False
+,Finland,Bosnia y Herzegovina,Bosnia y Herzegovina,Miralem Pjani?,55.0,False,False
+,Finland,Bosnia y Herzegovina,Bosnia y Herzegovina,Miroslav Stevanovi?,84.0,False,False
 ,Francia,Ucrania,Francia,Antoine Griezmann,19.0,False,False
 ,Gibraltar,Noruega,Noruega,Alexander Sørloth,43.0,False,False
 ,Gibraltar,Noruega,Noruega,Kristian Thorstvedt,45.0,False,False
@@ -20120,7 +20120,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Turquía,Latvia,Turquía,Kenan Karaman,2.0,False,False
 ,Turquía,Latvia,Turquía,Hakan Çalhano?lu,33.0,False,False
 ,Turquía,Latvia,Turquía,Burak Y?lmaz,52.0,False,False
-,Bosnia And Herzegovina,Francia,Francia,Antoine Griezmann,60.0,False,False
+,Bosnia y Herzegovina,Francia,Francia,Antoine Griezmann,60.0,False,False
 ,Inglaterra,Polonia,Inglaterra,Harry Kane,19.0,False,False
 ,Inglaterra,Polonia,Inglaterra,Harry Maguire,85.0,False,False
 ,Alemania,North Macedonia,Alemania,?lkay Gündo?an,63.0,False,False
@@ -20480,8 +20480,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-01-08,Estados Unidos,México,Estados Unidos,Miles Robinson,117.0,False,False
 2021-01-09,Central African Republic,Cape Verde,Cape Verde,Júlio Tavares,36.0,False,False
 2021-01-09,Egipto,Angola,Egipto,Mohamed Magdy,5.0,False,False
-2021-01-09,Francia,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,36.0,False,False
-2021-01-09,Francia,Bosnia And Herzegovina,Francia,Antoine Griezmann,40.0,False,False
+2021-01-09,Francia,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,36.0,False,False
+2021-01-09,Francia,Bosnia y Herzegovina,Francia,Antoine Griezmann,40.0,False,False
 2021-01-09,Moldova,Austria,Austria,Christoph Baumgartner,45.0,False,False
 2021-01-09,Moldova,Austria,Austria,Marko Arnautovi?,90.0,False,False
 2021-01-09,Noruega,Países Bajos,Noruega,Erling Haaland,20.0,False,False
@@ -20593,8 +20593,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-07-09,Azerbaijan,Portugal,Portugal,Bernardo Silva,26.0,False,False
 2021-07-09,Azerbaijan,Portugal,Portugal,André Silva,31.0,False,False
 2021-07-09,Azerbaijan,Portugal,Portugal,Diogo Jota,75.0,False,False
-2021-07-09,Bosnia And Herzegovina,Kazakhstan,Bosnia And Herzegovina,Miralem Pjani?,74.0,False,False
-2021-07-09,Bosnia And Herzegovina,Kazakhstan,Bosnia And Herzegovina,Luka Menalo,86.0,False,False
+2021-07-09,Bosnia y Herzegovina,Kazakhstan,Bosnia y Herzegovina,Miralem Pjani?,74.0,False,False
+2021-07-09,Bosnia y Herzegovina,Kazakhstan,Bosnia y Herzegovina,Luka Menalo,86.0,False,False
 2021-07-09,Burkina Faso,Argelia,Argelia,Sofiane Feghouli,18.0,False,False
 2021-07-09,Cape Verde,Nigeria,Cape Verde,Dylan Tavares,19.0,False,False
 2021-07-09,China,Japón,Japón,Yuya Osako,40.0,False,False
@@ -20725,8 +20725,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-09-10,Ghana,Zimbabwe,Ghana,Mohammed Kudus,5.0,False,False
 2021-09-10,Ghana,Zimbabwe,Ghana,Thomas Partey,66.0,False,False
 2021-09-10,Ghana,Zimbabwe,Ghana,André Ayew,87.0,False,False
-2021-09-10,Kazakhstan,Bosnia And Herzegovina,Bosnia And Herzegovina,Smail Prevljak,25.0,False,False
-2021-09-10,Kazakhstan,Bosnia And Herzegovina,Bosnia And Herzegovina,Smail Prevljak,66.0,False,False
+2021-09-10,Kazakhstan,Bosnia y Herzegovina,Bosnia y Herzegovina,Smail Prevljak,25.0,False,False
+2021-09-10,Kazakhstan,Bosnia y Herzegovina,Bosnia y Herzegovina,Smail Prevljak,66.0,False,False
 2021-09-10,Marruecos,Guinea-Bissau,Marruecos,Ayoub El Kaabi,10.0,False,False
 2021-09-10,Marruecos,Guinea-Bissau,Marruecos,Aymen Barkok,20.0,False,False
 2021-09-10,Marruecos,Guinea-Bissau,Marruecos,Ayoub El Kaabi,70.0,False,False
@@ -20813,7 +20813,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-12-10,South Africa,Ethiopia,South Africa,Getaneh Kebede,11.0,False,False
 2021-12-10,Suecia,Greece,Suecia,Emil Forsberg,59.0,False,False
 2021-12-10,Suecia,Greece,Suecia,Alexander Isak,69.0,False,False
-2021-12-10,Ucrania,Bosnia And Herzegovina,Bosnia And Herzegovina,Anel Ahmedhodi?,77.0,False,False
+2021-12-10,Ucrania,Bosnia y Herzegovina,Bosnia y Herzegovina,Anel Ahmedhodi?,77.0,False,False
 2021-12-10,United Arab Emirates,Iraq,Iraq,Mohammed Al-Attas,74.0,False,False
 2021-12-10,United Arab Emirates,Iraq,Iraq,Aymen Hussein,89.0,False,False
 2021-12-10,Zimbabwe,Ghana,Ghana,Thomas Partey,31.0,False,False
@@ -20894,7 +20894,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Bélgica,Estonia,Bélgica,Christian Benteke,11.0,False,False
 ,Bélgica,Estonia,Bélgica,Yannick Carrasco,53.0,False,False
 ,Bélgica,Estonia,Bélgica,Thorgan Hazard,74.0,False,False
-,Bosnia And Herzegovina,Finland,Bosnia And Herzegovina,Luka Menalo,69.0,False,False
+,Bosnia y Herzegovina,Finland,Bosnia y Herzegovina,Luka Menalo,69.0,False,False
 ,Cape Verde,Central African Republic,Cape Verde,Júlio Tavares,51.0,False,False
 ,Cape Verde,Central African Republic,Cape Verde,Stopira,75.0,False,False
 ,Francia,Kazakhstan,Francia,Kylian Mbappé,6.0,False,False
@@ -21181,7 +21181,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-03-06,Croacia,Austria,Austria,Michael Gregoritsch,54.0,False,False
 2022-03-06,Croacia,Austria,Austria,Marcel Sabitzer,57.0,False,False
 2022-03-06,Francia,Dinamarca,Francia,Karim Benzema,51.0,False,False
-2022-04-06,Finland,Bosnia And Herzegovina,Bosnia And Herzegovina,Smail Prevljak,90.0,False,False
+2022-04-06,Finland,Bosnia y Herzegovina,Bosnia y Herzegovina,Smail Prevljak,90.0,False,False
 2022-04-06,Italia,Alemania,Alemania,Joshua Kimmich,73.0,False,False
 2022-04-06,Turquía,Faroe Islands,Turquía,Cengiz Ünder,37.0,False,False
 2022-04-06,Turquía,Faroe Islands,Turquía,Halil Dervi?o?lu,47.0,False,False
@@ -21201,7 +21201,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-06-06,Austria,Dinamarca,Austria,Xaver Schlager,67.0,False,False
 2022-06-06,Croacia,Francia,Francia,Adrien Rabiot,52.0,False,False
 2022-06-06,Croacia,Francia,Croacia,Andrej Kramari?,83.0,False,False
-2022-07-06,Bosnia And Herzegovina,Romania,Bosnia And Herzegovina,Smail Prevljak,68.0,False,False
+2022-07-06,Bosnia y Herzegovina,Romania,Bosnia y Herzegovina,Smail Prevljak,68.0,False,False
 2022-07-06,Alemania,Inglaterra,Alemania,Jonas Hofmann,50.0,False,False
 2022-07-06,Alemania,Inglaterra,Inglaterra,Harry Kane,88.0,False,False
 2022-07-06,Lithuania,Turquía,Turquía,Do?ukan Sinik,2.0,False,False
@@ -21231,7 +21231,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-11-06,Hungary,Alemania,Alemania,Jonas Hofmann,9.0,False,False
 2022-11-06,Luxembourg,Turquía,Turquía,Hakan Çalhano?lu,37.0,False,False
 2022-11-06,Luxembourg,Turquía,Turquía,Serdar Dursun,76.0,False,False
-2022-11-06,Montenegro,Bosnia And Herzegovina,Bosnia And Herzegovina,Luka Menalo,62.0,False,False
+2022-11-06,Montenegro,Bosnia y Herzegovina,Bosnia y Herzegovina,Luka Menalo,62.0,False,False
 2022-11-06,Países Bajos,Polonia,Países Bajos,Davy Klaassen,51.0,False,False
 2022-11-06,Países Bajos,Polonia,Países Bajos,Denzel Dumfries,54.0,False,False
 2022-11-06,Wales,Bélgica,Bélgica,Youri Tielemans,51.0,False,False
@@ -21248,9 +21248,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Armenia,Scotland,Scotland,Stuart Armstrong,45.0,False,False
 ,Armenia,Scotland,Scotland,John McGinn,50.0,False,False
 ,Armenia,Scotland,Scotland,Ché Adams,54.0,False,False
-,Bosnia And Herzegovina,Finland,Bosnia And Herzegovina,Miralem Pjani?,5.0,False,False
-,Bosnia And Herzegovina,Finland,Bosnia And Herzegovina,Edin Deko,29.0,False,False
-,Bosnia And Herzegovina,Finland,Bosnia And Herzegovina,Edin Deko,58.0,False,False
+,Bosnia y Herzegovina,Finland,Bosnia y Herzegovina,Miralem Pjani?,5.0,False,False
+,Bosnia y Herzegovina,Finland,Bosnia y Herzegovina,Edin Deko,29.0,False,False
+,Bosnia y Herzegovina,Finland,Bosnia y Herzegovina,Edin Deko,58.0,False,False
 ,Alemania,Italia,Alemania,Joshua Kimmich,10.0,False,False
 ,Alemania,Italia,Alemania,?lkay Gündo?an,45.0,False,False
 ,Alemania,Italia,Alemania,Thomas Müller,51.0,False,False
@@ -21276,7 +21276,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Turquía,Luxembourg,Turquía,Cengiz Ünder,16.0,False,False
 ,Turquía,Luxembourg,Turquía,Maxime Chanot,39.0,False,False
 ,Turquía,Luxembourg,Turquía,?smail Yüksek,87.0,False,False
-,Bosnia And Herzegovina,Montenegro,Bosnia And Herzegovina,Ermedin Demirovi?,45.0,False,False
+,Bosnia y Herzegovina,Montenegro,Bosnia y Herzegovina,Ermedin Demirovi?,45.0,False,False
 ,Czech Republic,Portugal,Portugal,Diogo Dalot,33.0,False,False
 ,Czech Republic,Portugal,Portugal,Bruno Fernandes,45.0,False,False
 ,Czech Republic,Portugal,Portugal,Diogo Dalot,52.0,False,False
@@ -21300,7 +21300,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Inglaterra,Alemania,Inglaterra,Mason Mount,75.0,False,False
 ,Inglaterra,Alemania,Inglaterra,Harry Kane,83.0,False,False
 ,Inglaterra,Alemania,Alemania,Kai Havertz,87.0,False,False
-,Romania,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,77.0,False,False
+,Romania,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,77.0,False,False
 ,Portugal,España,España,Álvaro Morata,88.0,False,False
 ,Suecia,Slovenia,Suecia,Emil Forsberg,42.0,False,False
 ,Suiza,Czech Republic,Suiza,Remo Freuler,29.0,False,False
@@ -21461,9 +21461,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Argentina,Francia,Francia,Kylian Mbappé,81.0,False,False
 ,Argentina,Francia,Argentina,Lionel Messi,109.0,False,False
 ,Argentina,Francia,Francia,Kylian Mbappé,118.0,False,False
-,Bosnia And Herzegovina,Iceland,Bosnia And Herzegovina,Rade Kruni?,14.0,False,False
-,Bosnia And Herzegovina,Iceland,Bosnia And Herzegovina,Rade Kruni?,40.0,False,False
-,Bosnia And Herzegovina,Iceland,Bosnia And Herzegovina,Amar Dedi?,63.0,False,False
+,Bosnia y Herzegovina,Iceland,Bosnia y Herzegovina,Rade Kruni?,14.0,False,False
+,Bosnia y Herzegovina,Iceland,Bosnia y Herzegovina,Rade Kruni?,40.0,False,False
+,Bosnia y Herzegovina,Iceland,Bosnia y Herzegovina,Amar Dedi?,63.0,False,False
 ,Italia,Inglaterra,Inglaterra,Declan Rice,13.0,False,False
 ,Italia,Inglaterra,Inglaterra,Harry Kane,44.0,False,False
 ,Portugal,Liechtenstein,Portugal,João Cancelo,8.0,False,False
@@ -21553,9 +21553,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Noruega,Scotland,Noruega,Erling Haaland,61.0,False,False
 ,Noruega,Scotland,Scotland,Lyndon Dykes,87.0,False,False
 ,Noruega,Scotland,Scotland,Kenny McLean,89.0,False,False
-,Portugal,Bosnia And Herzegovina,Portugal,Bernardo Silva,44.0,False,False
-,Portugal,Bosnia And Herzegovina,Portugal,Bruno Fernandes,77.0,False,False
-,Portugal,Bosnia And Herzegovina,Portugal,Bruno Fernandes,90.0,False,False
+,Portugal,Bosnia y Herzegovina,Portugal,Bernardo Silva,44.0,False,False
+,Portugal,Bosnia y Herzegovina,Portugal,Bruno Fernandes,77.0,False,False
+,Portugal,Bosnia y Herzegovina,Portugal,Bruno Fernandes,90.0,False,False
 ,Países Bajos,Italia,Países Bajos,Steven Bergwijn,68.0,False,False
 ,Países Bajos,Italia,Países Bajos,Georginio Wijnaldum,89.0,False,False
 ,Inglaterra,North Macedonia,Inglaterra,Harry Kane,29.0,False,False
@@ -21644,8 +21644,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-07-09,Países Bajos,Greece,Países Bajos,Marten de Roon,17.0,False,False
 2023-07-09,Países Bajos,Greece,Países Bajos,Cody Gakpo,31.0,False,False
 2023-07-09,Países Bajos,Greece,Países Bajos,Wout Weghorst,39.0,False,False
-2023-08-09,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Edin Deko,3.0,False,False
-2023-08-09,Bosnia And Herzegovina,Liechtenstein,Bosnia And Herzegovina,Simon Lüchinger,18.0,False,False
+2023-08-09,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Edin Deko,3.0,False,False
+2023-08-09,Bosnia y Herzegovina,Liechtenstein,Bosnia y Herzegovina,Simon Lüchinger,18.0,False,False
 2023-08-09,Brasil,Bolivia,Brasil,Rodrygo,24.0,False,False
 2023-08-09,Brasil,Bolivia,Brasil,Raphinha,47.0,False,False
 2023-08-09,Brasil,Bolivia,Brasil,Rodrygo,53.0,False,False
@@ -21739,8 +21739,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Austria,Bélgica,Bélgica,Romelu Lukaku,58.0,False,False
 ,Austria,Bélgica,Austria,Konrad Laimer,72.0,False,False
 ,Austria,Bélgica,Austria,Marcel Sabitzer,84.0,False,False
-,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Amar Rahmanovi?,13.0,False,False
-,Liechtenstein,Bosnia And Herzegovina,Bosnia And Herzegovina,Miroslav Stevanovi?,41.0,False,False
+,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Amar Rahmanovi?,13.0,False,False
+,Liechtenstein,Bosnia y Herzegovina,Bosnia y Herzegovina,Miroslav Stevanovi?,41.0,False,False
 ,Países Bajos,Francia,Francia,Kylian Mbappé,7.0,False,False
 ,Países Bajos,Francia,Francia,Kylian Mbappé,53.0,False,False
 ,Países Bajos,Francia,Países Bajos,Quilindschy Hartman,83.0,False,False
@@ -21760,11 +21760,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Azerbaijan,Austria,Austria,Marcel Sabitzer,48.0,False,False
 ,Bélgica,Suecia,Suecia,Viktor Gyökeres,15.0,False,False
 ,Bélgica,Suecia,Bélgica,Romelu Lukaku,31.0,False,False
-,Bosnia And Herzegovina,Portugal,Portugal,Cristiano Ronaldo,5.0,False,False
-,Bosnia And Herzegovina,Portugal,Portugal,Cristiano Ronaldo,20.0,False,False
-,Bosnia And Herzegovina,Portugal,Portugal,Bruno Fernandes,25.0,False,False
-,Bosnia And Herzegovina,Portugal,Portugal,João Cancelo,32.0,False,False
-,Bosnia And Herzegovina,Portugal,Portugal,João Félix,41.0,False,False
+,Bosnia y Herzegovina,Portugal,Portugal,Cristiano Ronaldo,5.0,False,False
+,Bosnia y Herzegovina,Portugal,Portugal,Cristiano Ronaldo,20.0,False,False
+,Bosnia y Herzegovina,Portugal,Portugal,Bruno Fernandes,25.0,False,False
+,Bosnia y Herzegovina,Portugal,Portugal,João Cancelo,32.0,False,False
+,Bosnia y Herzegovina,Portugal,Portugal,João Félix,41.0,False,False
 ,Greece,Países Bajos,Países Bajos,Virgil van Dijk,90.0,False,False
 ,Inglaterra,Italia,Inglaterra,Harry Kane,32.0,False,False
 ,Inglaterra,Italia,Inglaterra,Marcus Rashford,57.0,False,False
@@ -21821,7 +21821,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Japón,Myanmar,Japón,Ritsu D?an,86.0,False,False
 ,Liechtenstein,Portugal,Portugal,Cristiano Ronaldo,46.0,False,False
 ,Liechtenstein,Portugal,Portugal,João Cancelo,57.0,False,False
-,Luxembourg,Bosnia And Herzegovina,Bosnia And Herzegovina,Renato Gojkovi?,90.0,False,False
+,Luxembourg,Bosnia y Herzegovina,Bosnia y Herzegovina,Renato Gojkovi?,90.0,False,False
 ,Qatar,Afghanistan,Qatar,Hassan Al-Haydos,11.0,False,False
 ,Qatar,Afghanistan,Qatar,Almoez Ali,15.0,False,False
 ,Qatar,Afghanistan,Qatar,Mostafa Meshaal,18.0,False,False
@@ -21891,7 +21891,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Bélgica,Azerbaijan,Bélgica,Romelu Lukaku,30.0,False,False
 ,Bélgica,Azerbaijan,Bélgica,Romelu Lukaku,37.0,False,False
 ,Bélgica,Azerbaijan,Bélgica,Leandro Trossard,90.0,False,False
-,Bosnia And Herzegovina,Slovakia,Bosnia And Herzegovina,Patrik Hroovský,49.0,False,False
+,Bosnia y Herzegovina,Slovakia,Bosnia y Herzegovina,Patrik Hroovský,49.0,False,False
 ,Mozambique,Argelia,Argelia,Farès Chaïbi,69.0,False,False
 ,Mozambique,Argelia,Argelia,Ramiz Zerrouki,80.0,False,False
 ,Portugal,Iceland,Portugal,Bruno Fernandes,37.0,False,False
@@ -22109,7 +22109,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-11-02,Costa de Marfil,Nigeria,Costa de Marfil,Sébastien Haller,81.0,False,False
 ,Australia,Lebanon,Australia,Keanu Baccus,5.0,False,False
 ,Australia,Lebanon,Australia,Kye Rowles,54.0,False,False
-,Bosnia And Herzegovina,Ucrania,Bosnia And Herzegovina,Mykola Matviyenko,56.0,False,False
+,Bosnia y Herzegovina,Ucrania,Bosnia y Herzegovina,Mykola Matviyenko,56.0,False,False
 ,Hong Kong,Uzbekistán,Uzbekistán,Eldor Shomurodov,49.0,False,False
 ,Hong Kong,Uzbekistán,Uzbekistán,Rustam Ashurmatov,66.0,False,False
 ,Iran,Turkmenistan,Iran,Hossein Kanaanizadegan,10.0,False,False
@@ -22449,13 +22449,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-07-09,Alemania,Hungary,Alemania,Florian Wirtz,66.0,False,False
 2024-07-09,Alemania,Hungary,Alemania,Aleksandar Pavlovi?,77.0,False,False
 2024-07-09,Alemania,Hungary,Alemania,Kai Havertz,81.0,False,False
-2024-07-09,Países Bajos,Bosnia And Herzegovina,Países Bajos,Joshua Zirkzee,13.0,False,False
-2024-07-09,Países Bajos,Bosnia And Herzegovina,Bosnia And Herzegovina,Ermedin Demirovi?,27.0,False,False
-2024-07-09,Países Bajos,Bosnia And Herzegovina,Países Bajos,Tijjani Reijnders,45.0,False,False
-2024-07-09,Países Bajos,Bosnia And Herzegovina,Países Bajos,Cody Gakpo,56.0,False,False
-2024-07-09,Países Bajos,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,73.0,False,False
-2024-07-09,Países Bajos,Bosnia And Herzegovina,Países Bajos,Wout Weghorst,88.0,False,False
-2024-07-09,Países Bajos,Bosnia And Herzegovina,Países Bajos,Xavi Simons,90.0,False,False
+2024-07-09,Países Bajos,Bosnia y Herzegovina,Países Bajos,Joshua Zirkzee,13.0,False,False
+2024-07-09,Países Bajos,Bosnia y Herzegovina,Bosnia y Herzegovina,Ermedin Demirovi?,27.0,False,False
+2024-07-09,Países Bajos,Bosnia y Herzegovina,Países Bajos,Tijjani Reijnders,45.0,False,False
+2024-07-09,Países Bajos,Bosnia y Herzegovina,Países Bajos,Cody Gakpo,56.0,False,False
+2024-07-09,Países Bajos,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,73.0,False,False
+2024-07-09,Países Bajos,Bosnia y Herzegovina,Países Bajos,Wout Weghorst,88.0,False,False
+2024-07-09,Países Bajos,Bosnia y Herzegovina,Países Bajos,Xavi Simons,90.0,False,False
 2024-07-09,Republic Of Ireland,Inglaterra,Inglaterra,Declan Rice,11.0,False,False
 2024-07-09,Republic Of Ireland,Inglaterra,Inglaterra,Jack Grealish,26.0,False,False
 2024-08-09,Croacia,Polonia,Croacia,Luka Modri?,52.0,False,False
@@ -22539,9 +22539,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-10-10,Arabia Saudita,Japón,Japón,Daichi Kamada,14.0,False,False
 2024-10-10,Arabia Saudita,Japón,Japón,K?ki Ogawa,81.0,False,False
 2024-10-10,Venezuela,Argentina,Argentina,Nicolás Otamendi,13.0,False,False
-2024-11-10,Bosnia And Herzegovina,Alemania,Alemania,Deniz Undav,30.0,False,False
-2024-11-10,Bosnia And Herzegovina,Alemania,Alemania,Deniz Undav,36.0,False,False
-2024-11-10,Bosnia And Herzegovina,Alemania,Bosnia And Herzegovina,Edin Deko,70.0,False,False
+2024-11-10,Bosnia y Herzegovina,Alemania,Alemania,Deniz Undav,30.0,False,False
+2024-11-10,Bosnia y Herzegovina,Alemania,Alemania,Deniz Undav,36.0,False,False
+2024-11-10,Bosnia y Herzegovina,Alemania,Bosnia y Herzegovina,Edin Deko,70.0,False,False
 2024-11-10,Czech Republic,Albania,Czech Republic,Tomá Chorý,3.0,False,False
 2024-11-10,Czech Republic,Albania,Czech Republic,Tomá Chorý,63.0,False,False
 2024-11-10,Hungary,Países Bajos,Países Bajos,Denzel Dumfries,83.0,False,False
@@ -22674,13 +22674,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Uruguay,Colombia,Uruguay,Rodrigo Aguirre,60.0,False,False
 ,Uruguay,Colombia,Uruguay,Manuel Ugarte,90.0,False,False
 ,Uruguay,Colombia,Colombia,Andrés Gómez,90.0,False,False
-,Alemania,Bosnia And Herzegovina,Alemania,Jamal Musiala,2.0,False,False
-,Alemania,Bosnia And Herzegovina,Alemania,Tim Kleindienst,23.0,False,False
-,Alemania,Bosnia And Herzegovina,Alemania,Kai Havertz,37.0,False,False
-,Alemania,Bosnia And Herzegovina,Alemania,Florian Wirtz,50.0,False,False
-,Alemania,Bosnia And Herzegovina,Alemania,Florian Wirtz,57.0,False,False
-,Alemania,Bosnia And Herzegovina,Alemania,Leroy Sané,66.0,False,False
-,Alemania,Bosnia And Herzegovina,Alemania,Tim Kleindienst,79.0,False,False
+,Alemania,Bosnia y Herzegovina,Alemania,Jamal Musiala,2.0,False,False
+,Alemania,Bosnia y Herzegovina,Alemania,Tim Kleindienst,23.0,False,False
+,Alemania,Bosnia y Herzegovina,Alemania,Kai Havertz,37.0,False,False
+,Alemania,Bosnia y Herzegovina,Alemania,Florian Wirtz,50.0,False,False
+,Alemania,Bosnia y Herzegovina,Alemania,Florian Wirtz,57.0,False,False
+,Alemania,Bosnia y Herzegovina,Alemania,Leroy Sané,66.0,False,False
+,Alemania,Bosnia y Herzegovina,Alemania,Tim Kleindienst,79.0,False,False
 ,Países Bajos,Hungary,Países Bajos,Wout Weghorst,21.0,False,False
 ,Países Bajos,Hungary,Países Bajos,Cody Gakpo,45.0,False,False
 ,Países Bajos,Hungary,Países Bajos,Denzel Dumfries,64.0,False,False
@@ -22723,8 +22723,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Bahrain,Australia,Australia,Kusini Yengi,90.0,False,False
 ,Bolivia,Paraguay,Paraguay,Miguel Almirón,71.0,False,False
 ,Bolivia,Paraguay,Paraguay,Julio Enciso,90.0,False,False
-,Bosnia And Herzegovina,Países Bajos,Países Bajos,Brian Brobbey,24.0,False,False
-,Bosnia And Herzegovina,Países Bajos,Bosnia And Herzegovina,Ermedin Demirovi?,67.0,False,False
+,Bosnia y Herzegovina,Países Bajos,Países Bajos,Brian Brobbey,24.0,False,False
+,Bosnia y Herzegovina,Países Bajos,Bosnia y Herzegovina,Ermedin Demirovi?,67.0,False,False
 ,Brasil,Uruguay,Uruguay,Federico Valverde,55.0,False,False
 ,Brasil,Uruguay,Brasil,Gerson,62.0,False,False
 ,China,Japón,Japón,K?ki Ogawa,39.0,False,False
@@ -22815,7 +22815,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Nueva Zelanda,Fiji,Nueva Zelanda,Chris Wood,56.0,False,False
 ,Nueva Zelanda,Fiji,Nueva Zelanda,Chris Wood,60.0,False,False
 ,Nueva Zelanda,Fiji,Nueva Zelanda,Kosta Barbarouses,73.0,False,False
-,Romania,Bosnia And Herzegovina,Bosnia And Herzegovina,Armin Gigovi?,14.0,False,False
+,Romania,Bosnia y Herzegovina,Bosnia y Herzegovina,Armin Gigovi?,14.0,False,False
 ,Uruguay,Argentina,Argentina,Thiago Almada,68.0,False,False
 ,Czech Republic,Faroe Islands,Czech Republic,Patrik Schick,25.0,False,False
 ,Czech Republic,Faroe Islands,Czech Republic,Patrik Schick,85.0,False,False
@@ -22846,8 +22846,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,España,Países Bajos,Países Bajos,Ian Maatsen,79.0,False,False
 ,España,Países Bajos,España,Lamine Yamal,103.0,False,False
 ,España,Países Bajos,Países Bajos,Xavi Simons,109.0,False,False
-,Bosnia And Herzegovina,Cyprus,Bosnia And Herzegovina,Ermedin Demirovi?,22.0,False,False
-,Bosnia And Herzegovina,Cyprus,Bosnia And Herzegovina,Haris Hajradinovi?,56.0,False,False
+,Bosnia y Herzegovina,Cyprus,Bosnia y Herzegovina,Ermedin Demirovi?,22.0,False,False
+,Bosnia y Herzegovina,Cyprus,Bosnia y Herzegovina,Haris Hajradinovi?,56.0,False,False
 ,Inglaterra,Latvia,Inglaterra,Reece James,38.0,False,False
 ,Inglaterra,Latvia,Inglaterra,Harry Kane,68.0,False,False
 ,Inglaterra,Latvia,Inglaterra,Eberechi Eze,76.0,False,False
@@ -22954,7 +22954,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-07-06,Austria,Romania,Austria,Marcel Sabitzer,60.0,False,False
 2025-07-06,Belize,Panamá,Panamá,Fidel Escobar,10.0,False,False
 2025-07-06,Belize,Panamá,Panamá,Eduardo Guerrero,50.0,False,False
-2025-07-06,Bosnia And Herzegovina,San Marino,Bosnia And Herzegovina,Edin Deko,66.0,False,False
+2025-07-06,Bosnia y Herzegovina,San Marino,Bosnia y Herzegovina,Edin Deko,66.0,False,False
 2025-07-06,Finland,Países Bajos,Países Bajos,Memphis Depay,6.0,False,False
 2025-07-06,Finland,Países Bajos,Países Bajos,Denzel Dumfries,23.0,False,False
 2025-08-06,Alemania,Francia,Francia,Kylian Mbappé,45.0,False,False
@@ -23141,12 +23141,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-06-09,Austria,Cyprus,Austria,Marcel Sabitzer,54.0,False,False
 2025-06-09,Inglaterra,Andorra,Inglaterra,Christian García,25.0,False,False
 2025-06-09,Inglaterra,Andorra,Inglaterra,Declan Rice,67.0,False,False
-2025-06-09,San Marino,Bosnia And Herzegovina,Bosnia And Herzegovina,Benjamin Tahirovi?,21.0,False,False
-2025-06-09,San Marino,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,70.0,False,False
-2025-06-09,San Marino,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,72.0,False,False
-2025-06-09,San Marino,Bosnia And Herzegovina,Bosnia And Herzegovina,Samed Badar,81.0,False,False
-2025-06-09,San Marino,Bosnia And Herzegovina,Bosnia And Herzegovina,Kerim Alajbegovi?,85.0,False,False
-2025-06-09,San Marino,Bosnia And Herzegovina,Bosnia And Herzegovina,Nihad Mujaki?,90.0,False,False
+2025-06-09,San Marino,Bosnia y Herzegovina,Bosnia y Herzegovina,Benjamin Tahirovi?,21.0,False,False
+2025-06-09,San Marino,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,70.0,False,False
+2025-06-09,San Marino,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,72.0,False,False
+2025-06-09,San Marino,Bosnia y Herzegovina,Bosnia y Herzegovina,Samed Badar,81.0,False,False
+2025-06-09,San Marino,Bosnia y Herzegovina,Bosnia y Herzegovina,Kerim Alajbegovi?,85.0,False,False
+2025-06-09,San Marino,Bosnia y Herzegovina,Bosnia y Herzegovina,Nihad Mujaki?,90.0,False,False
 2025-07-09,Bélgica,Kazakhstan,Bélgica,Kevin De Bruyne,42.0,False,False
 2025-07-09,Bélgica,Kazakhstan,Bélgica,Jérémy Doku,44.0,False,False
 2025-07-09,Bélgica,Kazakhstan,Bélgica,Nicolas Raskin,51.0,False,False
@@ -23179,9 +23179,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-08-09,Suiza,Slovenia,Suiza,Dan Ndoye,38.0,False,False
 2025-08-09,Zambia,Marruecos,Marruecos,Youssef En-Nesyri,7.0,False,False
 2025-08-09,Zambia,Marruecos,Marruecos,Hamza Igamane,47.0,False,False
-2025-09-09,Bosnia And Herzegovina,Austria,Austria,Marcel Sabitzer,49.0,False,False
-2025-09-09,Bosnia And Herzegovina,Austria,Bosnia And Herzegovina,Edin Deko,50.0,False,False
-2025-09-09,Bosnia And Herzegovina,Austria,Austria,Konrad Laimer,65.0,False,False
+2025-09-09,Bosnia y Herzegovina,Austria,Austria,Marcel Sabitzer,49.0,False,False
+2025-09-09,Bosnia y Herzegovina,Austria,Bosnia y Herzegovina,Edin Deko,50.0,False,False
+2025-09-09,Bosnia y Herzegovina,Austria,Austria,Konrad Laimer,65.0,False,False
 2025-09-09,Cape Verde,Cameroon,Cape Verde,Dailon Livramento,54.0,False,False
 2025-09-09,Costa Rica,Haití,Haití,Duckens Nazon,55.0,False,False
 2025-09-09,Costa Rica,Haití,Haití,Duckens Nazon,58.0,False,False
@@ -23252,8 +23252,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-09-10,Austria,San Marino,Austria,Nikolaus Wurmbrand,76.0,False,False
 2025-09-10,Austria,San Marino,Austria,Marko Arnautovi?,83.0,False,False
 2025-09-10,Austria,San Marino,Austria,Marko Arnautovi?,84.0,False,False
-2025-09-10,Cyprus,Bosnia And Herzegovina,Bosnia And Herzegovina,Nikola Kati?,10.0,False,False
-2025-09-10,Cyprus,Bosnia And Herzegovina,Bosnia And Herzegovina,Neofytos Michail,36.0,False,False
+2025-09-10,Cyprus,Bosnia y Herzegovina,Bosnia y Herzegovina,Nikola Kati?,10.0,False,False
+2025-09-10,Cyprus,Bosnia y Herzegovina,Bosnia y Herzegovina,Neofytos Michail,36.0,False,False
 2025-09-10,Malta,Países Bajos,Países Bajos,Cody Gakpo,12.0,False,False
 2025-09-10,Malta,Países Bajos,Países Bajos,Cody Gakpo,49.0,False,False
 2025-09-10,Malta,Países Bajos,Países Bajos,Tijjani Reijnders,57.0,False,False
@@ -23397,9 +23397,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Luxembourg,Alemania,Alemania,Nick Woltemade,49.0,False,False
 ,Luxembourg,Alemania,Alemania,Nick Woltemade,69.0,False,False
 ,Polonia,Países Bajos,Países Bajos,Memphis Depay,47.0,False,False
-,Bosnia And Herzegovina,Romania,Bosnia And Herzegovina,Edin Deko,49.0,False,False
-,Bosnia And Herzegovina,Romania,Bosnia And Herzegovina,Esmir Bajraktarevi?,79.0,False,False
-,Bosnia And Herzegovina,Romania,Bosnia And Herzegovina,Haris Tabakovi?,90.0,False,False
+,Bosnia y Herzegovina,Romania,Bosnia y Herzegovina,Edin Deko,49.0,False,False
+,Bosnia y Herzegovina,Romania,Bosnia y Herzegovina,Esmir Bajraktarevi?,79.0,False,False
+,Bosnia y Herzegovina,Romania,Bosnia y Herzegovina,Haris Tabakovi?,90.0,False,False
 ,Cyprus,Austria,Austria,Marko Arnautovi?,18.0,False,False
 ,Cyprus,Austria,Austria,Marko Arnautovi?,55.0,False,False
 ,Georgia,España,España,Mikel Oyarzabal,11.0,False,False
@@ -23454,8 +23454,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Países Bajos,Lithuania,Países Bajos,Cody Gakpo,58.0,False,False
 ,Países Bajos,Lithuania,Países Bajos,Xavi Simons,60.0,False,False
 ,Países Bajos,Lithuania,Países Bajos,Donyell Malen,62.0,False,False
-,Austria,Bosnia And Herzegovina,Bosnia And Herzegovina,Haris Tabakovi?,12.0,False,False
-,Austria,Bosnia And Herzegovina,Austria,Michael Gregoritsch,77.0,False,False
+,Austria,Bosnia y Herzegovina,Bosnia y Herzegovina,Haris Tabakovi?,12.0,False,False
+,Austria,Bosnia y Herzegovina,Austria,Michael Gregoritsch,77.0,False,False
 ,Bélgica,Liechtenstein,Bélgica,Hans Vanaken,3.0,False,False
 ,Bélgica,Liechtenstein,Bélgica,Jérémy Doku,34.0,False,False
 ,Bélgica,Liechtenstein,Bélgica,Jérémy Doku,41.0,False,False
@@ -23552,8 +23552,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ucrania,Suecia,Suecia,Viktor Gyökeres,6.0,False,False
 ,Ucrania,Suecia,Suecia,Viktor Gyökeres,51.0,False,False
 ,Ucrania,Suecia,Suecia,Viktor Gyökeres,73.0,False,False
-,Wales,Bosnia And Herzegovina,Bosnia And Herzegovina,Edin Deko,86.0,False,False
-,Bosnia And Herzegovina,Italia,Bosnia And Herzegovina,Haris Tabakovi?,79.0,False,False
+,Wales,Bosnia y Herzegovina,Bosnia y Herzegovina,Edin Deko,86.0,False,False
+,Bosnia y Herzegovina,Italia,Bosnia y Herzegovina,Haris Tabakovi?,79.0,False,False
 ,Czech Republic,Dinamarca,Czech Republic,Pavel ulc,3.0,False,False
 ,Czech Republic,Dinamarca,Czech Republic,Ladislav Krej?í,100.0,False,False
 ,RD Congo,Jamaica,RD Congo,Axel Tuanzebe,100.0,False,False
@@ -23568,8 +23568,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2026-11-06,Corea del Sur,Czech Republic,Czech Republic,Ladislav Krej?í,59.0,False,False
 2026-11-06,Corea del Sur,Czech Republic,Corea del Sur,Hwang In-beom,67.0,False,False
 2026-11-06,Corea del Sur,Czech Republic,Corea del Sur,Oh Hyeon-gyu,80.0,False,False
-2026-12-06,Canadá,Bosnia And Herzegovina,Bosnia And Herzegovina,Jovo Luki?,21.0,False,False
-2026-12-06,Canadá,Bosnia And Herzegovina,Canadá,Cyle Larin,78.0,False,False
+2026-12-06,Canadá,Bosnia y Herzegovina,Bosnia y Herzegovina,Jovo Luki?,21.0,False,False
+2026-12-06,Canadá,Bosnia y Herzegovina,Canadá,Cyle Larin,78.0,False,False
 2026-12-06,Estados Unidos,Paraguay,Estados Unidos,Damián Bobadilla,7.0,False,False
 2026-12-06,Estados Unidos,Paraguay,Estados Unidos,Folarin Balogun,31.0,False,False
 2026-12-06,Estados Unidos,Paraguay,Estados Unidos,Folarin Balogun,45.0,False,False

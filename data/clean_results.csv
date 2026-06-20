@@ -12298,7 +12298,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1995-11-29,México,Colombia,2.0,2.0,Friendly
 1995-11-29,Trinidad And Tobago,Noruega,3.0,2.0,Friendly
 1995-11-29,Túnez,Burkina Faso,3.0,0.0,Friendly
-1995-11-30,Albania,Bosnia And Herzegovina,2.0,0.0,Friendly
+1995-11-30,Albania,Bosnia y Herzegovina,2.0,0.0,Friendly
 1995-11-30,Gabon,Argelia,2.0,1.0,Friendly
 1995-11-30,Costa de Marfil,Cameroon,2.0,1.0,Friendly
 1995-12-01,Guatemala,Panamá,1.0,0.0,UNCAF Cup
@@ -12409,11 +12409,11 @@ date,home_team,away_team,home_score,away_score,tournament
 1996-04-10,Croacia,Hungary,4.0,1.0,Friendly
 1996-04-21,Ethiopia,Ghana,2.0,0.0,Friendly
 1996-04-21,Gambia,Senegal,1.0,2.0,Friendly
-1996-04-21,Paraguay,Bosnia And Herzegovina,3.0,0.0,Friendly
+1996-04-21,Paraguay,Bosnia y Herzegovina,3.0,0.0,Friendly
 1996-04-21,Qatar,Kuwait,3.0,1.0,Friendly
 1996-04-24,Argentina,Bolivia,3.0,1.0,FIFA World Cup qualification
 1996-04-24,Bélgica,Russia,0.0,0.0,Friendly
-1996-04-24,Bosnia And Herzegovina,Albania,0.0,0.0,Friendly
+1996-04-24,Bosnia y Herzegovina,Albania,0.0,0.0,Friendly
 1996-04-24,Colombia,Paraguay,1.0,0.0,FIFA World Cup qualification
 1996-04-24,Czech Republic,Republic Of Ireland,2.0,0.0,Friendly
 1996-04-24,Dinamarca,Scotland,2.0,0.0,Friendly
@@ -12584,7 +12584,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1996-09-01,Argentina,Paraguay,1.0,1.0,FIFA World Cup qualification
 1996-09-01,Colombia,Chile,4.0,1.0,FIFA World Cup qualification
 1996-09-01,Ecuador,Venezuela,1.0,0.0,FIFA World Cup qualification
-1996-09-01,Greece,Bosnia And Herzegovina,3.0,0.0,FIFA World Cup qualification
+1996-09-01,Greece,Bosnia y Herzegovina,3.0,0.0,FIFA World Cup qualification
 1996-09-01,Latvia,Suecia,1.0,2.0,FIFA World Cup qualification
 1996-09-01,Moldova,Inglaterra,0.0,3.0,FIFA World Cup qualification
 1996-09-01,Noruega,Georgia,1.0,0.0,Friendly
@@ -12625,7 +12625,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1996-10-06,Ghana,Angola,2.0,1.0,African Cup of Nations qualification
 1996-10-06,Panamá,El Salvador,1.0,1.0,FIFA World Cup qualification
 1996-10-06,Túnez,Sierra Leone,2.0,0.0,African Cup of Nations qualification
-1996-10-08,Bosnia And Herzegovina,Croacia,1.0,4.0,FIFA World Cup qualification
+1996-10-08,Bosnia y Herzegovina,Croacia,1.0,4.0,FIFA World Cup qualification
 1996-10-08,Uruguay,Bolivia,1.0,0.0,FIFA World Cup qualification
 1996-10-09,Albania,Portugal,0.0,3.0,FIFA World Cup qualification
 1996-10-09,Armenia,Alemania,1.0,5.0,FIFA World Cup qualification
@@ -12663,7 +12663,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1996-11-01,Honduras,Colombia,1.0,2.0,Friendly
 1996-11-03,Canadá,El Salvador,1.0,0.0,FIFA World Cup qualification
 1996-11-03,Estados Unidos,Guatemala,2.0,0.0,FIFA World Cup qualification
-1996-11-06,Bosnia And Herzegovina,Italia,2.0,1.0,Friendly
+1996-11-06,Bosnia y Herzegovina,Italia,2.0,1.0,Friendly
 1996-11-06,México,Honduras,3.0,1.0,FIFA World Cup qualification
 1996-11-06,Arabia Saudita,Bulgaria,1.0,0.0,Friendly
 1996-11-07,Costa Rica,Panamá,2.0,0.0,Friendly
@@ -12685,7 +12685,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1996-11-10,Paraguay,Ecuador,1.0,0.0,FIFA World Cup qualification
 1996-11-10,Scotland,Suecia,1.0,0.0,FIFA World Cup qualification
 1996-11-10,Serbia,Czech Republic,1.0,0.0,FIFA World Cup qualification
-1996-11-10,Slovenia,Bosnia And Herzegovina,1.0,2.0,FIFA World Cup qualification
+1996-11-10,Slovenia,Bosnia y Herzegovina,1.0,2.0,FIFA World Cup qualification
 1996-11-10,Suiza,Noruega,0.0,1.0,FIFA World Cup qualification
 1996-11-10,Turquía,San Marino,7.0,0.0,FIFA World Cup qualification
 1996-11-10,Estados Unidos,Trinidad And Tobago,2.0,0.0,FIFA World Cup qualification
@@ -12739,7 +12739,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1996-12-15,Venezuela,Colombia,0.0,2.0,FIFA World Cup qualification
 1996-12-16,Corea del Sur,Iran,2.0,6.0,AFC Asian Cup
 1996-12-16,Arabia Saudita,China,4.0,3.0,AFC Asian Cup
-1996-12-18,Brasil,Bosnia And Herzegovina,1.0,0.0,Friendly
+1996-12-18,Brasil,Bosnia y Herzegovina,1.0,0.0,Friendly
 1996-12-18,Malta,España,0.0,3.0,FIFA World Cup qualification
 1996-12-19,Iran,Arabia Saudita,0.0,0.0,AFC Asian Cup
 1996-12-21,Guatemala,Estados Unidos,2.0,2.0,FIFA World Cup qualification
@@ -12801,19 +12801,19 @@ date,home_team,away_team,home_score,away_score,tournament
 1997-02-16,Thailand,Suecia,1.0,3.0,King's Cup
 1997-02-18,Kuwait,Egipto,2.0,0.0,Friendly
 1997-02-19,Greece,Portugal,0.0,0.0,Friendly
-1997-02-22,Bosnia And Herzegovina,Vietnam,4.0,0.0,Dunhill Cup
+1997-02-22,Bosnia y Herzegovina,Vietnam,4.0,0.0,Dunhill Cup
 1997-02-22,Hong Kong,Corea del Sur,0.0,2.0,FIFA World Cup qualification
 1997-02-23,Benin,Argelia,1.0,1.0,African Cup of Nations qualification
 1997-02-23,Ethiopia,Egipto,1.0,1.0,African Cup of Nations qualification
 1997-02-23,Mali,Costa de Marfil,1.0,2.0,African Cup of Nations qualification
 1997-02-23,Togo,RD Congo,1.0,1.0,African Cup of Nations qualification
-1997-02-24,Bosnia And Herzegovina,Zimbabwe,2.0,2.0,Dunhill Cup
-1997-02-26,Bosnia And Herzegovina,Indonesia,2.0,0.0,Dunhill Cup
+1997-02-24,Bosnia y Herzegovina,Zimbabwe,2.0,2.0,Dunhill Cup
+1997-02-26,Bosnia y Herzegovina,Indonesia,2.0,0.0,Dunhill Cup
 1997-02-26,Brasil,Polonia,4.0,2.0,Friendly
 1997-02-26,Francia,Países Bajos,2.0,1.0,Friendly
 1997-02-26,Israel,Alemania,0.0,1.0,Friendly
-1997-02-28,Malaysia,Bosnia And Herzegovina,0.0,1.0,Dunhill Cup
-1997-03-02,Bosnia And Herzegovina,China,0.0,3.0,Dunhill Cup
+1997-02-28,Malaysia,Bosnia y Herzegovina,0.0,1.0,Dunhill Cup
+1997-03-02,Bosnia y Herzegovina,China,0.0,3.0,Dunhill Cup
 1997-03-02,Jamaica,Estados Unidos,0.0,0.0,FIFA World Cup qualification
 1997-03-02,México,Canadá,4.0,0.0,FIFA World Cup qualification
 1997-03-02,Arabia Saudita,Syria,3.0,0.0,Friendly
@@ -12852,7 +12852,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1997-03-31,Arabia Saudita,Taiwan,6.0,0.0,FIFA World Cup qualification
 1997-04-02,Albania,Alemania,2.0,3.0,FIFA World Cup qualification
 1997-04-02,Bolivia,Argentina,2.0,1.0,FIFA World Cup qualification
-1997-04-02,Bosnia And Herzegovina,Greece,0.0,1.0,FIFA World Cup qualification
+1997-04-02,Bosnia y Herzegovina,Greece,0.0,1.0,FIFA World Cup qualification
 1997-04-02,Brasil,Chile,4.0,0.0,Friendly
 1997-04-02,Croacia,Slovenia,3.0,3.0,FIFA World Cup qualification
 1997-04-02,Czech Republic,Serbia,1.0,2.0,FIFA World Cup qualification
@@ -12951,7 +12951,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1997-06-08,Argentina,Perú,2.0,0.0,FIFA World Cup qualification
 1997-06-08,Belarus,Scotland,0.0,1.0,FIFA World Cup qualification
 1997-06-08,RD Congo,RD Congo,1.0,0.0,FIFA World Cup qualification
-1997-06-08,Dinamarca,Bosnia And Herzegovina,2.0,0.0,FIFA World Cup qualification
+1997-06-08,Dinamarca,Bosnia y Herzegovina,2.0,0.0,FIFA World Cup qualification
 1997-06-08,Ecuador,Chile,1.0,1.0,FIFA World Cup qualification
 1997-06-08,Egipto,Túnez,0.0,0.0,FIFA World Cup qualification
 1997-06-08,El Salvador,México,0.0,1.0,FIFA World Cup qualification
@@ -13059,7 +13059,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1997-08-17,Ghana,Sierra Leone,0.0,2.0,FIFA World Cup qualification
 1997-08-17,Túnez,Namibia,4.0,0.0,FIFA World Cup qualification
 1997-08-20,Belarus,Suecia,1.0,2.0,FIFA World Cup qualification
-1997-08-20,Bosnia And Herzegovina,Dinamarca,3.0,0.0,FIFA World Cup qualification
+1997-08-20,Bosnia y Herzegovina,Dinamarca,3.0,0.0,FIFA World Cup qualification
 1997-08-20,Colombia,Bolivia,3.0,0.0,FIFA World Cup qualification
 1997-08-20,Czech Republic,Faroe Islands,2.0,0.0,FIFA World Cup qualification
 1997-08-20,Ecuador,Paraguay,2.0,1.0,FIFA World Cup qualification
@@ -13079,7 +13079,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1997-09-02,United Arab Emirates,Iran,3.0,1.0,Friendly
 1997-09-06,Austria,Suecia,1.0,0.0,FIFA World Cup qualification
 1997-09-06,Azerbaijan,Noruega,0.0,1.0,FIFA World Cup qualification
-1997-09-06,Croacia,Bosnia And Herzegovina,3.0,2.0,FIFA World Cup qualification
+1997-09-06,Croacia,Bosnia y Herzegovina,3.0,2.0,FIFA World Cup qualification
 1997-09-06,El Salvador,Colombia,2.0,2.0,Friendly
 1997-09-06,Faroe Islands,Czech Republic,0.0,2.0,FIFA World Cup qualification
 1997-09-06,Alemania,Portugal,1.0,1.0,FIFA World Cup qualification
@@ -13091,7 +13091,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1997-09-07,Scotland,Belarus,4.0,1.0,FIFA World Cup qualification
 1997-09-07,Estados Unidos,Costa Rica,1.0,0.0,FIFA World Cup qualification
 1997-09-10,Belarus,Austria,0.0,1.0,FIFA World Cup qualification
-1997-09-10,Bosnia And Herzegovina,Slovenia,1.0,0.0,FIFA World Cup qualification
+1997-09-10,Bosnia y Herzegovina,Slovenia,1.0,0.0,FIFA World Cup qualification
 1997-09-10,Brasil,Ecuador,4.0,2.0,Friendly
 1997-09-10,Chile,Argentina,1.0,2.0,FIFA World Cup qualification
 1997-09-10,Colombia,Venezuela,1.0,0.0,FIFA World Cup qualification
@@ -13169,7 +13169,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1997-11-02,Costa de Marfil,Burkina Faso,0.0,0.0,Friendly
 1997-11-02,México,Estados Unidos,0.0,0.0,FIFA World Cup qualification
 1997-11-02,United Arab Emirates,Uzbekistán,0.0,0.0,FIFA World Cup qualification
-1997-11-05,Túnez,Bosnia And Herzegovina,2.0,1.0,Friendly
+1997-11-05,Túnez,Bosnia y Herzegovina,2.0,1.0,Friendly
 1997-11-06,Arabia Saudita,China,1.0,1.0,FIFA World Cup qualification
 1997-11-07,Qatar,Iran,2.0,0.0,FIFA World Cup qualification
 1997-11-08,Japón,Kazakhstan,5.0,1.0,FIFA World Cup qualification
@@ -13354,7 +13354,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1998-05-09,Estonia,México,0.0,6.0,Friendly
 1998-05-09,Arabia Saudita,Trinidad And Tobago,2.0,1.0,Friendly
 1998-05-13,Iceland,Arabia Saudita,1.0,1.0,Friendly
-1998-05-14,Argentina,Bosnia And Herzegovina,5.0,0.0,Friendly
+1998-05-14,Argentina,Bosnia y Herzegovina,5.0,0.0,Friendly
 1998-05-16,Corea del Sur,Jamaica,2.0,1.0,Friendly
 1998-05-16,Estados Unidos,North Macedonia,0.0,0.0,Friendly
 1998-05-17,Japón,Paraguay,1.0,1.0,Kirin Cup
@@ -13391,7 +13391,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1998-06-03,Andorra,Brasil,0.0,3.0,Friendly
 1998-06-03,Bélgica,Colombia,2.0,0.0,Friendly
 1998-06-03,Croacia,Iran,2.0,0.0,Friendly
-1998-06-03,North Macedonia,Bosnia And Herzegovina,1.0,1.0,Friendly
+1998-06-03,North Macedonia,Bosnia y Herzegovina,1.0,1.0,Friendly
 1998-06-03,Romania,Paraguay,3.0,2.0,Friendly
 1998-06-03,Arabia Saudita,México,0.0,0.0,Friendly
 1998-06-03,Serbia,Japón,1.0,0.0,Friendly
@@ -13488,7 +13488,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1998-08-16,Cape Verde,Mali,0.0,0.0,African Cup of Nations qualification
 1998-08-16,RD Congo,Chad,0.0,0.0,African Cup of Nations qualification
 1998-08-19,Austria,Francia,2.0,2.0,Friendly
-1998-08-19,Bosnia And Herzegovina,Faroe Islands,1.0,0.0,UEFA Euro qualification
+1998-08-19,Bosnia y Herzegovina,Faroe Islands,1.0,0.0,UEFA Euro qualification
 1998-08-19,Czech Republic,Dinamarca,1.0,0.0,Friendly
 1998-08-19,Noruega,Romania,0.0,0.0,Friendly
 1998-08-19,Portugal,Mozambique,2.0,1.0,Friendly
@@ -13499,7 +13499,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1998-09-02,Marruecos,Senegal,2.0,0.0,Friendly
 1998-09-02,Serbia,Suiza,1.0,1.0,Friendly
 1998-09-05,Austria,Israel,1.0,1.0,UEFA Euro qualification
-1998-09-05,Bosnia And Herzegovina,Estonia,1.0,1.0,UEFA Euro qualification
+1998-09-05,Bosnia y Herzegovina,Estonia,1.0,1.0,UEFA Euro qualification
 1998-09-05,Cyprus,España,3.0,2.0,UEFA Euro qualification
 1998-09-05,Alemania,Romania,1.0,1.0,Friendly
 1998-09-05,Iceland,Francia,1.0,1.0,UEFA Euro qualification
@@ -13539,7 +13539,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1998-10-04,Mali,Costa de Marfil,0.0,1.0,African Cup of Nations qualification
 1998-10-04,Túnez,Liberia,2.0,1.0,African Cup of Nations qualification
 1998-10-04,Zambia,RD Congo,1.0,1.0,African Cup of Nations qualification
-1998-10-10,Bosnia And Herzegovina,Czech Republic,1.0,3.0,UEFA Euro qualification
+1998-10-10,Bosnia y Herzegovina,Czech Republic,1.0,3.0,UEFA Euro qualification
 1998-10-10,Cyprus,Austria,0.0,3.0,UEFA Euro qualification
 1998-10-10,Inglaterra,Bulgaria,0.0,0.0,UEFA Euro qualification
 1998-10-10,Italia,Suiza,2.0,0.0,UEFA Euro qualification
@@ -13558,7 +13558,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1998-10-14,Czech Republic,Estonia,4.0,1.0,UEFA Euro qualification
 1998-10-14,Francia,Andorra,2.0,0.0,UEFA Euro qualification
 1998-10-14,Israel,España,1.0,2.0,UEFA Euro qualification
-1998-10-14,Lithuania,Bosnia And Herzegovina,4.0,2.0,UEFA Euro qualification
+1998-10-14,Lithuania,Bosnia y Herzegovina,4.0,2.0,UEFA Euro qualification
 1998-10-14,Luxembourg,Inglaterra,0.0,3.0,UEFA Euro qualification
 1998-10-14,Moldova,Alemania,1.0,3.0,UEFA Euro qualification
 1998-10-14,Noruega,Albania,2.0,2.0,UEFA Euro qualification
@@ -13642,7 +13642,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1999-01-24,RD Congo,Kenya,2.0,1.0,African Cup of Nations qualification
 1999-01-24,Guinea,Marruecos,1.0,1.0,African Cup of Nations qualification
 1999-01-24,Costa de Marfil,Namibia,3.0,0.0,African Cup of Nations qualification
-1999-01-27,Malta,Bosnia And Herzegovina,2.0,1.0,Friendly
+1999-01-27,Malta,Bosnia y Herzegovina,2.0,1.0,Friendly
 1999-01-28,Costa Rica,Ecuador,0.0,0.0,Friendly
 1999-02-03,Cyprus,Bélgica,0.0,1.0,Cyprus International Tournament
 1999-02-03,Venezuela,Argentina,0.0,2.0,Friendly
@@ -13675,7 +13675,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1999-03-05,Jamaica,Paraguay,1.0,3.0,Friendly
 1999-03-07,Bolivia,Paraguay,0.0,3.0,Friendly
 1999-03-10,Greece,Croacia,3.0,2.0,Friendly
-1999-03-10,Hungary,Bosnia And Herzegovina,1.0,1.0,Friendly
+1999-03-10,Hungary,Bosnia y Herzegovina,1.0,1.0,Friendly
 1999-03-10,Suiza,Austria,2.0,4.0,Friendly
 1999-03-11,México,Bolivia,2.0,1.0,USA Cup
 1999-03-11,Estados Unidos,Guatemala,3.0,1.0,USA Cup
@@ -13751,7 +13751,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1999-06-04,Ecuador,Guatemala,3.0,1.0,Friendly
 1999-06-04,Alemania,Moldova,6.0,1.0,UEFA Euro qualification
 1999-06-05,Albania,Noruega,1.0,2.0,UEFA Euro qualification
-1999-06-05,Bosnia And Herzegovina,Lithuania,2.0,0.0,UEFA Euro qualification
+1999-06-05,Bosnia y Herzegovina,Lithuania,2.0,0.0,UEFA Euro qualification
 1999-06-05,Brasil,Países Bajos,2.0,2.0,Friendly
 1999-06-05,Inglaterra,Suecia,0.0,0.0,UEFA Euro qualification
 1999-06-05,Estonia,Czech Republic,0.0,2.0,UEFA Euro qualification
@@ -13778,7 +13778,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1999-06-09,Andorra,Francia,0.0,1.0,UEFA Euro qualification
 1999-06-09,Bulgaria,Inglaterra,1.0,1.0,UEFA Euro qualification
 1999-06-09,Czech Republic,Scotland,3.0,2.0,UEFA Euro qualification
-1999-06-09,Faroe Islands,Bosnia And Herzegovina,2.0,2.0,UEFA Euro qualification
+1999-06-09,Faroe Islands,Bosnia y Herzegovina,2.0,2.0,UEFA Euro qualification
 1999-06-09,México,Argentina,2.0,2.0,Friendly
 1999-06-09,Portugal,Liechtenstein,8.0,0.0,UEFA Euro qualification
 1999-06-09,Suiza,Italia,0.0,0.0,UEFA Euro qualification
@@ -13876,7 +13876,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1999-08-18,Bélgica,Finland,3.0,4.0,Friendly
 1999-08-18,Czech Republic,Suiza,3.0,0.0,Friendly
 1999-08-18,Dinamarca,Países Bajos,0.0,0.0,Friendly
-1999-08-18,Liechtenstein,Bosnia And Herzegovina,0.0,0.0,Friendly
+1999-08-18,Liechtenstein,Bosnia y Herzegovina,0.0,0.0,Friendly
 1999-08-18,Northern Ireland,Francia,0.0,1.0,Friendly
 1999-08-18,Noruega,Lithuania,1.0,0.0,Friendly
 1999-08-18,Polonia,España,1.0,2.0,Friendly
@@ -13891,7 +13891,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1999-09-04,Argentina,Brasil,2.0,0.0,Friendly
 1999-09-04,Austria,España,1.0,3.0,UEFA Euro qualification
 1999-09-04,Azerbaijan,Portugal,1.0,1.0,UEFA Euro qualification
-1999-09-04,Bosnia And Herzegovina,Scotland,1.0,2.0,UEFA Euro qualification
+1999-09-04,Bosnia y Herzegovina,Scotland,1.0,2.0,UEFA Euro qualification
 1999-09-04,Croacia,Republic Of Ireland,1.0,0.0,UEFA Euro qualification
 1999-09-04,Dinamarca,Suiza,2.0,1.0,UEFA Euro qualification
 1999-09-04,Inglaterra,Luxembourg,6.0,0.0,UEFA Euro qualification
@@ -13905,7 +13905,7 @@ date,home_team,away_team,home_score,away_score,tournament
 1999-09-07,Bélgica,Marruecos,4.0,0.0,Friendly
 1999-09-07,Brasil,Argentina,4.0,2.0,Friendly
 1999-09-08,Armenia,Francia,2.0,3.0,UEFA Euro qualification
-1999-09-08,Czech Republic,Bosnia And Herzegovina,3.0,0.0,UEFA Euro qualification
+1999-09-08,Czech Republic,Bosnia y Herzegovina,3.0,0.0,UEFA Euro qualification
 1999-09-08,Estonia,Scotland,0.0,0.0,UEFA Euro qualification
 1999-09-08,Alemania,Northern Ireland,4.0,0.0,UEFA Euro qualification
 1999-09-08,Jamaica,Estados Unidos,2.0,2.0,Friendly
@@ -13924,14 +13924,14 @@ date,home_team,away_team,home_score,away_score,tournament
 1999-09-19,South Africa,Arabia Saudita,1.0,0.0,Friendly
 1999-09-28,Haití,Venezuela,3.0,2.0,Friendly
 1999-09-30,Arabia Saudita,South Africa,0.0,0.0,Friendly
-1999-10-05,Scotland,Bosnia And Herzegovina,1.0,0.0,UEFA Euro qualification
+1999-10-05,Scotland,Bosnia y Herzegovina,1.0,0.0,UEFA Euro qualification
 1999-10-06,Canadá,Cuba,0.0,0.0,Gold Cup qualification
 1999-10-06,El Salvador,Haití,1.0,1.0,Gold Cup qualification
 1999-10-08,Canadá,El Salvador,2.0,1.0,Gold Cup qualification
 1999-10-08,Cuba,Haití,0.0,1.0,Gold Cup qualification
 1999-10-09,Croacia,Serbia,2.0,2.0,UEFA Euro qualification
 1999-10-09,Czech Republic,Faroe Islands,2.0,0.0,UEFA Euro qualification
-1999-10-09,Estonia,Bosnia And Herzegovina,1.0,4.0,UEFA Euro qualification
+1999-10-09,Estonia,Bosnia y Herzegovina,1.0,4.0,UEFA Euro qualification
 1999-10-09,Francia,Iceland,3.0,2.0,UEFA Euro qualification
 1999-10-09,Alemania,Turquía,0.0,0.0,UEFA Euro qualification
 1999-10-09,Latvia,Noruega,1.0,2.0,UEFA Euro qualification
@@ -14019,7 +14019,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2000-01-23,South Africa,Gabon,3.0,1.0,African Cup of Nations
 2000-01-24,RD Congo,Argelia,0.0,0.0,African Cup of Nations
 2000-01-24,Costa de Marfil,Togo,1.0,1.0,African Cup of Nations
-2000-01-24,Qatar,Bosnia And Herzegovina,2.0,0.0,Friendly
+2000-01-24,Qatar,Bosnia y Herzegovina,2.0,0.0,Friendly
 2000-01-25,Burkina Faso,Senegal,1.0,3.0,African Cup of Nations
 2000-01-25,Marruecos,RD Congo,1.0,0.0,African Cup of Nations
 2000-01-26,Guatemala,Panamá,1.0,1.0,Friendly
@@ -14097,11 +14097,11 @@ date,home_team,away_team,home_score,away_score,tournament
 2000-03-08,Jordania,Lebanon,1.0,1.0,Friendly
 2000-03-10,Qatar,Sudan,3.0,0.0,Friendly
 2000-03-11,Haití,Dominica,4.0,0.0,FIFA World Cup qualification
-2000-03-11,Jordania,Bosnia And Herzegovina,0.0,0.0,Friendly
+2000-03-11,Jordania,Bosnia y Herzegovina,0.0,0.0,Friendly
 2000-03-12,Estados Unidos,Túnez,1.0,1.0,Friendly
 2000-03-13,Jordania,Syria,0.0,0.0,Friendly
 2000-03-15,Japón,China,0.0,0.0,Friendly
-2000-03-15,Jordania,Bosnia And Herzegovina,1.0,2.0,Friendly
+2000-03-15,Jordania,Bosnia y Herzegovina,1.0,2.0,Friendly
 2000-03-17,Jordania,Syria,0.0,0.0,Friendly
 2000-03-18,Curaçao,Trinidad And Tobago,1.0,1.0,FIFA World Cup qualification
 2000-03-19,Dominica,Haití,1.0,3.0,FIFA World Cup qualification
@@ -14114,7 +14114,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2000-03-29,Argentina,Chile,4.0,1.0,FIFA World Cup qualification
 2000-03-29,Austria,Suecia,1.0,1.0,Friendly
 2000-03-29,Bélgica,Países Bajos,2.0,2.0,Friendly
-2000-03-29,Bosnia And Herzegovina,North Macedonia,1.0,0.0,Friendly
+2000-03-29,Bosnia y Herzegovina,North Macedonia,1.0,0.0,Friendly
 2000-03-29,Croacia,Alemania,1.0,1.0,Friendly
 2000-03-29,Czech Republic,Australia,3.0,1.0,Friendly
 2000-03-29,Ecuador,Venezuela,2.0,0.0,FIFA World Cup qualification
@@ -14362,7 +14362,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2000-08-15,Colombia,Uruguay,1.0,0.0,FIFA World Cup qualification
 2000-08-15,México,Canadá,2.0,0.0,FIFA World Cup qualification
 2000-08-16,Argentina,Paraguay,1.0,1.0,FIFA World Cup qualification
-2000-08-16,Bosnia And Herzegovina,Turquía,2.0,0.0,Friendly
+2000-08-16,Bosnia y Herzegovina,Turquía,2.0,0.0,Friendly
 2000-08-16,Bulgaria,Bélgica,1.0,3.0,Friendly
 2000-08-16,Czech Republic,Slovenia,0.0,1.0,Friendly
 2000-08-16,Ecuador,Bolivia,2.0,0.0,FIFA World Cup qualification
@@ -14387,7 +14387,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2000-09-01,Indonesia,Iraq,0.0,0.0,Friendly
 2000-09-02,Azerbaijan,Suecia,0.0,1.0,FIFA World Cup qualification
 2000-09-02,Bélgica,Croacia,0.0,0.0,FIFA World Cup qualification
-2000-09-02,Bosnia And Herzegovina,España,1.0,2.0,FIFA World Cup qualification
+2000-09-02,Bosnia y Herzegovina,España,1.0,2.0,FIFA World Cup qualification
 2000-09-02,Bulgaria,Czech Republic,0.0,1.0,FIFA World Cup qualification
 2000-09-02,Chile,Colombia,0.0,1.0,FIFA World Cup qualification
 2000-09-02,Egipto,Costa de Marfil,1.0,0.0,African Cup of Nations qualification
@@ -14465,7 +14465,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2000-10-11,Azerbaijan,Turquía,0.0,1.0,FIFA World Cup qualification
 2000-10-11,Croacia,Scotland,1.0,1.0,FIFA World Cup qualification
 2000-10-11,Finland,Inglaterra,0.0,0.0,FIFA World Cup qualification
-2000-10-11,Israel,Bosnia And Herzegovina,3.0,1.0,FIFA World Cup qualification
+2000-10-11,Israel,Bosnia y Herzegovina,3.0,1.0,FIFA World Cup qualification
 2000-10-11,Malta,Czech Republic,0.0,0.0,FIFA World Cup qualification
 2000-10-11,Países Bajos,Portugal,0.0,2.0,FIFA World Cup qualification
 2000-10-11,Noruega,Ucrania,0.0,1.0,FIFA World Cup qualification
@@ -14527,7 +14527,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2001-01-09,Egipto,Zambia,3.0,1.0,Friendly
 2001-01-11,Romania,Jordania,0.0,1.0,Millennium Cup
 2001-01-12,Argelia,Burundi,2.0,1.0,African Cup of Nations qualification
-2001-01-12,Bosnia And Herzegovina,Bangladesh,2.0,0.0,Millennium Cup
+2001-01-12,Bosnia y Herzegovina,Bangladesh,2.0,0.0,Millennium Cup
 2001-01-12,Qatar,Kuwait,1.0,0.0,Friendly
 2001-01-12,Uzbekistán,Bahrain,5.0,0.0,Millennium Cup
 2001-01-13,Mauritius,South Africa,1.0,1.0,African Cup of Nations qualification
@@ -14536,19 +14536,19 @@ date,home_team,away_team,home_score,away_score,tournament
 2001-01-14,RD Congo,Ghana,2.0,1.0,African Cup of Nations qualification
 2001-01-14,Egipto,Libya,4.0,0.0,African Cup of Nations qualification
 2001-01-14,Liberia,RD Congo,5.0,1.0,African Cup of Nations qualification
-2001-01-14,Serbia,Bosnia And Herzegovina,1.0,1.0,Millennium Cup
+2001-01-14,Serbia,Bosnia y Herzegovina,1.0,1.0,Millennium Cup
 2001-01-16,Hong Kong,Jordania,0.0,2.0,Millennium Cup
 2001-01-17,Chile,Uzbekistán,2.0,0.0,Millennium Cup
 2001-01-17,China,Egipto,0.0,0.0,Cup of Ancient Civilizations
 2001-01-17,Israel,Uzbekistán,2.0,0.0,Friendly
 2001-01-19,Iran,China,4.0,0.0,Cup of Ancient Civilizations
 2001-01-20,Costa de Marfil,Sudan,2.0,0.0,African Cup of Nations qualification
-2001-01-22,Bosnia And Herzegovina,Chile,1.0,0.0,Millennium Cup
+2001-01-22,Bosnia y Herzegovina,Chile,1.0,0.0,Millennium Cup
 2001-01-23,Egipto,North Korea,1.0,0.0,Friendly
 2001-01-23,Serbia,Japón,1.0,0.0,Millennium Cup
 2001-01-24,Corea del Sur,Noruega,2.0,3.0,Lunar New Year Cup
 2001-01-24,México,Bulgaria,0.0,2.0,Friendly
-2001-01-25,Bosnia And Herzegovina,Serbia,0.0,2.0,Millennium Cup
+2001-01-25,Bosnia y Herzegovina,Serbia,0.0,2.0,Millennium Cup
 2001-01-26,Argelia,Namibia,1.0,0.0,FIFA World Cup qualification
 2001-01-27,Corea del Sur,Paraguay,1.0,1.0,Lunar New Year Cup
 2001-01-27,South Africa,Burkina Faso,1.0,0.0,FIFA World Cup qualification
@@ -14594,7 +14594,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2001-02-27,Argelia,Slovakia,1.0,1.0,Friendly
 2001-02-27,Francia,Alemania,1.0,0.0,Friendly
 2001-02-28,Bélgica,San Marino,10.0,1.0,FIFA World Cup qualification
-2001-02-28,Bosnia And Herzegovina,Hungary,1.0,1.0,Friendly
+2001-02-28,Bosnia y Herzegovina,Hungary,1.0,1.0,Friendly
 2001-02-28,Colombia,Australia,3.0,2.0,Friendly
 2001-02-28,Croacia,Austria,1.0,0.0,Friendly
 2001-02-28,Inglaterra,España,3.0,0.0,Friendly
@@ -14624,7 +14624,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2001-03-23,Libya,Egipto,2.0,0.0,African Cup of Nations qualification
 2001-03-23,Qatar,Palestine,2.0,1.0,FIFA World Cup qualification
 2001-03-24,Andorra,Países Bajos,0.0,5.0,FIFA World Cup qualification
-2001-03-24,Bosnia And Herzegovina,Austria,1.0,1.0,FIFA World Cup qualification
+2001-03-24,Bosnia y Herzegovina,Austria,1.0,1.0,FIFA World Cup qualification
 2001-03-24,Croacia,Latvia,4.0,1.0,FIFA World Cup qualification
 2001-03-24,Inglaterra,Finland,2.0,1.0,FIFA World Cup qualification
 2001-03-24,Francia,Japón,5.0,0.0,Friendly
@@ -14654,7 +14654,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2001-03-28,Ecuador,Brasil,1.0,0.0,FIFA World Cup qualification
 2001-03-28,Greece,Alemania,2.0,4.0,FIFA World Cup qualification
 2001-03-28,Honduras,Estados Unidos,1.0,2.0,FIFA World Cup qualification
-2001-03-28,Liechtenstein,Bosnia And Herzegovina,0.0,3.0,FIFA World Cup qualification
+2001-03-28,Liechtenstein,Bosnia y Herzegovina,0.0,3.0,FIFA World Cup qualification
 2001-03-28,North Macedonia,Turquía,1.0,2.0,FIFA World Cup qualification
 2001-03-28,Moldova,Suecia,0.0,2.0,FIFA World Cup qualification
 2001-03-28,Portugal,Países Bajos,2.0,2.0,FIFA World Cup qualification
@@ -14760,7 +14760,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2001-06-02,Kenya,Marruecos,1.0,1.0,African Cup of Nations qualification
 2001-06-02,Paraguay,Chile,1.0,0.0,FIFA World Cup qualification
 2001-06-02,Perú,Ecuador,1.0,2.0,FIFA World Cup qualification
-2001-06-02,España,Bosnia And Herzegovina,4.0,1.0,FIFA World Cup qualification
+2001-06-02,España,Bosnia y Herzegovina,4.0,1.0,FIFA World Cup qualification
 2001-06-02,Suecia,Slovakia,2.0,0.0,FIFA World Cup qualification
 2001-06-02,Turquía,Azerbaijan,3.0,0.0,FIFA World Cup qualification
 2001-06-02,Ucrania,Noruega,0.0,0.0,FIFA World Cup qualification
@@ -14812,14 +14812,14 @@ date,home_team,away_team,home_score,away_score,tournament
 2001-06-20,Honduras,México,3.0,1.0,FIFA World Cup qualification
 2001-06-20,Nueva Zelanda,Australia,0.0,2.0,FIFA World Cup qualification
 2001-06-20,Estados Unidos,Trinidad And Tobago,2.0,0.0,FIFA World Cup qualification
-2001-06-21,Slovakia,Bosnia And Herzegovina,0.0,1.0,Merdeka Tournament
-2001-06-23,Bahrain,Bosnia And Herzegovina,0.0,1.0,Merdeka Tournament
+2001-06-21,Slovakia,Bosnia y Herzegovina,0.0,1.0,Merdeka Tournament
+2001-06-23,Bahrain,Bosnia y Herzegovina,0.0,1.0,Merdeka Tournament
 2001-06-24,Australia,Nueva Zelanda,4.0,1.0,FIFA World Cup qualification
-2001-06-25,Malaysia,Bosnia And Herzegovina,2.0,2.0,Merdeka Tournament
+2001-06-25,Malaysia,Bosnia y Herzegovina,2.0,2.0,Merdeka Tournament
 2001-06-26,India,Uzbekistán,1.0,2.0,Merdeka Tournament
 2001-06-28,Bahrain,Uzbekistán,0.0,2.0,Merdeka Tournament
 2001-06-28,Paraguay,Serbia,2.0,0.0,Kirin Cup
-2001-06-30,Bosnia And Herzegovina,Uzbekistán,1.0,2.0,Merdeka Tournament
+2001-06-30,Bosnia y Herzegovina,Uzbekistán,1.0,2.0,Merdeka Tournament
 2001-06-30,Marruecos,Egipto,1.0,0.0,FIFA World Cup qualification
 2001-06-30,Namibia,Argelia,0.0,4.0,FIFA World Cup qualification
 2001-07-01,Burkina Faso,South Africa,1.0,1.0,FIFA World Cup qualification
@@ -14857,7 +14857,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2001-07-21,Argelia,Egipto,1.0,1.0,FIFA World Cup qualification
 2001-07-21,Malawi,South Africa,1.0,0.0,COSAFA Cup
 2001-07-21,Namibia,Senegal,0.0,5.0,FIFA World Cup qualification
-2001-07-22,Bosnia And Herzegovina,Iran,2.0,2.0,Friendly
+2001-07-22,Bosnia y Herzegovina,Iran,2.0,2.0,Friendly
 2001-07-22,Chile,México,0.0,2.0,Copa América
 2001-07-22,Uruguay,Costa Rica,2.0,1.0,Copa América
 2001-07-23,Brasil,Honduras,0.0,2.0,Copa América
@@ -14882,11 +14882,11 @@ date,home_team,away_team,home_score,away_score,tournament
 2001-08-08,Iran,Oman,5.0,2.0,Friendly
 2001-08-08,United Arab Emirates,Arabia Saudita,0.0,1.0,Friendly
 2001-08-09,Brasil,Panamá,5.0,0.0,Friendly
-2001-08-10,Iran,Bosnia And Herzegovina,4.0,0.0,Friendly
+2001-08-10,Iran,Bosnia y Herzegovina,4.0,0.0,Friendly
 2001-08-10,Qatar,Bahrain,1.0,1.0,Friendly
 2001-08-14,Venezuela,Uruguay,2.0,0.0,FIFA World Cup qualification
 2001-08-15,Austria,Suiza,1.0,2.0,Friendly
-2001-08-15,Bosnia And Herzegovina,Malta,2.0,0.0,Friendly
+2001-08-15,Bosnia y Herzegovina,Malta,2.0,0.0,Friendly
 2001-08-15,Brasil,Paraguay,2.0,0.0,FIFA World Cup qualification
 2001-08-15,Czech Republic,Corea del Sur,5.0,0.0,Friendly
 2001-08-15,Ecuador,Argentina,0.0,2.0,FIFA World Cup qualification
@@ -14912,7 +14912,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2001-08-31,Arabia Saudita,Iraq,1.0,0.0,FIFA World Cup qualification
 2001-08-31,United Arab Emirates,Qatar,0.0,2.0,FIFA World Cup qualification
 2001-09-01,Andorra,Portugal,1.0,7.0,FIFA World Cup qualification
-2001-09-01,Bosnia And Herzegovina,Israel,0.0,0.0,FIFA World Cup qualification
+2001-09-01,Bosnia y Herzegovina,Israel,0.0,0.0,FIFA World Cup qualification
 2001-09-01,Chile,Francia,2.0,1.0,Friendly
 2001-09-01,Alemania,Inglaterra,1.0,5.0,FIFA World Cup qualification
 2001-09-01,Iceland,Czech Republic,3.0,1.0,FIFA World Cup qualification
@@ -14928,7 +14928,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2001-09-02,Jamaica,México,1.0,2.0,FIFA World Cup qualification
 2001-09-04,Perú,Uruguay,0.0,2.0,FIFA World Cup qualification
 2001-09-05,Argentina,Brasil,2.0,1.0,FIFA World Cup qualification
-2001-09-05,Austria,Bosnia And Herzegovina,2.0,0.0,FIFA World Cup qualification
+2001-09-05,Austria,Bosnia y Herzegovina,2.0,0.0,FIFA World Cup qualification
 2001-09-05,Bélgica,Scotland,2.0,0.0,FIFA World Cup qualification
 2001-09-05,Colombia,Ecuador,0.0,0.0,FIFA World Cup qualification
 2001-09-05,Costa Rica,Estados Unidos,2.0,0.0,FIFA World Cup qualification
@@ -14978,7 +14978,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2001-10-06,Portugal,Estonia,5.0,0.0,FIFA World Cup qualification
 2001-10-06,Russia,Suiza,4.0,0.0,FIFA World Cup qualification
 2001-10-06,Scotland,Latvia,2.0,1.0,FIFA World Cup qualification
-2001-10-07,Bosnia And Herzegovina,Liechtenstein,5.0,0.0,FIFA World Cup qualification
+2001-10-07,Bosnia y Herzegovina,Liechtenstein,5.0,0.0,FIFA World Cup qualification
 2001-10-07,Brasil,Chile,2.0,0.0,FIFA World Cup qualification
 2001-10-07,Costa Rica,México,0.0,0.0,FIFA World Cup qualification
 2001-10-07,Japón,Nigeria,2.0,2.0,Friendly
@@ -15158,7 +15158,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2002-03-26,Nigeria,Paraguay,1.0,1.0,Friendly
 2002-03-27,Argentina,Cameroon,2.0,2.0,Friendly
 2002-03-27,Austria,Slovakia,2.0,0.0,Friendly
-2002-03-27,Bosnia And Herzegovina,North Macedonia,4.0,4.0,Friendly
+2002-03-27,Bosnia y Herzegovina,North Macedonia,4.0,4.0,Friendly
 2002-03-27,Brasil,Serbia,1.0,0.0,Friendly
 2002-03-27,Bulgaria,Ecuador,0.0,3.0,Friendly
 2002-03-27,Croacia,Slovenia,0.0,0.0,Friendly
@@ -15177,7 +15177,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2002-03-30,Botswana,South Africa,0.0,0.0,COSAFA Cup
 2002-04-17,Austria,Cameroon,0.0,0.0,Friendly
 2002-04-17,Bélgica,Slovakia,1.0,1.0,Friendly
-2002-04-17,Croacia,Bosnia And Herzegovina,2.0,0.0,Friendly
+2002-04-17,Croacia,Bosnia y Herzegovina,2.0,0.0,Friendly
 2002-04-17,Ecuador,South Africa,0.0,0.0,Friendly
 2002-04-17,Inglaterra,Paraguay,4.0,0.0,Friendly
 2002-04-17,Francia,Russia,0.0,0.0,Friendly
@@ -15318,7 +15318,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2002-08-20,Argelia,RD Congo,1.0,1.0,Friendly
 2002-08-20,Egipto,Uganda,2.0,0.0,Friendly
 2002-08-21,Azerbaijan,Uzbekistán,2.0,0.0,Friendly
-2002-08-21,Bosnia And Herzegovina,Serbia,0.0,2.0,Friendly
+2002-08-21,Bosnia y Herzegovina,Serbia,0.0,2.0,Friendly
 2002-08-21,Brasil,Paraguay,0.0,1.0,Friendly
 2002-08-21,Bulgaria,Alemania,2.0,2.0,Friendly
 2002-08-21,Croacia,Wales,1.0,1.0,Friendly
@@ -15349,7 +15349,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2002-09-06,Mauritania,Cape Verde,0.0,2.0,African Cup of Nations qualification
 2002-09-07,Austria,Moldova,2.0,0.0,UEFA Euro qualification
 2002-09-07,Bélgica,Bulgaria,0.0,2.0,UEFA Euro qualification
-2002-09-07,Bosnia And Herzegovina,Romania,0.0,3.0,UEFA Euro qualification
+2002-09-07,Bosnia y Herzegovina,Romania,0.0,3.0,UEFA Euro qualification
 2002-09-07,Madagascar,Egipto,1.0,0.0,African Cup of Nations qualification
 2002-09-07,Croacia,Estonia,0.0,0.0,UEFA Euro qualification
 2002-09-07,Cyprus,Francia,1.0,2.0,UEFA Euro qualification
@@ -15381,7 +15381,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2002-10-03,Marruecos,Niger,6.0,1.0,Friendly
 2002-10-08,Ghana,Lesotho,2.0,1.0,Friendly
 2002-10-11,Argelia,Chad,4.0,1.0,African Cup of Nations qualification
-2002-10-11,Bosnia And Herzegovina,Alemania,1.0,1.0,Friendly
+2002-10-11,Bosnia y Herzegovina,Alemania,1.0,1.0,Friendly
 2002-10-12,Albania,Suiza,1.0,1.0,UEFA Euro qualification
 2002-10-12,Andorra,Bélgica,0.0,1.0,UEFA Euro qualification
 2002-10-12,Belarus,Austria,0.0,2.0,UEFA Euro qualification
@@ -15413,7 +15413,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2002-10-16,Republic Of Ireland,Suiza,1.0,2.0,UEFA Euro qualification
 2002-10-16,Japón,Jamaica,1.0,1.0,Friendly
 2002-10-16,Malta,Francia,0.0,4.0,UEFA Euro qualification
-2002-10-16,Noruega,Bosnia And Herzegovina,2.0,0.0,UEFA Euro qualification
+2002-10-16,Noruega,Bosnia y Herzegovina,2.0,0.0,UEFA Euro qualification
 2002-10-16,Polonia,Nueva Zelanda,2.0,0.0,Friendly
 2002-10-16,España,Paraguay,0.0,0.0,Friendly
 2002-10-16,Suecia,Portugal,2.0,3.0,Friendly
@@ -15496,7 +15496,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2003-02-12,España,Alemania,3.0,1.0,Friendly
 2003-02-12,Túnez,Suecia,1.0,0.0,Friendly
 2003-02-12,Turquía,Ucrania,0.0,0.0,Friendly
-2003-02-12,Wales,Bosnia And Herzegovina,2.0,2.0,Friendly
+2003-02-12,Wales,Bosnia y Herzegovina,2.0,2.0,Friendly
 2003-02-15,Benin,Ghana,1.0,0.0,Friendly
 2003-02-16,Panamá,Guatemala,2.0,0.0,UNCAF Cup
 2003-02-16,Qatar,Suecia,2.0,3.0,King's Cup
@@ -15524,7 +15524,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2003-03-28,Japón,Uruguay,2.0,2.0,Friendly
 2003-03-28,Saint Lucia,Haití,2.0,1.0,Gold Cup qualification
 2003-03-29,Angola,Argelia,1.0,1.0,Friendly
-2003-03-29,Bosnia And Herzegovina,Luxembourg,2.0,0.0,UEFA Euro qualification
+2003-03-29,Bosnia y Herzegovina,Luxembourg,2.0,0.0,UEFA Euro qualification
 2003-03-29,Cape Verde,Togo,2.0,1.0,African Cup of Nations qualification
 2003-03-29,Costa Rica,Paraguay,2.0,1.0,Friendly
 2003-03-29,Croacia,Bélgica,4.0,0.0,UEFA Euro qualification
@@ -15550,7 +15550,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2003-04-02,Belarus,Uzbekistán,2.0,2.0,Friendly
 2003-04-02,Croacia,Andorra,2.0,0.0,UEFA Euro qualification
 2003-04-02,Czech Republic,Austria,4.0,0.0,UEFA Euro qualification
-2003-04-02,Dinamarca,Bosnia And Herzegovina,0.0,2.0,UEFA Euro qualification
+2003-04-02,Dinamarca,Bosnia y Herzegovina,0.0,2.0,UEFA Euro qualification
 2003-04-02,Inglaterra,Turquía,2.0,0.0,UEFA Euro qualification
 2003-04-02,Georgia,Suiza,0.0,0.0,UEFA Euro qualification
 2003-04-02,Honduras,Paraguay,1.0,1.0,Friendly
@@ -15599,7 +15599,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2003-06-07,Bulgaria,Bélgica,2.0,2.0,UEFA Euro qualification
 2003-06-07,Dinamarca,Noruega,1.0,0.0,UEFA Euro qualification
 2003-06-07,Moldova,Austria,1.0,0.0,UEFA Euro qualification
-2003-06-07,Romania,Bosnia And Herzegovina,2.0,0.0,UEFA Euro qualification
+2003-06-07,Romania,Bosnia y Herzegovina,2.0,0.0,UEFA Euro qualification
 2003-06-07,San Marino,Suecia,0.0,6.0,UEFA Euro qualification
 2003-06-07,Scotland,Alemania,1.0,1.0,UEFA Euro qualification
 2003-06-07,Senegal,Gambia,3.0,1.0,African Cup of Nations qualification
@@ -15725,7 +15725,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2003-09-06,Andorra,Croacia,0.0,3.0,UEFA Euro qualification
 2003-09-06,Argentina,Chile,2.0,2.0,FIFA World Cup qualification
 2003-09-06,Belarus,Czech Republic,1.0,3.0,UEFA Euro qualification
-2003-09-06,Bosnia And Herzegovina,Noruega,1.0,0.0,UEFA Euro qualification
+2003-09-06,Bosnia y Herzegovina,Noruega,1.0,0.0,UEFA Euro qualification
 2003-09-06,Ecuador,Venezuela,2.0,0.0,FIFA World Cup qualification
 2003-09-06,Francia,Cyprus,5.0,0.0,UEFA Euro qualification
 2003-09-06,Iceland,Alemania,0.0,0.0,UEFA Euro qualification
@@ -15748,7 +15748,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2003-09-10,Inglaterra,Liechtenstein,2.0,0.0,UEFA Euro qualification
 2003-09-10,Alemania,Scotland,2.0,1.0,UEFA Euro qualification
 2003-09-10,Japón,Senegal,0.0,1.0,Friendly
-2003-09-10,Luxembourg,Bosnia And Herzegovina,0.0,1.0,UEFA Euro qualification
+2003-09-10,Luxembourg,Bosnia y Herzegovina,0.0,1.0,UEFA Euro qualification
 2003-09-10,Marruecos,Trinidad And Tobago,2.0,0.0,Friendly
 2003-09-10,Noruega,Portugal,0.0,1.0,Friendly
 2003-09-10,Paraguay,Uruguay,4.0,1.0,FIFA World Cup qualification
@@ -15781,7 +15781,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2003-10-11,Armenia,España,0.0,4.0,UEFA Euro qualification
 2003-10-11,Austria,Czech Republic,2.0,3.0,UEFA Euro qualification
 2003-10-11,Bélgica,Estonia,2.0,0.0,UEFA Euro qualification
-2003-10-11,Bosnia And Herzegovina,Dinamarca,1.0,1.0,UEFA Euro qualification
+2003-10-11,Bosnia y Herzegovina,Dinamarca,1.0,1.0,UEFA Euro qualification
 2003-10-11,Croacia,Bulgaria,1.0,0.0,UEFA Euro qualification
 2003-10-11,Finland,Canadá,3.0,2.0,Friendly
 2003-10-11,Francia,Israel,3.0,0.0,UEFA Euro qualification
@@ -15949,7 +15949,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2004-02-18,Japón,Oman,1.0,0.0,FIFA World Cup qualification
 2004-02-18,Jordania,Laos,5.0,0.0,FIFA World Cup qualification
 2004-02-18,Corea del Sur,Lebanon,2.0,0.0,FIFA World Cup qualification
-2004-02-18,North Macedonia,Bosnia And Herzegovina,1.0,0.0,Friendly
+2004-02-18,North Macedonia,Bosnia y Herzegovina,1.0,0.0,Friendly
 2004-02-18,México,Chile,1.0,1.0,Friendly
 2004-02-18,Marruecos,Suiza,2.0,1.0,Friendly
 2004-02-18,Países Bajos,Estados Unidos,1.0,0.0,Friendly
@@ -15979,7 +15979,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2004-03-31,Republic Of Ireland,Czech Republic,2.0,1.0,Friendly
 2004-03-31,Jordania,Qatar,1.0,0.0,FIFA World Cup qualification
 2004-03-31,Laos,Iran,0.0,7.0,FIFA World Cup qualification
-2004-03-31,Luxembourg,Bosnia And Herzegovina,1.0,2.0,Friendly
+2004-03-31,Luxembourg,Bosnia y Herzegovina,1.0,2.0,Friendly
 2004-03-31,Maldives,Corea del Sur,0.0,0.0,FIFA World Cup qualification
 2004-03-31,México,Costa Rica,2.0,0.0,Friendly
 2004-03-31,Marruecos,Angola,3.0,1.0,Friendly
@@ -16005,7 +16005,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2004-04-28,Argelia,China,0.0,1.0,Friendly
 2004-04-28,Austria,Luxembourg,4.0,1.0,Friendly
 2004-04-28,Bélgica,Turquía,2.0,3.0,Friendly
-2004-04-28,Bosnia And Herzegovina,Finland,1.0,0.0,Friendly
+2004-04-28,Bosnia y Herzegovina,Finland,1.0,0.0,Friendly
 2004-04-28,Czech Republic,Japón,0.0,1.0,Friendly
 2004-04-28,Dinamarca,Scotland,1.0,0.0,Friendly
 2004-04-28,El Salvador,Colombia,0.0,2.0,Friendly
@@ -16241,7 +16241,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2004-08-18,Czech Republic,Greece,0.0,0.0,Friendly
 2004-08-18,El Salvador,Panamá,2.0,1.0,FIFA World Cup qualification
 2004-08-18,Inglaterra,Ucrania,3.0,0.0,Friendly
-2004-08-18,Francia,Bosnia And Herzegovina,1.0,1.0,Friendly
+2004-08-18,Francia,Bosnia y Herzegovina,1.0,1.0,Friendly
 2004-08-18,Haití,Brasil,0.0,6.0,Friendly
 2004-08-18,Jamaica,Estados Unidos,1.0,1.0,FIFA World Cup qualification
 2004-08-18,Japón,Argentina,1.0,2.0,Friendly
@@ -16284,7 +16284,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2004-09-05,Togo,RD Congo,2.0,0.0,FIFA World Cup qualification
 2004-09-05,Uruguay,Ecuador,1.0,0.0,FIFA World Cup qualification
 2004-09-08,Austria,Azerbaijan,2.0,0.0,FIFA World Cup qualification
-2004-09-08,Bosnia And Herzegovina,España,1.0,1.0,FIFA World Cup qualification
+2004-09-08,Bosnia y Herzegovina,España,1.0,1.0,FIFA World Cup qualification
 2004-09-08,Costa Rica,Canadá,1.0,0.0,FIFA World Cup qualification
 2004-09-08,Faroe Islands,Francia,0.0,2.0,FIFA World Cup qualification
 2004-09-08,Alemania,Brasil,1.0,1.0,Friendly
@@ -16313,7 +16313,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2004-10-08,Thailand,Jordania,2.0,3.0,Friendly
 2004-10-09,Argentina,Uruguay,4.0,2.0,FIFA World Cup qualification
 2004-10-09,Austria,Polonia,1.0,3.0,FIFA World Cup qualification
-2004-10-09,Bosnia And Herzegovina,Serbia,0.0,0.0,FIFA World Cup qualification
+2004-10-09,Bosnia y Herzegovina,Serbia,0.0,0.0,FIFA World Cup qualification
 2004-10-09,Cape Verde,Burkina Faso,1.0,0.0,FIFA World Cup qualification
 2004-10-09,Colombia,Paraguay,1.0,1.0,FIFA World Cup qualification
 2004-10-09,Croacia,Bulgaria,2.0,2.0,FIFA World Cup qualification
@@ -16449,7 +16449,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2005-01-29,Arabia Saudita,Turkmenistan,1.0,0.0,Friendly
 2005-02-01,Trinidad And Tobago,Haití,1.0,0.0,Friendly
 2005-02-02,Hungary,Arabia Saudita,0.0,0.0,Friendly
-2005-02-02,Iran,Bosnia And Herzegovina,2.0,1.0,Friendly
+2005-02-02,Iran,Bosnia y Herzegovina,2.0,1.0,Friendly
 2005-02-02,Japón,Syria,3.0,0.0,Friendly
 2005-02-03,Trinidad And Tobago,Haití,2.0,1.0,Friendly
 2005-02-04,Corea del Sur,Egipto,0.0,1.0,Friendly
@@ -16503,7 +16503,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2005-03-25,Kuwait,Uzbekistán,2.0,1.0,FIFA World Cup qualification
 2005-03-25,Arabia Saudita,Corea del Sur,2.0,0.0,FIFA World Cup qualification
 2005-03-26,Australia,Iraq,2.0,1.0,Friendly
-2005-03-26,Bélgica,Bosnia And Herzegovina,4.0,1.0,FIFA World Cup qualification
+2005-03-26,Bélgica,Bosnia y Herzegovina,4.0,1.0,FIFA World Cup qualification
 2005-03-26,Bolivia,Argentina,1.0,2.0,FIFA World Cup qualification
 2005-03-26,Bulgaria,Suecia,0.0,3.0,FIFA World Cup qualification
 2005-03-26,Burkina Faso,Cape Verde,1.0,2.0,FIFA World Cup qualification
@@ -16538,7 +16538,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2005-03-30,Andorra,Czech Republic,0.0,4.0,FIFA World Cup qualification
 2005-03-30,Argentina,Colombia,1.0,0.0,FIFA World Cup qualification
 2005-03-30,Austria,Wales,1.0,0.0,FIFA World Cup qualification
-2005-03-30,Bosnia And Herzegovina,Lithuania,1.0,1.0,FIFA World Cup qualification
+2005-03-30,Bosnia y Herzegovina,Lithuania,1.0,1.0,FIFA World Cup qualification
 2005-03-30,Croacia,Malta,3.0,0.0,FIFA World Cup qualification
 2005-03-30,Inglaterra,Azerbaijan,2.0,0.0,FIFA World Cup qualification
 2005-03-30,Georgia,Turquía,2.0,5.0,FIFA World Cup qualification
@@ -16591,7 +16591,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2005-06-04,Northern Ireland,Alemania,1.0,4.0,Friendly
 2005-06-04,Noruega,Italia,0.0,0.0,FIFA World Cup qualification
 2005-06-04,Portugal,Slovakia,2.0,0.0,FIFA World Cup qualification
-2005-06-04,San Marino,Bosnia And Herzegovina,1.0,3.0,FIFA World Cup qualification
+2005-06-04,San Marino,Bosnia y Herzegovina,1.0,3.0,FIFA World Cup qualification
 2005-06-04,Scotland,Moldova,2.0,0.0,FIFA World Cup qualification
 2005-06-04,Serbia,Bélgica,0.0,0.0,FIFA World Cup qualification
 2005-06-04,España,Lithuania,1.0,0.0,FIFA World Cup qualification
@@ -16623,7 +16623,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2005-06-08,Panamá,Estados Unidos,0.0,3.0,FIFA World Cup qualification
 2005-06-08,Paraguay,Bolivia,4.0,1.0,FIFA World Cup qualification
 2005-06-08,Arabia Saudita,Uzbekistán,3.0,0.0,FIFA World Cup qualification
-2005-06-08,España,Bosnia And Herzegovina,1.0,1.0,FIFA World Cup qualification
+2005-06-08,España,Bosnia y Herzegovina,1.0,1.0,FIFA World Cup qualification
 2005-06-08,Suecia,Noruega,2.0,3.0,Friendly
 2005-06-09,Australia,Nueva Zelanda,1.0,0.0,Friendly
 2005-06-11,Ecuador,Italia,1.0,1.0,Friendly
@@ -16694,7 +16694,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2005-08-17,Croacia,Brasil,1.0,1.0,Friendly
 2005-08-17,Dinamarca,Inglaterra,4.0,1.0,Friendly
 2005-08-17,Ecuador,Venezuela,3.0,1.0,Friendly
-2005-08-17,Estonia,Bosnia And Herzegovina,1.0,0.0,Friendly
+2005-08-17,Estonia,Bosnia y Herzegovina,1.0,0.0,Friendly
 2005-08-17,Francia,Costa de Marfil,3.0,0.0,Friendly
 2005-08-17,Guatemala,Panamá,2.0,1.0,FIFA World Cup qualification
 2005-08-17,Hungary,Argentina,1.0,2.0,Friendly
@@ -16718,7 +16718,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2005-09-03,Armenia,Países Bajos,0.0,1.0,FIFA World Cup qualification
 2005-09-03,Australia,Solomon Islands,7.0,0.0,FIFA World Cup qualification
 2005-09-03,Bolivia,Ecuador,1.0,2.0,FIFA World Cup qualification
-2005-09-03,Bosnia And Herzegovina,Bélgica,1.0,0.0,FIFA World Cup qualification
+2005-09-03,Bosnia y Herzegovina,Bélgica,1.0,0.0,FIFA World Cup qualification
 2005-09-03,Burkina Faso,South Africa,3.0,1.0,FIFA World Cup qualification
 2005-09-03,Francia,Faroe Islands,3.0,0.0,FIFA World Cup qualification
 2005-09-03,Iceland,Croacia,1.0,3.0,FIFA World Cup qualification
@@ -16757,7 +16757,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2005-09-07,Hungary,Suecia,0.0,1.0,FIFA World Cup qualification
 2005-09-07,Republic Of Ireland,Francia,0.0,1.0,FIFA World Cup qualification
 2005-09-07,Japón,Honduras,5.0,4.0,Friendly
-2005-09-07,Lithuania,Bosnia And Herzegovina,0.0,1.0,FIFA World Cup qualification
+2005-09-07,Lithuania,Bosnia y Herzegovina,0.0,1.0,FIFA World Cup qualification
 2005-09-07,Malta,Croacia,1.0,1.0,FIFA World Cup qualification
 2005-09-07,México,Panamá,5.0,0.0,FIFA World Cup qualification
 2005-09-07,Países Bajos,Andorra,4.0,0.0,FIFA World Cup qualification
@@ -16769,7 +16769,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2005-09-25,Zambia,RD Congo,2.0,2.0,Friendly
 2005-09-27,RD Congo,Zambia,0.0,0.0,Friendly
 2005-10-08,Bélgica,España,0.0,2.0,FIFA World Cup qualification
-2005-10-08,Bosnia And Herzegovina,San Marino,3.0,0.0,FIFA World Cup qualification
+2005-10-08,Bosnia y Herzegovina,San Marino,3.0,0.0,FIFA World Cup qualification
 2005-10-08,Cameroon,Egipto,1.0,1.0,FIFA World Cup qualification
 2005-10-08,Cape Verde,Ghana,0.0,4.0,FIFA World Cup qualification
 2005-10-08,Colombia,Chile,1.0,1.0,FIFA World Cup qualification
@@ -16816,7 +16816,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2005-10-12,Paraguay,Colombia,0.0,1.0,FIFA World Cup qualification
 2005-10-12,Portugal,Latvia,3.0,0.0,FIFA World Cup qualification
 2005-10-12,San Marino,España,0.0,6.0,FIFA World Cup qualification
-2005-10-12,Serbia,Bosnia And Herzegovina,1.0,0.0,FIFA World Cup qualification
+2005-10-12,Serbia,Bosnia y Herzegovina,1.0,0.0,FIFA World Cup qualification
 2005-10-12,Slovenia,Scotland,0.0,3.0,FIFA World Cup qualification
 2005-10-12,Suecia,Iceland,3.0,1.0,FIFA World Cup qualification
 2005-10-12,Trinidad And Tobago,México,2.0,1.0,FIFA World Cup qualification
@@ -16950,7 +16950,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2006-02-22,Yemen,Arabia Saudita,0.0,4.0,AFC Asian Cup qualification
 2006-02-23,Nueva Zelanda,Malaysia,2.0,1.0,Friendly
 2006-02-28,Argelia,Burkina Faso,0.0,0.0,Friendly
-2006-02-28,Bosnia And Herzegovina,Japón,2.0,2.0,Friendly
+2006-02-28,Bosnia y Herzegovina,Japón,2.0,2.0,Friendly
 2006-03-01,Argentina,Croacia,2.0,3.0,Friendly
 2006-03-01,Austria,Canadá,0.0,2.0,Friendly
 2006-03-01,Inglaterra,Uruguay,2.0,1.0,Friendly
@@ -17007,7 +17007,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2006-05-25,Australia,Greece,1.0,0.0,Friendly
 2006-05-25,Suecia,Finland,0.0,0.0,Friendly
 2006-05-26,Czech Republic,Arabia Saudita,2.0,0.0,Friendly
-2006-05-26,Corea del Sur,Bosnia And Herzegovina,2.0,0.0,Friendly
+2006-05-26,Corea del Sur,Bosnia y Herzegovina,2.0,0.0,Friendly
 2006-05-26,Turquía,Ghana,1.0,1.0,Friendly
 2006-05-26,Estados Unidos,Venezuela,2.0,0.0,Friendly
 2006-05-27,Dinamarca,Paraguay,1.0,1.0,Friendly
@@ -17037,7 +17037,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2006-05-31,Estonia,Nueva Zelanda,1.0,1.0,Friendly
 2006-05-31,Francia,Dinamarca,2.0,0.0,Friendly
 2006-05-31,Georgia,Paraguay,0.0,1.0,Friendly
-2006-05-31,Iran,Bosnia And Herzegovina,5.0,2.0,Friendly
+2006-05-31,Iran,Bosnia y Herzegovina,5.0,2.0,Friendly
 2006-05-31,Arabia Saudita,Turquía,0.0,1.0,Friendly
 2006-05-31,Suiza,Italia,1.0,1.0,Friendly
 2006-06-01,Países Bajos,México,2.0,1.0,Friendly
@@ -17140,7 +17140,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2006-08-16,Austria,Hungary,1.0,2.0,Friendly
 2006-08-16,Bangladesh,Qatar,1.0,4.0,AFC Asian Cup qualification
 2006-08-16,Bélgica,Kazakhstan,0.0,0.0,UEFA Euro qualification
-2006-08-16,Bosnia And Herzegovina,Francia,1.0,2.0,Friendly
+2006-08-16,Bosnia y Herzegovina,Francia,1.0,2.0,Friendly
 2006-08-16,Chile,Colombia,1.0,2.0,Friendly
 2006-08-16,Czech Republic,Serbia,1.0,3.0,Friendly
 2006-08-16,Egipto,Uruguay,0.0,2.0,Friendly
@@ -17176,7 +17176,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2006-09-02,Corea del Sur,Iran,1.0,1.0,AFC Asian Cup qualification
 2006-09-02,Latvia,Suecia,0.0,1.0,UEFA Euro qualification
 2006-09-02,Luxembourg,Países Bajos,0.0,1.0,UEFA Euro qualification
-2006-09-02,Malta,Bosnia And Herzegovina,2.0,5.0,UEFA Euro qualification
+2006-09-02,Malta,Bosnia y Herzegovina,2.0,5.0,UEFA Euro qualification
 2006-09-02,Scotland,Faroe Islands,6.0,0.0,UEFA Euro qualification
 2006-09-02,Senegal,Mozambique,2.0,0.0,African Cup of Nations qualification
 2006-09-02,South Africa,RD Congo,0.0,0.0,African Cup of Nations qualification
@@ -17192,7 +17192,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2006-09-05,Wales,Brasil,0.0,2.0,Friendly
 2006-09-06,Armenia,Bélgica,0.0,1.0,UEFA Euro qualification
 2006-09-06,Austria,Venezuela,0.0,1.0,Friendly
-2006-09-06,Bosnia And Herzegovina,Hungary,1.0,3.0,UEFA Euro qualification
+2006-09-06,Bosnia y Herzegovina,Hungary,1.0,3.0,UEFA Euro qualification
 2006-09-06,Curaçao,Grenada,1.0,1.0,CFU Caribbean Cup qualification
 2006-09-06,Ecuador,Perú,1.0,1.0,Friendly
 2006-09-06,Finland,Portugal,1.0,1.0,UEFA Euro qualification
@@ -17240,7 +17240,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2006-10-07,Alemania,Georgia,2.0,0.0,Friendly
 2006-10-07,Greece,Noruega,1.0,0.0,UEFA Euro qualification
 2006-10-07,Hungary,Turquía,0.0,1.0,UEFA Euro qualification
-2006-10-07,Moldova,Bosnia And Herzegovina,2.0,2.0,UEFA Euro qualification
+2006-10-07,Moldova,Bosnia y Herzegovina,2.0,2.0,UEFA Euro qualification
 2006-10-07,Panamá,El Salvador,1.0,0.0,Friendly
 2006-10-07,Portugal,Azerbaijan,3.0,0.0,UEFA Euro qualification
 2006-10-07,Scotland,Francia,1.0,0.0,UEFA Euro qualification
@@ -17258,7 +17258,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2006-10-11,Austria,Suiza,2.0,1.0,Friendly
 2006-10-11,Bangladesh,Uzbekistán,0.0,4.0,AFC Asian Cup qualification
 2006-10-11,Bélgica,Azerbaijan,3.0,0.0,UEFA Euro qualification
-2006-10-11,Bosnia And Herzegovina,Greece,0.0,4.0,UEFA Euro qualification
+2006-10-11,Bosnia y Herzegovina,Greece,0.0,4.0,UEFA Euro qualification
 2006-10-11,Croacia,Inglaterra,2.0,0.0,UEFA Euro qualification
 2006-10-11,Francia,Faroe Islands,5.0,0.0,UEFA Euro qualification
 2006-10-11,Iceland,Suecia,1.0,2.0,UEFA Euro qualification
@@ -17382,7 +17382,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2007-03-24,Corea del Sur,Uruguay,0.0,2.0,Friendly
 2007-03-24,Lithuania,Francia,0.0,1.0,UEFA Euro qualification
 2007-03-24,Países Bajos,Romania,0.0,0.0,UEFA Euro qualification
-2007-03-24,Noruega,Bosnia And Herzegovina,1.0,2.0,UEFA Euro qualification
+2007-03-24,Noruega,Bosnia y Herzegovina,1.0,2.0,UEFA Euro qualification
 2007-03-24,Portugal,Bélgica,4.0,0.0,UEFA Euro qualification
 2007-03-24,Qatar,Iran,0.0,1.0,Friendly
 2007-03-24,Scotland,Georgia,2.0,1.0,UEFA Euro qualification
@@ -17437,7 +17437,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2007-06-02,Australia,Uruguay,1.0,2.0,Friendly
 2007-06-02,Austria,Paraguay,0.0,0.0,Friendly
 2007-06-02,Bélgica,Portugal,1.0,2.0,UEFA Euro qualification
-2007-06-02,Bosnia And Herzegovina,Turquía,3.0,2.0,UEFA Euro qualification
+2007-06-02,Bosnia y Herzegovina,Turquía,3.0,2.0,UEFA Euro qualification
 2007-06-02,Cape Verde,Argelia,2.0,2.0,African Cup of Nations qualification
 2007-06-02,Dinamarca,Suecia,0.0,3.0,UEFA Euro qualification
 2007-06-02,Estonia,Croacia,0.0,1.0,UEFA Euro qualification
@@ -17464,7 +17464,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2007-06-05,Kuwait,Portugal,1.0,1.0,Friendly
 2007-06-05,México,Paraguay,0.0,1.0,Friendly
 2007-06-05,Turquía,Brasil,0.0,0.0,Friendly
-2007-06-06,Bosnia And Herzegovina,Malta,1.0,0.0,UEFA Euro qualification
+2007-06-06,Bosnia y Herzegovina,Malta,1.0,0.0,UEFA Euro qualification
 2007-06-06,Costa Rica,Canadá,1.0,2.0,Gold Cup
 2007-06-06,Croacia,Russia,0.0,0.0,UEFA Euro qualification
 2007-06-06,Ecuador,Perú,2.0,0.0,Friendly
@@ -17585,7 +17585,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2007-08-22,Armenia,Portugal,1.0,1.0,UEFA Euro qualification
 2007-08-22,Austria,Czech Republic,1.0,1.0,Friendly
 2007-08-22,Bélgica,Serbia,3.0,2.0,UEFA Euro qualification
-2007-08-22,Bosnia And Herzegovina,Croacia,3.0,5.0,Friendly
+2007-08-22,Bosnia y Herzegovina,Croacia,3.0,5.0,Friendly
 2007-08-22,RD Congo,Angola,3.0,1.0,Friendly
 2007-08-22,Ecuador,Bolivia,1.0,0.0,Friendly
 2007-08-22,Inglaterra,Alemania,1.0,2.0,Friendly
@@ -17612,7 +17612,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2007-09-08,Ecuador,El Salvador,5.0,1.0,Friendly
 2007-09-08,Inglaterra,Israel,3.0,0.0,UEFA Euro qualification
 2007-09-08,Gabon,Costa de Marfil,0.0,0.0,African Cup of Nations qualification
-2007-09-08,Hungary,Bosnia And Herzegovina,1.0,0.0,UEFA Euro qualification
+2007-09-08,Hungary,Bosnia y Herzegovina,1.0,0.0,UEFA Euro qualification
 2007-09-08,Iceland,España,1.0,1.0,UEFA Euro qualification
 2007-09-08,Italia,Francia,0.0,0.0,UEFA Euro qualification
 2007-09-08,Malta,Turquía,2.0,2.0,UEFA Euro qualification
@@ -17641,7 +17641,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2007-09-11,Suiza,Japón,3.0,4.0,Friendly
 2007-09-12,Albania,Países Bajos,0.0,1.0,UEFA Euro qualification
 2007-09-12,Andorra,Croacia,0.0,6.0,UEFA Euro qualification
-2007-09-12,Bosnia And Herzegovina,Moldova,0.0,1.0,UEFA Euro qualification
+2007-09-12,Bosnia y Herzegovina,Moldova,0.0,1.0,UEFA Euro qualification
 2007-09-12,Canadá,Costa Rica,1.0,1.0,Friendly
 2007-09-12,Colombia,Paraguay,1.0,0.0,Friendly
 2007-09-12,Czech Republic,Republic Of Ireland,1.0,0.0,UEFA Euro qualification
@@ -17669,7 +17669,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2007-10-13,Egipto,Botswana,1.0,0.0,African Cup of Nations qualification
 2007-10-13,Inglaterra,Estonia,3.0,0.0,UEFA Euro qualification
 2007-10-13,Faroe Islands,Francia,0.0,6.0,UEFA Euro qualification
-2007-10-13,Greece,Bosnia And Herzegovina,3.0,2.0,UEFA Euro qualification
+2007-10-13,Greece,Bosnia y Herzegovina,3.0,2.0,UEFA Euro qualification
 2007-10-13,Republic Of Ireland,Alemania,0.0,0.0,UEFA Euro qualification
 2007-10-13,Liechtenstein,Suecia,0.0,3.0,UEFA Euro qualification
 2007-10-13,Moldova,Turquía,1.0,1.0,UEFA Euro qualification
@@ -17689,7 +17689,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2007-10-17,Austria,Costa de Marfil,3.0,2.0,Friendly
 2007-10-17,Bélgica,Armenia,3.0,0.0,UEFA Euro qualification
 2007-10-17,Bolivia,Colombia,0.0,0.0,FIFA World Cup qualification
-2007-10-17,Bosnia And Herzegovina,Noruega,0.0,2.0,UEFA Euro qualification
+2007-10-17,Bosnia y Herzegovina,Noruega,0.0,2.0,UEFA Euro qualification
 2007-10-17,Brasil,Ecuador,5.0,0.0,FIFA World Cup qualification
 2007-10-17,Costa Rica,Haití,1.0,1.0,Friendly
 2007-10-17,Fiji,Nueva Zelanda,0.0,2.0,Oceania Nations Cup
@@ -17765,7 +17765,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2007-11-21,Qatar,Costa de Marfil,1.0,6.0,Friendly
 2007-11-21,España,Northern Ireland,1.0,0.0,UEFA Euro qualification
 2007-11-21,Suecia,Latvia,2.0,1.0,UEFA Euro qualification
-2007-11-21,Turquía,Bosnia And Herzegovina,1.0,0.0,UEFA Euro qualification
+2007-11-21,Turquía,Bosnia y Herzegovina,1.0,0.0,UEFA Euro qualification
 2007-11-21,Ucrania,Francia,2.0,2.0,UEFA Euro qualification
 2007-11-21,Uzbekistán,Estonia,0.0,0.0,Friendly
 2007-12-03,Cape Verde,Gambia,0.0,0.0,Amílcar Cabral Cup
@@ -17810,7 +17810,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-01-29,Costa de Marfil,Mali,3.0,0.0,African Cup of Nations
 2008-01-30,Egipto,Zambia,1.0,1.0,African Cup of Nations
 2008-01-30,Iran,Costa Rica,0.0,0.0,Friendly
-2008-01-30,Japón,Bosnia And Herzegovina,3.0,0.0,Friendly
+2008-01-30,Japón,Bosnia y Herzegovina,3.0,0.0,Friendly
 2008-01-30,Corea del Sur,Chile,0.0,1.0,Friendly
 2008-01-30,Martinique,Canadá,0.0,1.0,Friendly
 2008-01-30,Arabia Saudita,Luxembourg,2.0,1.0,Friendly
@@ -17869,7 +17869,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-03-26,Bahrain,Japón,1.0,0.0,FIFA World Cup qualification
 2008-03-26,Belarus,Turquía,2.0,2.0,Friendly
 2008-03-26,Bélgica,Marruecos,1.0,4.0,Friendly
-2008-03-26,Bosnia And Herzegovina,North Macedonia,2.0,2.0,Friendly
+2008-03-26,Bosnia y Herzegovina,North Macedonia,2.0,2.0,Friendly
 2008-03-26,Brasil,Suecia,1.0,0.0,Friendly
 2008-03-26,China,Australia,0.0,0.0,FIFA World Cup qualification
 2008-03-26,Curaçao,Nicaragua,2.0,0.0,FIFA World Cup qualification
@@ -17942,7 +17942,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-05-31,Senegal,Argelia,1.0,0.0,FIFA World Cup qualification
 2008-05-31,España,Perú,2.0,1.0,Friendly
 2008-06-01,Australia,Iraq,1.0,0.0,FIFA World Cup qualification
-2008-06-01,Bosnia And Herzegovina,Azerbaijan,1.0,0.0,Friendly
+2008-06-01,Bosnia y Herzegovina,Azerbaijan,1.0,0.0,Friendly
 2008-06-01,Egipto,RD Congo,2.0,1.0,FIFA World Cup qualification
 2008-06-01,Ghana,Libya,3.0,0.0,FIFA World Cup qualification
 2008-06-01,Guatemala,Panamá,0.0,1.0,Friendly
@@ -18089,7 +18089,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-08-20,Argelia,United Arab Emirates,1.0,0.0,Friendly
 2008-08-20,Belarus,Argentina,0.0,0.0,Friendly
 2008-08-20,Bolivia,Panamá,1.0,0.0,Friendly
-2008-08-20,Bosnia And Herzegovina,Bulgaria,1.0,2.0,Friendly
+2008-08-20,Bosnia y Herzegovina,Bulgaria,1.0,2.0,Friendly
 2008-08-20,Canadá,Jamaica,1.0,1.0,FIFA World Cup qualification
 2008-08-20,Colombia,Ecuador,0.0,1.0,Friendly
 2008-08-20,RD Congo,Togo,2.0,1.0,Friendly
@@ -18149,7 +18149,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-09-06,Qatar,Uzbekistán,3.0,0.0,FIFA World Cup qualification
 2008-09-06,Arabia Saudita,Iran,1.0,1.0,FIFA World Cup qualification
 2008-09-06,South Africa,Nigeria,0.0,1.0,FIFA World Cup qualification
-2008-09-06,España,Bosnia And Herzegovina,1.0,0.0,FIFA World Cup qualification
+2008-09-06,España,Bosnia y Herzegovina,1.0,0.0,FIFA World Cup qualification
 2008-09-06,Canadá,Honduras,1.0,2.0,FIFA World Cup qualification
 2008-09-06,El Salvador,Haití,5.0,0.0,FIFA World Cup qualification
 2008-09-06,México,Jamaica,3.0,0.0,FIFA World Cup qualification
@@ -18159,7 +18159,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-09-07,Mozambique,Costa de Marfil,1.0,1.0,FIFA World Cup qualification
 2008-09-09,Paraguay,Venezuela,2.0,0.0,FIFA World Cup qualification
 2008-09-09,South Africa,Guinea,0.0,1.0,Friendly
-2008-09-10,Bosnia And Herzegovina,Estonia,7.0,0.0,FIFA World Cup qualification
+2008-09-10,Bosnia y Herzegovina,Estonia,7.0,0.0,FIFA World Cup qualification
 2008-09-10,Brasil,Bolivia,0.0,0.0,FIFA World Cup qualification
 2008-09-10,Chile,Colombia,4.0,0.0,FIFA World Cup qualification
 2008-09-10,Croacia,Inglaterra,1.0,4.0,FIFA World Cup qualification
@@ -18214,7 +18214,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-10-11,Suiza,Latvia,2.0,1.0,FIFA World Cup qualification
 2008-10-11,Tanzania,Cape Verde,3.0,1.0,FIFA World Cup qualification
 2008-10-11,Túnez,Seychelles,5.0,0.0,FIFA World Cup qualification
-2008-10-11,Turquía,Bosnia And Herzegovina,2.0,1.0,FIFA World Cup qualification
+2008-10-11,Turquía,Bosnia y Herzegovina,2.0,1.0,FIFA World Cup qualification
 2008-10-11,Ucrania,Croacia,0.0,0.0,FIFA World Cup qualification
 2008-10-11,Estados Unidos,Cuba,6.0,1.0,FIFA World Cup qualification
 2008-10-12,Ecuador,Chile,1.0,0.0,FIFA World Cup qualification
@@ -18226,7 +18226,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-10-15,Austria,Serbia,1.0,3.0,FIFA World Cup qualification
 2008-10-15,Belarus,Inglaterra,1.0,3.0,FIFA World Cup qualification
 2008-10-15,Bélgica,España,1.0,2.0,FIFA World Cup qualification
-2008-10-15,Bosnia And Herzegovina,Armenia,4.0,1.0,FIFA World Cup qualification
+2008-10-15,Bosnia y Herzegovina,Armenia,4.0,1.0,FIFA World Cup qualification
 2008-10-15,Brasil,Colombia,0.0,0.0,FIFA World Cup qualification
 2008-10-15,Canadá,México,2.0,2.0,FIFA World Cup qualification
 2008-10-15,Chile,Argentina,1.0,0.0,FIFA World Cup qualification
@@ -18275,7 +18275,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2008-11-19,San Marino,Czech Republic,0.0,3.0,FIFA World Cup qualification
 2008-11-19,Arabia Saudita,Corea del Sur,0.0,2.0,FIFA World Cup qualification
 2008-11-19,Scotland,Argentina,0.0,1.0,Friendly
-2008-11-19,Slovenia,Bosnia And Herzegovina,3.0,4.0,Friendly
+2008-11-19,Slovenia,Bosnia y Herzegovina,3.0,4.0,Friendly
 2008-11-19,South Africa,Cameroon,3.0,2.0,Friendly
 2008-11-19,España,Chile,3.0,0.0,Friendly
 2008-11-19,Suriname,Haití,1.0,1.0,FIFA World Cup qualification
@@ -18362,7 +18362,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2009-03-23,Kuwait,Iran,0.0,1.0,Friendly
 2009-03-25,Angola,Cape Verde,0.0,1.0,Friendly
 2009-03-28,Argentina,Venezuela,4.0,0.0,FIFA World Cup qualification
-2009-03-28,Bélgica,Bosnia And Herzegovina,2.0,4.0,FIFA World Cup qualification
+2009-03-28,Bélgica,Bosnia y Herzegovina,2.0,4.0,FIFA World Cup qualification
 2009-03-28,Cape Verde,Equatorial Guinea,5.0,0.0,Friendly
 2009-03-28,Colombia,Bolivia,2.0,0.0,FIFA World Cup qualification
 2009-03-28,El Salvador,Estados Unidos,2.0,2.0,FIFA World Cup qualification
@@ -18398,7 +18398,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2009-04-01,Australia,Uzbekistán,2.0,0.0,FIFA World Cup qualification
 2009-04-01,Austria,Romania,2.0,1.0,FIFA World Cup qualification
 2009-04-01,Bahrain,Qatar,1.0,0.0,FIFA World Cup qualification
-2009-04-01,Bosnia And Herzegovina,Bélgica,2.0,1.0,FIFA World Cup qualification
+2009-04-01,Bosnia y Herzegovina,Bélgica,2.0,1.0,FIFA World Cup qualification
 2009-04-01,Czech Republic,Slovakia,1.0,2.0,FIFA World Cup qualification
 2009-04-01,Inglaterra,Ucrania,2.0,1.0,FIFA World Cup qualification
 2009-04-01,Francia,Lithuania,1.0,0.0,FIFA World Cup qualification
@@ -18436,7 +18436,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2009-05-31,Japón,Bélgica,4.0,0.0,Kirin Cup
 2009-05-31,Qatar,Iraq,1.0,0.0,Friendly
 2009-06-01,China,Iran,1.0,0.0,Friendly
-2009-06-01,Uzbekistán,Bosnia And Herzegovina,0.0,0.0,Friendly
+2009-06-01,Uzbekistán,Bosnia y Herzegovina,0.0,0.0,Friendly
 2009-06-02,Francia,Nigeria,0.0,1.0,Friendly
 2009-06-02,Turquía,Azerbaijan,2.0,0.0,Friendly
 2009-06-02,United Arab Emirates,Alemania,2.0,7.0,Friendly
@@ -18474,7 +18474,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2009-06-07,Argelia,Egipto,3.0,1.0,FIFA World Cup qualification
 2009-06-07,Mali,Ghana,0.0,2.0,FIFA World Cup qualification
 2009-06-09,Azerbaijan,España,0.0,6.0,Friendly
-2009-06-09,Bosnia And Herzegovina,Oman,2.0,1.0,Friendly
+2009-06-09,Bosnia y Herzegovina,Oman,2.0,1.0,Friendly
 2009-06-09,Iraq,Polonia,1.0,1.0,Friendly
 2009-06-10,Australia,Bahrain,2.0,0.0,FIFA World Cup qualification
 2009-06-10,Brasil,Paraguay,2.0,1.0,FIFA World Cup qualification
@@ -18551,7 +18551,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2009-08-12,Austria,Cameroon,0.0,2.0,Friendly
 2009-08-12,Azerbaijan,Alemania,0.0,2.0,FIFA World Cup qualification
 2009-08-12,Belarus,Croacia,1.0,3.0,FIFA World Cup qualification
-2009-08-12,Bosnia And Herzegovina,Iran,2.0,3.0,Friendly
+2009-08-12,Bosnia y Herzegovina,Iran,2.0,3.0,Friendly
 2009-08-12,Colombia,Venezuela,1.0,2.0,Friendly
 2009-08-12,RD Congo,Senegal,1.0,2.0,Friendly
 2009-08-12,Czech Republic,Bélgica,3.0,1.0,Friendly
@@ -18580,7 +18580,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2009-09-04,Malta,Cape Verde,0.0,2.0,Friendly
 2009-09-05,Angola,Senegal,1.0,1.0,Friendly
 2009-09-05,Argentina,Brasil,1.0,3.0,FIFA World Cup qualification
-2009-09-05,Armenia,Bosnia And Herzegovina,0.0,2.0,FIFA World Cup qualification
+2009-09-05,Armenia,Bosnia y Herzegovina,0.0,2.0,FIFA World Cup qualification
 2009-09-05,Austria,Faroe Islands,3.0,1.0,FIFA World Cup qualification
 2009-09-05,Bahrain,Arabia Saudita,0.0,0.0,FIFA World Cup qualification
 2009-09-05,Colombia,Ecuador,2.0,0.0,FIFA World Cup qualification
@@ -18614,7 +18614,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2009-09-09,Angola,Cape Verde,1.0,1.0,Friendly
 2009-09-09,Armenia,Bélgica,2.0,1.0,FIFA World Cup qualification
 2009-09-09,Bolivia,Ecuador,1.0,3.0,FIFA World Cup qualification
-2009-09-09,Bosnia And Herzegovina,Turquía,1.0,1.0,FIFA World Cup qualification
+2009-09-09,Bosnia y Herzegovina,Turquía,1.0,1.0,FIFA World Cup qualification
 2009-09-09,Czech Republic,San Marino,7.0,0.0,FIFA World Cup qualification
 2009-09-09,Inglaterra,Croacia,5.0,1.0,FIFA World Cup qualification
 2009-09-09,Alemania,Azerbaijan,4.0,0.0,FIFA World Cup qualification
@@ -18651,7 +18651,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2009-10-10,Czech Republic,Polonia,2.0,0.0,FIFA World Cup qualification
 2009-10-10,Dinamarca,Suecia,1.0,0.0,FIFA World Cup qualification
 2009-10-10,Ecuador,Uruguay,1.0,2.0,FIFA World Cup qualification
-2009-10-10,Estonia,Bosnia And Herzegovina,0.0,2.0,FIFA World Cup qualification
+2009-10-10,Estonia,Bosnia y Herzegovina,0.0,2.0,FIFA World Cup qualification
 2009-10-10,Francia,Faroe Islands,5.0,0.0,FIFA World Cup qualification
 2009-10-10,Gabon,Marruecos,3.0,1.0,FIFA World Cup qualification
 2009-10-10,Honduras,Estados Unidos,2.0,3.0,FIFA World Cup qualification
@@ -18674,7 +18674,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2009-10-13,RD Congo,North Korea,0.0,0.0,Friendly
 2009-10-13,Iceland,South Africa,1.0,0.0,Friendly
 2009-10-14,Australia,Oman,1.0,0.0,AFC Asian Cup qualification
-2009-10-14,Bosnia And Herzegovina,España,2.0,5.0,FIFA World Cup qualification
+2009-10-14,Bosnia y Herzegovina,España,2.0,5.0,FIFA World Cup qualification
 2009-10-14,Brasil,Venezuela,0.0,0.0,FIFA World Cup qualification
 2009-10-14,Chile,Ecuador,1.0,0.0,FIFA World Cup qualification
 2009-10-14,Czech Republic,Northern Ireland,0.0,0.0,FIFA World Cup qualification
@@ -18722,7 +18722,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2009-11-14,Mozambique,Túnez,1.0,0.0,FIFA World Cup qualification
 2009-11-14,Nueva Zelanda,Bahrain,1.0,0.0,FIFA World Cup qualification
 2009-11-14,Oman,Australia,1.0,2.0,AFC Asian Cup qualification
-2009-11-14,Portugal,Bosnia And Herzegovina,1.0,0.0,FIFA World Cup qualification
+2009-11-14,Portugal,Bosnia y Herzegovina,1.0,0.0,FIFA World Cup qualification
 2009-11-14,Arabia Saudita,Belarus,1.0,1.0,Friendly
 2009-11-14,Slovakia,Estados Unidos,1.0,0.0,Friendly
 2009-11-14,South Africa,Japón,0.0,0.0,Friendly
@@ -18740,7 +18740,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2009-11-18,Angola,Ghana,0.0,0.0,Friendly
 2009-11-18,Austria,España,1.0,5.0,Friendly
 2009-11-18,Azerbaijan,Czech Republic,2.0,0.0,Friendly
-2009-11-18,Bosnia And Herzegovina,Portugal,0.0,1.0,FIFA World Cup qualification
+2009-11-18,Bosnia y Herzegovina,Portugal,0.0,1.0,FIFA World Cup qualification
 2009-11-18,Dinamarca,Estados Unidos,3.0,1.0,Friendly
 2009-11-18,Francia,Republic Of Ireland,1.0,1.0,FIFA World Cup qualification
 2009-11-18,Alemania,Costa de Marfil,2.0,2.0,Friendly
@@ -18815,7 +18815,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2010-03-03,Australia,Indonesia,1.0,0.0,AFC Asian Cup qualification
 2010-03-03,Austria,Dinamarca,2.0,1.0,Friendly
 2010-03-03,Bélgica,Croacia,0.0,1.0,Friendly
-2010-03-03,Bosnia And Herzegovina,Ghana,2.0,1.0,Friendly
+2010-03-03,Bosnia y Herzegovina,Ghana,2.0,1.0,Friendly
 2010-03-03,Inglaterra,Egipto,3.0,1.0,Friendly
 2010-03-03,Francia,España,0.0,2.0,Friendly
 2010-03-03,Alemania,Argentina,0.0,1.0,Friendly
@@ -18880,7 +18880,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2010-05-29,Nueva Zelanda,Serbia,1.0,0.0,Friendly
 2010-05-29,Noruega,Montenegro,2.0,1.0,Friendly
 2010-05-29,España,Arabia Saudita,3.0,2.0,Friendly
-2010-05-29,Suecia,Bosnia And Herzegovina,4.0,2.0,Friendly
+2010-05-29,Suecia,Bosnia y Herzegovina,4.0,2.0,Friendly
 2010-05-29,Estados Unidos,Turquía,2.0,1.0,Friendly
 2010-05-29,Venezuela,Canadá,1.0,1.0,Friendly
 2010-05-30,Belarus,Corea del Sur,1.0,0.0,Friendly
@@ -18898,7 +18898,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2010-06-02,Greece,Paraguay,0.0,2.0,Friendly
 2010-06-02,Noruega,Ucrania,0.0,1.0,Friendly
 2010-06-02,Zimbabwe,Brasil,0.0,3.0,Friendly
-2010-06-03,Alemania,Bosnia And Herzegovina,3.0,1.0,Friendly
+2010-06-03,Alemania,Bosnia y Herzegovina,3.0,1.0,Friendly
 2010-06-03,Italia,México,1.0,2.0,Friendly
 2010-06-03,España,Corea del Sur,1.0,0.0,Friendly
 2010-06-04,Francia,China,0.0,1.0,Friendly
@@ -18975,7 +18975,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2010-07-07,Alemania,España,0.0,1.0,FIFA World Cup
 2010-07-10,Uruguay,Alemania,2.0,3.0,FIFA World Cup
 2010-07-11,Países Bajos,España,0.0,1.0,FIFA World Cup
-2010-08-10,Bosnia And Herzegovina,Qatar,1.0,1.0,Friendly
+2010-08-10,Bosnia y Herzegovina,Qatar,1.0,1.0,Friendly
 2010-08-10,Italia,Costa de Marfil,0.0,1.0,Friendly
 2010-08-10,Estados Unidos,Brasil,0.0,2.0,Friendly
 2010-08-11,Albania,Uzbekistán,1.0,0.0,Friendly
@@ -19016,7 +19016,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2010-09-03,Latvia,Croacia,0.0,3.0,UEFA Euro qualification
 2010-09-03,Liechtenstein,España,0.0,4.0,UEFA Euro qualification
 2010-09-03,Lithuania,Scotland,0.0,0.0,UEFA Euro qualification
-2010-09-03,Luxembourg,Bosnia And Herzegovina,0.0,3.0,UEFA Euro qualification
+2010-09-03,Luxembourg,Bosnia y Herzegovina,0.0,3.0,UEFA Euro qualification
 2010-09-03,Panamá,Costa Rica,2.0,2.0,Friendly
 2010-09-03,Portugal,Cyprus,4.0,4.0,UEFA Euro qualification
 2010-09-03,Qatar,Bahrain,1.0,1.0,Friendly
@@ -19038,7 +19038,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2010-09-05,Eswatini,Ghana,0.0,3.0,African Cup of Nations qualification
 2010-09-07,Argentina,España,4.0,1.0,Friendly
 2010-09-07,Austria,Kazakhstan,2.0,0.0,UEFA Euro qualification
-2010-09-07,Bosnia And Herzegovina,Francia,0.0,2.0,UEFA Euro qualification
+2010-09-07,Bosnia y Herzegovina,Francia,0.0,2.0,UEFA Euro qualification
 2010-09-07,Canadá,Honduras,2.0,1.0,Friendly
 2010-09-07,China,Paraguay,1.0,1.0,Friendly
 2010-09-07,Croacia,Greece,0.0,0.0,UEFA Euro qualification
@@ -19070,7 +19070,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2010-10-01,Iran,Iraq,2.0,1.0,WAFF Championship
 2010-10-03,Iran,Kuwait,1.0,2.0,WAFF Championship
 2010-10-07,Iran,Brasil,0.0,3.0,Friendly
-2010-10-08,Albania,Bosnia And Herzegovina,1.0,1.0,UEFA Euro qualification
+2010-10-08,Albania,Bosnia y Herzegovina,1.0,1.0,UEFA Euro qualification
 2010-10-08,Austria,Azerbaijan,3.0,0.0,UEFA Euro qualification
 2010-10-08,Colombia,Ecuador,1.0,0.0,Friendly
 2010-10-08,Cyprus,Noruega,1.0,2.0,UEFA Euro qualification
@@ -19161,7 +19161,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2010-11-17,Portugal,España,4.0,0.0,Friendly
 2010-11-17,Russia,Bélgica,0.0,2.0,Friendly
 2010-11-17,Arabia Saudita,Ghana,0.0,0.0,Friendly
-2010-11-17,Slovakia,Bosnia And Herzegovina,2.0,3.0,Friendly
+2010-11-17,Slovakia,Bosnia y Herzegovina,2.0,3.0,Friendly
 2010-11-17,South Africa,Estados Unidos,0.0,1.0,Friendly
 2010-11-17,Suecia,Alemania,0.0,0.0,Friendly
 2010-11-17,Suiza,Ucrania,2.0,2.0,Friendly
@@ -19177,7 +19177,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2010-12-02,Kuwait,Iraq,2.0,2.0,Gulf Cup
 2010-12-02,United Arab Emirates,Arabia Saudita,0.0,1.0,Gulf Cup
 2010-12-05,Kuwait,Arabia Saudita,1.0,0.0,Gulf Cup
-2010-12-10,Bosnia And Herzegovina,Polonia,2.0,2.0,Friendly
+2010-12-10,Bosnia y Herzegovina,Polonia,2.0,2.0,Friendly
 2010-12-16,Qatar,Egipto,2.0,1.0,Friendly
 2010-12-18,Honduras,Panamá,2.0,1.0,Friendly
 2010-12-18,Iraq,Syria,0.0,1.0,Friendly
@@ -19255,7 +19255,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-02-09,Honduras,Ecuador,1.0,1.0,Friendly
 2011-02-09,Iran,Russia,1.0,0.0,Friendly
 2011-02-09,Malta,Suiza,0.0,0.0,Friendly
-2011-02-09,México,Bosnia And Herzegovina,2.0,0.0,Friendly
+2011-02-09,México,Bosnia y Herzegovina,2.0,0.0,Friendly
 2011-02-09,Marruecos,Niger,3.0,0.0,Friendly
 2011-02-09,Países Bajos,Austria,3.0,1.0,Friendly
 2011-02-09,Noruega,Polonia,0.0,1.0,Friendly
@@ -19275,7 +19275,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-03-25,Montenegro,Uzbekistán,1.0,0.0,Friendly
 2011-03-25,Panamá,Bolivia,2.0,0.0,Friendly
 2011-03-25,España,Czech Republic,2.0,1.0,UEFA Euro qualification
-2011-03-26,Bosnia And Herzegovina,Romania,2.0,1.0,UEFA Euro qualification
+2011-03-26,Bosnia y Herzegovina,Romania,2.0,1.0,UEFA Euro qualification
 2011-03-26,Bulgaria,Suiza,0.0,0.0,UEFA Euro qualification
 2011-03-26,Cape Verde,Liberia,4.0,2.0,African Cup of Nations qualification
 2011-03-26,Colombia,Ecuador,2.0,0.0,Friendly
@@ -19337,7 +19337,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-06-03,Croacia,Georgia,2.0,1.0,UEFA Euro qualification
 2011-06-03,Corea del Sur,Serbia,2.0,1.0,Friendly
 2011-06-03,Moldova,Suecia,1.0,4.0,UEFA Euro qualification
-2011-06-03,Romania,Bosnia And Herzegovina,3.0,0.0,UEFA Euro qualification
+2011-06-03,Romania,Bosnia y Herzegovina,3.0,0.0,UEFA Euro qualification
 2011-06-03,Ghana,RD Congo,3.0,1.0,African Cup of Nations qualification
 2011-06-04,Bolivia,Paraguay,0.0,2.0,Copa Paz del Chaco
 2011-06-04,Brasil,Países Bajos,0.0,0.0,Friendly
@@ -19360,7 +19360,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-06-07,Australia,Serbia,0.0,0.0,Friendly
 2011-06-07,Austria,Latvia,3.0,1.0,Friendly
 2011-06-07,Azerbaijan,Alemania,1.0,3.0,UEFA Euro qualification
-2011-06-07,Bosnia And Herzegovina,Albania,2.0,0.0,UEFA Euro qualification
+2011-06-07,Bosnia y Herzegovina,Albania,2.0,0.0,UEFA Euro qualification
 2011-06-07,Brasil,Romania,1.0,0.0,Friendly
 2011-06-07,Ecuador,Greece,1.0,1.0,Friendly
 2011-06-07,Japón,Czech Republic,0.0,0.0,Kirin Cup
@@ -19438,7 +19438,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-07-28,Yemen,Iraq,0.0,0.0,FIFA World Cup qualification
 2011-08-10,Austria,Slovakia,1.0,2.0,Friendly
 2011-08-10,Bolivia,Panamá,1.0,3.0,Friendly
-2011-08-10,Bosnia And Herzegovina,Greece,0.0,0.0,Friendly
+2011-08-10,Bosnia y Herzegovina,Greece,0.0,0.0,Friendly
 2011-08-10,Costa Rica,Ecuador,0.0,2.0,Friendly
 2011-08-10,Francia,Chile,1.0,1.0,Friendly
 2011-08-10,Gambia,RD Congo,3.0,0.0,Friendly
@@ -19472,7 +19472,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-09-02,Australia,Thailand,2.0,1.0,FIFA World Cup qualification
 2011-09-02,Azerbaijan,Bélgica,1.0,1.0,UEFA Euro qualification
 2011-09-02,Bahrain,Qatar,0.0,0.0,FIFA World Cup qualification
-2011-09-02,Belarus,Bosnia And Herzegovina,0.0,2.0,UEFA Euro qualification
+2011-09-02,Belarus,Bosnia y Herzegovina,0.0,2.0,UEFA Euro qualification
 2011-09-02,Bulgaria,Inglaterra,0.0,3.0,UEFA Euro qualification
 2011-09-02,Canadá,Saint Lucia,4.0,1.0,FIFA World Cup qualification
 2011-09-02,Cyprus,Portugal,0.0,4.0,UEFA Euro qualification
@@ -19512,7 +19512,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-09-06,Argentina,Nigeria,3.0,1.0,Friendly
 2011-09-06,Austria,Turquía,0.0,0.0,UEFA Euro qualification
 2011-09-06,Bélgica,Estados Unidos,1.0,0.0,Friendly
-2011-09-06,Bosnia And Herzegovina,Belarus,1.0,0.0,UEFA Euro qualification
+2011-09-06,Bosnia y Herzegovina,Belarus,1.0,0.0,UEFA Euro qualification
 2011-09-06,Croacia,Israel,3.0,1.0,UEFA Euro qualification
 2011-09-06,Curaçao,Haití,2.0,4.0,FIFA World Cup qualification
 2011-09-06,Czech Republic,Ucrania,4.0,0.0,Friendly
@@ -19546,7 +19546,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-10-07,Australia,Malaysia,5.0,0.0,Friendly
 2011-10-07,Azerbaijan,Austria,1.0,4.0,UEFA Euro qualification
 2011-10-07,Bélgica,Kazakhstan,4.0,1.0,UEFA Euro qualification
-2011-10-07,Bosnia And Herzegovina,Luxembourg,5.0,0.0,UEFA Euro qualification
+2011-10-07,Bosnia y Herzegovina,Luxembourg,5.0,0.0,UEFA Euro qualification
 2011-10-07,RD Congo,Cameroon,2.0,3.0,African Cup of Nations qualification
 2011-10-07,Costa Rica,Brasil,0.0,1.0,Friendly
 2011-10-07,Curaçao,Antigua And Barbuda,0.0,1.0,FIFA World Cup qualification
@@ -19586,7 +19586,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-10-11,China,Iraq,0.0,1.0,FIFA World Cup qualification
 2011-10-11,Croacia,Latvia,2.0,0.0,UEFA Euro qualification
 2011-10-11,Dinamarca,Portugal,2.0,1.0,UEFA Euro qualification
-2011-10-11,Francia,Bosnia And Herzegovina,1.0,1.0,UEFA Euro qualification
+2011-10-11,Francia,Bosnia y Herzegovina,1.0,1.0,UEFA Euro qualification
 2011-10-11,Alemania,Bélgica,3.0,1.0,UEFA Euro qualification
 2011-10-11,Ghana,Nigeria,0.0,0.0,Friendly
 2011-10-11,Haití,Curaçao,2.0,2.0,FIFA World Cup qualification
@@ -19617,7 +19617,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-11-11,Argentina,Bolivia,1.0,1.0,FIFA World Cup qualification
 2011-11-11,Bahrain,Iran,1.0,1.0,FIFA World Cup qualification
 2011-11-11,Bélgica,Romania,2.0,1.0,Friendly
-2011-11-11,Bosnia And Herzegovina,Portugal,0.0,0.0,UEFA Euro qualification
+2011-11-11,Bosnia y Herzegovina,Portugal,0.0,0.0,UEFA Euro qualification
 2011-11-11,Colombia,Venezuela,1.0,1.0,FIFA World Cup qualification
 2011-11-11,Cyprus,Scotland,1.0,2.0,Friendly
 2011-11-11,Czech Republic,Montenegro,2.0,0.0,UEFA Euro qualification
@@ -19671,7 +19671,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2011-11-15,Luxembourg,Suiza,0.0,1.0,Friendly
 2011-11-15,Montenegro,Czech Republic,0.0,1.0,UEFA Euro qualification
 2011-11-15,Panamá,Dominica,3.0,0.0,FIFA World Cup qualification
-2011-11-15,Portugal,Bosnia And Herzegovina,6.0,2.0,UEFA Euro qualification
+2011-11-15,Portugal,Bosnia y Herzegovina,6.0,2.0,UEFA Euro qualification
 2011-11-15,Qatar,Bahrain,0.0,0.0,FIFA World Cup qualification
 2011-11-15,Arabia Saudita,Oman,0.0,0.0,FIFA World Cup qualification
 2011-11-15,Slovenia,Estados Unidos,2.0,3.0,Friendly
@@ -19725,7 +19725,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2012-02-24,Japón,Iceland,3.0,1.0,Friendly
 2012-02-25,Corea del Sur,Uzbekistán,4.0,2.0,Friendly
 2012-02-27,Egipto,Kenya,5.0,0.0,Friendly
-2012-02-28,Bosnia And Herzegovina,Brasil,1.0,2.0,Friendly
+2012-02-28,Bosnia y Herzegovina,Brasil,1.0,2.0,Friendly
 2012-02-29,Armenia,Canadá,3.0,1.0,Friendly
 2012-02-29,Australia,Arabia Saudita,4.0,2.0,FIFA World Cup qualification
 2012-02-29,Austria,Finland,3.0,1.0,Friendly
@@ -19789,7 +19789,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2012-05-26,Dinamarca,Brasil,1.0,3.0,Friendly
 2012-05-26,Finland,Turquía,3.0,2.0,Friendly
 2012-05-26,Honduras,Nueva Zelanda,0.0,1.0,Friendly
-2012-05-26,Republic Of Ireland,Bosnia And Herzegovina,1.0,0.0,Friendly
+2012-05-26,Republic Of Ireland,Bosnia y Herzegovina,1.0,0.0,Friendly
 2012-05-26,Jordania,Sierra Leone,4.0,0.0,Friendly
 2012-05-26,Países Bajos,Bulgaria,1.0,2.0,Friendly
 2012-05-26,Noruega,Inglaterra,0.0,1.0,Friendly
@@ -19812,7 +19812,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2012-05-30,Estados Unidos,Brasil,1.0,4.0,Friendly
 2012-05-31,Francia,Serbia,2.0,0.0,Friendly
 2012-05-31,Alemania,Israel,2.0,0.0,Friendly
-2012-05-31,México,Bosnia And Herzegovina,2.0,1.0,Friendly
+2012-05-31,México,Bosnia y Herzegovina,2.0,1.0,Friendly
 2012-06-01,Austria,Ucrania,3.0,2.0,Friendly
 2012-06-01,Czech Republic,Hungary,1.0,2.0,Friendly
 2012-06-01,Egipto,Mozambique,2.0,0.0,FIFA World Cup qualification
@@ -19948,7 +19948,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2012-08-15,Scotland,Australia,3.0,1.0,Friendly
 2012-08-15,Suecia,Brasil,0.0,3.0,Friendly
 2012-08-15,Ucrania,Czech Republic,0.0,0.0,Friendly
-2012-08-15,Wales,Bosnia And Herzegovina,0.0,2.0,Friendly
+2012-08-15,Wales,Bosnia y Herzegovina,0.0,2.0,Friendly
 2012-09-05,Jordania,Iran,0.0,0.0,Friendly
 2012-09-06,Japón,United Arab Emirates,1.0,0.0,Friendly
 2012-09-06,Lebanon,Australia,0.0,3.0,Friendly
@@ -19966,7 +19966,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2012-09-07,Haití,Saint Martin,7.0,0.0,CFU Caribbean Cup qualification
 2012-09-07,Iceland,Noruega,2.0,0.0,FIFA World Cup qualification
 2012-09-07,Jamaica,Estados Unidos,2.0,1.0,FIFA World Cup qualification
-2012-09-07,Liechtenstein,Bosnia And Herzegovina,1.0,8.0,FIFA World Cup qualification
+2012-09-07,Liechtenstein,Bosnia y Herzegovina,1.0,8.0,FIFA World Cup qualification
 2012-09-07,Luxembourg,Portugal,1.0,2.0,FIFA World Cup qualification
 2012-09-07,Moldova,Inglaterra,0.0,5.0,FIFA World Cup qualification
 2012-09-07,Países Bajos,Turquía,2.0,0.0,FIFA World Cup qualification
@@ -19988,7 +19988,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2012-09-10,Brasil,China,8.0,0.0,Friendly
 2012-09-11,Austria,Alemania,1.0,2.0,FIFA World Cup qualification
 2012-09-11,Bélgica,Croacia,1.0,1.0,FIFA World Cup qualification
-2012-09-11,Bosnia And Herzegovina,Latvia,4.0,1.0,FIFA World Cup qualification
+2012-09-11,Bosnia y Herzegovina,Latvia,4.0,1.0,FIFA World Cup qualification
 2012-09-11,Chile,Colombia,1.0,3.0,FIFA World Cup qualification
 2012-09-11,Czech Republic,Finland,0.0,1.0,Friendly
 2012-09-11,Inglaterra,Ucrania,1.0,1.0,FIFA World Cup qualification
@@ -20030,7 +20030,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2012-10-12,Inglaterra,San Marino,5.0,0.0,FIFA World Cup qualification
 2012-10-12,Faroe Islands,Suecia,1.0,2.0,FIFA World Cup qualification
 2012-10-12,Francia,Japón,0.0,1.0,Friendly
-2012-10-12,Greece,Bosnia And Herzegovina,0.0,0.0,FIFA World Cup qualification
+2012-10-12,Greece,Bosnia y Herzegovina,0.0,0.0,FIFA World Cup qualification
 2012-10-12,Guyana,México,0.0,5.0,FIFA World Cup qualification
 2012-10-12,Republic Of Ireland,Alemania,1.0,6.0,FIFA World Cup qualification
 2012-10-12,Kazakhstan,Austria,0.0,0.0,FIFA World Cup qualification
@@ -20056,7 +20056,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2012-10-16,Austria,Kazakhstan,4.0,0.0,FIFA World Cup qualification
 2012-10-16,Bélgica,Scotland,2.0,0.0,FIFA World Cup qualification
 2012-10-16,Bolivia,Uruguay,4.0,1.0,FIFA World Cup qualification
-2012-10-16,Bosnia And Herzegovina,Lithuania,3.0,0.0,FIFA World Cup qualification
+2012-10-16,Bosnia y Herzegovina,Lithuania,3.0,0.0,FIFA World Cup qualification
 2012-10-16,Chile,Argentina,1.0,2.0,FIFA World Cup qualification
 2012-10-16,Colombia,Cameroon,3.0,0.0,Friendly
 2012-10-16,Croacia,Wales,2.0,0.0,FIFA World Cup qualification
@@ -20088,7 +20088,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2012-10-25,Saint Vincent And The Grenadines,Curaçao,4.0,0.0,CFU Caribbean Cup qualification
 2012-11-06,Iran,Tajikistan,6.0,1.0,Friendly
 2012-11-08,Bahrain,Jordania,3.0,0.0,Friendly
-2012-11-14,Argelia,Bosnia And Herzegovina,0.0,1.0,Friendly
+2012-11-14,Argelia,Bosnia y Herzegovina,0.0,1.0,Friendly
 2012-11-14,Angola,RD Congo,1.0,1.0,Friendly
 2012-11-14,Austria,Costa de Marfil,0.0,3.0,Friendly
 2012-11-14,Brasil,Colombia,1.0,1.0,Friendly
@@ -20218,7 +20218,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2013-02-06,Romania,Australia,3.0,2.0,Friendly
 2013-02-06,Arabia Saudita,China,2.0,1.0,AFC Asian Cup qualification
 2013-02-06,Scotland,Estonia,1.0,0.0,Friendly
-2013-02-06,Slovenia,Bosnia And Herzegovina,0.0,3.0,Friendly
+2013-02-06,Slovenia,Bosnia y Herzegovina,0.0,3.0,Friendly
 2013-02-06,España,Uruguay,3.0,1.0,Friendly
 2013-02-06,Suecia,Argentina,2.0,3.0,Friendly
 2013-02-06,Turquía,Czech Republic,0.0,2.0,Friendly
@@ -20237,7 +20237,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2013-03-22,Argentina,Venezuela,3.0,0.0,FIFA World Cup qualification
 2013-03-22,Austria,Faroe Islands,6.0,0.0,FIFA World Cup qualification
 2013-03-22,Bahrain,Qatar,1.0,0.0,AFC Asian Cup qualification
-2013-03-22,Bosnia And Herzegovina,Greece,3.0,1.0,FIFA World Cup qualification
+2013-03-22,Bosnia y Herzegovina,Greece,3.0,1.0,FIFA World Cup qualification
 2013-03-22,China,Iraq,1.0,0.0,AFC Asian Cup qualification
 2013-03-22,Colombia,Bolivia,5.0,0.0,FIFA World Cup qualification
 2013-03-22,Croacia,Serbia,2.0,0.0,FIFA World Cup qualification
@@ -20341,7 +20341,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2013-06-07,Czech Republic,Italia,0.0,0.0,FIFA World Cup qualification
 2013-06-07,Indonesia,Países Bajos,0.0,3.0,Friendly
 2013-06-07,Jamaica,Estados Unidos,1.0,2.0,FIFA World Cup qualification
-2013-06-07,Latvia,Bosnia And Herzegovina,0.0,5.0,FIFA World Cup qualification
+2013-06-07,Latvia,Bosnia y Herzegovina,0.0,5.0,FIFA World Cup qualification
 2013-06-07,Libya,RD Congo,0.0,0.0,FIFA World Cup qualification
 2013-06-07,Panamá,México,0.0,0.0,FIFA World Cup qualification
 2013-06-07,Paraguay,Chile,1.0,2.0,FIFA World Cup qualification
@@ -20442,7 +20442,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2013-08-14,Argelia,Guinea,2.0,2.0,Friendly
 2013-08-14,Austria,Greece,0.0,2.0,Friendly
 2013-08-14,Bélgica,Francia,0.0,0.0,Friendly
-2013-08-14,Bosnia And Herzegovina,Estados Unidos,3.0,4.0,Friendly
+2013-08-14,Bosnia y Herzegovina,Estados Unidos,3.0,4.0,Friendly
 2013-08-14,Chile,Iraq,6.0,0.0,Friendly
 2013-08-14,Colombia,Serbia,1.0,0.0,Friendly
 2013-08-14,Ecuador,España,0.0,2.0,Friendly
@@ -20469,7 +20469,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2013-08-30,Libya,Ghana,1.0,0.0,Friendly
 2013-09-05,Qatar,Mauritius,3.0,0.0,Friendly
 2013-09-05,Arabia Saudita,Nueva Zelanda,0.0,1.0,OSN Cup
-2013-09-06,Bosnia And Herzegovina,Slovakia,0.0,1.0,FIFA World Cup qualification
+2013-09-06,Bosnia y Herzegovina,Slovakia,0.0,1.0,FIFA World Cup qualification
 2013-09-06,Colombia,Ecuador,1.0,0.0,FIFA World Cup qualification
 2013-09-06,Costa Rica,Estados Unidos,3.0,1.0,FIFA World Cup qualification
 2013-09-06,Czech Republic,Armenia,1.0,2.0,FIFA World Cup qualification
@@ -20522,7 +20522,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2013-09-10,Noruega,Suiza,0.0,2.0,FIFA World Cup qualification
 2013-09-10,Paraguay,Argentina,2.0,5.0,FIFA World Cup qualification
 2013-09-10,Romania,Turquía,0.0,2.0,FIFA World Cup qualification
-2013-09-10,Slovakia,Bosnia And Herzegovina,1.0,2.0,FIFA World Cup qualification
+2013-09-10,Slovakia,Bosnia y Herzegovina,1.0,2.0,FIFA World Cup qualification
 2013-09-10,South Africa,Zimbabwe,1.0,2.0,Friendly
 2013-09-10,España,Chile,2.0,2.0,Friendly
 2013-09-10,Ucrania,Inglaterra,0.0,0.0,FIFA World Cup qualification
@@ -20536,7 +20536,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2013-10-09,Qatar,Vietnam,1.0,2.0,Friendly
 2013-10-11,Albania,Suiza,1.0,2.0,FIFA World Cup qualification
 2013-10-11,Argentina,Perú,3.0,1.0,FIFA World Cup qualification
-2013-10-11,Bosnia And Herzegovina,Liechtenstein,4.0,1.0,FIFA World Cup qualification
+2013-10-11,Bosnia y Herzegovina,Liechtenstein,4.0,1.0,FIFA World Cup qualification
 2013-10-11,Colombia,Chile,3.0,3.0,FIFA World Cup qualification
 2013-10-11,Croacia,Bélgica,1.0,2.0,FIFA World Cup qualification
 2013-10-11,Ecuador,Uruguay,1.0,0.0,FIFA World Cup qualification
@@ -20575,7 +20575,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2013-10-15,Iraq,Arabia Saudita,0.0,2.0,AFC Asian Cup qualification
 2013-10-15,Jordania,Oman,0.0,0.0,AFC Asian Cup qualification
 2013-10-15,Corea del Sur,Mali,3.0,1.0,Friendly
-2013-10-15,Lithuania,Bosnia And Herzegovina,0.0,1.0,FIFA World Cup qualification
+2013-10-15,Lithuania,Bosnia y Herzegovina,0.0,1.0,FIFA World Cup qualification
 2013-10-15,Noruega,Iceland,1.0,1.0,FIFA World Cup qualification
 2013-10-15,Panamá,Estados Unidos,2.0,3.0,FIFA World Cup qualification
 2013-10-15,Paraguay,Colombia,1.0,2.0,FIFA World Cup qualification
@@ -20617,7 +20617,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2013-11-16,Países Bajos,Japón,2.0,2.0,Friendly
 2013-11-16,Senegal,Costa de Marfil,1.0,1.0,FIFA World Cup qualification
 2013-11-17,Cameroon,Túnez,4.0,1.0,FIFA World Cup qualification
-2013-11-18,Argentina,Bosnia And Herzegovina,2.0,0.0,Friendly
+2013-11-18,Argentina,Bosnia y Herzegovina,2.0,0.0,Friendly
 2013-11-19,Argelia,Burkina Faso,1.0,0.0,FIFA World Cup qualification
 2013-11-19,Australia,Costa Rica,1.0,0.0,Friendly
 2013-11-19,Austria,Estados Unidos,1.0,0.0,Friendly
@@ -20670,7 +20670,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-03-05,Australia,Ecuador,3.0,4.0,Friendly
 2014-03-05,Austria,Uruguay,1.0,1.0,Friendly
 2014-03-05,Bélgica,Costa de Marfil,2.0,2.0,Friendly
-2014-03-05,Bosnia And Herzegovina,Egipto,0.0,2.0,Friendly
+2014-03-05,Bosnia y Herzegovina,Egipto,0.0,2.0,Friendly
 2014-03-05,Colombia,Túnez,1.0,1.0,Friendly
 2014-03-05,Czech Republic,Noruega,2.0,2.0,Friendly
 2014-03-05,Inglaterra,Dinamarca,1.0,0.0,Friendly
@@ -20728,7 +20728,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-05-29,Uzbekistán,Oman,0.0,1.0,Friendly
 2014-05-30,Angola,Iran,1.0,1.0,Friendly
 2014-05-30,Austria,Iceland,1.0,1.0,Friendly
-2014-05-30,Bosnia And Herzegovina,Costa de Marfil,2.0,1.0,Friendly
+2014-05-30,Bosnia y Herzegovina,Costa de Marfil,2.0,1.0,Friendly
 2014-05-30,Inglaterra,Perú,3.0,0.0,Friendly
 2014-05-30,North Macedonia,Qatar,0.0,0.0,Friendly
 2014-05-30,Nueva Zelanda,South Africa,0.0,0.0,Friendly
@@ -20750,7 +20750,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-06-02,Costa Rica,Japón,1.0,3.0,Friendly
 2014-06-03,Brasil,Panamá,4.0,0.0,Friendly
 2014-06-03,Czech Republic,Austria,1.0,2.0,Friendly
-2014-06-03,México,Bosnia And Herzegovina,0.0,1.0,Friendly
+2014-06-03,México,Bosnia y Herzegovina,0.0,1.0,Friendly
 2014-06-03,Suiza,Perú,2.0,0.0,Friendly
 2014-06-04,Argentina,Trinidad And Tobago,3.0,0.0,Friendly
 2014-06-04,Ecuador,Inglaterra,2.0,2.0,Friendly
@@ -20783,7 +20783,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-06-14,Inglaterra,Italia,1.0,2.0,FIFA World Cup
 2014-06-14,Costa de Marfil,Japón,2.0,1.0,FIFA World Cup
 2014-06-14,Uruguay,Costa Rica,1.0,3.0,FIFA World Cup
-2014-06-15,Argentina,Bosnia And Herzegovina,2.0,1.0,FIFA World Cup
+2014-06-15,Argentina,Bosnia y Herzegovina,2.0,1.0,FIFA World Cup
 2014-06-15,Francia,Honduras,3.0,0.0,FIFA World Cup
 2014-06-15,Suiza,Ecuador,2.0,1.0,FIFA World Cup
 2014-06-16,Alemania,Portugal,4.0,0.0,FIFA World Cup
@@ -20802,7 +20802,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-06-20,Suiza,Francia,2.0,5.0,FIFA World Cup
 2014-06-21,Argentina,Iran,1.0,0.0,FIFA World Cup
 2014-06-21,Alemania,Ghana,2.0,2.0,FIFA World Cup
-2014-06-21,Nigeria,Bosnia And Herzegovina,1.0,0.0,FIFA World Cup
+2014-06-21,Nigeria,Bosnia y Herzegovina,1.0,0.0,FIFA World Cup
 2014-06-22,Bélgica,Russia,1.0,0.0,FIFA World Cup
 2014-06-22,Corea del Sur,Argelia,2.0,4.0,FIFA World Cup
 2014-06-22,Estados Unidos,Portugal,2.0,2.0,FIFA World Cup
@@ -20814,7 +20814,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-06-24,Greece,Costa de Marfil,2.0,1.0,FIFA World Cup
 2014-06-24,Italia,Uruguay,0.0,1.0,FIFA World Cup
 2014-06-24,Japón,Colombia,1.0,4.0,FIFA World Cup
-2014-06-25,Bosnia And Herzegovina,Iran,3.0,1.0,FIFA World Cup
+2014-06-25,Bosnia y Herzegovina,Iran,3.0,1.0,FIFA World Cup
 2014-06-25,Ecuador,Francia,0.0,0.0,FIFA World Cup
 2014-06-25,Honduras,Suiza,0.0,3.0,FIFA World Cup
 2014-06-25,Nigeria,Argentina,2.0,3.0,FIFA World Cup
@@ -20852,7 +20852,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-09-03,Marruecos,Qatar,0.0,0.0,Friendly
 2014-09-03,Puerto Rico,Curaçao,2.0,2.0,CFU Caribbean Cup qualification
 2014-09-04,Bélgica,Australia,2.0,0.0,Friendly
-2014-09-04,Bosnia And Herzegovina,Liechtenstein,3.0,0.0,Friendly
+2014-09-04,Bosnia y Herzegovina,Liechtenstein,3.0,0.0,Friendly
 2014-09-04,Croacia,Cyprus,2.0,0.0,Friendly
 2014-09-04,Francia,España,1.0,0.0,Friendly
 2014-09-04,Iraq,Perú,0.0,2.0,Friendly
@@ -20886,7 +20886,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-09-08,España,North Macedonia,5.0,1.0,UEFA Euro qualification
 2014-09-08,Suiza,Inglaterra,0.0,2.0,UEFA Euro qualification
 2014-09-08,Uzbekistán,Nueva Zelanda,3.0,1.0,Friendly
-2014-09-09,Bosnia And Herzegovina,Cyprus,1.0,2.0,UEFA Euro qualification
+2014-09-09,Bosnia y Herzegovina,Cyprus,1.0,2.0,UEFA Euro qualification
 2014-09-09,China,Jordania,1.0,1.0,Friendly
 2014-09-09,Croacia,Malta,2.0,0.0,UEFA Euro qualification
 2014-09-09,Czech Republic,Países Bajos,2.0,1.0,UEFA Euro qualification
@@ -20929,7 +20929,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-10-10,Turquía,Czech Republic,1.0,2.0,UEFA Euro qualification
 2014-10-10,United Arab Emirates,Australia,0.0,0.0,Friendly
 2014-10-10,Uzbekistán,Bahrain,0.0,0.0,Friendly
-2014-10-10,Wales,Bosnia And Herzegovina,0.0,0.0,UEFA Euro qualification
+2014-10-10,Wales,Bosnia y Herzegovina,0.0,0.0,UEFA Euro qualification
 2014-10-10,Yemen,Iraq,1.0,1.0,Friendly
 2014-10-11,Argentina,Brasil,0.0,2.0,Superclásico de las Américas
 2014-10-11,RD Congo,South Africa,0.0,2.0,African Cup of Nations qualification
@@ -20947,7 +20947,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-10-12,Luxembourg,España,0.0,4.0,UEFA Euro qualification
 2014-10-12,México,Panamá,1.0,0.0,Friendly
 2014-10-12,Suecia,Liechtenstein,2.0,0.0,UEFA Euro qualification
-2014-10-13,Bosnia And Herzegovina,Bélgica,1.0,1.0,UEFA Euro qualification
+2014-10-13,Bosnia y Herzegovina,Bélgica,1.0,1.0,UEFA Euro qualification
 2014-10-13,Croacia,Azerbaijan,6.0,0.0,UEFA Euro qualification
 2014-10-13,Iceland,Países Bajos,2.0,0.0,UEFA Euro qualification
 2014-10-13,Jordania,Kuwait,1.0,1.0,Friendly
@@ -21020,7 +21020,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2014-11-16,Azerbaijan,Noruega,0.0,1.0,UEFA Euro qualification
 2014-11-16,Bélgica,Wales,0.0,0.0,UEFA Euro qualification
 2014-11-16,Czech Republic,Iceland,2.0,1.0,UEFA Euro qualification
-2014-11-16,Israel,Bosnia And Herzegovina,3.0,0.0,UEFA Euro qualification
+2014-11-16,Israel,Bosnia y Herzegovina,3.0,0.0,UEFA Euro qualification
 2014-11-16,Italia,Croacia,1.0,1.0,UEFA Euro qualification
 2014-11-16,Marruecos,Zimbabwe,2.0,1.0,Friendly
 2014-11-16,Países Bajos,Latvia,6.0,0.0,UEFA Euro qualification
@@ -21168,7 +21168,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-03-27,Suiza,Estonia,3.0,0.0,UEFA Euro qualification
 2015-03-27,Trinidad And Tobago,Panamá,0.0,1.0,Friendly
 2015-03-28,Argentina,El Salvador,2.0,0.0,Friendly
-2015-03-28,Andorra,Bosnia And Herzegovina,0.0,3.0,UEFA Euro qualification
+2015-03-28,Andorra,Bosnia y Herzegovina,0.0,3.0,UEFA Euro qualification
 2015-03-28,Bélgica,Cyprus,5.0,0.0,UEFA Euro qualification
 2015-03-28,Croacia,Noruega,5.0,1.0,UEFA Euro qualification
 2015-03-28,Czech Republic,Latvia,1.0,1.0,UEFA Euro qualification
@@ -21189,7 +21189,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-03-30,Qatar,Slovenia,1.0,0.0,Friendly
 2015-03-30,Arabia Saudita,Jordania,2.0,1.0,Friendly
 2015-03-31,Argentina,Ecuador,2.0,1.0,Friendly
-2015-03-31,Austria,Bosnia And Herzegovina,1.0,1.0,Friendly
+2015-03-31,Austria,Bosnia y Herzegovina,1.0,1.0,Friendly
 2015-03-31,China,Túnez,1.0,1.0,Friendly
 2015-03-31,Ghana,Mali,1.0,1.0,Friendly
 2015-03-31,Iraq,RD Congo,1.0,0.0,Friendly
@@ -21248,7 +21248,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-06-11,Tajikistan,Jordania,1.0,3.0,FIFA World Cup qualification
 2015-06-11,Uzbekistán,Iran,0.0,1.0,Friendly
 2015-06-11,Dominica,Canadá,0.0,2.0,FIFA World Cup qualification
-2015-06-12,Bosnia And Herzegovina,Israel,3.0,1.0,UEFA Euro qualification
+2015-06-12,Bosnia y Herzegovina,Israel,3.0,1.0,UEFA Euro qualification
 2015-06-12,Croacia,Italia,1.0,1.0,UEFA Euro qualification
 2015-06-12,Iceland,Czech Republic,2.0,1.0,UEFA Euro qualification
 2015-06-12,Kazakhstan,Turquía,0.0,1.0,UEFA Euro qualification
@@ -21338,7 +21338,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-09-01,RD Congo,Ghana,2.0,3.0,Friendly
 2015-09-03,Australia,Bangladesh,5.0,0.0,FIFA World Cup qualification
 2015-09-03,Azerbaijan,Croacia,0.0,0.0,UEFA Euro qualification
-2015-09-03,Bélgica,Bosnia And Herzegovina,3.0,1.0,UEFA Euro qualification
+2015-09-03,Bélgica,Bosnia y Herzegovina,3.0,1.0,UEFA Euro qualification
 2015-09-03,Bulgaria,Noruega,0.0,1.0,UEFA Euro qualification
 2015-09-03,Czech Republic,Kazakhstan,2.0,1.0,UEFA Euro qualification
 2015-09-03,Iran,Guam,6.0,0.0,FIFA World Cup qualification
@@ -21372,7 +21372,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-09-05,São Tomé And Príncipe,Marruecos,0.0,3.0,African Cup of Nations qualification
 2015-09-05,España,Slovakia,2.0,0.0,UEFA Euro qualification
 2015-09-05,Suiza,Slovenia,3.0,2.0,UEFA Euro qualification
-2015-09-06,Bosnia And Herzegovina,Andorra,3.0,0.0,UEFA Euro qualification
+2015-09-06,Bosnia y Herzegovina,Andorra,3.0,0.0,UEFA Euro qualification
 2015-09-06,Central African Republic,RD Congo,2.0,0.0,African Cup of Nations qualification
 2015-09-06,Cyprus,Bélgica,0.0,1.0,UEFA Euro qualification
 2015-09-06,Latvia,Czech Republic,1.0,2.0,UEFA Euro qualification
@@ -21434,7 +21434,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-10-09,Suiza,San Marino,7.0,0.0,UEFA Euro qualification
 2015-10-09,Túnez,Gabon,3.0,3.0,Friendly
 2015-10-10,Andorra,Bélgica,1.0,4.0,UEFA Euro qualification
-2015-10-10,Bosnia And Herzegovina,Wales,2.0,0.0,UEFA Euro qualification
+2015-10-10,Bosnia y Herzegovina,Wales,2.0,0.0,UEFA Euro qualification
 2015-10-10,Croacia,Bulgaria,3.0,0.0,UEFA Euro qualification
 2015-10-10,Czech Republic,Turquía,0.0,2.0,UEFA Euro qualification
 2015-10-10,Kazakhstan,Países Bajos,1.0,2.0,UEFA Euro qualification
@@ -21456,7 +21456,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-10-13,Bélgica,Israel,3.0,1.0,UEFA Euro qualification
 2015-10-13,Brasil,Venezuela,3.0,1.0,FIFA World Cup qualification
 2015-10-13,RD Congo,Benin,2.0,1.0,Friendly
-2015-10-13,Cyprus,Bosnia And Herzegovina,2.0,3.0,UEFA Euro qualification
+2015-10-13,Cyprus,Bosnia y Herzegovina,2.0,3.0,UEFA Euro qualification
 2015-10-13,Ecuador,Bolivia,2.0,0.0,FIFA World Cup qualification
 2015-10-13,Iran,Japón,1.0,1.0,Friendly
 2015-10-13,Italia,Noruega,2.0,1.0,UEFA Euro qualification
@@ -21486,7 +21486,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-11-13,Angola,South Africa,1.0,3.0,FIFA World Cup qualification
 2015-11-13,Argentina,Brasil,1.0,1.0,FIFA World Cup qualification
 2015-11-13,Bélgica,Italia,3.0,1.0,Friendly
-2015-11-13,Bosnia And Herzegovina,Republic Of Ireland,1.0,1.0,UEFA Euro qualification
+2015-11-13,Bosnia y Herzegovina,Republic Of Ireland,1.0,1.0,UEFA Euro qualification
 2015-11-13,Comoros,Ghana,0.0,0.0,FIFA World Cup qualification
 2015-11-13,Costa Rica,Haití,1.0,0.0,FIFA World Cup qualification
 2015-11-13,Czech Republic,Serbia,4.0,1.0,Friendly
@@ -21512,7 +21512,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2015-11-15,RD Congo,Burundi,3.0,0.0,FIFA World Cup qualification
 2015-11-15,Equatorial Guinea,Marruecos,1.0,0.0,FIFA World Cup qualification
 2015-11-15,Hungary,Noruega,2.0,1.0,UEFA Euro qualification
-2015-11-16,Republic Of Ireland,Bosnia And Herzegovina,2.0,0.0,UEFA Euro qualification
+2015-11-16,Republic Of Ireland,Bosnia y Herzegovina,2.0,0.0,UEFA Euro qualification
 2015-11-17,Argelia,Tanzania,7.0,0.0,FIFA World Cup qualification
 2015-11-17,Austria,Suiza,1.0,2.0,Friendly
 2015-11-17,Bangladesh,Australia,0.0,4.0,FIFA World Cup qualification
@@ -21584,7 +21584,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2016-03-25,Haití,Panamá,0.0,0.0,FIFA World Cup qualification
 2016-03-25,Republic Of Ireland,Suiza,1.0,0.0,Friendly
 2016-03-25,Costa de Marfil,Sudan,1.0,0.0,African Cup of Nations qualification
-2016-03-25,Luxembourg,Bosnia And Herzegovina,0.0,3.0,Friendly
+2016-03-25,Luxembourg,Bosnia y Herzegovina,0.0,3.0,Friendly
 2016-03-25,Países Bajos,Francia,2.0,3.0,Friendly
 2016-03-25,Nigeria,Egipto,1.0,1.0,African Cup of Nations qualification
 2016-03-25,Portugal,Bulgaria,0.0,1.0,Friendly
@@ -21626,7 +21626,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2016-03-29,South Africa,Cameroon,0.0,0.0,African Cup of Nations qualification
 2016-03-29,Sudan,Costa de Marfil,1.0,1.0,African Cup of Nations qualification
 2016-03-29,Suecia,Czech Republic,1.0,1.0,Friendly
-2016-03-29,Suiza,Bosnia And Herzegovina,0.0,2.0,Friendly
+2016-03-29,Suiza,Bosnia y Herzegovina,0.0,2.0,Friendly
 2016-03-29,Togo,Túnez,0.0,0.0,African Cup of Nations qualification
 2016-03-29,United Arab Emirates,Arabia Saudita,1.0,1.0,FIFA World Cup qualification
 2016-03-29,Uruguay,Perú,1.0,0.0,FIFA World Cup qualification
@@ -21648,7 +21648,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2016-05-28,Rwanda,Senegal,0.0,2.0,Friendly
 2016-05-28,Suiza,Bélgica,1.0,2.0,Friendly
 2016-05-29,Albania,Qatar,3.0,1.0,Friendly
-2016-05-29,Bosnia And Herzegovina,España,1.0,3.0,Friendly
+2016-05-29,Bosnia y Herzegovina,España,1.0,3.0,Friendly
 2016-05-29,Alemania,Slovakia,1.0,3.0,Friendly
 2016-05-29,Italia,Scotland,1.0,0.0,Friendly
 2016-05-29,Portugal,Noruega,3.0,0.0,Friendly
@@ -21667,7 +21667,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2016-06-02,North Macedonia,Iran,1.0,3.0,Friendly
 2016-06-02,Seychelles,Argelia,0.0,2.0,African Cup of Nations qualification
 2016-06-03,Azerbaijan,Canadá,1.0,1.0,Friendly
-2016-06-03,Bosnia And Herzegovina,Dinamarca,2.0,2.0,Kirin Cup
+2016-06-03,Bosnia y Herzegovina,Dinamarca,2.0,2.0,Kirin Cup
 2016-06-03,Djibouti,Túnez,0.0,3.0,African Cup of Nations qualification
 2016-06-03,Japón,Bulgaria,7.0,2.0,Kirin Cup
 2016-06-03,Libya,Marruecos,1.0,1.0,African Cup of Nations qualification
@@ -21704,7 +21704,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2016-06-07,Colombia,Paraguay,2.0,1.0,Copa América
 2016-06-07,Curaçao,United States Virgin Islands,7.0,0.0,CFU Caribbean Cup qualification
 2016-06-07,Iran,Kyrgyzstan,6.0,0.0,Friendly
-2016-06-07,Japón,Bosnia And Herzegovina,1.0,2.0,Kirin Cup
+2016-06-07,Japón,Bosnia y Herzegovina,1.0,2.0,Kirin Cup
 2016-06-07,España,Georgia,0.0,1.0,Friendly
 2016-06-07,Estados Unidos,Costa Rica,4.0,0.0,Copa América
 2016-06-08,Brasil,Haití,7.0,1.0,Copa América
@@ -21829,7 +21829,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2016-09-05,Georgia,Austria,1.0,2.0,FIFA World Cup qualification
 2016-09-05,España,Liechtenstein,8.0,0.0,FIFA World Cup qualification
 2016-09-06,Belarus,Francia,0.0,0.0,FIFA World Cup qualification
-2016-09-06,Bosnia And Herzegovina,Estonia,5.0,0.0,FIFA World Cup qualification
+2016-09-06,Bosnia y Herzegovina,Estonia,5.0,0.0,FIFA World Cup qualification
 2016-09-06,Brasil,Colombia,2.0,1.0,FIFA World Cup qualification
 2016-09-06,Canadá,El Salvador,3.0,1.0,FIFA World Cup qualification
 2016-09-06,China,Iran,0.0,0.0,FIFA World Cup qualification
@@ -21867,7 +21867,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2016-10-06,Turquía,Ucrania,2.0,2.0,FIFA World Cup qualification
 2016-10-06,Uruguay,Venezuela,3.0,0.0,FIFA World Cup qualification
 2016-10-06,Uzbekistán,Iran,0.0,1.0,FIFA World Cup qualification
-2016-10-07,Bélgica,Bosnia And Herzegovina,4.0,0.0,FIFA World Cup qualification
+2016-10-07,Bélgica,Bosnia y Herzegovina,4.0,0.0,FIFA World Cup qualification
 2016-10-07,Cuba,Estados Unidos,0.0,2.0,Friendly
 2016-10-07,Francia,Bulgaria,4.0,1.0,FIFA World Cup qualification
 2016-10-07,Ghana,Uganda,0.0,0.0,FIFA World Cup qualification
@@ -21894,7 +21894,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2016-10-09,Serbia,Austria,3.0,2.0,FIFA World Cup qualification
 2016-10-09,Túnez,Guinea,2.0,0.0,FIFA World Cup qualification
 2016-10-10,Andorra,Suiza,1.0,2.0,FIFA World Cup qualification
-2016-10-10,Bosnia And Herzegovina,Cyprus,2.0,0.0,FIFA World Cup qualification
+2016-10-10,Bosnia y Herzegovina,Cyprus,2.0,0.0,FIFA World Cup qualification
 2016-10-10,Faroe Islands,Portugal,0.0,6.0,FIFA World Cup qualification
 2016-10-10,Gibraltar,Bélgica,0.0,6.0,FIFA World Cup qualification
 2016-10-10,Países Bajos,Francia,0.0,1.0,FIFA World Cup qualification
@@ -21948,7 +21948,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2016-11-12,Uganda,RD Congo,1.0,0.0,FIFA World Cup qualification
 2016-11-13,Bélgica,Estonia,8.0,1.0,FIFA World Cup qualification
 2016-11-13,Egipto,Ghana,2.0,0.0,FIFA World Cup qualification
-2016-11-13,Greece,Bosnia And Herzegovina,1.0,1.0,FIFA World Cup qualification
+2016-11-13,Greece,Bosnia y Herzegovina,1.0,1.0,FIFA World Cup qualification
 2016-11-13,Guinea,RD Congo,1.0,2.0,FIFA World Cup qualification
 2016-11-13,Luxembourg,Países Bajos,1.0,3.0,FIFA World Cup qualification
 2016-11-13,Portugal,Latvia,4.0,1.0,FIFA World Cup qualification
@@ -22059,7 +22059,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2017-03-24,Turquía,Finland,2.0,0.0,FIFA World Cup qualification
 2017-03-24,Estados Unidos,Honduras,6.0,0.0,FIFA World Cup qualification
 2017-03-25,Bélgica,Greece,1.0,1.0,FIFA World Cup qualification
-2017-03-25,Bosnia And Herzegovina,Gibraltar,5.0,0.0,FIFA World Cup qualification
+2017-03-25,Bosnia y Herzegovina,Gibraltar,5.0,0.0,FIFA World Cup qualification
 2017-03-25,Bulgaria,Países Bajos,2.0,0.0,FIFA World Cup qualification
 2017-03-25,Fiji,Nueva Zelanda,0.0,2.0,FIFA World Cup qualification
 2017-03-25,Luxembourg,Francia,1.0,3.0,FIFA World Cup qualification
@@ -22076,7 +22076,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2017-03-27,Costa de Marfil,Senegal,1.0,1.0,Friendly
 2017-03-27,Mauritania,RD Congo,2.0,1.0,Friendly
 2017-03-27,Turquía,Moldova,3.0,1.0,Friendly
-2017-03-28,Albania,Bosnia And Herzegovina,1.0,2.0,Friendly
+2017-03-28,Albania,Bosnia y Herzegovina,1.0,2.0,Friendly
 2017-03-28,Australia,United Arab Emirates,2.0,0.0,FIFA World Cup qualification
 2017-03-28,Austria,Finland,1.0,1.0,Friendly
 2017-03-28,Bolivia,Argentina,2.0,0.0,FIFA World Cup qualification
@@ -22138,7 +22138,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2017-06-08,Perú,Paraguay,1.0,0.0,Friendly
 2017-06-08,Estados Unidos,Trinidad And Tobago,2.0,0.0,FIFA World Cup qualification
 2017-06-09,Argentina,Brasil,1.0,0.0,Superclásico de las Américas
-2017-06-09,Bosnia And Herzegovina,Greece,0.0,0.0,FIFA World Cup qualification
+2017-06-09,Bosnia y Herzegovina,Greece,0.0,0.0,FIFA World Cup qualification
 2017-06-09,Estonia,Bélgica,0.0,2.0,FIFA World Cup qualification
 2017-06-09,Faroe Islands,Suiza,0.0,2.0,FIFA World Cup qualification
 2017-06-09,Latvia,Portugal,0.0,3.0,FIFA World Cup qualification
@@ -22229,7 +22229,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2017-08-31,Bulgaria,Suecia,3.0,2.0,FIFA World Cup qualification
 2017-08-31,Chile,Paraguay,0.0,3.0,FIFA World Cup qualification
 2017-08-31,China,Uzbekistán,1.0,0.0,FIFA World Cup qualification
-2017-08-31,Cyprus,Bosnia And Herzegovina,3.0,2.0,FIFA World Cup qualification
+2017-08-31,Cyprus,Bosnia y Herzegovina,3.0,2.0,FIFA World Cup qualification
 2017-08-31,Francia,Países Bajos,4.0,0.0,FIFA World Cup qualification
 2017-08-31,Japón,Australia,2.0,0.0,FIFA World Cup qualification
 2017-08-31,Corea del Sur,Iran,0.0,0.0,FIFA World Cup qualification
@@ -22261,7 +22261,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2017-09-02,Zambia,Argelia,3.0,1.0,FIFA World Cup qualification
 2017-09-03,Belarus,Suecia,0.0,4.0,FIFA World Cup qualification
 2017-09-03,Francia,Luxembourg,0.0,0.0,FIFA World Cup qualification
-2017-09-03,Gibraltar,Bosnia And Herzegovina,0.0,4.0,FIFA World Cup qualification
+2017-09-03,Gibraltar,Bosnia y Herzegovina,0.0,4.0,FIFA World Cup qualification
 2017-09-03,Greece,Bélgica,1.0,2.0,FIFA World Cup qualification
 2017-09-03,Hungary,Portugal,0.0,1.0,FIFA World Cup qualification
 2017-09-03,Latvia,Suiza,0.0,3.0,FIFA World Cup qualification
@@ -22320,7 +22320,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2017-10-06,Estados Unidos,Panamá,4.0,0.0,FIFA World Cup qualification
 2017-10-07,Andorra,Portugal,0.0,2.0,FIFA World Cup qualification
 2017-10-07,Belarus,Países Bajos,1.0,3.0,FIFA World Cup qualification
-2017-10-07,Bosnia And Herzegovina,Bélgica,3.0,4.0,FIFA World Cup qualification
+2017-10-07,Bosnia y Herzegovina,Bélgica,3.0,4.0,FIFA World Cup qualification
 2017-10-07,Bulgaria,Francia,0.0,1.0,FIFA World Cup qualification
 2017-10-07,Cameroon,Argelia,2.0,0.0,FIFA World Cup qualification
 2017-10-07,Cape Verde,Senegal,0.0,2.0,FIFA World Cup qualification
@@ -22349,7 +22349,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2017-10-10,Bélgica,Cyprus,4.0,0.0,FIFA World Cup qualification
 2017-10-10,Brasil,Chile,3.0,0.0,FIFA World Cup qualification
 2017-10-10,Ecuador,Argentina,1.0,3.0,FIFA World Cup qualification
-2017-10-10,Estonia,Bosnia And Herzegovina,1.0,2.0,FIFA World Cup qualification
+2017-10-10,Estonia,Bosnia y Herzegovina,1.0,2.0,FIFA World Cup qualification
 2017-10-10,Francia,Belarus,2.0,1.0,FIFA World Cup qualification
 2017-10-10,Honduras,México,3.0,2.0,FIFA World Cup qualification
 2017-10-10,Japón,Haití,3.0,3.0,Kirin Challenge Cup
@@ -22441,9 +22441,9 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-01-11,Dinamarca,Suecia,0.0,1.0,Friendly
 2018-01-11,Jordania,Finland,1.0,2.0,Friendly
 2018-01-27,Moldova,Corea del Sur,0.0,1.0,Friendly
-2018-01-28,Estados Unidos,Bosnia And Herzegovina,0.0,0.0,Friendly
+2018-01-28,Estados Unidos,Bosnia y Herzegovina,0.0,0.0,Friendly
 2018-01-30,Jamaica,Corea del Sur,2.0,2.0,Friendly
-2018-01-31,México,Bosnia And Herzegovina,1.0,0.0,Friendly
+2018-01-31,México,Bosnia y Herzegovina,1.0,0.0,Friendly
 2018-02-03,Latvia,Corea del Sur,0.0,1.0,Friendly
 2018-02-26,Arabia Saudita,Moldova,3.0,0.0,Friendly
 2018-02-28,Iraq,Arabia Saudita,4.0,1.0,Friendly
@@ -22454,7 +22454,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-03-22,Argelia,Tanzania,4.0,1.0,Friendly
 2018-03-22,Dinamarca,Panamá,1.0,0.0,Friendly
 2018-03-23,Austria,Slovenia,3.0,0.0,Friendly
-2018-03-23,Bulgaria,Bosnia And Herzegovina,0.0,1.0,Friendly
+2018-03-23,Bulgaria,Bosnia y Herzegovina,0.0,1.0,Friendly
 2018-03-23,Curaçao,Bolivia,1.0,1.0,Friendly
 2018-03-23,Francia,Colombia,2.0,3.0,Friendly
 2018-03-23,Alemania,España,1.0,1.0,Friendly
@@ -22488,7 +22488,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-03-27,Argelia,Iran,1.0,2.0,Friendly
 2018-03-27,Australia,Colombia,0.0,0.0,Friendly
 2018-03-27,Bélgica,Arabia Saudita,4.0,0.0,Friendly
-2018-03-27,Bosnia And Herzegovina,Senegal,0.0,0.0,Friendly
+2018-03-27,Bosnia y Herzegovina,Senegal,0.0,0.0,Friendly
 2018-03-27,Inglaterra,Italia,1.0,1.0,Friendly
 2018-03-27,Alemania,Brasil,0.0,1.0,Friendly
 2018-03-27,Greece,Egipto,1.0,0.0,Friendly
@@ -22524,7 +22524,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-05-28,México,Wales,0.0,0.0,Friendly
 2018-05-28,Turquía,Iran,2.0,1.0,Friendly
 2018-05-28,Corea del Sur,Honduras,2.0,0.0,Friendly
-2018-05-28,Bosnia And Herzegovina,Montenegro,0.0,0.0,Friendly
+2018-05-28,Bosnia y Herzegovina,Montenegro,0.0,0.0,Friendly
 2018-05-29,Argentina,Haití,4.0,0.0,Friendly
 2018-05-29,Perú,Scotland,2.0,0.0,Friendly
 2018-05-29,Panamá,Northern Ireland,0.0,0.0,Friendly
@@ -22535,7 +22535,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-05-31,Slovakia,Países Bajos,1.0,1.0,Friendly
 2018-06-01,Francia,Italia,3.0,1.0,Friendly
 2018-06-01,Turquía,Túnez,2.0,2.0,Friendly
-2018-06-01,Corea del Sur,Bosnia And Herzegovina,1.0,3.0,Friendly
+2018-06-01,Corea del Sur,Bosnia y Herzegovina,1.0,3.0,Friendly
 2018-06-01,Czech Republic,Australia,0.0,4.0,Friendly
 2018-06-01,Argelia,Cape Verde,2.0,3.0,Friendly
 2018-06-01,Colombia,Egipto,0.0,0.0,Friendly
@@ -22662,7 +22662,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-09-07,Venezuela,Colombia,1.0,2.0,Friendly
 2018-09-08,Suiza,Iceland,6.0,0.0,UEFA Nations League
 2018-09-08,Inglaterra,España,1.0,2.0,UEFA Nations League
-2018-09-08,Northern Ireland,Bosnia And Herzegovina,1.0,2.0,UEFA Nations League
+2018-09-08,Northern Ireland,Bosnia y Herzegovina,1.0,2.0,UEFA Nations League
 2018-09-08,Gambia,Argelia,1.0,1.0,African Cup of Nations qualification
 2018-09-08,South Africa,Libya,0.0,0.0,African Cup of Nations qualification
 2018-09-08,Egipto,Niger,6.0,0.0,African Cup of Nations qualification
@@ -22688,7 +22688,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-09-10,Curaçao,Grenada,10.0,0.0,CONCACAF Nations League qualification
 2018-09-11,Iceland,Bélgica,0.0,3.0,UEFA Nations League
 2018-09-11,España,Croacia,6.0,0.0,UEFA Nations League
-2018-09-11,Bosnia And Herzegovina,Austria,1.0,0.0,UEFA Nations League
+2018-09-11,Bosnia y Herzegovina,Austria,1.0,0.0,UEFA Nations League
 2018-09-11,Colombia,Argentina,0.0,0.0,Friendly
 2018-09-11,Ecuador,Guatemala,2.0,0.0,Friendly
 2018-09-11,Inglaterra,Suiza,1.0,0.0,Friendly
@@ -22707,7 +22707,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-10-11,Argentina,Iraq,4.0,0.0,Friendly
 2018-10-11,Francia,Iceland,2.0,2.0,Friendly
 2018-10-11,México,Costa Rica,3.0,2.0,Friendly
-2018-10-11,Turquía,Bosnia And Herzegovina,0.0,0.0,Friendly
+2018-10-11,Turquía,Bosnia y Herzegovina,0.0,0.0,Friendly
 2018-10-11,Estados Unidos,Colombia,2.0,4.0,Friendly
 2018-10-11,Wales,España,1.0,4.0,Friendly
 2018-10-11,RD Congo,Liberia,3.0,1.0,African Cup of Nations qualification
@@ -22736,7 +22736,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-10-14,Scotland,Portugal,1.0,3.0,Friendly
 2018-10-15,Iceland,Suiza,1.0,2.0,UEFA Nations League
 2018-10-15,España,Inglaterra,2.0,3.0,UEFA Nations League
-2018-10-15,Bosnia And Herzegovina,Northern Ireland,2.0,0.0,UEFA Nations League
+2018-10-15,Bosnia y Herzegovina,Northern Ireland,2.0,0.0,UEFA Nations League
 2018-10-15,Croacia,Jordania,2.0,1.0,Friendly
 2018-10-15,Kuwait,Australia,0.0,4.0,Friendly
 2018-10-15,Arabia Saudita,Iraq,1.0,1.0,Friendly
@@ -22770,7 +22770,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-11-14,Suiza,Qatar,0.0,1.0,Friendly
 2018-11-15,Bélgica,Iceland,2.0,0.0,UEFA Nations League
 2018-11-15,Croacia,España,3.0,2.0,UEFA Nations League
-2018-11-15,Austria,Bosnia And Herzegovina,0.0,0.0,UEFA Nations League
+2018-11-15,Austria,Bosnia y Herzegovina,0.0,0.0,UEFA Nations League
 2018-11-15,Inglaterra,Estados Unidos,3.0,0.0,Friendly
 2018-11-15,Alemania,Russia,3.0,0.0,Friendly
 2018-11-15,Iran,Trinidad And Tobago,1.0,0.0,Friendly
@@ -22798,7 +22798,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2018-11-18,Suiza,Bélgica,5.0,2.0,UEFA Nations League
 2018-11-18,Inglaterra,Croacia,2.0,1.0,UEFA Nations League
 2018-11-18,Northern Ireland,Austria,1.0,2.0,UEFA Nations League
-2018-11-18,España,Bosnia And Herzegovina,1.0,0.0,Friendly
+2018-11-18,España,Bosnia y Herzegovina,1.0,0.0,Friendly
 2018-11-18,Ethiopia,Ghana,0.0,2.0,African Cup of Nations qualification
 2018-11-18,RD Congo,RD Congo,1.0,1.0,African Cup of Nations qualification
 2018-11-18,Guinea,Costa de Marfil,1.0,1.0,African Cup of Nations qualification
@@ -22902,7 +22902,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-03-23,Georgia,Suiza,0.0,2.0,UEFA Euro qualification
 2019-03-23,Suecia,Romania,2.0,1.0,UEFA Euro qualification
 2019-03-23,España,Noruega,2.0,1.0,UEFA Euro qualification
-2019-03-23,Bosnia And Herzegovina,Armenia,2.0,1.0,UEFA Euro qualification
+2019-03-23,Bosnia y Herzegovina,Armenia,2.0,1.0,UEFA Euro qualification
 2019-03-23,Senegal,Madagascar,2.0,0.0,African Cup of Nations qualification
 2019-03-23,Ghana,Kenya,1.0,0.0,African Cup of Nations qualification
 2019-03-23,Niger,Egipto,1.0,1.0,African Cup of Nations qualification
@@ -22939,7 +22939,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-03-26,Suiza,Dinamarca,3.0,3.0,UEFA Euro qualification
 2019-03-26,Malta,España,0.0,2.0,UEFA Euro qualification
 2019-03-26,Noruega,Suecia,3.0,3.0,UEFA Euro qualification
-2019-03-26,Bosnia And Herzegovina,Greece,2.0,2.0,UEFA Euro qualification
+2019-03-26,Bosnia y Herzegovina,Greece,2.0,2.0,UEFA Euro qualification
 2019-05-29,Panamá,Basque Country,0.0,0.0,Friendly
 2019-05-30,Turquía,Greece,2.0,1.0,Friendly
 2019-06-01,Venezuela,Ecuador,1.0,1.0,Friendly
@@ -22976,7 +22976,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-06-08,Turquía,Francia,2.0,0.0,UEFA Euro qualification
 2019-06-08,Scotland,Cyprus,2.0,1.0,UEFA Euro qualification
 2019-06-08,Bélgica,Kazakhstan,3.0,0.0,UEFA Euro qualification
-2019-06-08,Finland,Bosnia And Herzegovina,2.0,0.0,UEFA Euro qualification
+2019-06-08,Finland,Bosnia y Herzegovina,2.0,0.0,UEFA Euro qualification
 2019-06-09,Brasil,Honduras,7.0,0.0,Friendly
 2019-06-09,RD Congo,Burkina Faso,0.0,0.0,Friendly
 2019-06-09,Japón,El Salvador,2.0,0.0,Kirin Challenge Cup
@@ -22994,7 +22994,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-06-11,Iceland,Turquía,2.0,1.0,UEFA Euro qualification
 2019-06-11,Andorra,Francia,0.0,4.0,UEFA Euro qualification
 2019-06-11,Bélgica,Scotland,3.0,0.0,UEFA Euro qualification
-2019-06-11,Italia,Bosnia And Herzegovina,2.0,1.0,UEFA Euro qualification
+2019-06-11,Italia,Bosnia y Herzegovina,2.0,1.0,UEFA Euro qualification
 2019-06-11,Argelia,Burundi,1.0,1.0,Friendly
 2019-06-11,Croacia,Túnez,1.0,2.0,Friendly
 2019-06-11,Jordania,Indonesia,4.0,1.0,Friendly
@@ -23112,7 +23112,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-09-05,Faroe Islands,Suecia,0.0,4.0,UEFA Euro qualification
 2019-09-05,Noruega,Malta,2.0,0.0,UEFA Euro qualification
 2019-09-05,Romania,España,1.0,2.0,UEFA Euro qualification
-2019-09-05,Bosnia And Herzegovina,Liechtenstein,5.0,0.0,UEFA Euro qualification
+2019-09-05,Bosnia y Herzegovina,Liechtenstein,5.0,0.0,UEFA Euro qualification
 2019-09-05,Japón,Paraguay,2.0,0.0,Kirin Challenge Cup
 2019-09-05,Bermuda,Panamá,1.0,4.0,CONCACAF Nations League
 2019-09-05,Taiwan,Jordania,1.0,2.0,FIFA World Cup qualification
@@ -23140,7 +23140,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-09-08,Suiza,Gibraltar,4.0,0.0,UEFA Euro qualification
 2019-09-08,España,Faroe Islands,4.0,0.0,UEFA Euro qualification
 2019-09-08,Suecia,Noruega,1.0,1.0,UEFA Euro qualification
-2019-09-08,Armenia,Bosnia And Herzegovina,4.0,2.0,UEFA Euro qualification
+2019-09-08,Armenia,Bosnia y Herzegovina,4.0,2.0,UEFA Euro qualification
 2019-09-08,Panamá,Bermuda,0.0,2.0,CONCACAF Nations League
 2019-09-09,Argelia,Benin,1.0,0.0,Friendly
 2019-09-09,Iraq,Uzbekistán,0.0,0.0,Friendly
@@ -23205,7 +23205,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-10-12,Dinamarca,Suiza,1.0,0.0,UEFA Euro qualification
 2019-10-12,Malta,Suecia,0.0,4.0,UEFA Euro qualification
 2019-10-12,Noruega,España,1.0,1.0,UEFA Euro qualification
-2019-10-12,Bosnia And Herzegovina,Finland,4.0,1.0,UEFA Euro qualification
+2019-10-12,Bosnia y Herzegovina,Finland,4.0,1.0,UEFA Euro qualification
 2019-10-12,Colombia,Chile,0.0,0.0,Friendly
 2019-10-12,Costa de Marfil,RD Congo,3.0,1.0,Friendly
 2019-10-12,Túnez,Cameroon,0.0,0.0,Friendly
@@ -23228,7 +23228,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-10-15,Suiza,Republic Of Ireland,2.0,0.0,UEFA Euro qualification
 2019-10-15,Suecia,España,1.0,1.0,UEFA Euro qualification
 2019-10-15,Romania,Noruega,1.0,1.0,UEFA Euro qualification
-2019-10-15,Greece,Bosnia And Herzegovina,2.0,1.0,UEFA Euro qualification
+2019-10-15,Greece,Bosnia y Herzegovina,2.0,1.0,UEFA Euro qualification
 2019-10-15,Argelia,Colombia,3.0,0.0,Friendly
 2019-10-15,Bolivia,Haití,3.0,1.0,Friendly
 2019-10-15,Marruecos,Gabon,2.0,3.0,Friendly
@@ -23274,7 +23274,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-11-15,España,Malta,7.0,0.0,UEFA Euro qualification
 2019-11-15,Romania,Suecia,0.0,2.0,UEFA Euro qualification
 2019-11-15,Brasil,Argentina,0.0,1.0,Superclásico de las Américas
-2019-11-15,Bosnia And Herzegovina,Italia,0.0,3.0,UEFA Euro qualification
+2019-11-15,Bosnia y Herzegovina,Italia,0.0,3.0,UEFA Euro qualification
 2019-11-15,Estados Unidos,Canadá,4.0,1.0,CONCACAF Nations League
 2019-11-15,Panamá,México,0.0,3.0,CONCACAF Nations League
 2019-11-15,Colombia,Perú,1.0,0.0,Friendly
@@ -23305,7 +23305,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2019-11-18,Malta,Noruega,1.0,2.0,UEFA Euro qualification
 2019-11-18,España,Romania,5.0,0.0,UEFA Euro qualification
 2019-11-18,Suecia,Faroe Islands,3.0,0.0,UEFA Euro qualification
-2019-11-18,Liechtenstein,Bosnia And Herzegovina,0.0,3.0,UEFA Euro qualification
+2019-11-18,Liechtenstein,Bosnia y Herzegovina,0.0,3.0,UEFA Euro qualification
 2019-11-18,Argentina,Uruguay,2.0,2.0,Friendly
 2019-11-19,Burundi,Marruecos,0.0,3.0,African Cup of Nations qualification
 2019-11-19,Equatorial Guinea,Túnez,0.0,1.0,African Cup of Nations qualification
@@ -23351,7 +23351,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2020-09-03,Alemania,España,1.0,1.0,UEFA Nations League
 2020-09-03,Ucrania,Suiza,2.0,1.0,UEFA Nations League
 2020-09-03,Turquía,Hungary,0.0,1.0,UEFA Nations League
-2020-09-04,Italia,Bosnia And Herzegovina,1.0,1.0,UEFA Nations League
+2020-09-04,Italia,Bosnia y Herzegovina,1.0,1.0,UEFA Nations League
 2020-09-04,Países Bajos,Polonia,1.0,0.0,UEFA Nations League
 2020-09-04,Noruega,Austria,1.0,2.0,UEFA Nations League
 2020-09-04,Scotland,Israel,1.0,1.0,UEFA Nations League
@@ -23363,7 +23363,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2020-09-06,España,Ucrania,4.0,0.0,UEFA Nations League
 2020-09-06,Suiza,Alemania,1.0,1.0,UEFA Nations League
 2020-09-06,Serbia,Turquía,0.0,0.0,UEFA Nations League
-2020-09-07,Bosnia And Herzegovina,Polonia,1.0,2.0,UEFA Nations League
+2020-09-07,Bosnia y Herzegovina,Polonia,1.0,2.0,UEFA Nations League
 2020-09-07,Países Bajos,Italia,0.0,1.0,UEFA Nations League
 2020-09-07,Northern Ireland,Noruega,1.0,5.0,UEFA Nations League
 2020-09-07,Austria,Romania,2.0,3.0,UEFA Nations League
@@ -23388,7 +23388,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2020-10-08,Paraguay,Perú,2.0,2.0,FIFA World Cup qualification
 2020-10-08,Uruguay,Chile,2.0,1.0,FIFA World Cup qualification
 2020-10-08,Argentina,Ecuador,1.0,0.0,FIFA World Cup qualification
-2020-10-08,Bosnia And Herzegovina,Northern Ireland,1.0,1.0,UEFA Euro qualification
+2020-10-08,Bosnia y Herzegovina,Northern Ireland,1.0,1.0,UEFA Euro qualification
 2020-10-08,Scotland,Israel,0.0,0.0,UEFA Euro qualification
 2020-10-08,Noruega,Serbia,1.0,2.0,UEFA Euro qualification
 2020-10-09,Burkina Faso,RD Congo,3.0,0.0,Friendly
@@ -23404,7 +23404,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2020-10-10,Ucrania,Alemania,1.0,2.0,UEFA Nations League
 2020-10-10,Cape Verde,Guinea,1.0,2.0,Friendly
 2020-10-10,Costa Rica,Panamá,0.0,1.0,Friendly
-2020-10-11,Bosnia And Herzegovina,Países Bajos,0.0,0.0,UEFA Nations League
+2020-10-11,Bosnia y Herzegovina,Países Bajos,0.0,0.0,UEFA Nations League
 2020-10-11,Inglaterra,Bélgica,2.0,1.0,UEFA Nations League
 2020-10-11,Croacia,Suecia,2.0,1.0,UEFA Nations League
 2020-10-11,Francia,Portugal,0.0,0.0,UEFA Nations League
@@ -23429,7 +23429,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2020-10-13,Perú,Brasil,2.0,4.0,FIFA World Cup qualification
 2020-10-13,Chile,Colombia,2.0,2.0,FIFA World Cup qualification
 2020-10-14,Italia,Países Bajos,1.0,1.0,UEFA Nations League
-2020-10-14,Polonia,Bosnia And Herzegovina,3.0,0.0,UEFA Nations League
+2020-10-14,Polonia,Bosnia y Herzegovina,3.0,0.0,UEFA Nations League
 2020-10-14,Iceland,Bélgica,1.0,2.0,UEFA Nations League
 2020-10-14,Inglaterra,Dinamarca,0.0,1.0,UEFA Nations League
 2020-10-14,Portugal,Suecia,3.0,0.0,UEFA Nations League
@@ -23448,7 +23448,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2020-11-11,Turquía,Croacia,3.0,3.0,Friendly
 2020-11-11,Senegal,Guinea-Bissau,2.0,0.0,African Cup of Nations qualification
 2020-11-12,Serbia,Scotland,1.0,1.0,UEFA Euro qualification
-2020-11-12,Bosnia And Herzegovina,Iran,0.0,2.0,Friendly
+2020-11-12,Bosnia y Herzegovina,Iran,0.0,2.0,Friendly
 2020-11-12,Inglaterra,Republic Of Ireland,3.0,0.0,Friendly
 2020-11-12,Jordania,Iraq,0.0,0.0,Friendly
 2020-11-12,Uzbekistán,Syria,0.0,1.0,Friendly
@@ -23475,7 +23475,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2020-11-14,Arabia Saudita,Jamaica,3.0,0.0,Friendly
 2020-11-14,RD Congo,Angola,0.0,0.0,African Cup of Nations qualification
 2020-11-14,Egipto,Togo,1.0,0.0,African Cup of Nations qualification
-2020-11-15,Países Bajos,Bosnia And Herzegovina,3.0,1.0,UEFA Nations League
+2020-11-15,Países Bajos,Bosnia y Herzegovina,3.0,1.0,UEFA Nations League
 2020-11-15,Bélgica,Inglaterra,2.0,0.0,UEFA Nations League
 2020-11-15,Austria,Northern Ireland,2.0,1.0,UEFA Nations League
 2020-11-15,Romania,Noruega,3.0,0.0,UEFA Nations League
@@ -23507,7 +23507,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2020-11-17,Togo,Egipto,1.0,3.0,African Cup of Nations qualification
 2020-11-17,Tanzania,Túnez,1.0,1.0,African Cup of Nations qualification
 2020-11-17,Madagascar,Costa de Marfil,1.0,1.0,African Cup of Nations qualification
-2020-11-18,Bosnia And Herzegovina,Italia,0.0,2.0,UEFA Nations League
+2020-11-18,Bosnia y Herzegovina,Italia,0.0,2.0,UEFA Nations League
 2020-11-18,Polonia,Países Bajos,1.0,2.0,UEFA Nations League
 2020-11-18,Inglaterra,Iceland,4.0,0.0,UEFA Nations League
 2020-11-18,Bélgica,Dinamarca,4.0,2.0,UEFA Nations League
@@ -23529,7 +23529,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-03-24,Qatar,Luxembourg,1.0,0.0,Friendly
 2021-03-24,Portugal,Azerbaijan,1.0,0.0,FIFA World Cup qualification
 2021-03-24,Francia,Ucrania,1.0,1.0,FIFA World Cup qualification
-2021-03-24,Finland,Bosnia And Herzegovina,2.0,2.0,FIFA World Cup qualification
+2021-03-24,Finland,Bosnia y Herzegovina,2.0,2.0,FIFA World Cup qualification
 2021-03-24,Bélgica,Wales,3.0,1.0,FIFA World Cup qualification
 2021-03-24,Estonia,Czech Republic,2.0,6.0,FIFA World Cup qualification
 2021-03-24,Turquía,Países Bajos,4.0,2.0,FIFA World Cup qualification
@@ -23557,7 +23557,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-03-26,Cape Verde,Cameroon,3.0,1.0,African Cup of Nations qualification
 2021-03-26,RD Congo,Senegal,0.0,0.0,African Cup of Nations qualification
 2021-03-26,Niger,Costa de Marfil,0.0,3.0,African Cup of Nations qualification
-2021-03-27,Bosnia And Herzegovina,Costa Rica,0.0,0.0,Friendly
+2021-03-27,Bosnia y Herzegovina,Costa Rica,0.0,0.0,Friendly
 2021-03-27,Qatar,Azerbaijan,2.0,1.0,Friendly
 2021-03-27,Wales,México,1.0,0.0,Friendly
 2021-03-27,Serbia,Portugal,2.0,2.0,FIFA World Cup qualification
@@ -23606,7 +23606,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-03-31,Suecia,Estonia,1.0,0.0,Friendly
 2021-03-31,Suiza,Finland,3.0,2.0,Friendly
 2021-03-31,España,Kosovo,3.0,1.0,FIFA World Cup qualification
-2021-03-31,Bosnia And Herzegovina,Francia,0.0,1.0,FIFA World Cup qualification
+2021-03-31,Bosnia y Herzegovina,Francia,0.0,1.0,FIFA World Cup qualification
 2021-03-31,Scotland,Faroe Islands,4.0,0.0,FIFA World Cup qualification
 2021-03-31,Austria,Dinamarca,0.0,4.0,FIFA World Cup qualification
 2021-03-31,Inglaterra,Polonia,2.0,1.0,FIFA World Cup qualification
@@ -23622,7 +23622,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-05-31,Jordania,Vietnam,1.0,1.0,Friendly
 2021-05-31,Turquía,Guinea,0.0,0.0,Friendly
 2021-06-01,Croacia,Armenia,1.0,1.0,Friendly
-2021-06-02,Bosnia And Herzegovina,Montenegro,0.0,0.0,Friendly
+2021-06-02,Bosnia y Herzegovina,Montenegro,0.0,0.0,Friendly
 2021-06-02,Inglaterra,Austria,1.0,0.0,Friendly
 2021-06-02,Francia,Wales,3.0,0.0,Friendly
 2021-06-02,Alemania,Dinamarca,1.0,1.0,Friendly
@@ -23656,7 +23656,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-06-06,Argelia,Mali,1.0,0.0,Friendly
 2021-06-06,Austria,Slovakia,0.0,0.0,Friendly
 2021-06-06,Bélgica,Croacia,1.0,0.0,Friendly
-2021-06-06,Dinamarca,Bosnia And Herzegovina,2.0,0.0,Friendly
+2021-06-06,Dinamarca,Bosnia y Herzegovina,2.0,0.0,Friendly
 2021-06-06,Inglaterra,Romania,1.0,0.0,Friendly
 2021-06-06,Luxembourg,Scotland,0.0,1.0,Friendly
 2021-06-06,Países Bajos,Georgia,3.0,0.0,Friendly
@@ -23825,7 +23825,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-09-01,Egipto,Angola,1.0,0.0,FIFA World Cup qualification
 2021-09-01,Senegal,Togo,2.0,0.0,FIFA World Cup qualification
 2021-09-01,Portugal,Republic Of Ireland,2.0,1.0,FIFA World Cup qualification
-2021-09-01,Francia,Bosnia And Herzegovina,1.0,1.0,FIFA World Cup qualification
+2021-09-01,Francia,Bosnia y Herzegovina,1.0,1.0,FIFA World Cup qualification
 2021-09-01,Dinamarca,Scotland,2.0,0.0,FIFA World Cup qualification
 2021-09-01,Moldova,Austria,0.0,2.0,FIFA World Cup qualification
 2021-09-01,Noruega,Países Bajos,1.0,1.0,FIFA World Cup qualification
@@ -23858,7 +23858,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-09-03,Mozambique,Costa de Marfil,0.0,0.0,FIFA World Cup qualification
 2021-09-03,Zimbabwe,South Africa,0.0,0.0,FIFA World Cup qualification
 2021-09-03,Ghana,Ethiopia,1.0,0.0,FIFA World Cup qualification
-2021-09-04,Bosnia And Herzegovina,Kuwait,1.0,0.0,Friendly
+2021-09-04,Bosnia y Herzegovina,Kuwait,1.0,0.0,Friendly
 2021-09-04,Haití,Jordania,2.0,0.0,Friendly
 2021-09-04,Qatar,Portugal,1.0,3.0,Friendly
 2021-09-04,Ucrania,Francia,1.0,1.0,FIFA World Cup qualification
@@ -23896,7 +23896,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-09-07,Vietnam,Australia,0.0,1.0,FIFA World Cup qualification
 2021-09-07,Oman,Arabia Saudita,0.0,1.0,FIFA World Cup qualification
 2021-09-07,Azerbaijan,Portugal,0.0,3.0,FIFA World Cup qualification
-2021-09-07,Bosnia And Herzegovina,Kazakhstan,2.0,2.0,FIFA World Cup qualification
+2021-09-07,Bosnia y Herzegovina,Kazakhstan,2.0,2.0,FIFA World Cup qualification
 2021-09-07,Francia,Finland,2.0,0.0,FIFA World Cup qualification
 2021-09-07,Austria,Scotland,0.0,1.0,FIFA World Cup qualification
 2021-09-07,Países Bajos,Turquía,6.0,1.0,FIFA World Cup qualification
@@ -23948,7 +23948,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-10-08,Egipto,Libya,1.0,0.0,FIFA World Cup qualification
 2021-10-09,Suecia,Kosovo,3.0,0.0,FIFA World Cup qualification
 2021-10-09,Suiza,Northern Ireland,2.0,0.0,FIFA World Cup qualification
-2021-10-09,Kazakhstan,Bosnia And Herzegovina,0.0,2.0,FIFA World Cup qualification
+2021-10-09,Kazakhstan,Bosnia y Herzegovina,0.0,2.0,FIFA World Cup qualification
 2021-10-09,Scotland,Israel,3.0,2.0,FIFA World Cup qualification
 2021-10-09,Faroe Islands,Austria,0.0,2.0,FIFA World Cup qualification
 2021-10-09,Andorra,Inglaterra,0.0,5.0,FIFA World Cup qualification
@@ -23987,7 +23987,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-10-12,Portugal,Luxembourg,5.0,0.0,FIFA World Cup qualification
 2021-10-12,Suecia,Greece,2.0,0.0,FIFA World Cup qualification
 2021-10-12,Lithuania,Suiza,0.0,4.0,FIFA World Cup qualification
-2021-10-12,Ucrania,Bosnia And Herzegovina,1.0,1.0,FIFA World Cup qualification
+2021-10-12,Ucrania,Bosnia y Herzegovina,1.0,1.0,FIFA World Cup qualification
 2021-10-12,Faroe Islands,Scotland,0.0,1.0,FIFA World Cup qualification
 2021-10-12,Dinamarca,Austria,1.0,0.0,FIFA World Cup qualification
 2021-10-12,Inglaterra,Hungary,1.0,1.0,FIFA World Cup qualification
@@ -24043,7 +24043,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-11-13,Equatorial Guinea,Túnez,1.0,0.0,FIFA World Cup qualification
 2021-11-13,Cape Verde,Central African Republic,2.0,1.0,FIFA World Cup qualification
 2021-11-13,Costa de Marfil,Mozambique,3.0,0.0,FIFA World Cup qualification
-2021-11-13,Bosnia And Herzegovina,Finland,1.0,3.0,FIFA World Cup qualification
+2021-11-13,Bosnia y Herzegovina,Finland,1.0,3.0,FIFA World Cup qualification
 2021-11-13,Francia,Kazakhstan,8.0,0.0,FIFA World Cup qualification
 2021-11-13,Bélgica,Estonia,3.0,1.0,FIFA World Cup qualification
 2021-11-13,Noruega,Latvia,0.0,0.0,FIFA World Cup qualification
@@ -24078,7 +24078,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-11-16,Jamaica,Estados Unidos,1.0,1.0,FIFA World Cup qualification
 2021-11-16,Canadá,México,2.0,1.0,FIFA World Cup qualification
 2021-11-16,Panamá,El Salvador,2.0,1.0,FIFA World Cup qualification
-2021-11-16,Bosnia And Herzegovina,Ucrania,0.0,2.0,FIFA World Cup qualification
+2021-11-16,Bosnia y Herzegovina,Ucrania,0.0,2.0,FIFA World Cup qualification
 2021-11-16,Finland,Francia,0.0,2.0,FIFA World Cup qualification
 2021-11-16,Wales,Bélgica,1.0,1.0,FIFA World Cup qualification
 2021-11-16,Czech Republic,Estonia,2.0,0.0,FIFA World Cup qualification
@@ -24117,7 +24117,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2021-12-15,Qatar,Argelia,1.0,2.0,Arab Cup
 2021-12-18,Qatar,Egipto,0.0,0.0,Arab Cup
 2021-12-18,Túnez,Argelia,0.0,2.0,Arab Cup
-2021-12-18,Estados Unidos,Bosnia And Herzegovina,1.0,0.0,Friendly
+2021-12-18,Estados Unidos,Bosnia y Herzegovina,1.0,0.0,Friendly
 2022-01-05,Argelia,Ghana,3.0,0.0,Friendly
 2022-01-09,Ethiopia,Cape Verde,0.0,1.0,African Cup of Nations
 2022-01-10,Senegal,Zimbabwe,1.0,0.0,African Cup of Nations
@@ -24213,7 +24213,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2022-03-25,Ghana,Nigeria,0.0,0.0,FIFA World Cup qualification
 2022-03-25,Mali,Túnez,0.0,1.0,FIFA World Cup qualification
 2022-03-25,Argentina,Venezuela,3.0,0.0,FIFA World Cup qualification
-2022-03-25,Bosnia And Herzegovina,Georgia,0.0,1.0,Friendly
+2022-03-25,Bosnia y Herzegovina,Georgia,0.0,1.0,Friendly
 2022-03-25,Cape Verde,Liechtenstein,6.0,0.0,Friendly
 2022-03-25,RD Congo,Zambia,1.0,3.0,Friendly
 2022-03-25,Francia,Costa de Marfil,2.0,1.0,Friendly
@@ -24252,7 +24252,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2022-03-29,Portugal,North Macedonia,2.0,0.0,FIFA World Cup qualification
 2022-03-29,Austria,Scotland,2.0,2.0,Friendly
 2022-03-29,Bélgica,Burkina Faso,3.0,0.0,Friendly
-2022-03-29,Bosnia And Herzegovina,Luxembourg,1.0,0.0,Friendly
+2022-03-29,Bosnia y Herzegovina,Luxembourg,1.0,0.0,Friendly
 2022-03-29,RD Congo,Sierra Leone,1.0,2.0,Friendly
 2022-03-29,Croacia,Bulgaria,2.0,1.0,Friendly
 2022-03-29,Inglaterra,Costa de Marfil,3.0,0.0,Friendly
@@ -24300,7 +24300,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2022-06-04,Bermuda,Haití,0.0,0.0,CONCACAF Nations League
 2022-06-04,Hungary,Inglaterra,1.0,0.0,UEFA Nations League
 2022-06-04,Italia,Alemania,1.0,1.0,UEFA Nations League
-2022-06-04,Finland,Bosnia And Herzegovina,1.0,1.0,UEFA Nations League
+2022-06-04,Finland,Bosnia y Herzegovina,1.0,1.0,UEFA Nations League
 2022-06-04,Turquía,Faroe Islands,4.0,0.0,UEFA Nations League
 2022-06-05,Egipto,Guinea,1.0,0.0,African Cup of Nations qualification
 2022-06-05,Central African Republic,Ghana,1.0,1.0,African Cup of Nations qualification
@@ -24322,7 +24322,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2022-06-07,Senegal,Rwanda,1.0,0.0,African Cup of Nations qualification
 2022-06-07,Haití,Montserrat,3.0,2.0,CONCACAF Nations League
 2022-06-07,Alemania,Inglaterra,1.0,1.0,UEFA Nations League
-2022-06-07,Bosnia And Herzegovina,Romania,1.0,0.0,UEFA Nations League
+2022-06-07,Bosnia y Herzegovina,Romania,1.0,0.0,UEFA Nations League
 2022-06-07,Lithuania,Turquía,0.0,6.0,UEFA Nations League
 2022-06-07,United Arab Emirates,Australia,1.0,2.0,FIFA World Cup qualification
 2022-06-08,Jordania,Nepal,2.0,0.0,AFC Asian Cup qualification
@@ -24359,7 +24359,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2022-06-11,Wales,Bélgica,1.0,1.0,UEFA Nations League
 2022-06-11,Países Bajos,Polonia,2.0,2.0,UEFA Nations League
 2022-06-11,Republic Of Ireland,Scotland,3.0,0.0,UEFA Nations League
-2022-06-11,Montenegro,Bosnia And Herzegovina,1.0,1.0,UEFA Nations League
+2022-06-11,Montenegro,Bosnia y Herzegovina,1.0,1.0,UEFA Nations League
 2022-06-11,Luxembourg,Turquía,0.0,2.0,UEFA Nations League
 2022-06-11,Ecuador,Cape Verde,1.0,0.0,Friendly
 2022-06-11,Uruguay,Panamá,5.0,0.0,Friendly
@@ -24384,7 +24384,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2022-06-14,Países Bajos,Wales,3.0,2.0,UEFA Nations League
 2022-06-14,Polonia,Bélgica,0.0,1.0,UEFA Nations League
 2022-06-14,Armenia,Scotland,1.0,4.0,UEFA Nations League
-2022-06-14,Bosnia And Herzegovina,Finland,3.0,2.0,UEFA Nations League
+2022-06-14,Bosnia y Herzegovina,Finland,3.0,2.0,UEFA Nations League
 2022-06-14,Turquía,Lithuania,2.0,0.0,UEFA Nations League
 2022-06-14,Chile,Ghana,0.0,0.0,Kirin Cup
 2022-06-14,Japón,Túnez,0.0,3.0,Kirin Cup
@@ -24427,7 +24427,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2022-09-23,Arabia Saudita,Ecuador,0.0,0.0,Friendly
 2022-09-23,Alemania,Hungary,0.0,1.0,UEFA Nations League
 2022-09-23,Italia,Inglaterra,1.0,0.0,UEFA Nations League
-2022-09-23,Bosnia And Herzegovina,Montenegro,1.0,0.0,UEFA Nations League
+2022-09-23,Bosnia y Herzegovina,Montenegro,1.0,0.0,UEFA Nations League
 2022-09-24,Bolivia,Senegal,0.0,2.0,Friendly
 2022-09-24,Colombia,Guatemala,4.0,1.0,Friendly
 2022-09-24,Indonesia,Curaçao,3.0,2.0,Friendly
@@ -24448,7 +24448,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2022-09-26,Iraq,Syria,1.0,0.0,Jordan International Tournament
 2022-09-26,Jordania,Oman,1.0,0.0,Jordan International Tournament
 2022-09-26,Inglaterra,Alemania,3.0,3.0,UEFA Nations League
-2022-09-26,Romania,Bosnia And Herzegovina,4.0,1.0,UEFA Nations League
+2022-09-26,Romania,Bosnia y Herzegovina,4.0,1.0,UEFA Nations League
 2022-09-27,Argelia,Nigeria,2.0,1.0,Friendly
 2022-09-27,Argentina,Jamaica,3.0,0.0,Friendly
 2022-09-27,Bahrain,Panamá,0.0,2.0,Friendly
@@ -24606,7 +24606,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-03-23,RD Congo,South Sudan,1.0,2.0,African Cup of Nations qualification
 2023-03-23,Italia,Inglaterra,1.0,2.0,UEFA Euro qualification
 2023-03-23,Portugal,Liechtenstein,4.0,0.0,UEFA Euro qualification
-2023-03-23,Bosnia And Herzegovina,Iceland,3.0,0.0,UEFA Euro qualification
+2023-03-23,Bosnia y Herzegovina,Iceland,3.0,0.0,UEFA Euro qualification
 2023-03-23,Suriname,México,0.0,2.0,CONCACAF Nations League
 2023-03-24,Australia,Ecuador,3.0,1.0,Friendly
 2023-03-24,Japón,Uruguay,1.0,1.0,Friendly
@@ -24638,7 +24638,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-03-26,Russia,Iraq,2.0,0.0,Friendly
 2023-03-26,Inglaterra,Ucrania,2.0,0.0,UEFA Euro qualification
 2023-03-26,Luxembourg,Portugal,0.0,6.0,UEFA Euro qualification
-2023-03-26,Slovakia,Bosnia And Herzegovina,2.0,0.0,UEFA Euro qualification
+2023-03-26,Slovakia,Bosnia y Herzegovina,2.0,0.0,UEFA Euro qualification
 2023-03-26,México,Jamaica,2.0,2.0,CONCACAF Nations League
 2023-03-27,Chile,Paraguay,3.0,2.0,Friendly
 2023-03-27,Angola,Ghana,1.0,1.0,African Cup of Nations qualification
@@ -24710,7 +24710,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-06-17,Noruega,Scotland,1.0,2.0,UEFA Euro qualification
 2023-06-17,Faroe Islands,Czech Republic,0.0,3.0,UEFA Euro qualification
 2023-06-17,Bélgica,Austria,1.0,1.0,UEFA Euro qualification
-2023-06-17,Portugal,Bosnia And Herzegovina,3.0,0.0,UEFA Euro qualification
+2023-06-17,Portugal,Bosnia y Herzegovina,3.0,0.0,UEFA Euro qualification
 2023-06-17,Uzbekistán,Tajikistan,5.0,1.0,CAFA Nations Cup
 2023-06-17,Zambia,Costa de Marfil,3.0,0.0,African Cup of Nations qualification
 2023-06-17,Equatorial Guinea,Túnez,1.0,0.0,African Cup of Nations qualification
@@ -24747,7 +24747,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-06-20,Austria,Suecia,2.0,0.0,UEFA Euro qualification
 2023-06-20,Estonia,Bélgica,0.0,3.0,UEFA Euro qualification
 2023-06-20,Iceland,Portugal,0.0,1.0,UEFA Euro qualification
-2023-06-20,Bosnia And Herzegovina,Luxembourg,0.0,2.0,UEFA Euro qualification
+2023-06-20,Bosnia y Herzegovina,Luxembourg,0.0,2.0,UEFA Euro qualification
 2023-06-20,Uzbekistán,Iran,0.0,1.0,CAFA Nations Cup
 2023-06-24,Estados Unidos,Jamaica,1.0,1.0,Gold Cup
 2023-06-25,Haití,Qatar,2.0,1.0,Gold Cup
@@ -24802,7 +24802,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-09-08,Cyprus,Scotland,0.0,3.0,UEFA Euro qualification
 2023-09-08,Croacia,Latvia,5.0,0.0,UEFA Euro qualification
 2023-09-08,Turquía,Armenia,1.0,1.0,UEFA Euro qualification
-2023-09-08,Bosnia And Herzegovina,Liechtenstein,2.0,1.0,UEFA Euro qualification
+2023-09-08,Bosnia y Herzegovina,Liechtenstein,2.0,1.0,UEFA Euro qualification
 2023-09-08,Slovakia,Portugal,0.0,1.0,UEFA Euro qualification
 2023-09-09,Alemania,Japón,1.0,4.0,Friendly
 2023-09-09,México,Australia,2.0,2.0,Friendly
@@ -24823,7 +24823,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-09-10,Republic Of Ireland,Países Bajos,1.0,2.0,UEFA Euro qualification
 2023-09-10,Thailand,Iraq,2.0,2.0,King's Cup
 2023-09-11,Armenia,Croacia,0.0,1.0,UEFA Euro qualification
-2023-09-11,Iceland,Bosnia And Herzegovina,1.0,0.0,UEFA Euro qualification
+2023-09-11,Iceland,Bosnia y Herzegovina,1.0,0.0,UEFA Euro qualification
 2023-09-11,Portugal,Luxembourg,9.0,0.0,UEFA Euro qualification
 2023-09-12,Jamaica,Haití,2.0,2.0,CONCACAF Nations League
 2023-09-12,Bolivia,Argentina,0.0,3.0,FIFA World Cup qualification
@@ -24874,7 +24874,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-10-13,Países Bajos,Francia,1.0,2.0,UEFA Euro qualification
 2023-10-13,Austria,Bélgica,2.0,3.0,UEFA Euro qualification
 2023-10-13,Portugal,Slovakia,3.0,2.0,UEFA Euro qualification
-2023-10-13,Liechtenstein,Bosnia And Herzegovina,0.0,2.0,UEFA Euro qualification
+2023-10-13,Liechtenstein,Bosnia y Herzegovina,0.0,2.0,UEFA Euro qualification
 2023-10-14,Costa de Marfil,Marruecos,1.0,1.0,Friendly
 2023-10-14,México,Ghana,2.0,0.0,Friendly
 2023-10-14,Estados Unidos,Alemania,1.0,3.0,Friendly
@@ -24890,7 +24890,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-10-16,Greece,Países Bajos,0.0,1.0,UEFA Euro qualification
 2023-10-16,Azerbaijan,Austria,0.0,1.0,UEFA Euro qualification
 2023-10-16,Bélgica,Suecia,1.0,1.0,UEFA Euro qualification
-2023-10-16,Bosnia And Herzegovina,Portugal,0.0,5.0,UEFA Euro qualification
+2023-10-16,Bosnia y Herzegovina,Portugal,0.0,5.0,UEFA Euro qualification
 2023-10-17,Panamá,Guatemala,3.0,0.0,CONCACAF Nations League
 2023-10-17,Curaçao,Trinidad And Tobago,5.0,3.0,CONCACAF Nations League
 2023-10-17,Ecuador,Colombia,0.0,0.0,FIFA World Cup qualification
@@ -24936,7 +24936,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-11-16,Estonia,Austria,0.0,2.0,UEFA Euro qualification
 2023-11-16,Azerbaijan,Suecia,3.0,0.0,UEFA Euro qualification
 2023-11-16,Liechtenstein,Portugal,0.0,2.0,UEFA Euro qualification
-2023-11-16,Luxembourg,Bosnia And Herzegovina,4.0,1.0,UEFA Euro qualification
+2023-11-16,Luxembourg,Bosnia y Herzegovina,4.0,1.0,UEFA Euro qualification
 2023-11-17,Honduras,México,2.0,0.0,CONCACAF Nations League
 2023-11-17,Zambia,RD Congo,4.0,2.0,FIFA World Cup qualification
 2023-11-17,Costa de Marfil,Seychelles,9.0,0.0,FIFA World Cup qualification
@@ -24961,7 +24961,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2023-11-19,Bélgica,Azerbaijan,5.0,0.0,UEFA Euro qualification
 2023-11-19,Suecia,Estonia,2.0,0.0,UEFA Euro qualification
 2023-11-19,Portugal,Iceland,2.0,0.0,UEFA Euro qualification
-2023-11-19,Bosnia And Herzegovina,Slovakia,1.0,2.0,UEFA Euro qualification
+2023-11-19,Bosnia y Herzegovina,Slovakia,1.0,2.0,UEFA Euro qualification
 2023-11-20,Panamá,Costa Rica,3.0,1.0,CONCACAF Nations League
 2023-11-20,Trinidad And Tobago,Estados Unidos,2.0,1.0,CONCACAF Nations League
 2023-11-20,Gambia,Costa de Marfil,0.0,2.0,FIFA World Cup qualification
@@ -25098,7 +25098,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-03-21,Cape Verde,Guyana,1.0,0.0,FIFA Series
 2024-03-21,Panamá,México,0.0,3.0,CONCACAF Nations League
 2024-03-21,Estados Unidos,Jamaica,3.0,1.0,CONCACAF Nations League
-2024-03-21,Bosnia And Herzegovina,Ucrania,1.0,2.0,UEFA Euro qualification
+2024-03-21,Bosnia y Herzegovina,Ucrania,1.0,2.0,UEFA Euro qualification
 2024-03-21,Qatar,Kuwait,3.0,0.0,FIFA World Cup qualification
 2024-03-21,Japón,North Korea,1.0,0.0,FIFA World Cup qualification
 2024-03-21,Corea del Sur,Thailand,1.0,1.0,FIFA World Cup qualification
@@ -25165,7 +25165,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-05-31,Bolivia,México,0.0,1.0,Friendly
 2024-05-31,Costa Rica,Uruguay,0.0,0.0,Friendly
 2024-06-03,Croacia,North Macedonia,3.0,0.0,Friendly
-2024-06-03,Inglaterra,Bosnia And Herzegovina,3.0,0.0,Friendly
+2024-06-03,Inglaterra,Bosnia y Herzegovina,3.0,0.0,Friendly
 2024-06-03,Alemania,Ucrania,0.0,0.0,Friendly
 2024-06-03,Gibraltar,Scotland,0.0,2.0,Friendly
 2024-06-04,Austria,Serbia,2.0,1.0,Friendly
@@ -25216,7 +25216,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-06-08,Aruba,Curaçao,0.0,2.0,FIFA World Cup qualification
 2024-06-09,Argentina,Ecuador,1.0,0.0,Friendly
 2024-06-09,Francia,Canadá,0.0,0.0,Friendly
-2024-06-09,Italia,Bosnia And Herzegovina,1.0,0.0,Friendly
+2024-06-09,Italia,Bosnia y Herzegovina,1.0,0.0,Friendly
 2024-06-09,Mauritania,Senegal,0.0,1.0,FIFA World Cup qualification
 2024-06-09,RD Congo,Togo,1.0,0.0,FIFA World Cup qualification
 2024-06-09,Namibia,Túnez,0.0,0.0,FIFA World Cup qualification
@@ -25366,7 +25366,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-09-07,México,Nueva Zelanda,3.0,0.0,Friendly
 2024-09-07,Estados Unidos,Canadá,1.0,2.0,Friendly
 2024-09-07,Alemania,Hungary,5.0,0.0,UEFA Nations League
-2024-09-07,Países Bajos,Bosnia And Herzegovina,5.0,2.0,UEFA Nations League
+2024-09-07,Países Bajos,Bosnia y Herzegovina,5.0,2.0,UEFA Nations League
 2024-09-07,Georgia,Czech Republic,4.0,1.0,UEFA Nations League
 2024-09-07,Republic Of Ireland,Inglaterra,0.0,2.0,UEFA Nations League
 2024-09-08,Gambia,Túnez,1.0,2.0,African Cup of Nations qualification
@@ -25391,7 +25391,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-09-10,Liberia,Argelia,0.0,3.0,African Cup of Nations qualification
 2024-09-10,Chad,Costa de Marfil,0.0,2.0,African Cup of Nations qualification
 2024-09-10,South Sudan,South Africa,2.0,3.0,African Cup of Nations qualification
-2024-09-10,Hungary,Bosnia And Herzegovina,0.0,0.0,UEFA Nations League
+2024-09-10,Hungary,Bosnia y Herzegovina,0.0,0.0,UEFA Nations League
 2024-09-10,Países Bajos,Alemania,2.0,2.0,UEFA Nations League
 2024-09-10,Czech Republic,Ucrania,3.0,2.0,UEFA Nations League
 2024-09-10,Inglaterra,Finland,2.0,0.0,UEFA Nations League
@@ -25434,7 +25434,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-10-11,Senegal,Malawi,4.0,0.0,African Cup of Nations qualification
 2024-10-11,Grenada,Curaçao,0.0,0.0,CONCACAF Nations League
 2024-10-11,Aruba,Haití,1.0,3.0,CONCACAF Nations League
-2024-10-11,Bosnia And Herzegovina,Alemania,1.0,2.0,UEFA Nations League
+2024-10-11,Bosnia y Herzegovina,Alemania,1.0,2.0,UEFA Nations League
 2024-10-11,Hungary,Países Bajos,1.0,1.0,UEFA Nations League
 2024-10-11,Czech Republic,Albania,2.0,0.0,UEFA Nations League
 2024-10-11,Turquía,Montenegro,1.0,0.0,UEFA Nations League
@@ -25454,7 +25454,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-10-14,Curaçao,Grenada,1.0,0.0,CONCACAF Nations League
 2024-10-14,Aruba,Haití,3.0,5.0,CONCACAF Nations League
 2024-10-14,Bélgica,Francia,1.0,2.0,UEFA Nations League
-2024-10-14,Bosnia And Herzegovina,Hungary,0.0,2.0,UEFA Nations League
+2024-10-14,Bosnia y Herzegovina,Hungary,0.0,2.0,UEFA Nations League
 2024-10-14,Alemania,Países Bajos,1.0,0.0,UEFA Nations League
 2024-10-14,Ucrania,Czech Republic,1.0,1.0,UEFA Nations League
 2024-10-14,Iceland,Turquía,2.0,4.0,UEFA Nations League
@@ -25520,7 +25520,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-11-15,Angola,Ghana,1.0,1.0,African Cup of Nations qualification
 2024-11-15,Zambia,Costa de Marfil,1.0,0.0,African Cup of Nations qualification
 2024-11-15,Uganda,South Africa,0.0,2.0,African Cup of Nations qualification
-2024-11-16,Alemania,Bosnia And Herzegovina,7.0,0.0,UEFA Nations League
+2024-11-16,Alemania,Bosnia y Herzegovina,7.0,0.0,UEFA Nations League
 2024-11-16,Países Bajos,Hungary,4.0,0.0,UEFA Nations League
 2024-11-16,Albania,Czech Republic,0.0,0.0,UEFA Nations League
 2024-11-16,Turquía,Wales,0.0,0.0,UEFA Nations League
@@ -25543,7 +25543,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2024-11-18,Túnez,Gambia,0.0,1.0,African Cup of Nations qualification
 2024-11-18,Marruecos,Lesotho,7.0,0.0,African Cup of Nations qualification
 2024-11-18,Ghana,Niger,1.0,2.0,African Cup of Nations qualification
-2024-11-19,Bosnia And Herzegovina,Países Bajos,1.0,1.0,UEFA Nations League
+2024-11-19,Bosnia y Herzegovina,Países Bajos,1.0,1.0,UEFA Nations League
 2024-11-19,Hungary,Alemania,1.0,1.0,UEFA Nations League
 2024-11-19,Czech Republic,Georgia,2.0,1.0,UEFA Nations League
 2024-11-19,Montenegro,Turquía,3.0,1.0,UEFA Nations League
@@ -25619,7 +25619,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-03-21,Burundi,Costa de Marfil,0.0,1.0,FIFA World Cup qualification
 2025-03-21,Botswana,Argelia,1.0,3.0,FIFA World Cup qualification
 2025-03-21,Ghana,Chad,5.0,0.0,FIFA World Cup qualification
-2025-03-21,Romania,Bosnia And Herzegovina,0.0,1.0,FIFA World Cup qualification
+2025-03-21,Romania,Bosnia y Herzegovina,0.0,1.0,FIFA World Cup qualification
 2025-03-21,Inglaterra,Albania,2.0,0.0,FIFA World Cup qualification
 2025-03-22,Azerbaijan,Haití,0.0,3.0,Friendly
 2025-03-22,Luxembourg,Suecia,1.0,0.0,Friendly
@@ -25640,7 +25640,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-03-24,Costa de Marfil,Gambia,1.0,0.0,FIFA World Cup qualification
 2025-03-24,Túnez,Malawi,2.0,0.0,FIFA World Cup qualification
 2025-03-24,Madagascar,Ghana,0.0,3.0,FIFA World Cup qualification
-2025-03-24,Bosnia And Herzegovina,Cyprus,2.0,1.0,FIFA World Cup qualification
+2025-03-24,Bosnia y Herzegovina,Cyprus,2.0,1.0,FIFA World Cup qualification
 2025-03-24,Inglaterra,Latvia,3.0,0.0,FIFA World Cup qualification
 2025-03-25,Suecia,Northern Ireland,5.0,1.0,Friendly
 2025-03-25,Suiza,Luxembourg,3.0,1.0,Friendly
@@ -25696,7 +25696,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-06-07,México,Suiza,2.0,4.0,Friendly
 2025-06-07,Estados Unidos,Turquía,1.0,2.0,Friendly
 2025-06-07,Finland,Países Bajos,0.0,2.0,FIFA World Cup qualification
-2025-06-07,Bosnia And Herzegovina,San Marino,1.0,0.0,FIFA World Cup qualification
+2025-06-07,Bosnia y Herzegovina,San Marino,1.0,0.0,FIFA World Cup qualification
 2025-06-07,Austria,Romania,2.0,1.0,FIFA World Cup qualification
 2025-06-07,Andorra,Inglaterra,0.0,1.0,FIFA World Cup qualification
 2025-06-07,Canadá,Ucrania,4.0,2.0,Canadian Shield
@@ -25715,7 +25715,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-06-09,Croacia,Czech Republic,5.0,1.0,FIFA World Cup qualification
 2025-06-10,Inglaterra,Senegal,1.0,3.0,Friendly
 2025-06-10,México,Turquía,1.0,0.0,Friendly
-2025-06-10,Slovenia,Bosnia And Herzegovina,2.0,1.0,Friendly
+2025-06-10,Slovenia,Bosnia y Herzegovina,2.0,1.0,Friendly
 2025-06-10,South Africa,Mozambique,2.0,0.0,Friendly
 2025-06-10,Suecia,Argelia,4.0,3.0,Friendly
 2025-06-10,Estados Unidos,Suiza,0.0,4.0,Friendly
@@ -25801,7 +25801,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-09-06,Estados Unidos,Corea del Sur,0.0,2.0,Friendly
 2025-09-06,Armenia,Portugal,0.0,5.0,FIFA World Cup qualification
 2025-09-06,Austria,Cyprus,1.0,0.0,FIFA World Cup qualification
-2025-09-06,San Marino,Bosnia And Herzegovina,0.0,6.0,FIFA World Cup qualification
+2025-09-06,San Marino,Bosnia y Herzegovina,0.0,6.0,FIFA World Cup qualification
 2025-09-06,Inglaterra,Andorra,2.0,0.0,FIFA World Cup qualification
 2025-09-07,Alemania,Northern Ireland,3.0,1.0,FIFA World Cup qualification
 2025-09-07,Turquía,España,0.0,6.0,FIFA World Cup qualification
@@ -25836,7 +25836,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-09-09,Gabon,Costa de Marfil,0.0,0.0,FIFA World Cup qualification
 2025-09-09,Francia,Iceland,2.0,1.0,FIFA World Cup qualification
 2025-09-09,Hungary,Portugal,2.0,3.0,FIFA World Cup qualification
-2025-09-09,Bosnia And Herzegovina,Austria,1.0,2.0,FIFA World Cup qualification
+2025-09-09,Bosnia y Herzegovina,Austria,1.0,2.0,FIFA World Cup qualification
 2025-09-09,Noruega,Moldova,11.0,1.0,FIFA World Cup qualification
 2025-09-09,Serbia,Inglaterra,0.0,5.0,FIFA World Cup qualification
 2025-09-09,Curaçao,Bermuda,3.0,2.0,FIFA World Cup qualification
@@ -25854,7 +25854,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-10-09,Scotland,Greece,3.0,1.0,FIFA World Cup qualification
 2025-10-09,Malta,Países Bajos,0.0,4.0,FIFA World Cup qualification
 2025-10-09,Austria,San Marino,10.0,0.0,FIFA World Cup qualification
-2025-10-09,Cyprus,Bosnia And Herzegovina,2.0,2.0,FIFA World Cup qualification
+2025-10-09,Cyprus,Bosnia y Herzegovina,2.0,2.0,FIFA World Cup qualification
 2025-10-09,Czech Republic,Croacia,0.0,0.0,FIFA World Cup qualification
 2025-10-09,Nicaragua,Haití,0.0,3.0,FIFA World Cup qualification
 2025-10-10,Argentina,Venezuela,1.0,0.0,Friendly
@@ -25883,7 +25883,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-10-11,Bulgaria,Turquía,1.0,6.0,FIFA World Cup qualification
 2025-10-11,Portugal,Republic Of Ireland,1.0,0.0,FIFA World Cup qualification
 2025-10-11,Noruega,Israel,5.0,0.0,FIFA World Cup qualification
-2025-10-12,Malta,Bosnia And Herzegovina,1.0,4.0,Friendly
+2025-10-12,Malta,Bosnia y Herzegovina,1.0,4.0,Friendly
 2025-10-12,Egipto,Guinea-Bissau,1.0,0.0,FIFA World Cup qualification
 2025-10-12,Ghana,Comoros,1.0,0.0,FIFA World Cup qualification
 2025-10-12,Scotland,Belarus,2.0,1.0,FIFA World Cup qualification
@@ -25958,7 +25958,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-11-15,Turquía,Bulgaria,2.0,0.0,FIFA World Cup qualification
 2025-11-15,Georgia,España,0.0,4.0,FIFA World Cup qualification
 2025-11-15,Cyprus,Austria,0.0,2.0,FIFA World Cup qualification
-2025-11-15,Bosnia And Herzegovina,Romania,3.0,1.0,FIFA World Cup qualification
+2025-11-15,Bosnia y Herzegovina,Romania,3.0,1.0,FIFA World Cup qualification
 2025-11-15,Kazakhstan,Bélgica,1.0,1.0,FIFA World Cup qualification
 2025-11-16,Nigeria,RD Congo,1.0,1.0,FIFA World Cup qualification
 2025-11-16,Azerbaijan,Francia,1.0,3.0,FIFA World Cup qualification
@@ -25989,7 +25989,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2025-11-18,Suecia,Slovenia,1.0,1.0,FIFA World Cup qualification
 2025-11-18,Scotland,Dinamarca,4.0,2.0,FIFA World Cup qualification
 2025-11-18,España,Turquía,2.0,2.0,FIFA World Cup qualification
-2025-11-18,Austria,Bosnia And Herzegovina,1.0,1.0,FIFA World Cup qualification
+2025-11-18,Austria,Bosnia y Herzegovina,1.0,1.0,FIFA World Cup qualification
 2025-11-18,Bélgica,Liechtenstein,7.0,0.0,FIFA World Cup qualification
 2025-11-18,Iran,Uzbekistán,0.0,0.0,Al Ain International Cup
 2025-11-18,Panamá,El Salvador,3.0,0.0,FIFA World Cup qualification
@@ -26067,7 +26067,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2026-03-25,Bermuda,RD Congo,0.0,2.0,Friendly
 2026-03-26,Brasil,Francia,1.0,2.0,Friendly
 2026-03-26,Colombia,Croacia,1.0,2.0,Friendly
-2026-03-26,Wales,Bosnia And Herzegovina,1.0,1.0,FIFA World Cup qualification
+2026-03-26,Wales,Bosnia y Herzegovina,1.0,1.0,FIFA World Cup qualification
 2026-03-26,Ucrania,Suecia,1.0,3.0,FIFA World Cup qualification
 2026-03-26,Turquía,Romania,1.0,0.0,FIFA World Cup qualification
 2026-03-26,Czech Republic,Republic Of Ireland,2.0,2.0,FIFA World Cup qualification
@@ -26122,7 +26122,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2026-03-31,Estados Unidos,Portugal,0.0,2.0,Friendly
 2026-03-31,RD Congo,Jamaica,1.0,0.0,FIFA World Cup qualification
 2026-03-31,Iraq,Bolivia,2.0,1.0,FIFA World Cup qualification
-2026-03-31,Bosnia And Herzegovina,Italia,1.0,1.0,FIFA World Cup qualification
+2026-03-31,Bosnia y Herzegovina,Italia,1.0,1.0,FIFA World Cup qualification
 2026-03-31,Suecia,Polonia,3.0,2.0,FIFA World Cup qualification
 2026-03-31,Kosovo,Turquía,0.0,1.0,FIFA World Cup qualification
 2026-03-31,Czech Republic,Dinamarca,2.0,2.0,FIFA World Cup qualification
@@ -26132,7 +26132,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2026-05-28,Republic Of Ireland,Qatar,1.0,0.0,Friendly
 2026-05-28,Egipto,Russia,1.0,0.0,Friendly
 2026-05-29,Andorra,Iraq,0.0,1.0,Friendly
-2026-05-29,Bosnia And Herzegovina,North Macedonia,0.0,0.0,Friendly
+2026-05-29,Bosnia y Herzegovina,North Macedonia,0.0,0.0,Friendly
 2026-05-29,Iran,Gambia,3.0,1.0,Friendly
 2026-05-29,South Africa,Nicaragua,0.0,0.0,Friendly
 2026-05-30,Ecuador,Arabia Saudita,2.0,1.0,Friendly
@@ -26178,7 +26178,7 @@ date,home_team,away_team,home_score,away_score,tournament
 2026-06-06,Curaçao,Aruba,4.0,0.0,Friendly
 2026-06-06,Inglaterra,Nueva Zelanda,1.0,0.0,Friendly
 2026-06-06,Jamaica,South Africa,0.0,1.0,Friendly
-2026-06-06,Panamá,Bosnia And Herzegovina,1.0,1.0,Friendly
+2026-06-06,Panamá,Bosnia y Herzegovina,1.0,1.0,Friendly
 2026-06-06,Portugal,Chile,2.0,1.0,Friendly
 2026-06-06,Qatar,El Salvador,0.0,0.0,Friendly
 2026-06-06,Estados Unidos,Alemania,1.0,2.0,Friendly

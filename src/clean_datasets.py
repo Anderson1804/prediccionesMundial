@@ -49,7 +49,12 @@ DIC_UNIVERSAL = {
     "ivory coast": "Costa de Marfil",
     "cote d'ivoire": "Costa de Marfil",
     "côte d'ivoire": "Costa de Marfil",
-    "costa de marfil": "Costa de Marfil"
+    "costa de marfil": "Costa de Marfil",
+    "Bosnia and Herzegovina": "Bosnia-Herzegovina",
+    "bosnia and herzegovina": "Bosnia y Herzegovina",
+    "bosnia & herzegovina": "Bosnia y Herzegovina",
+    "bosnia-herzegovina": "Bosnia y Herzegovina",
+    "bosnia y herzegovina": "Bosnia y Herzegovina"
 }
 
 def normalizar_pais(nombre):
