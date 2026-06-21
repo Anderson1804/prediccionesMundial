@@ -3123,15 +3123,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1968-08-05,España,Inglaterra,España,Amancio Amaro,47.0,False,False
 1968-08-05,España,Inglaterra,Inglaterra,Martin Peters,54.0,False,False
 1968-08-05,España,Inglaterra,Inglaterra,Norman Hunter,81.0,False,False
-1968-10-05,Iran,Hong Kong,Iran,Homayoun Behzadi,70.0,False,False
-1968-10-05,Iran,Hong Kong,Iran,Ali Jabbari,89.0,False,False
-,Iran,Taiwan,Iran,Homayoun Behzadi,34.0,False,False
-,Iran,Taiwan,Iran,Hossein Kalani,35.0,False,False
-,Iran,Taiwan,Iran,Akbar Eftekhari,51.0,False,False
-,Iran,Taiwan,Iran,Gholam Hossein Farzami,57.0,False,False
-,Iran,Myanmar,Iran,Hossein Kalani,2.0,False,False
-,Iran,Myanmar,Iran,Akbar Eftekhari,60.0,False,False
-,Iran,Myanmar,Iran,Homayoun Behzadi,70.0,False,False
+1968-10-05,Irán,Hong Kong,Irán,Homayoun Behzadi,70.0,False,False
+1968-10-05,Irán,Hong Kong,Irán,Ali Jabbari,89.0,False,False
+,Irán,Taiwan,Irán,Homayoun Behzadi,34.0,False,False
+,Irán,Taiwan,Irán,Hossein Kalani,35.0,False,False
+,Irán,Taiwan,Irán,Akbar Eftekhari,51.0,False,False
+,Irán,Taiwan,Irán,Gholam Hossein Farzami,57.0,False,False
+,Irán,Myanmar,Irán,Hossein Kalani,2.0,False,False
+,Irán,Myanmar,Irán,Akbar Eftekhari,60.0,False,False
+,Irán,Myanmar,Irán,Homayoun Behzadi,70.0,False,False
 ,Austria,Cyprus,Austria,Erich Hof,4.0,False,False
 ,Austria,Cyprus,Austria,Helmut Redl,25.0,False,False
 ,Austria,Cyprus,Austria,Erich Hof,42.0,False,False
@@ -3139,8 +3139,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Austria,Cyprus,Austria,Erich Hof,68.0,False,False
 ,Austria,Cyprus,Austria,Helmut Siber,73.0,False,False
 ,Austria,Cyprus,Austria,Erich Hof,76.0,False,False
-,Iran,Israel,Iran,Homayoun Behzadi,75.0,False,False
-,Iran,Israel,Iran,Parviz Ghelichkhani,87.0,False,False
+,Irán,Israel,Irán,Homayoun Behzadi,75.0,False,False
+,Irán,Israel,Irán,Parviz Ghelichkhani,87.0,False,False
 1968-08-06,Inglaterra,Russia,Inglaterra,Bobby Charlton,39.0,False,False
 1968-08-06,Inglaterra,Russia,Inglaterra,Geoff Hurst,63.0,False,False
 ,Finland,Bélgica,Bélgica,Johan Devrindt,85.0,False,False
@@ -3664,11 +3664,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Austria,Malta,Austria,Josef Hickersberger,34.0,False,False
 ,Austria,Malta,Austria,Josef Hickersberger,36.0,False,False
 ,Austria,Malta,Austria,Norbert Hof,85.0,False,False
-1972-07-05,Iran,Cambodia,Iran,Hossein Kalani,45.0,False,False
-1972-07-05,Iran,Cambodia,Iran,Safar Iranpak,51.0,False,False
-1972-09-05,Iran,Iraq,Iran,Hossein Kalani,34.0,False,False
-1972-09-05,Iran,Iraq,Iran,Hossein Kalani,70.0,False,False
-1972-09-05,Iran,Iraq,Iran,Hossein Kalani,78.0,False,False
+1972-07-05,Irán,Cambodia,Irán,Hossein Kalani,45.0,False,False
+1972-07-05,Irán,Cambodia,Irán,Safar Iranpak,51.0,False,False
+1972-09-05,Irán,Iraq,Irán,Hossein Kalani,34.0,False,False
+1972-09-05,Irán,Iraq,Irán,Hossein Kalani,70.0,False,False
+1972-09-05,Irán,Iraq,Irán,Hossein Kalani,78.0,False,False
 1972-10-05,Cambodia,Corea del Sur,Corea del Sur,Park Su-deok,37.0,False,False
 1972-10-05,Cambodia,Corea del Sur,Corea del Sur,Lee Hoi-taek,59.0,False,False
 1972-10-05,Cambodia,Corea del Sur,Corea del Sur,Cha Bum-kun,69.0,False,False
@@ -3678,19 +3678,19 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1972-12-05,Corea del Sur,Kuwait,Corea del Sur,Park Lee-chun,2.0,False,False
 ,Bélgica,Italia,Bélgica,Wilfried Van Moer,23.0,False,False
 ,Bélgica,Italia,Bélgica,Paul Van Himst,71.0,False,False
-,Thailand,Iran,Iran,Ali Jabbari,80.0,False,False
-,Thailand,Iran,Iran,Ali Jabbari,86.0,False,False
-,Thailand,Iran,Iran,Ali Jabbari,88.0,False,False
-,Iran,Cambodia,Iran,Safar Iranpak,13.0,False,False
-,Iran,Cambodia,Iran,Parviz Ghelichkhani,47.0,False,False
+,Thailand,Irán,Irán,Ali Jabbari,80.0,False,False
+,Thailand,Irán,Irán,Ali Jabbari,86.0,False,False
+,Thailand,Irán,Irán,Ali Jabbari,88.0,False,False
+,Irán,Cambodia,Irán,Safar Iranpak,13.0,False,False
+,Irán,Cambodia,Irán,Parviz Ghelichkhani,47.0,False,False
 ,Thailand,Corea del Sur,Corea del Sur,Park Lee-chun,115.0,False,False
 ,Bélgica,Iceland,Bélgica,Paul Van Himst,12.0,False,False
 ,Bélgica,Iceland,Bélgica,Odilon Polleunis,34.0,False,False
 ,Bélgica,Iceland,Bélgica,Odilon Polleunis,57.0,False,False
 ,Bélgica,Iceland,Bélgica,Einar Gunnarsson,89.0,False,False
-,Iran,Corea del Sur,Iran,Ali Jabbari,48.0,False,False
-,Iran,Corea del Sur,Corea del Sur,Park Lee-chun,65.0,False,False
-,Iran,Corea del Sur,Iran,Hossein Kalani,108.0,False,False
+,Irán,Corea del Sur,Irán,Ali Jabbari,48.0,False,False
+,Irán,Corea del Sur,Corea del Sur,Park Lee-chun,65.0,False,False
+,Irán,Corea del Sur,Irán,Hossein Kalani,108.0,False,False
 ,Bélgica,Iceland,Bélgica,Frans Janssens,28.0,False,False
 ,Bélgica,Iceland,Bélgica,Raoul Lambert,30.0,False,False
 ,Bélgica,Iceland,Bélgica,Raoul Lambert,49.0,False,False
@@ -3842,13 +3842,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Hungary,Austria,Austria,August Starek,14.0,False,False
 ,Hungary,Austria,Austria,Kurt Jara,28.0,False,False
 1973-02-05,Bulgaria,Portugal,Portugal,Nené,74.0,False,False
-1973-06-05,Iran,Kuwait,Iran,Gholam Vafakhah,23.0,False,False
-1973-06-05,Iran,Kuwait,Iran,Ali Parvin,56.0,False,False
-1973-08-05,Iran,Syria,Iran,Akbar Kargarjam,85.0,False,False
-1973-11-05,Iran,North Korea,Iran,Mehdi Monajati,19.0,False,False
-1973-11-05,Iran,North Korea,Iran,Mohammad Sadeghi,89.0,False,False
-,Iran,Kuwait,Iran,Parviz Ghelichkhani,60.0,False,False
-,Iran,Kuwait,Iran,Ali Djabari,74.0,False,False
+1973-06-05,Irán,Kuwait,Irán,Gholam Vafakhah,23.0,False,False
+1973-06-05,Irán,Kuwait,Irán,Ali Parvin,56.0,False,False
+1973-08-05,Irán,Syria,Irán,Akbar Kargarjam,85.0,False,False
+1973-11-05,Irán,North Korea,Irán,Mehdi Monajati,19.0,False,False
+1973-11-05,Irán,North Korea,Irán,Mohammad Sadeghi,89.0,False,False
+,Irán,Kuwait,Irán,Parviz Ghelichkhani,60.0,False,False
+,Irán,Kuwait,Irán,Ali Djabari,74.0,False,False
 ,Israel,Japón,Japón,Shusaku Hirasawa,28.0,False,False
 ,Francia,Republic Of Ireland,Francia,Serge Chiesa,78.0,False,False
 ,Corea del Sur,Thailand,Corea del Sur,Kim Jae-han,52.0,False,False
@@ -3895,9 +3895,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1973-02-08,Iceland,Noruega,Noruega,Per Pettersen,80.0,False,False
 1973-02-08,Iceland,Noruega,Noruega,Tor Egil Johansen,87.0,False,False
 1973-05-08,Ghana,RD Congo,Ghana,Akuetteh Armah,35.0,False,False
-,Australia,Iran,Australia,Adrian Alston,43.0,False,False
-,Australia,Iran,Australia,Attila Abonyi,45.0,False,False
-,Australia,Iran,Australia,Peter Wilson,83.0,False,False
+,Australia,Irán,Australia,Adrian Alston,43.0,False,False
+,Australia,Irán,Australia,Attila Abonyi,45.0,False,False
+,Australia,Irán,Australia,Peter Wilson,83.0,False,False
 ,RD Congo,Ghana,RD Congo,Kembo Uba Kembo,10.0,False,False
 ,RD Congo,Ghana,Ghana,Joseph Sam,51.0,False,False
 ,RD Congo,Ghana,RD Congo,Kembo Uba Kembo,65.0,False,False
@@ -3908,8 +3908,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Países Bajos,Iceland,Países Bajos,Arie Haan,17.0,False,False
 ,Países Bajos,Iceland,Países Bajos,Willy Brokamp,29.0,False,False
 ,Países Bajos,Iceland,Países Bajos,Johan Cruyff,57.0,False,False
-,Iran,Australia,Iran,Parviz Ghelichkhani,14.0,False,False
-,Iran,Australia,Iran,Parviz Ghelichkhani,32.0,False,False
+,Irán,Australia,Irán,Parviz Ghelichkhani,14.0,False,False
+,Irán,Australia,Irán,Parviz Ghelichkhani,32.0,False,False
 ,Países Bajos,Iceland,Países Bajos,Willy Brokamp,15.0,False,False
 ,Países Bajos,Iceland,Países Bajos,Johan Cruyff,21.0,False,False
 ,Países Bajos,Iceland,Países Bajos,Johan Neeskens,24.0,False,False
@@ -4281,26 +4281,26 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Bélgica,Países Bajos,Países Bajos,Johan Cruyff,77.0,False,False
 ,Alemania,España,Alemania,Uli Hoeneß,17.0,False,False
 ,Alemania,España,Alemania,Klaus Toppmöller,43.0,False,False
-1976-04-06,Iran,Iraq,Iran,Nasser Nouraei,45.0,False,False
-1976-04-06,Iran,Iraq,Iran,Hassan Rowshan,58.0,False,False
+1976-04-06,Irán,Iraq,Irán,Nasser Nouraei,45.0,False,False
+1976-04-06,Irán,Iraq,Irán,Hassan Rowshan,58.0,False,False
 1976-06-06,Iraq,Yemen Dpr,Iraq,Kadhim Waal,84.0,False,False
-1976-08-06,Iran,Yemen Dpr,Iran,Alireza Azizi,17.0,False,False
-1976-08-06,Iran,Yemen Dpr,Iran,Nasser Nouraei,40.0,False,False
-1976-08-06,Iran,Yemen Dpr,Iran,Nasser Nouraei,42.0,False,False
-1976-08-06,Iran,Yemen Dpr,Iran,Alireza Khorshidi,45.0,False,False
-1976-08-06,Iran,Yemen Dpr,Iran,Gholam Hossein Mazloumi,63.0,False,False
-1976-08-06,Iran,Yemen Dpr,Iran,Alireza Azizi,73.0,False,False
-1976-08-06,Iran,Yemen Dpr,Iran,Gholam Hossein Mazloumi,74.0,False,False
-1976-08-06,Iran,Yemen Dpr,Iran,Gholam Hossein Mazloumi,80.0,False,False
-1976-11-06,Iran,China,Iran,Alireza Khorshidi,100.0,False,False
-1976-11-06,Iran,China,Iran,Hassan Rowshan,119.0,False,False
+1976-08-06,Irán,Yemen Dpr,Irán,Alireza Azizi,17.0,False,False
+1976-08-06,Irán,Yemen Dpr,Irán,Nasser Nouraei,40.0,False,False
+1976-08-06,Irán,Yemen Dpr,Irán,Nasser Nouraei,42.0,False,False
+1976-08-06,Irán,Yemen Dpr,Irán,Alireza Khorshidi,45.0,False,False
+1976-08-06,Irán,Yemen Dpr,Irán,Gholam Hossein Mazloumi,63.0,False,False
+1976-08-06,Irán,Yemen Dpr,Irán,Alireza Azizi,73.0,False,False
+1976-08-06,Irán,Yemen Dpr,Irán,Gholam Hossein Mazloumi,74.0,False,False
+1976-08-06,Irán,Yemen Dpr,Irán,Gholam Hossein Mazloumi,80.0,False,False
+1976-11-06,Irán,China,Irán,Alireza Khorshidi,100.0,False,False
+1976-11-06,Irán,China,Irán,Hassan Rowshan,119.0,False,False
 1976-11-06,Iraq,Kuwait,Iraq,Sabah Abdul-Jalil,46.0,False,False
 1976-11-06,Iraq,Kuwait,Iraq,Falah Hassan,85.0,False,False
 ,Finland,Inglaterra,Inglaterra,Stuart Pearson,14.0,False,False
 ,Finland,Inglaterra,Inglaterra,Kevin Keegan,30.0,False,False
 ,Finland,Inglaterra,Inglaterra,Mick Channon,56.0,False,False
 ,Finland,Inglaterra,Inglaterra,Kevin Keegan,60.0,False,False
-,Iran,Kuwait,Iran,Ali Parvin,71.0,False,False
+,Irán,Kuwait,Irán,Ali Parvin,71.0,False,False
 ,Czechoslovakia,Países Bajos,Países Bajos,Anton Ondru,73.0,False,False
 ,Suecia,Noruega,Suecia,Björn Andersson,27.0,False,False
 ,Suecia,Noruega,Suecia,Thomas Sjöberg,42.0,False,False
@@ -4361,12 +4361,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1976-05-12,Malta,Austria,Austria,Hans Krankl,57.0,False,False
 1976-12-12,Marruecos,Túnez,Marruecos,Abdelghani Lakhal,35.0,False,False
 1976-12-12,Marruecos,Túnez,Túnez,Tarak Dhiab,56.0,False,False
-1977-07-01,Arabia Saudita,Iran,Iran,Gholam Hossein Mazloumi,16.0,False,False
-1977-07-01,Arabia Saudita,Iran,Iran,Hassan Rowshan,62.0,False,False
-1977-07-01,Arabia Saudita,Iran,Iran,Gholam Hossein Mazloumi,78.0,False,False
+1977-07-01,Arabia Saudita,Irán,Irán,Gholam Hossein Mazloumi,16.0,False,False
+1977-07-01,Arabia Saudita,Irán,Irán,Hassan Rowshan,62.0,False,False
+1977-07-01,Arabia Saudita,Irán,Irán,Gholam Hossein Mazloumi,78.0,False,False
 1977-09-01,Túnez,Marruecos,Túnez,Khemais Labidi,34.0,False,False
 1977-09-01,Túnez,Marruecos,Marruecos,Mustapha Tahir,55.0,False,False
-,Syria,Iran,Iran,Ali Parvin,36.0,False,False
+,Syria,Irán,Irán,Ali Parvin,36.0,False,False
 1977-06-02,Túnez,Argelia,Túnez,Mohamed Akid,56.0,False,False
 1977-06-02,Túnez,Argelia,Túnez,Ali Kaabi,73.0,False,False
 1977-09-02,Venezuela,Uruguay,Uruguay,Washington Oliveira,5.0,False,False
@@ -4437,8 +4437,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Nueva Zelanda,Australia,Nueva Zelanda,Keith Nelson,34.0,False,False
 1977-03-04,Corea del Sur,Japón,Corea del Sur,Cha Bum-kun,84.0,False,False
 ,Austria,Turquía,Austria,Walter Schachner,43.0,False,False
-,Iran,Arabia Saudita,Iran,Mohsin Yousifi,10.0,False,False
-,Iran,Arabia Saudita,Iran,Habib Shareefi,84.0,False,False
+,Irán,Arabia Saudita,Irán,Mohsin Yousifi,10.0,False,False
+,Irán,Arabia Saudita,Irán,Habib Shareefi,84.0,False,False
 ,Austria,Malta,Austria,Hans Krankl,9.0,False,False
 ,Austria,Malta,Austria,Hans Krankl,12.0,False,False
 ,Austria,Malta,Austria,Hans Krankl,18.0,False,False
@@ -4451,8 +4451,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1977-08-06,Suecia,Suiza,Suecia,Bo Börjesson,69.0,False,False
 1977-08-06,Suecia,Suiza,Suecia,Thomas Sjöberg,77.0,False,False
 1977-08-06,Suecia,Suiza,Suiza,Peter Risi,80.0,False,False
-,Hong Kong,Iran,Iran,Hossein Kazerani,22.0,False,False
-,Hong Kong,Iran,Iran,Ghafour Jahani,77.0,False,False
+,Hong Kong,Irán,Irán,Hossein Kazerani,22.0,False,False
+,Hong Kong,Irán,Irán,Ghafour Jahani,77.0,False,False
 ,Túnez,Guinea,Túnez,Néjib Liman,9.0,False,False
 ,Túnez,Guinea,Túnez,Témime Lahzami,59.0,False,False
 ,Túnez,Guinea,Túnez,Moncef Khouini,62.0,False,False
@@ -4473,7 +4473,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Egipto,Zambia,Egipto,Maher Hammam,49.0,False,False
 ,Costa de Marfil,Nigeria,Costa de Marfil,Jérôme Lèbre Mamahou,37.0,False,False
 ,Costa de Marfil,Nigeria,Costa de Marfil,Jérôme Lèbre Mamahou,58.0,False,False
-,Australia,Iran,Iran,Hassan Rowshan,70.0,False,False
+,Australia,Irán,Irán,Hassan Rowshan,70.0,False,False
 ,Australia,Corea del Sur,Corea del Sur,Cha Bum-kun,23.0,False,False
 ,Australia,Corea del Sur,Australia,John Kosmina,63.0,False,False
 ,Australia,Corea del Sur,Australia,John Kosmina,75.0,False,False
@@ -4543,7 +4543,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Países Bajos,Bélgica,Países Bajos,René van de Kerkhof,4.0,False,False
 ,España,Romania,España,Eugenio Leal,75.0,False,False
 ,España,Romania,España,Rubén Cano,83.0,False,False
-,Iran,Kuwait,Iran,Ghafour Jahani,48.0,False,False
+,Irán,Kuwait,Irán,Ghafour Jahani,48.0,False,False
 ,Polonia,Portugal,Portugal,Manuel Fernandes,61.0,False,False
 ,Hong Kong,Australia,Australia,Peter Ollerton,19.0,False,False
 ,Hong Kong,Australia,Australia,Peter Ollerton,31.0,False,False
@@ -4554,10 +4554,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Turquía,Austria,Austria,Herbert Prohaska,72.0,False,False
 1977-05-11,Kuwait,Corea del Sur,Corea del Sur,Cha Bum-kun,18.0,False,False
 1977-05-11,Kuwait,Corea del Sur,Corea del Sur,Choi Jong-duk,82.0,False,False
-1977-11-11,Iran,Corea del Sur,Corea del Sur,Lee Young-Moo,28.0,False,False
-1977-11-11,Iran,Corea del Sur,Iran,Hassan Rowshan,52.0,False,False
-1977-11-11,Iran,Corea del Sur,Iran,Hassan Rowshan,68.0,False,False
-1977-11-11,Iran,Corea del Sur,Corea del Sur,Lee Young-Moo,88.0,False,False
+1977-11-11,Irán,Corea del Sur,Corea del Sur,Lee Young-Moo,28.0,False,False
+1977-11-11,Irán,Corea del Sur,Irán,Hassan Rowshan,52.0,False,False
+1977-11-11,Irán,Corea del Sur,Irán,Hassan Rowshan,68.0,False,False
+1977-11-11,Irán,Corea del Sur,Corea del Sur,Lee Young-Moo,88.0,False,False
 1977-12-11,Nigeria,Túnez,Túnez,Godwin Odiye,61.0,False,False
 ,Inglaterra,Italia,Inglaterra,Kevin Keegan,11.0,False,False
 ,Inglaterra,Italia,Inglaterra,Trevor Brooking,80.0,False,False
@@ -4569,21 +4569,21 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Portugal,Cyprus,Portugal,Francisco Vital,58.0,False,False
 ,Portugal,Cyprus,Portugal,Manuel Fernandes,71.0,False,False
 ,Turquía,German Dr,Turquía,Volkan Yayim,81.0,False,False
-,Iran,Hong Kong,Iran,Ghafour Jahani,3.0,False,False
-,Iran,Hong Kong,Iran,Hossein Kazerani,19.0,False,False
-,Iran,Hong Kong,Iran,Ghafour Jahani,35.0,False,False
+,Irán,Hong Kong,Irán,Ghafour Jahani,3.0,False,False
+,Irán,Hong Kong,Irán,Hossein Kazerani,19.0,False,False
+,Irán,Hong Kong,Irán,Ghafour Jahani,35.0,False,False
 ,Egipto,Túnez,Egipto,Farouk Gaafar,26.0,False,False
 ,Egipto,Túnez,Egipto,Moustafa Abdou,53.0,False,False
 ,Egipto,Túnez,Túnez,Abderraouf Ben Aziza,80.0,False,False
 ,Egipto,Túnez,Egipto,Mahmoud El Khatib,83.0,False,False
 ,Egipto,Túnez,Túnez,Mohamed Akid,87.0,False,False
-,Iran,Australia,Iran,Ghafour Jahani,44.0,False,False
+,Irán,Australia,Irán,Ghafour Jahani,44.0,False,False
 ,Malta,Turquía,Turquía,Sedat Özden,21.0,False,False
 ,Malta,Turquía,Turquía,Cemil Turan,36.0,False,False
 ,Malta,Turquía,Turquía,Sedat Özden,48.0,False,False
 ,Yugoslavia,España,España,Rubén Cano,71.0,False,False
-1977-03-12,Kuwait,Iran,Iran,Behtash Fariba,48.0,False,False
-1977-03-12,Kuwait,Iran,Iran,Habib Khabiri,59.0,False,False
+1977-03-12,Kuwait,Irán,Irán,Behtash Fariba,48.0,False,False
+1977-03-12,Kuwait,Irán,Irán,Habib Khabiri,59.0,False,False
 1977-04-12,Corea del Sur,Hong Kong,Corea del Sur,Kim Ho-Kon,22.0,False,False
 1977-04-12,Corea del Sur,Hong Kong,Corea del Sur,Huh Jung-Moo,43.0,False,False
 1977-04-12,Corea del Sur,Hong Kong,Corea del Sur,Kim Jae-han,76.0,False,False
@@ -4622,9 +4622,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1978-03-06,Austria,España,Austria,Hans Krankl,76.0,False,False
 1978-03-06,Brasil,Suecia,Suecia,Thomas Sjöberg,37.0,False,False
 1978-03-06,Brasil,Suecia,Brasil,José Reinaldo de Lima,45.0,False,False
-1978-03-06,Iran,Países Bajos,Países Bajos,Rob Rensenbrink,40.0,False,False
-1978-03-06,Iran,Países Bajos,Países Bajos,Rob Rensenbrink,62.0,False,False
-1978-03-06,Iran,Países Bajos,Países Bajos,Rob Rensenbrink,78.0,False,False
+1978-03-06,Irán,Países Bajos,Países Bajos,Rob Rensenbrink,40.0,False,False
+1978-03-06,Irán,Países Bajos,Países Bajos,Rob Rensenbrink,62.0,False,False
+1978-03-06,Irán,Países Bajos,Países Bajos,Rob Rensenbrink,78.0,False,False
 1978-03-06,Perú,Scotland,Scotland,Joe Jordan,14.0,False,False
 1978-06-06,Argentina,Francia,Argentina,Daniel Passarella,45.0,False,False
 1978-06-06,Argentina,Francia,Francia,Michel Platini,60.0,False,False
@@ -4636,14 +4636,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1978-06-06,Alemania,México,Alemania,Karl-Heinz Rummenigge,73.0,False,False
 1978-06-06,Alemania,México,Alemania,Heinz Flohe,89.0,False,False
 1978-07-06,Austria,Suecia,Austria,Hans Krankl,42.0,False,False
-1978-07-06,Iran,Scotland,Scotland,Andranik Eskandarian,43.0,False,False
-1978-07-06,Iran,Scotland,Iran,Iraj Danaeifard,60.0,False,False
+1978-07-06,Irán,Scotland,Scotland,Andranik Eskandarian,43.0,False,False
+1978-07-06,Irán,Scotland,Irán,Iraj Danaeifard,60.0,False,False
 1978-10-06,Francia,Hungary,Francia,Christian Lopez,23.0,False,False
 1978-10-06,Francia,Hungary,Francia,Marc Berdoll,38.0,False,False
 1978-10-06,Francia,Hungary,Francia,Dominique Rocheteau,42.0,False,False
 1978-10-06,México,Polonia,México,Víctor Rangel,52.0,False,False
 1978-11-06,Austria,Brasil,Brasil,Roberto Dinamite,40.0,False,False
-1978-11-06,Iran,Perú,Iran,Hassan Rowshan,41.0,False,False
+1978-11-06,Irán,Perú,Irán,Hassan Rowshan,41.0,False,False
 1978-11-06,Países Bajos,Scotland,Países Bajos,Rob Rensenbrink,34.0,False,False
 1978-11-06,Países Bajos,Scotland,Scotland,Kenny Dalglish,45.0,False,False
 1978-11-06,Países Bajos,Scotland,Scotland,Archie Gemmill,46.0,False,False
@@ -4989,36 +4989,36 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Qatar,United Arab Emirates,Qatar,Mansour Muftah,60.0,False,False
 ,Qatar,Corea del Sur,Corea del Sur,Lee Jung-il,7.0,False,False
 ,Qatar,Corea del Sur,Corea del Sur,Choi Soon-ho,21.0,False,False
-,China,Iran,Iran,Hamid Alidousti,35.0,False,False
-,China,Iran,Iran,Behtash Fariba,70.0,False,False
+,China,Irán,Irán,Hamid Alidousti,35.0,False,False
+,China,Irán,Irán,Behtash Fariba,70.0,False,False
 ,Kuwait,Corea del Sur,Corea del Sur,Hwang Seok-keun,47.0,False,False
 ,Kuwait,Corea del Sur,Corea del Sur,Choi Soon-ho,71.0,False,False
 ,Kuwait,Corea del Sur,Corea del Sur,Choi Soon-ho,78.0,False,False
-,Bangladesh,Iran,Iran,Behtash Fariba,11.0,False,False
-,Bangladesh,Iran,Iran,Hassan Rowshan,21.0,False,False
-,Bangladesh,Iran,Iran,Abdolreza Barzegari,27.0,False,False
-,Bangladesh,Iran,Iran,Behtash Fariba,34.0,False,False
-,Bangladesh,Iran,Iran,Behtash Fariba,80.0,False,False
-,Bangladesh,Iran,Iran,Behtash Fariba,82.0,False,False
-,Bangladesh,Iran,Iran,Abdolreza Barzegari,87.0,False,False
+,Bangladesh,Irán,Irán,Behtash Fariba,11.0,False,False
+,Bangladesh,Irán,Irán,Hassan Rowshan,21.0,False,False
+,Bangladesh,Irán,Irán,Abdolreza Barzegari,27.0,False,False
+,Bangladesh,Irán,Irán,Behtash Fariba,34.0,False,False
+,Bangladesh,Irán,Irán,Behtash Fariba,80.0,False,False
+,Bangladesh,Irán,Irán,Behtash Fariba,82.0,False,False
+,Bangladesh,Irán,Irán,Abdolreza Barzegari,87.0,False,False
 ,Malaysia,Qatar,Qatar,Mansour Muftah,52.0,False,False
 ,Finland,Austria,Austria,Kurt Jara,13.0,False,False
 ,Finland,Austria,Austria,Kurt Welzl,77.0,False,False
-,Iran,North Korea,Iran,Hamid Alidousti,27.0,False,False
-,Iran,North Korea,Iran,Iraj Danaeifard,57.0,False,False
-,Iran,North Korea,Iran,Behtash Fariba,60.0,False,False
+,Irán,North Korea,Irán,Hamid Alidousti,27.0,False,False
+,Irán,North Korea,Irán,Iraj Danaeifard,57.0,False,False
+,Irán,North Korea,Irán,Behtash Fariba,60.0,False,False
 ,Noruega,Romania,Noruega,Åge Hareide,23.0,False,False
 ,Corea del Sur,United Arab Emirates,Corea del Sur,Choi Soon-ho,26.0,False,False
 ,Corea del Sur,United Arab Emirates,Corea del Sur,Choi Soon-ho,53.0,False,False
 ,Corea del Sur,United Arab Emirates,Corea del Sur,Choi Soon-ho,78.0,False,False
 ,Corea del Sur,United Arab Emirates,Corea del Sur,Chung Hae-won,84.0,False,False
 ,Turquía,Iceland,Turquía,Fatih Terim,72.0,False,False
-,Kuwait,Iran,Iran,Hossein Faraki,90.0,False,False
+,Kuwait,Irán,Irán,Hossein Faraki,90.0,False,False
 ,Corea del Sur,North Korea,Corea del Sur,Chung Hae-won,80.0,False,False
 ,Corea del Sur,North Korea,Corea del Sur,Chung Hae-won,89.0,False,False
-,Iran,North Korea,Iran,Behtash Fariba,49.0,False,False
-,Iran,North Korea,Iran,Hossein Faraki,66.0,False,False
-,Iran,North Korea,Iran,Hossein Faraki,76.0,False,False
+,Irán,North Korea,Irán,Behtash Fariba,49.0,False,False
+,Irán,North Korea,Irán,Hossein Faraki,66.0,False,False
+,Irán,North Korea,Irán,Hossein Faraki,76.0,False,False
 1980-11-10,Cyprus,Francia,Francia,Bernard Lacombe,4.0,False,False
 1980-11-10,Cyprus,Francia,Francia,Michel Platini,14.0,False,False
 1980-11-10,Cyprus,Francia,Francia,Michel Platini,23.0,False,False
@@ -5731,25 +5731,25 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Turquía,Inglaterra,Inglaterra,Bryan Robson,61.0,False,False
 ,Turquía,Inglaterra,Inglaterra,Viv Anderson,86.0,False,False
 ,Francia,Bulgaria,Francia,Michel Platini,62.0,False,False
-1984-01-12,Iran,United Arab Emirates,Iran,Hamid Alidousti,27.0,False,False
-1984-01-12,Iran,United Arab Emirates,Iran,Shahrokh Bayani,85.0,False,False
-1984-01-12,Iran,United Arab Emirates,Iran,Nasser Mohammadkhani,87.0,False,False
+1984-01-12,Irán,United Arab Emirates,Irán,Hamid Alidousti,27.0,False,False
+1984-01-12,Irán,United Arab Emirates,Irán,Shahrokh Bayani,85.0,False,False
+1984-01-12,Irán,United Arab Emirates,Irán,Nasser Mohammadkhani,87.0,False,False
 1984-01-12,Qatar,Syria,Qatar,Khalfan Ibrahim,7.0,False,False
 1984-02-12,Arabia Saudita,Corea del Sur,Corea del Sur,Lee Tae-ho,51.0,False,False
 1984-02-12,Arabia Saudita,Corea del Sur,Arabia Saudita,Majed Abdullah,90.0,False,False
-1984-03-12,China,Iran,Iran,Nasser Mohammadkhani,57.0,False,False
-1984-03-12,China,Iran,Iran,Zia Arabshahi,69.0,False,False
+1984-03-12,China,Irán,Irán,Nasser Mohammadkhani,57.0,False,False
+1984-03-12,China,Irán,Irán,Zia Arabshahi,69.0,False,False
 1984-04-12,Syria,Arabia Saudita,Arabia Saudita,Saleh Khalifa Al-Dosari,66.0,False,False
 1984-08-12,Francia,German Dr,Francia,Yannick Stopyra,32.0,False,False
 1984-08-12,Francia,German Dr,Francia,Philippe Anziani,89.0,False,False
 1984-08-12,Qatar,Arabia Saudita,Qatar,Ali Zaid,47.0,False,False
 1984-08-12,Qatar,Arabia Saudita,Arabia Saudita,Mohammed Abduljawad,65.0,False,False
-1984-10-12,Singapore,Iran,Iran,Shahrokh Bayani,55.0,False,False
+1984-10-12,Singapore,Irán,Irán,Shahrokh Bayani,55.0,False,False
 1984-10-12,Corea del Sur,Qatar,Qatar,Khalid Salman,69.0,False,False
 1984-11-12,Arabia Saudita,Kuwait,Arabia Saudita,Mohaisen Al-Jam'an,88.0,False,False
-,Arabia Saudita,Iran,Iran,Shahrokh Bayani,43.0,False,False
-,Arabia Saudita,Iran,Arabia Saudita,Shahin Bayani,88.0,False,False
-,Iran,Kuwait,Iran,Nasser Mohammadkhani,80.0,False,False
+,Arabia Saudita,Irán,Irán,Shahrokh Bayani,43.0,False,False
+,Arabia Saudita,Irán,Arabia Saudita,Shahin Bayani,88.0,False,False
+,Irán,Kuwait,Irán,Nasser Mohammadkhani,80.0,False,False
 ,Malta,Alemania,Alemania,Karlheinz Förster,43.0,False,False
 ,Malta,Alemania,Alemania,Klaus Allofs,68.0,False,False
 ,Malta,Alemania,Alemania,Klaus Allofs,83.0,False,False
@@ -6360,8 +6360,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Turquía,German Dr,Turquía,Tanju Çolak,23.0,False,False
 ,Turquía,German Dr,Turquía,Tanju Çolak,63.0,False,False
 ,Turquía,German Dr,Turquía,O?uz Çetin,69.0,False,False
-1988-02-12,Qatar,Iran,Iran,Karim Bavi,6.0,False,False
-1988-02-12,Qatar,Iran,Iran,Farshad Pious,89.0,False,False
+1988-02-12,Qatar,Irán,Irán,Karim Bavi,6.0,False,False
+1988-02-12,Qatar,Irán,Irán,Farshad Pious,89.0,False,False
 1988-02-12,Syria,Arabia Saudita,Arabia Saudita,Saleh Al-Mutlaq,20.0,False,False
 1988-02-12,Syria,Arabia Saudita,Arabia Saudita,Mohamed Al-Suwaiyed Shehrani,82.0,False,False
 1988-03-12,Australia,Fiji,Australia,Charlie Yankos,9.0,False,False
@@ -6374,7 +6374,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1988-05-12,Qatar,United Arab Emirates,Qatar,Muhsin Musabah,26.0,False,False
 1988-06-12,Corea del Sur,Japón,Corea del Sur,Hwang Sun-hong,13.0,False,False
 1988-06-12,Corea del Sur,Japón,Corea del Sur,Kim Joo-sung,35.0,False,False
-1988-08-12,Iran,United Arab Emirates,Iran,Farshad Pious,27.0,False,False
+1988-08-12,Irán,United Arab Emirates,Irán,Farshad Pious,27.0,False,False
 1988-09-12,Qatar,Corea del Sur,Corea del Sur,Chung Hae-won,10.0,False,False
 1988-09-12,Qatar,Corea del Sur,Corea del Sur,Kim Joo-sung,34.0,False,False
 1988-09-12,Qatar,Corea del Sur,Qatar,Khalid Salman,47.0,False,False
@@ -6385,9 +6385,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1988-11-12,Nueva Zelanda,Taiwan,Nueva Zelanda,Darren McClennan,45.0,False,False
 1988-11-12,Nueva Zelanda,Taiwan,Nueva Zelanda,Noel Barkley,57.0,False,False
 1988-11-12,Nueva Zelanda,Taiwan,Nueva Zelanda,Danny Halligan,76.0,False,False
-1988-11-12,Corea del Sur,Iran,Corea del Sur,Byun Byung-joo,26.0,False,False
-1988-11-12,Corea del Sur,Iran,Corea del Sur,Hwang Sun-hong,42.0,False,False
-1988-11-12,Corea del Sur,Iran,Corea del Sur,Byun Byung-joo,57.0,False,False
+1988-11-12,Corea del Sur,Irán,Corea del Sur,Byun Byung-joo,26.0,False,False
+1988-11-12,Corea del Sur,Irán,Corea del Sur,Hwang Sun-hong,42.0,False,False
+1988-11-12,Corea del Sur,Irán,Corea del Sur,Byun Byung-joo,57.0,False,False
 1988-12-12,China,Arabia Saudita,Arabia Saudita,Fahad Al-Bishi,56.0,False,False
 1988-12-12,Qatar,Japón,Qatar,Adel Khamis,58.0,False,False
 1988-12-12,Qatar,Japón,Qatar,Adel Khamis,82.0,False,False
@@ -6398,7 +6398,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Nueva Zelanda,Taiwan,Nueva Zelanda,Darren McClennan,17.0,False,False
 ,Nueva Zelanda,Taiwan,Nueva Zelanda,Darren McClennan,42.0,False,False
 ,Nueva Zelanda,Taiwan,Nueva Zelanda,Darren McClennan,49.0,False,False
-,Arabia Saudita,Iran,Arabia Saudita,Majed Abdullah,16.0,False,False
+,Arabia Saudita,Irán,Arabia Saudita,Majed Abdullah,16.0,False,False
 ,España,Northern Ireland,España,Anton Rogan,30.0,False,False
 ,España,Northern Ireland,España,Emilio Butragueño,55.0,False,False
 ,España,Northern Ireland,España,Míchel,60.0,False,False
@@ -6453,11 +6453,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-10-02,Oman,Jordania,Jordania,Khaled Awad,66.0,False,False
 ,Portugal,Bélgica,Portugal,Vítor Paneira,53.0,False,False
 ,Portugal,Bélgica,Bélgica,Marc Van Der Linden,84.0,False,False
-,Thailand,Iran,Iran,Karim Bavi,12.0,False,False
-,Thailand,Iran,Iran,Sirous Ghayeghran,28.0,False,False
-,Thailand,Iran,Iran,Mohsen Garousi,87.0,False,False
-,Bangladesh,Iran,Iran,Karim Bavi,44.0,False,False
-,Bangladesh,Iran,Iran,Mohammad Hassan Ansarifard,50.0,False,False
+,Thailand,Irán,Irán,Karim Bavi,12.0,False,False
+,Thailand,Irán,Irán,Sirous Ghayeghran,28.0,False,False
+,Thailand,Irán,Irán,Mohsen Garousi,87.0,False,False
+,Bangladesh,Irán,Irán,Karim Bavi,44.0,False,False
+,Bangladesh,Irán,Irán,Mohammad Hassan Ansarifard,50.0,False,False
 1989-08-03,Albania,Inglaterra,Inglaterra,John Barnes,16.0,False,False
 1989-08-03,Albania,Inglaterra,Inglaterra,Bryan Robson,63.0,False,False
 1989-08-03,Scotland,Francia,Scotland,Mo Johnston,28.0,False,False
@@ -6472,7 +6472,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Arabia Saudita,Syria,Arabia Saudita,Yousuf Al-Thunayan,50.0,False,False
 ,Arabia Saudita,Syria,Arabia Saudita,Majed Abdullah,69.0,False,False
 ,Arabia Saudita,Syria,Arabia Saudita,Mohaisen Al-Jam'an,75.0,False,False
-,Iran,Bangladesh,Iran,Samad Marfavi,81.0,False,False
+,Irán,Bangladesh,Irán,Samad Marfavi,81.0,False,False
 ,Israel,Australia,Australia,Charlie Yankos,72.0,False,False
 ,Yemen,Arabia Saudita,Arabia Saudita,Ahmed Jamil Madani,79.0,False,False
 ,España,Malta,España,Míchel,38.0,False,False
@@ -6525,9 +6525,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Corea del Sur,Malaysia,Corea del Sur,Choi Soon-ho,5.0,False,False
 ,Corea del Sur,Malaysia,Corea del Sur,Hwang Sun-hong,56.0,False,False
 ,Corea del Sur,Malaysia,Corea del Sur,Hwang Sun-hong,79.0,False,False
-,Iran,Thailand,Iran,Farshad Pious,33.0,False,False
-,Iran,Thailand,Iran,Mohsen Garousi,42.0,False,False
-,Iran,Thailand,Iran,Farshad Pious,64.0,False,False
+,Irán,Thailand,Irán,Farshad Pious,33.0,False,False
+,Irán,Thailand,Irán,Mohsen Garousi,42.0,False,False
+,Irán,Thailand,Irán,Farshad Pious,64.0,False,False
 ,Finland,Países Bajos,Países Bajos,Wim Kieft,87.0,False,False
 1989-01-06,Luxembourg,Bélgica,Bélgica,Marc Van Der Linden,13.0,False,False
 1989-01-06,Luxembourg,Bélgica,Bélgica,Marc Van Der Linden,52.0,False,False
@@ -6601,9 +6601,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Brasil,Paraguay,Brasil,Bebeto,52.0,False,False
 ,Brasil,Paraguay,Brasil,Romário,58.0,False,False
 ,Brasil,Uruguay,Brasil,Romário,49.0,False,False
-,Iran,China,Iran,Mohsen Garousi,15.0,False,False
-,Iran,China,Iran,Sayed Ali Eftekhari,16.0,False,False
-,Iran,China,Iran,Farshad Pious,53.0,False,False
+,Irán,China,Irán,Mohsen Garousi,15.0,False,False
+,Irán,China,Irán,Sayed Ali Eftekhari,16.0,False,False
+,Irán,China,Irán,Farshad Pious,53.0,False,False
 ,Venezuela,Brasil,Brasil,Branco,5.0,False,False
 ,Venezuela,Brasil,Brasil,Romário,65.0,False,False
 ,Venezuela,Brasil,Brasil,Bebeto,79.0,False,False
@@ -7215,8 +7215,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Turquía,San Marino,Turquía,Hami Mand?ral?,90.0,False,False
 ,Qatar,Thailand,Qatar,Mahmoud Soufi,81.0,False,False
 ,Arabia Saudita,China,Arabia Saudita,Yousuf Al-Thunayan,17.0,False,False
-,North Korea,Iran,Iran,Farshad Pious,30.0,False,False
-,North Korea,Iran,Iran,Sirous Ghayeghran,80.0,False,False
+,North Korea,Irán,Irán,Farshad Pious,30.0,False,False
+,North Korea,Irán,Irán,Sirous Ghayeghran,80.0,False,False
 ,Arabia Saudita,Qatar,Qatar,Mubarak Mustafa,74.0,False,False
 ,Arabia Saudita,Qatar,Arabia Saudita,Khaled Massad,86.0,False,False
 1992-01-11,Canadá,Jamaica,Canadá,Dale Mitchell,53.0,False,False
@@ -7226,7 +7226,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1992-02-11,Arabia Saudita,Thailand,Arabia Saudita,Fahad Al-Bishi,19.0,False,False
 1992-02-11,Arabia Saudita,Thailand,Arabia Saudita,Yousuf Al-Thunayan,64.0,False,False
 1992-02-11,Arabia Saudita,Thailand,Arabia Saudita,Fahad Al-Bishi,72.0,False,False
-1992-03-11,Japón,Iran,Japón,Kazuyoshi Miura,87.0,False,False
+1992-03-11,Japón,Irán,Japón,Kazuyoshi Miura,87.0,False,False
 1992-06-11,Japón,China,Japón,Masahiro Fukuda,48.0,False,False
 1992-06-11,Japón,China,Japón,Tsuyoshi Kitazawa,57.0,False,False
 1992-06-11,Japón,China,Japón,Masashi Nakayama,84.0,False,False
@@ -7613,12 +7613,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Brasil,Paraguay,Brasil,Palhinha,15.0,False,False
 ,Brasil,Paraguay,Brasil,Edmundo,62.0,False,False
 ,Brasil,Paraguay,Brasil,Palhinha,72.0,False,False
-,Iran,Taiwan,Iran,Hamid Estili,18.0,False,False
-,Iran,Taiwan,Iran,Ali Asghar Modir Roosta,40.0,False,False
-,Iran,Taiwan,Iran,Ali Daei,43.0,False,False
-,Iran,Taiwan,Iran,Ali Asghar Modir Roosta,46.0,False,False
-,Iran,Taiwan,Iran,Ali Asghar Modir Roosta,50.0,False,False
-,Iran,Taiwan,Iran,Ali Asghar Modir Roosta,75.0,False,False
+,Irán,Taiwan,Irán,Hamid Estili,18.0,False,False
+,Irán,Taiwan,Irán,Ali Asghar Modir Roosta,40.0,False,False
+,Irán,Taiwan,Irán,Ali Daei,43.0,False,False
+,Irán,Taiwan,Irán,Ali Asghar Modir Roosta,46.0,False,False
+,Irán,Taiwan,Irán,Ali Asghar Modir Roosta,50.0,False,False
+,Irán,Taiwan,Irán,Ali Asghar Modir Roosta,75.0,False,False
 ,Colombia,Uruguay,Uruguay,Marcelo Saralegui,63.0,False,False
 ,Colombia,Uruguay,Colombia,Luis Carlos Perea,88.0,False,False
 ,Ecuador,Paraguay,Ecuador,Eduardo Hurtado,33.0,False,False
@@ -7626,27 +7626,27 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ecuador,Paraguay,Ecuador,Ney Avilés,81.0,False,False
 ,Brasil,Argentina,Brasil,Müller,37.0,False,False
 ,Brasil,Argentina,Argentina,Leonardo Rodríguez,69.0,False,False
-,Iran,Syria,Iran,Ali Asghar Modir Roosta,63.0,False,False
+,Irán,Syria,Irán,Ali Asghar Modir Roosta,63.0,False,False
 ,Perú,México,México,Alberto García Aspe,22.0,False,False
 ,Perú,México,México,Luís Roberto Alves,43.0,False,False
 ,Perú,México,México,Alberto García Aspe,44.0,False,False
 ,Perú,México,México,David Patiño,49.0,False,False
 ,Ecuador,México,México,Hugo Sánchez,23.0,False,False
 ,Ecuador,México,México,Ramón Ramírez,54.0,False,False
-1993-02-07,Oman,Iran,Iran,Hamid Derakhshan,36.0,False,False
+1993-02-07,Oman,Irán,Irán,Hamid Derakhshan,36.0,False,False
 1993-03-07,Ecuador,Colombia,Colombia,Adolfo Valencia,86.0,False,False
 1993-03-07,Nigeria,Argelia,Argelia,Abdelhafid Tasfaout,5.0,False,False
 1993-04-07,Argentina,México,Argentina,Gabriel Batistuta,63.0,False,False
 1993-04-07,Argentina,México,México,Benjamín Galindo,67.0,False,False
 1993-04-07,Argentina,México,Argentina,Gabriel Batistuta,74.0,False,False
-1993-04-07,Taiwan,Iran,Iran,Hamid Derakhshan,8.0,False,False
-1993-04-07,Taiwan,Iran,Iran,Majid Namjoo-Motlagh,15.0,False,False
-1993-04-07,Taiwan,Iran,Iran,Ali Daei,19.0,False,False
-1993-04-07,Taiwan,Iran,Iran,Mehdi Abtahi,22.0,False,False
-1993-04-07,Taiwan,Iran,Iran,Ali Daei,48.0,False,False
-1993-04-07,Taiwan,Iran,Iran,Hamid Estili,74.0,False,False
+1993-04-07,Taiwan,Irán,Irán,Hamid Derakhshan,8.0,False,False
+1993-04-07,Taiwan,Irán,Irán,Majid Namjoo-Motlagh,15.0,False,False
+1993-04-07,Taiwan,Irán,Irán,Ali Daei,19.0,False,False
+1993-04-07,Taiwan,Irán,Irán,Mehdi Abtahi,22.0,False,False
+1993-04-07,Taiwan,Irán,Irán,Ali Daei,48.0,False,False
+1993-04-07,Taiwan,Irán,Irán,Hamid Estili,74.0,False,False
 1993-04-07,Zambia,Marruecos,Marruecos,Rachid Daoudi,11.0,False,False
-1993-07-07,Syria,Iran,Iran,Hamid Derakhshan,15.0,False,False
+1993-07-07,Syria,Irán,Irán,Hamid Derakhshan,15.0,False,False
 1993-10-07,Honduras,Panamá,Panamá,Jesús Julio,30.0,False,False
 1993-10-07,Estados Unidos,Jamaica,Estados Unidos,Eric Wynalda,67.0,False,False
 1993-11-07,Canadá,Costa Rica,Canadá,Nick Dasovic,43.0,False,False
@@ -7810,12 +7810,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Suecia,Finland,Suecia,Martin Dahlin,46.0,False,False
 ,North Korea,Iraq,Iraq,Alaa Kadhim,8.0,False,False
 ,North Korea,Iraq,Iraq,Alaa Kadhim,46.0,False,False
-,Iran,Corea del Sur,Corea del Sur,Park Jung-bae,18.0,False,False
-,Iran,Corea del Sur,Corea del Sur,Ha Seok-ju,79.0,False,False
-,Iran,Corea del Sur,Corea del Sur,Ko Jeong-woon,81.0,False,False
-,Japón,Iran,Iran,Reza Hassanzadeh,45.0,False,False
-,Japón,Iran,Iran,Ali Daei,85.0,False,False
-,Japón,Iran,Japón,Masashi Nakayama,88.0,False,False
+,Irán,Corea del Sur,Corea del Sur,Park Jung-bae,18.0,False,False
+,Irán,Corea del Sur,Corea del Sur,Ha Seok-ju,79.0,False,False
+,Irán,Corea del Sur,Corea del Sur,Ko Jeong-woon,81.0,False,False
+,Japón,Irán,Irán,Reza Hassanzadeh,45.0,False,False
+,Japón,Irán,Irán,Ali Daei,85.0,False,False
+,Japón,Irán,Japón,Masashi Nakayama,88.0,False,False
 ,North Korea,Arabia Saudita,Arabia Saudita,Fahad Al-Mehallel,56.0,False,False
 ,North Korea,Arabia Saudita,Arabia Saudita,Khaled Massad,73.0,False,False
 ,Iraq,Corea del Sur,Iraq,Laith Hussein,32.0,False,False
@@ -7825,15 +7825,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,North Korea,Japón,Japón,Kazuyoshi Miura,28.0,False,False
 ,North Korea,Japón,Japón,Masashi Nakayama,51.0,False,False
 ,North Korea,Japón,Japón,Kazuyoshi Miura,69.0,False,False
-,Iran,Iraq,Iraq,Ahmed Radhi,20.0,False,False
-,Iran,Iraq,Iran,Ali Daei,21.0,False,False
-,Iran,Iraq,Iraq,Alaa Kadhim,38.0,False,False
+,Irán,Iraq,Iraq,Ahmed Radhi,20.0,False,False
+,Irán,Iraq,Irán,Ali Daei,21.0,False,False
+,Irán,Iraq,Iraq,Alaa Kadhim,38.0,False,False
 ,Corea del Sur,Arabia Saudita,Corea del Sur,Shin Hong-Ki,63.0,False,False
 ,Corea del Sur,Arabia Saudita,Arabia Saudita,Ahmed Jamil Madani,90.0,False,False
 ,Iraq,Arabia Saudita,Iraq,Ahmed Radhi,1.0,False,False
 ,Iraq,Arabia Saudita,Arabia Saudita,Saeed Al-Owairan,36.0,False,False
-,Iran,North Korea,Iran,Ali Daei,49.0,False,False
-,Iran,North Korea,Iran,Ali Daei,66.0,False,False
+,Irán,North Korea,Irán,Ali Daei,49.0,False,False
+,Irán,North Korea,Irán,Ali Daei,66.0,False,False
 ,Japón,Corea del Sur,Japón,Kazuyoshi Miura,61.0,False,False
 ,Israel,Austria,Austria,Hannes Reinmayr,15.0,False,False
 ,Turquía,Polonia,Turquía,Hakan ?ükür,52.0,False,False
@@ -7842,13 +7842,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Iraq,Japón,Iraq,Ahmed Radhi,54.0,False,False
 ,Iraq,Japón,Japón,Masashi Nakayama,69.0,False,False
 ,Iraq,Japón,Iraq,Jaffar Omran,90.0,False,False
-,Arabia Saudita,Iran,Arabia Saudita,Sami Al-Jaber,21.0,False,False
-,Arabia Saudita,Iran,Arabia Saudita,Fahad Al-Mehallel,27.0,False,False
-,Arabia Saudita,Iran,Iran,Mehdi Fonounizadeh,43.0,False,False
-,Arabia Saudita,Iran,Arabia Saudita,Mansour Al-Mousa,47.0,False,False
-,Arabia Saudita,Iran,Iran,Mehdi Fonounizadeh,52.0,False,False
-,Arabia Saudita,Iran,Arabia Saudita,Hamzah Idris,64.0,False,False
-,Arabia Saudita,Iran,Iran,Javad Manafi,90.0,False,False
+,Arabia Saudita,Irán,Arabia Saudita,Sami Al-Jaber,21.0,False,False
+,Arabia Saudita,Irán,Arabia Saudita,Fahad Al-Mehallel,27.0,False,False
+,Arabia Saudita,Irán,Irán,Mehdi Fonounizadeh,43.0,False,False
+,Arabia Saudita,Irán,Arabia Saudita,Mansour Al-Mousa,47.0,False,False
+,Arabia Saudita,Irán,Irán,Mehdi Fonounizadeh,52.0,False,False
+,Arabia Saudita,Irán,Arabia Saudita,Hamzah Idris,64.0,False,False
+,Arabia Saudita,Irán,Irán,Javad Manafi,90.0,False,False
 ,Corea del Sur,North Korea,Corea del Sur,Ko Jeong-woon,49.0,False,False
 ,Corea del Sur,North Korea,Corea del Sur,Hwang Sun-hong,53.0,False,False
 ,Corea del Sur,North Korea,Corea del Sur,Ha Seok-ju,75.0,False,False
@@ -8725,9 +8725,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Trinidad And Tobago,Estados Unidos,Estados Unidos,Joe-Max Moore,36.0,False,False
 1996-01-12,Costa Rica,Estados Unidos,Estados Unidos,Cobi Jones,90.0,False,False
 1996-04-12,United Arab Emirates,Corea del Sur,Corea del Sur,Hwang Sun-hong,9.0,False,False
-1996-05-12,Iran,Iraq,Iraq,Hussam Fawzi,37.0,False,False
-1996-05-12,Iran,Iraq,Iraq,Khalid Mohammed Sabbar,69.0,False,False
-1996-05-12,Iran,Iraq,Iran,Ali Daei,90.0,False,False
+1996-05-12,Irán,Iraq,Iraq,Hussam Fawzi,37.0,False,False
+1996-05-12,Irán,Iraq,Iraq,Khalid Mohammed Sabbar,69.0,False,False
+1996-05-12,Irán,Iraq,Irán,Ali Daei,90.0,False,False
 1996-05-12,Arabia Saudita,Thailand,Arabia Saudita,Khalid Al-Temawi,10.0,False,False
 1996-05-12,Arabia Saudita,Thailand,Arabia Saudita,Fahad Al-Mehallel,15.0,False,False
 1996-05-12,Arabia Saudita,Thailand,Arabia Saudita,Khaled Massad,18.0,False,False
@@ -8743,9 +8743,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-07-12,Corea del Sur,Indonesia,Corea del Sur,Hwang Sun-hong,15.0,False,False
 1996-07-12,Corea del Sur,Indonesia,Corea del Sur,Ko Jeong-woon,55.0,False,False
 1996-08-12,Arabia Saudita,Iraq,Arabia Saudita,Fahad Al-Mehallel,26.0,False,False
-1996-08-12,Thailand,Iran,Iran,Naeim Saadavi,38.0,False,False
-1996-08-12,Thailand,Iran,Iran,Mehrdad Minavand,54.0,False,False
-1996-08-12,Thailand,Iran,Iran,Ali Daei,70.0,False,False
+1996-08-12,Thailand,Irán,Irán,Naeim Saadavi,38.0,False,False
+1996-08-12,Thailand,Irán,Irán,Mehrdad Minavand,54.0,False,False
+1996-08-12,Thailand,Irán,Irán,Ali Daei,70.0,False,False
 1996-09-12,Japón,Uzbekistán,Japón,Hiroshi Nanami,7.0,False,False
 1996-09-12,Japón,Uzbekistán,Japón,Kazuyoshi Miura,37.0,False,False
 1996-09-12,Japón,Uzbekistán,Japón,Masakiyo Maezono,86.0,False,False
@@ -8754,9 +8754,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-11-12,Iraq,Thailand,Iraq,Laith Hussein,23.0,False,False
 1996-11-12,Iraq,Thailand,Iraq,Haidar Mahmoud,50.0,False,False
 1996-11-12,Iraq,Thailand,Iraq,Laith Hussein,63.0,False,False
-1996-11-12,Arabia Saudita,Iran,Iran,Ali Daei,12.0,False,False
-1996-11-12,Arabia Saudita,Iran,Iran,Karim Bagheri,37.0,False,False
-1996-11-12,Arabia Saudita,Iran,Iran,Khodadad Azizi,47.0,False,False
+1996-11-12,Arabia Saudita,Irán,Irán,Ali Daei,12.0,False,False
+1996-11-12,Arabia Saudita,Irán,Irán,Karim Bagheri,37.0,False,False
+1996-11-12,Arabia Saudita,Irán,Irán,Khodadad Azizi,47.0,False,False
 1996-12-12,Japón,China,Japón,Naoki Soma,90.0,False,False
 1996-12-12,Uzbekistán,Syria,Uzbekistán,Sergey Lebedev,53.0,False,False
 ,Bélgica,Países Bajos,Países Bajos,Dennis Bergkamp,24.0,False,False
@@ -8780,20 +8780,20 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Arabia Saudita,China,Arabia Saudita,Sami Al-Jaber,34.0,False,False
 ,Arabia Saudita,China,Arabia Saudita,Fahad Al-Mehallel,43.0,False,False
 ,Arabia Saudita,China,Arabia Saudita,Yousuf Al-Thunayan,65.0,False,False
-,Corea del Sur,Iran,Corea del Sur,Kim Do-hoon,11.0,False,False
-,Corea del Sur,Iran,Iran,Karim Bagheri,31.0,False,False
-,Corea del Sur,Iran,Corea del Sur,Shin Tae-Yong,35.0,False,False
-,Corea del Sur,Iran,Iran,Khodadad Azizi,52.0,False,False
-,Corea del Sur,Iran,Iran,Ali Daei,66.0,False,False
-,Corea del Sur,Iran,Iran,Ali Daei,76.0,False,False
-,Corea del Sur,Iran,Iran,Ali Daei,83.0,False,False
-,Corea del Sur,Iran,Iran,Ali Daei,89.0,False,False
+,Corea del Sur,Irán,Corea del Sur,Kim Do-hoon,11.0,False,False
+,Corea del Sur,Irán,Irán,Karim Bagheri,31.0,False,False
+,Corea del Sur,Irán,Corea del Sur,Shin Tae-Yong,35.0,False,False
+,Corea del Sur,Irán,Irán,Khodadad Azizi,52.0,False,False
+,Corea del Sur,Irán,Irán,Ali Daei,66.0,False,False
+,Corea del Sur,Irán,Irán,Ali Daei,76.0,False,False
+,Corea del Sur,Irán,Irán,Ali Daei,83.0,False,False
+,Corea del Sur,Irán,Irán,Ali Daei,89.0,False,False
 ,Malta,España,España,Julen Guerrero,8.0,False,False
 ,Malta,España,España,Julen Guerrero,26.0,False,False
 ,Malta,España,España,Julen Guerrero,33.0,False,False
 ,Guatemala,Estados Unidos,Estados Unidos,Preki,7.0,False,False
 ,Guatemala,Estados Unidos,Estados Unidos,Frankie Hejduk,48.0,False,False
-,Iran,Kuwait,Iran,Ali Daei,40.0,False,False
+,Irán,Kuwait,Irán,Ali Daei,40.0,False,False
 1997-12-01,RD Congo,RD Congo,RD Congo,Christ Bongo,4.0,False,False
 1997-12-01,RD Congo,RD Congo,RD Congo,Nzelo Hervé Lembi,13.0,False,False
 1997-12-01,Ghana,Marruecos,Marruecos,Salaheddine Bassir,30.0,False,False
@@ -8978,32 +8978,32 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Polonia,Inglaterra,Inglaterra,Teddy Sheringham,90.0,False,False
 1997-01-06,Canadá,Costa Rica,Canadá,Eddy Berdusco,68.0,False,False
 1997-01-06,Indonesia,Uzbekistán,Uzbekistán,Oleg Shatskikh,74.0,False,False
-1997-02-06,Maldives,Iran,Iran,Karim Bagheri,9.0,False,False
-1997-02-06,Maldives,Iran,Iran,Karim Bagheri,13.0,False,False
-1997-02-06,Maldives,Iran,Iran,Karim Bagheri,16.0,False,False
-1997-02-06,Maldives,Iran,Iran,Hamid Estili,29.0,False,False
-1997-02-06,Maldives,Iran,Iran,Khodadad Azizi,35.0,False,False
-1997-02-06,Maldives,Iran,Iran,Khodadad Azizi,36.0,False,False
-1997-02-06,Maldives,Iran,Iran,Hamid Estili,47.0,False,False
-1997-02-06,Maldives,Iran,Iran,Hamid Estili,55.0,False,False
-1997-02-06,Maldives,Iran,Iran,Reza Shahroudi,56.0,False,False
-1997-02-06,Maldives,Iran,Iran,Karim Bagheri,60.0,False,False
-1997-02-06,Maldives,Iran,Iran,Mehdi Mahdavikia,63.0,False,False
-1997-02-06,Maldives,Iran,Iran,Karim Bagheri,66.0,False,False
-1997-02-06,Maldives,Iran,Iran,Karim Bagheri,67.0,False,False
-1997-02-06,Maldives,Iran,Iran,Ali Daei,75.0,False,False
-1997-02-06,Maldives,Iran,Iran,Ali Daei,77.0,False,False
-1997-02-06,Maldives,Iran,Iran,Karim Bagheri,86.0,False,False
-1997-02-06,Maldives,Iran,Iran,Mehrdad Minavand,87.0,False,False
-1997-04-06,Kyrgyzstan,Iran,Iran,Karim Bagheri,35.0,False,False
-1997-04-06,Kyrgyzstan,Iran,Iran,Karim Bagheri,51.0,False,False
-1997-04-06,Kyrgyzstan,Iran,Iran,Ali Daei,57.0,False,False
-1997-04-06,Kyrgyzstan,Iran,Iran,Farhad Majidi,68.0,False,False
-1997-04-06,Kyrgyzstan,Iran,Iran,Mehrdad Minavand,76.0,False,False
-1997-04-06,Kyrgyzstan,Iran,Iran,Ali Mousavi,82.0,False,False
-1997-04-06,Kyrgyzstan,Iran,Iran,Farhad Majidi,88.0,False,False
+1997-02-06,Maldives,Irán,Irán,Karim Bagheri,9.0,False,False
+1997-02-06,Maldives,Irán,Irán,Karim Bagheri,13.0,False,False
+1997-02-06,Maldives,Irán,Irán,Karim Bagheri,16.0,False,False
+1997-02-06,Maldives,Irán,Irán,Hamid Estili,29.0,False,False
+1997-02-06,Maldives,Irán,Irán,Khodadad Azizi,35.0,False,False
+1997-02-06,Maldives,Irán,Irán,Khodadad Azizi,36.0,False,False
+1997-02-06,Maldives,Irán,Irán,Hamid Estili,47.0,False,False
+1997-02-06,Maldives,Irán,Irán,Hamid Estili,55.0,False,False
+1997-02-06,Maldives,Irán,Irán,Reza Shahroudi,56.0,False,False
+1997-02-06,Maldives,Irán,Irán,Karim Bagheri,60.0,False,False
+1997-02-06,Maldives,Irán,Irán,Mehdi Mahdavikia,63.0,False,False
+1997-02-06,Maldives,Irán,Irán,Karim Bagheri,66.0,False,False
+1997-02-06,Maldives,Irán,Irán,Karim Bagheri,67.0,False,False
+1997-02-06,Maldives,Irán,Irán,Ali Daei,75.0,False,False
+1997-02-06,Maldives,Irán,Irán,Ali Daei,77.0,False,False
+1997-02-06,Maldives,Irán,Irán,Karim Bagheri,86.0,False,False
+1997-02-06,Maldives,Irán,Irán,Mehrdad Minavand,87.0,False,False
+1997-04-06,Kyrgyzstan,Irán,Irán,Karim Bagheri,35.0,False,False
+1997-04-06,Kyrgyzstan,Irán,Irán,Karim Bagheri,51.0,False,False
+1997-04-06,Kyrgyzstan,Irán,Irán,Ali Daei,57.0,False,False
+1997-04-06,Kyrgyzstan,Irán,Irán,Farhad Majidi,68.0,False,False
+1997-04-06,Kyrgyzstan,Irán,Irán,Mehrdad Minavand,76.0,False,False
+1997-04-06,Kyrgyzstan,Irán,Irán,Ali Mousavi,82.0,False,False
+1997-04-06,Kyrgyzstan,Irán,Irán,Farhad Majidi,88.0,False,False
 1997-06-06,Iraq,Kazakhstan,Iraq,Sadiq Saadoun,2.0,False,False
-1997-06-06,Syria,Iran,Iran,Ali Daei,65.0,False,False
+1997-06-06,Syria,Irán,Irán,Ali Daei,65.0,False,False
 1997-07-06,Bélgica,San Marino,Bélgica,Lorenzo Staelens,15.0,False,False
 1997-07-06,Bélgica,San Marino,Bélgica,Eric Van Meir,26.0,False,False
 1997-07-06,Bélgica,San Marino,Bélgica,Émile Mpenza,27.0,False,False
@@ -9033,9 +9033,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-08-06,España,Czech Republic,España,Fernando Hierro,41.0,False,False
 1997-08-06,Uruguay,Colombia,Uruguay,Darío Silva,6.0,False,False
 1997-08-06,Uruguay,Colombia,Colombia,Hamilton Ricard,47.0,False,False
-1997-09-06,Iran,Kyrgyzstan,Iran,Khodadad Azizi,3.0,False,False
-1997-09-06,Iran,Kyrgyzstan,Iran,Karim Bagheri,52.0,False,False
-1997-09-06,Iran,Kyrgyzstan,Iran,Khodadad Azizi,77.0,False,False
+1997-09-06,Irán,Kyrgyzstan,Irán,Khodadad Azizi,3.0,False,False
+1997-09-06,Irán,Kyrgyzstan,Irán,Karim Bagheri,52.0,False,False
+1997-09-06,Irán,Kyrgyzstan,Irán,Khodadad Azizi,77.0,False,False
 1997-11-06,Australia,Solomon Islands,Australia,Damian Mori,2.0,False,False
 1997-11-06,Australia,Solomon Islands,Australia,Damian Mori,15.0,False,False
 1997-11-06,Australia,Solomon Islands,Australia,John Aloisi,33.0,False,False
@@ -9050,15 +9050,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-11-06,Australia,Solomon Islands,Australia,John Aloisi,87.0,False,False
 1997-11-06,Australia,Solomon Islands,Australia,Mark Bosnich,88.0,False,False
 1997-11-06,Chile,Paraguay,Paraguay,Roberto Acuña,28.0,False,False
-1997-11-06,Iran,Maldives,Iran,Alireza Mansourian,15.0,False,False
-1997-11-06,Iran,Maldives,Iran,Karim Bagheri,22.0,False,False
-1997-11-06,Iran,Maldives,Iran,Ali Daei,33.0,False,False
-1997-11-06,Iran,Maldives,Iran,Mehdi Mahdavikia,38.0,False,False
-1997-11-06,Iran,Maldives,Iran,Karim Bagheri,39.0,False,False
-1997-11-06,Iran,Maldives,Iran,Ali Daei,43.0,False,False
-1997-11-06,Iran,Maldives,Iran,Alireza Mansourian,44.0,False,False
-1997-11-06,Iran,Maldives,Iran,Reza Shahroudi,68.0,False,False
-1997-11-06,Iran,Maldives,Iran,Khodadad Azizi,87.0,False,False
+1997-11-06,Irán,Maldives,Irán,Alireza Mansourian,15.0,False,False
+1997-11-06,Irán,Maldives,Irán,Karim Bagheri,22.0,False,False
+1997-11-06,Irán,Maldives,Irán,Ali Daei,33.0,False,False
+1997-11-06,Irán,Maldives,Irán,Mehdi Mahdavikia,38.0,False,False
+1997-11-06,Irán,Maldives,Irán,Karim Bagheri,39.0,False,False
+1997-11-06,Irán,Maldives,Irán,Ali Daei,43.0,False,False
+1997-11-06,Irán,Maldives,Irán,Alireza Mansourian,44.0,False,False
+1997-11-06,Irán,Maldives,Irán,Reza Shahroudi,68.0,False,False
+1997-11-06,Irán,Maldives,Irán,Khodadad Azizi,87.0,False,False
 1997-11-06,Nueva Zelanda,Papua New Guinea,Nueva Zelanda,Vaughan Coveny,10.0,False,False
 1997-11-06,Nueva Zelanda,Papua New Guinea,Nueva Zelanda,Vaughan Coveny,13.0,False,False
 1997-11-06,Nueva Zelanda,Papua New Guinea,Nueva Zelanda,Wynton Rufer,22.0,False,False
@@ -9076,8 +9076,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Brasil,Costa Rica,Brasil,Ronaldo,47.0,False,False
 ,Brasil,Costa Rica,Brasil,Ronaldo,54.0,False,False
 ,Brasil,Costa Rica,Brasil,Romário,60.0,False,False
-,Iran,Syria,Iran,Reza Shahroudi,10.0,False,False
-,Iran,Syria,Iran,Alireza Mansourian,30.0,False,False
+,Irán,Syria,Irán,Reza Shahroudi,10.0,False,False
+,Irán,Syria,Irán,Alireza Mansourian,30.0,False,False
 ,México,Colombia,México,Luis Hernández,7.0,False,False
 ,México,Colombia,México,Luis Hernández,11.0,False,False
 ,México,Colombia,Colombia,Hamilton Ricard,58.0,False,False
@@ -9293,29 +9293,29 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-12-09,Corea del Sur,Uzbekistán,Corea del Sur,Choi Yong-soo,15.0,False,False
 1997-12-09,Corea del Sur,Uzbekistán,Uzbekistán,Oleg Shatskikh,74.0,False,False
 1997-12-09,Corea del Sur,Uzbekistán,Corea del Sur,Lee Sang-yoon,87.0,False,False
-,China,Iran,Iran,Karim Bagheri,61.0,False,False
-,China,Iran,Iran,Mehdi Mahdavikia,67.0,False,False
-,China,Iran,Iran,Mehdi Mahdavikia,73.0,False,False
-,China,Iran,Iran,Ali Asghar Modir Roosta,86.0,False,False
+,China,Irán,Irán,Karim Bagheri,61.0,False,False
+,China,Irán,Irán,Mehdi Mahdavikia,67.0,False,False
+,China,Irán,Irán,Mehdi Mahdavikia,73.0,False,False
+,China,Irán,Irán,Ali Asghar Modir Roosta,86.0,False,False
 ,El Salvador,Canadá,Canadá,Alex Bunbury,25.0,False,False
 ,Arabia Saudita,Kuwait,Arabia Saudita,Fahad Al-Mehallel,43.0,False,False
 ,Arabia Saudita,Kuwait,Arabia Saudita,Yousuf Al-Thunayan,55.0,False,False
-,Iran,Arabia Saudita,Arabia Saudita,Ibrahim Suwayed,32.0,False,False
-,Iran,Arabia Saudita,Iran,Karim Bagheri,64.0,False,False
+,Irán,Arabia Saudita,Arabia Saudita,Ibrahim Suwayed,32.0,False,False
+,Irán,Arabia Saudita,Irán,Karim Bagheri,64.0,False,False
 ,Kazakhstan,Uzbekistán,Uzbekistán,Oleg Shatskikh,85.0,False,False
 ,Malta,Czech Republic,Czech Republic,Radek Bejbl,32.0,False,False
 ,Slovakia,España,España,Kiko,47.0,False,False
 ,Slovakia,España,España,Guillermo Amor,76.0,False,False
-,Kuwait,Iran,Iran,Karim Bagheri,90.0,False,False
+,Kuwait,Irán,Irán,Karim Bagheri,90.0,False,False
 ,Qatar,China,Qatar,Nasir Khamees,10.0,False,False
 ,Uzbekistán,United Arab Emirates,Uzbekistán,Nikolay Shirshov,10.0,False,False
 ,Uzbekistán,United Arab Emirates,Uzbekistán,Ravshan Bazarav,90.0,False,False
 ,Japón,Corea del Sur,Japón,Motohiro Yamaguchi,67.0,False,False
 ,Japón,Corea del Sur,Corea del Sur,Seo Jung-won,83.0,False,False
 ,Japón,Corea del Sur,Corea del Sur,Lee Min-sung,86.0,False,False
-1997-03-10,Iran,Qatar,Iran,Ali Daei,31.0,False,False
-1997-03-10,Iran,Qatar,Iran,Karim Bagheri,42.0,False,False
-1997-03-10,Iran,Qatar,Iran,Karim Bagheri,56.0,False,False
+1997-03-10,Irán,Qatar,Irán,Ali Daei,31.0,False,False
+1997-03-10,Irán,Qatar,Irán,Karim Bagheri,42.0,False,False
+1997-03-10,Irán,Qatar,Irán,Karim Bagheri,56.0,False,False
 1997-03-10,Estados Unidos,Jamaica,Estados Unidos,Eric Wynalda,50.0,False,False
 1997-04-10,Kazakhstan,Japón,Japón,Yutaka Akita,23.0,False,False
 1997-04-10,Corea del Sur,United Arab Emirates,Corea del Sur,Ha Seok-ju,8.0,False,False
@@ -9365,10 +9365,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-12-10,Canadá,México,México,Carlos Hermosillo,87.0,False,False
 1997-12-10,Ecuador,Bolivia,Ecuador,Ariel Graziani,27.0,False,False
 1997-12-10,Paraguay,Venezuela,Paraguay,Félix Ricardo Torres,68.0,False,False
-,Iran,China,Iran,Alireza Mansourian,2.0,False,False
-,Iran,China,Iran,Ali Asghar Modir Roosta,44.0,False,False
-,Iran,China,Iran,Karim Bagheri,69.0,False,False
-,Iran,China,Iran,Ali Daei,73.0,False,False
+,Irán,China,Irán,Alireza Mansourian,2.0,False,False
+,Irán,China,Irán,Ali Asghar Modir Roosta,44.0,False,False
+,Irán,China,Irán,Karim Bagheri,69.0,False,False
+,Irán,China,Irán,Ali Daei,73.0,False,False
 ,Kuwait,Arabia Saudita,Arabia Saudita,Khaled Massad,31.0,False,False
 ,Uzbekistán,Corea del Sur,Corea del Sur,Choi Yong-soo,19.0,False,False
 ,Uzbekistán,Corea del Sur,Corea del Sur,Yoo Sang-chul,38.0,False,False
@@ -9377,7 +9377,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Uzbekistán,Corea del Sur,Uzbekistán,Andrei Fyodorov,61.0,False,False
 ,Uzbekistán,Corea del Sur,Corea del Sur,Kim Do-hoon,70.0,False,False
 ,Kuwait,Qatar,Qatar,Adel Khamis,10.0,False,False
-,Arabia Saudita,Iran,Arabia Saudita,Khaled Massad,88.0,False,False
+,Arabia Saudita,Irán,Arabia Saudita,Khaled Massad,88.0,False,False
 ,Uzbekistán,Kazakhstan,Uzbekistán,Igor Shkvyrin,19.0,False,False
 ,Uzbekistán,Kazakhstan,Uzbekistán,Igor Shkvyrin,33.0,False,False
 ,Uzbekistán,Kazakhstan,Uzbekistán,Andrei Fyodorov,44.0,False,False
@@ -9392,8 +9392,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-01-11,Corea del Sur,Japón,Japón,Hiroshi Nanami,2.0,False,False
 1997-01-11,Corea del Sur,Japón,Japón,Wagner Lopes,37.0,False,False
 1997-06-11,Arabia Saudita,China,Arabia Saudita,Khaled Massad,4.0,False,False
-1997-07-11,Qatar,Iran,Qatar,Mohammed Salem Al-Enazi,38.0,False,False
-1997-07-11,Qatar,Iran,Qatar,Mohammed Salem Al-Enazi,81.0,False,False
+1997-07-11,Qatar,Irán,Qatar,Mohammed Salem Al-Enazi,38.0,False,False
+1997-07-11,Qatar,Irán,Qatar,Mohammed Salem Al-Enazi,81.0,False,False
 1997-08-11,Japón,Kazakhstan,Japón,Yutaka Akita,11.0,False,False
 1997-08-11,Japón,Kazakhstan,Japón,Hidetoshi Nakata,15.0,False,False
 1997-08-11,Japón,Kazakhstan,Japón,Masashi Nakayama,44.0,False,False
@@ -9415,11 +9415,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Argentina,Colombia,Colombia,Carlos Valderrama,10.0,False,False
 ,Argentina,Colombia,Argentina,Fernando Cáceres,69.0,False,False
 ,Costa Rica,Canadá,Canadá,Carl Fletcher,47.0,False,False
-,Japón,Iran,Japón,Masashi Nakayama,39.0,False,False
-,Japón,Iran,Iran,Khodadad Azizi,46.0,False,False
-,Japón,Iran,Iran,Ali Daei,58.0,False,False
-,Japón,Iran,Japón,Shoji Jo,75.0,False,False
-,Japón,Iran,Japón,Masayuki Okano,118.0,False,False
+,Japón,Irán,Japón,Masashi Nakayama,39.0,False,False
+,Japón,Irán,Irán,Khodadad Azizi,46.0,False,False
+,Japón,Irán,Irán,Ali Daei,58.0,False,False
+,Japón,Irán,Japón,Shoji Jo,75.0,False,False
+,Japón,Irán,Japón,Masayuki Okano,118.0,False,False
 ,Estados Unidos,El Salvador,Estados Unidos,Brian McBride,22.0,False,False
 ,Estados Unidos,El Salvador,Estados Unidos,Brian McBride,28.0,False,False
 ,Estados Unidos,El Salvador,Estados Unidos,Chris Henderson,49.0,False,False
@@ -9432,12 +9432,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Uruguay,Ecuador,Ecuador,Ariel Graziani,59.0,False,False
 ,Uruguay,Ecuador,Uruguay,Carlos Aguilera,63.0,False,False
 ,Uruguay,Ecuador,Ecuador,Ariel Graziani,68.0,False,False
-,Iran,Australia,Australia,Harry Kewell,19.0,False,False
-,Iran,Australia,Iran,Khodadad Azizi,39.0,False,False
-,Australia,Iran,Australia,Harry Kewell,32.0,False,False
-,Australia,Iran,Australia,Aurelio Vidmar,48.0,False,False
-,Australia,Iran,Iran,Karim Bagheri,75.0,False,False
-,Australia,Iran,Iran,Khodadad Azizi,79.0,False,False
+,Irán,Australia,Australia,Harry Kewell,19.0,False,False
+,Irán,Australia,Irán,Khodadad Azizi,39.0,False,False
+,Australia,Irán,Australia,Harry Kewell,32.0,False,False
+,Australia,Irán,Australia,Aurelio Vidmar,48.0,False,False
+,Australia,Irán,Irán,Karim Bagheri,75.0,False,False
+,Australia,Irán,Irán,Khodadad Azizi,79.0,False,False
 1997-12-12,México,Australia,Australia,Mark Viduka,45.0,False,False
 1997-12-12,México,Australia,Australia,John Aloisi,59.0,False,False
 1997-12-12,México,Australia,México,Luis Hernández,80.0,False,False
@@ -9617,9 +9617,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Argentina,Jamaica,Argentina,Gabriel Batistuta,83.0,False,False
 ,Alemania,Serbia,Alemania,Sinia Mihajlovi?,72.0,False,False
 ,Alemania,Serbia,Alemania,Oliver Bierhoff,78.0,False,False
-,Estados Unidos,Iran,Iran,Hamid Estili,40.0,False,False
-,Estados Unidos,Iran,Iran,Mehdi Mahdavikia,84.0,False,False
-,Estados Unidos,Iran,Estados Unidos,Brian McBride,87.0,False,False
+,Estados Unidos,Irán,Irán,Hamid Estili,40.0,False,False
+,Estados Unidos,Irán,Irán,Mehdi Mahdavikia,84.0,False,False
+,Estados Unidos,Irán,Estados Unidos,Brian McBride,87.0,False,False
 ,Colombia,Túnez,Colombia,Léider Preciado,82.0,False,False
 ,Romania,Inglaterra,Inglaterra,Michael Owen,81.0,False,False
 ,Brasil,Noruega,Brasil,Bebeto,78.0,False,False
@@ -9646,8 +9646,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,España,Bulgaria,España,Kiko,90.0,False,False
 ,Bélgica,Corea del Sur,Bélgica,Luc Nilis,7.0,False,False
 ,Bélgica,Corea del Sur,Corea del Sur,Yoo Sang-chul,72.0,False,False
-,Alemania,Iran,Alemania,Oliver Bierhoff,50.0,False,False
-,Alemania,Iran,Alemania,Jürgen Klinsmann,57.0,False,False
+,Alemania,Irán,Alemania,Oliver Bierhoff,50.0,False,False
+,Alemania,Irán,Alemania,Jürgen Klinsmann,57.0,False,False
 ,Países Bajos,México,Países Bajos,Phillip Cocu,4.0,False,False
 ,Países Bajos,México,Países Bajos,Ronald de Boer,18.0,False,False
 ,Países Bajos,México,México,Ricardo Peláez,75.0,False,False
@@ -10528,10 +10528,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-11-10,Slovenia,Suiza,Suiza,Kubilay Türkyilmaz,66.0,False,False
 2000-12-10,Iraq,Thailand,Iraq,Qahtan Chathir,27.0,False,False
 2000-12-10,Iraq,Thailand,Iraq,Haidar Mahmoud,60.0,False,False
-2000-12-10,Lebanon,Iran,Iran,Karim Bagheri,19.0,False,False
-2000-12-10,Lebanon,Iran,Iran,Hamid Estili,75.0,False,False
-2000-12-10,Lebanon,Iran,Iran,Hamid Estili,87.0,False,False
-2000-12-10,Lebanon,Iran,Iran,Ali Daei,90.0,False,False
+2000-12-10,Lebanon,Irán,Irán,Karim Bagheri,19.0,False,False
+2000-12-10,Lebanon,Irán,Irán,Hamid Estili,75.0,False,False
+2000-12-10,Lebanon,Irán,Irán,Hamid Estili,87.0,False,False
+2000-12-10,Lebanon,Irán,Irán,Ali Daei,90.0,False,False
 ,Corea del Sur,China,Corea del Sur,Lee Young-pyo,30.0,False,False
 ,Corea del Sur,China,Corea del Sur,Noh Jung-yoon,58.0,False,False
 ,Qatar,Uzbekistán,Qatar,Mohammed Gholam,61.0,False,False
@@ -10541,7 +10541,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Arabia Saudita,Japón,Japón,Hiroshi Nanami,54.0,False,False
 ,Arabia Saudita,Japón,Arabia Saudita,Ryuzo Morioka,90.0,False,False
 ,Arabia Saudita,Japón,Japón,Shinji Ono,90.0,False,False
-,Iran,Thailand,Iran,Ali Daei,73.0,False,False
+,Irán,Thailand,Irán,Ali Daei,73.0,False,False
 ,Lebanon,Iraq,Iraq,Sabah Jeayer,5.0,False,False
 ,Lebanon,Iraq,Iraq,Sabah Jeayer,22.0,False,False
 ,Japón,Uzbekistán,Japón,Hiroaki Morishima,7.0,False,False
@@ -10553,7 +10553,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Japón,Uzbekistán,Japón,Akinori Nishizawa,49.0,False,False
 ,Japón,Uzbekistán,Japón,Naohiro Takahara,57.0,False,False
 ,Japón,Uzbekistán,Japón,Hideaki Kitajima,79.0,False,False
-,Iran,Iraq,Iran,Ali Daei,77.0,False,False
+,Irán,Iraq,Irán,Ali Daei,77.0,False,False
 ,Corea del Sur,Indonesia,Corea del Sur,Lee Dong-gook,30.0,False,False
 ,Corea del Sur,Indonesia,Corea del Sur,Lee Dong-gook,76.0,False,False
 ,Corea del Sur,Indonesia,Corea del Sur,Lee Dong-gook,90.0,False,False
@@ -10565,9 +10565,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Arabia Saudita,Uzbekistán,Arabia Saudita,Mohammad Al-Shalhoub,86.0,False,False
 ,Arabia Saudita,Uzbekistán,Arabia Saudita,Nawaf Al-Temyat,88.0,False,False
 ,China,Qatar,Qatar,Mohammed Salem Al-Enazi,65.0,False,False
-,Iran,Corea del Sur,Iran,Karim Bagheri,71.0,False,False
-,Iran,Corea del Sur,Corea del Sur,Kim Sang-sik,90.0,False,False
-,Iran,Corea del Sur,Corea del Sur,Lee Dong-gook,99.0,False,False
+,Irán,Corea del Sur,Irán,Karim Bagheri,71.0,False,False
+,Irán,Corea del Sur,Corea del Sur,Kim Sang-sik,90.0,False,False
+,Irán,Corea del Sur,Corea del Sur,Lee Dong-gook,99.0,False,False
 ,Japón,Iraq,Iraq,Abbas Obeid,4.0,False,False
 ,Japón,Iraq,Japón,Hiroshi Nanami,8.0,False,False
 ,Japón,Iraq,Japón,Naohiro Takahara,11.0,False,False
@@ -10598,27 +10598,27 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Paraguay,Perú,Paraguay,José Luis Chilavert,83.0,False,False
 ,Venezuela,Ecuador,Ecuador,Iván Kaviedes,3.0,False,False
 ,Venezuela,Ecuador,Ecuador,Wellington Sánchez,23.0,False,False
-,Iran,Guam,Iran,Farhad Majidi,12.0,False,False
-,Iran,Guam,Iran,Karim Bagheri,13.0,False,False
-,Iran,Guam,Iran,Ali Karimi,19.0,False,False
-,Iran,Guam,Iran,Karim Bagheri,23.0,False,False
-,Iran,Guam,Iran,Alireza Vahedi Nikbakht,31.0,False,False
-,Iran,Guam,Iran,Karim Bagheri,33.0,False,False
-,Iran,Guam,Iran,Ali Daei,34.0,False,False
-,Iran,Guam,Iran,Sohrab Bakhtiarizadeh,43.0,False,False
-,Iran,Guam,Iran,Karim Bagheri,48.0,False,False
-,Iran,Guam,Iran,Ali Daei,53.0,False,False
-,Iran,Guam,Iran,Ali Karimi,55.0,False,False
-,Iran,Guam,Iran,Ali Karimi,58.0,False,False
-,Iran,Guam,Iran,Karim Bagheri,67.0,False,False
-,Iran,Guam,Iran,Sohrab Bakhtiarizadeh,69.0,False,False
-,Iran,Guam,Iran,Ali Daei,72.0,False,False
-,Iran,Guam,Iran,Farhad Majidi,75.0,False,False
-,Iran,Guam,Iran,Karim Bagheri,77.0,False,False
-,Iran,Guam,Iran,Farhad Majidi,79.0,False,False
-,Iran,Guam,Iran,Ali Karimi,86.0,False,False
-,Iran,Tajikistan,Iran,Ali Daei,47.0,False,False
-,Iran,Tajikistan,Iran,Mehdi Hasheminasab,54.0,False,False
+,Irán,Guam,Irán,Farhad Majidi,12.0,False,False
+,Irán,Guam,Irán,Karim Bagheri,13.0,False,False
+,Irán,Guam,Irán,Ali Karimi,19.0,False,False
+,Irán,Guam,Irán,Karim Bagheri,23.0,False,False
+,Irán,Guam,Irán,Alireza Vahedi Nikbakht,31.0,False,False
+,Irán,Guam,Irán,Karim Bagheri,33.0,False,False
+,Irán,Guam,Irán,Ali Daei,34.0,False,False
+,Irán,Guam,Irán,Sohrab Bakhtiarizadeh,43.0,False,False
+,Irán,Guam,Irán,Karim Bagheri,48.0,False,False
+,Irán,Guam,Irán,Ali Daei,53.0,False,False
+,Irán,Guam,Irán,Ali Karimi,55.0,False,False
+,Irán,Guam,Irán,Ali Karimi,58.0,False,False
+,Irán,Guam,Irán,Karim Bagheri,67.0,False,False
+,Irán,Guam,Irán,Sohrab Bakhtiarizadeh,69.0,False,False
+,Irán,Guam,Irán,Ali Daei,72.0,False,False
+,Irán,Guam,Irán,Farhad Majidi,75.0,False,False
+,Irán,Guam,Irán,Karim Bagheri,77.0,False,False
+,Irán,Guam,Irán,Farhad Majidi,79.0,False,False
+,Irán,Guam,Irán,Ali Karimi,86.0,False,False
+,Irán,Tajikistan,Irán,Ali Daei,47.0,False,False
+,Irán,Tajikistan,Irán,Mehdi Hasheminasab,54.0,False,False
 ,Argelia,Namibia,Argelia,Djamel Belmadi,34.0,False,False
 ,South Africa,Burkina Faso,South Africa,Shaun Bartlett,17.0,False,False
 ,RD Congo,Túnez,Túnez,Ali Zitouni,38.0,False,False
@@ -11169,8 +11169,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Iraq,Thailand,Iraq,Laith Hussein,86.0,False,False
 ,Arabia Saudita,Bahrain,Arabia Saudita,Obeid Al-Dosari,84.0,False,False
 ,United Arab Emirates,Uzbekistán,Uzbekistán,Nikolay Shirshov,37.0,False,False
-,Iran,Arabia Saudita,Iran,Ali Daei,54.0,False,False
-,Iran,Arabia Saudita,Iran,Ali Daei,64.0,False,False
+,Irán,Arabia Saudita,Irán,Ali Daei,54.0,False,False
+,Irán,Arabia Saudita,Irán,Ali Daei,64.0,False,False
 ,Uzbekistán,Qatar,Uzbekistán,Jafar Irismetov,36.0,False,False
 ,Uzbekistán,Qatar,Uzbekistán,Mirjalol Qosimov,52.0,False,False
 ,Uzbekistán,Qatar,Qatar,Abdul Jaloof,88.0,False,False
@@ -11248,9 +11248,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-05-09,Turquía,Suecia,Turquía,Hakan ?ükür,51.0,False,False
 2001-05-09,Turquía,Suecia,Suecia,Henrik Larsson,87.0,False,False
 2001-05-09,Turquía,Suecia,Suecia,Andreas Andersson,90.0,False,False
-2001-07-09,Iraq,Iran,Iraq,Emad Mohammed,20.0,False,False
-2001-07-09,Iraq,Iran,Iran,Ali Karimi,30.0,False,False
-2001-07-09,Iraq,Iran,Iran,Ali Daei,84.0,False,False
+2001-07-09,Iraq,Irán,Iraq,Emad Mohammed,20.0,False,False
+2001-07-09,Iraq,Irán,Irán,Ali Karimi,30.0,False,False
+2001-07-09,Iraq,Irán,Irán,Ali Daei,84.0,False,False
 2001-07-09,Qatar,China,Qatar,Dahi Al Naemi,31.0,False,False
 2001-08-09,Uzbekistán,Oman,Uzbekistán,Jafar Irismetov,17.0,False,False
 2001-08-09,Uzbekistán,Oman,Uzbekistán,Maksim Shatskikh,38.0,False,False
@@ -11273,12 +11273,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Qatar,Uzbekistán,Uzbekistán,Mirjalol Qosimov,45.0,False,False
 ,Qatar,Uzbekistán,Uzbekistán,Nikolay Shirshov,47.0,False,False
 ,Qatar,Uzbekistán,Qatar,Ahmad Khalifa Hashim,89.0,False,False
-,Arabia Saudita,Iran,Arabia Saudita,Abdullah Al-Waked,20.0,False,False
-,Arabia Saudita,Iran,Iran,Ali Daei,42.0,False,False
-,Arabia Saudita,Iran,Arabia Saudita,Al Hasan Al-Yami,59.0,False,False
-,Arabia Saudita,Iran,Iran,Sirous Dinmohammadi,84.0,False,False
+,Arabia Saudita,Irán,Arabia Saudita,Abdullah Al-Waked,20.0,False,False
+,Arabia Saudita,Irán,Irán,Ali Daei,42.0,False,False
+,Arabia Saudita,Irán,Arabia Saudita,Al Hasan Al-Yami,59.0,False,False
+,Arabia Saudita,Irán,Irán,Sirous Dinmohammadi,84.0,False,False
 2001-04-10,Qatar,United Arab Emirates,Qatar,Waleed Hamzah,47.0,False,False
-2001-05-10,Iran,Thailand,Iran,Alireza Vahedi Nikbakht,32.0,False,False
+2001-05-10,Irán,Thailand,Irán,Alireza Vahedi Nikbakht,32.0,False,False
 2001-05-10,Iraq,Arabia Saudita,Arabia Saudita,Abdullah Bin Shehan,1.0,False,False
 2001-05-10,Iraq,Arabia Saudita,Iraq,Abdul-Wahab Abu Al-Hail,31.0,False,False
 2001-05-10,Iraq,Arabia Saudita,Arabia Saudita,Abdullah Bin Shehan,77.0,False,False
@@ -11332,22 +11332,22 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-07-10,Estados Unidos,Jamaica,Estados Unidos,Joe-Max Moore,81.0,False,False
 2001-07-10,Uruguay,Colombia,Uruguay,Federico Magallanes,34.0,False,False
 2001-07-10,Uruguay,Colombia,Colombia,Arnulfo Valentierra,67.0,False,False
-2001-12-10,Iran,Iraq,Iran,Mehdi Mahdavikia,27.0,False,False
-2001-12-10,Iran,Iraq,Iraq,Qahtan Chathir,52.0,False,False
-2001-12-10,Iran,Iraq,Iran,Ali Karimi,71.0,False,False
+2001-12-10,Irán,Iraq,Irán,Mehdi Mahdavikia,27.0,False,False
+2001-12-10,Irán,Iraq,Iraq,Qahtan Chathir,52.0,False,False
+2001-12-10,Irán,Iraq,Irán,Ali Karimi,71.0,False,False
 ,Oman,Uzbekistán,Uzbekistán,Fevzi Davletov,5.0,False,False
 ,Oman,Uzbekistán,Uzbekistán,Nabil Ashoor,27.0,False,False
 ,Uzbekistán,China,Uzbekistán,Nikolay Shirshov,90.0,False,False
-,Bahrain,Iran,Iran,Ali Daei,82.0,False,False
+,Bahrain,Irán,Irán,Ali Daei,82.0,False,False
 ,Arabia Saudita,Thailand,Arabia Saudita,Abdullah Bin Shehan,40.0,False,False
 ,Arabia Saudita,Thailand,Arabia Saudita,Abdullah Jumaan Al-Dosari,50.0,False,False
 ,Arabia Saudita,Thailand,Arabia Saudita,Sami Al-Jaber,66.0,False,False
 ,Arabia Saudita,Thailand,Arabia Saudita,Ibrahim Al-Harbi,73.0,False,False
-,Iran,United Arab Emirates,Iran,Karim Bagheri,45.0,False,False
+,Irán,United Arab Emirates,Irán,Karim Bagheri,45.0,False,False
 ,Israel,Austria,Austria,Andreas Herzog,90.0,False,False
-,United Arab Emirates,Iran,Iran,Ali Daei,7.0,False,False
-,United Arab Emirates,Iran,Iran,Karim Bagheri,76.0,False,False
-,United Arab Emirates,Iran,Iran,Mehrdad Minavand,79.0,False,False
+,United Arab Emirates,Irán,Irán,Ali Daei,7.0,False,False
+,United Arab Emirates,Irán,Irán,Karim Bagheri,76.0,False,False
+,United Arab Emirates,Irán,Irán,Mehrdad Minavand,79.0,False,False
 2001-07-11,Bolivia,Brasil,Brasil,Edílson,26.0,False,False
 2001-07-11,Colombia,Chile,Colombia,Freddy Grisales,19.0,False,False
 2001-07-11,Colombia,Chile,Colombia,Juan Pablo Ángel,67.0,False,False
@@ -11382,7 +11382,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Turquía,Austria,Turquía,Arif Erdem,85.0,False,False
 ,Uruguay,Argentina,Uruguay,Darío Silva,19.0,False,False
 ,Uruguay,Argentina,Argentina,Claudio López,44.0,False,False
-,Iran,Republic Of Ireland,Iran,Yahya Golmohammadi,90.0,False,False
+,Irán,Republic Of Ireland,Irán,Yahya Golmohammadi,90.0,False,False
 ,Australia,Uruguay,Australia,Kevin Muscat,78.0,False,False
 ,Uruguay,Australia,Uruguay,Darío Silva,14.0,False,False
 ,Uruguay,Australia,Uruguay,Richard Morales,70.0,False,False
@@ -12026,10 +12026,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Haití,Turks And Caicos Islands,Haití,Johnny Descouines,45.0,False,False
 ,Haití,Turks And Caicos Islands,Haití,Johnny Descouines,50.0,False,False
 ,Haití,Turks And Caicos Islands,Haití,Corriolan Wadson,71.0,False,False
-,Iran,Qatar,Iran,Alireza Vahedi Nikbakht,8.0,False,False
-,Iran,Qatar,Iran,Mehdi Mahdavikia,44.0,False,False
-,Iran,Qatar,Iran,Ali Daei,62.0,False,False
-,Iran,Qatar,Qatar,Waleed Hamzah,70.0,False,False
+,Irán,Qatar,Irán,Alireza Vahedi Nikbakht,8.0,False,False
+,Irán,Qatar,Irán,Mehdi Mahdavikia,44.0,False,False
+,Irán,Qatar,Irán,Ali Daei,62.0,False,False
+,Irán,Qatar,Qatar,Waleed Hamzah,70.0,False,False
 ,Japón,Oman,Japón,Tatsuhiko Kubo,90.0,False,False
 ,Jordania,Laos,Jordania,Hatem Aqel,40.0,False,False
 ,Jordania,Laos,Jordania,Mahmoud Shelbaieh,45.0,False,False
@@ -12050,13 +12050,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Curazao,Antigua And Barbuda,Curazao,Eugene Martha,46.0,False,False
 ,Curazao,Antigua And Barbuda,Curazao,Brutil Hosé,48.0,False,False
 ,Jordania,Qatar,Jordania,Mo'ayyad Salim,70.0,False,False
-,Laos,Iran,Iran,Ali Daei,9.0,False,False
-,Laos,Iran,Iran,Ali Daei,17.0,False,False
-,Laos,Iran,Iran,Reza Enayati,32.0,False,False
-,Laos,Iran,Iran,Reza Enayati,36.0,False,False
-,Laos,Iran,Iran,Nitsavong Khouphachansy,54.0,False,False
-,Laos,Iran,Iran,Ebrahim Taghipour,68.0,False,False
-,Laos,Iran,Iran,Ebrahim Taghipour,83.0,False,False
+,Laos,Irán,Irán,Ali Daei,9.0,False,False
+,Laos,Irán,Irán,Ali Daei,17.0,False,False
+,Laos,Irán,Irán,Reza Enayati,32.0,False,False
+,Laos,Irán,Irán,Reza Enayati,36.0,False,False
+,Laos,Irán,Irán,Nitsavong Khouphachansy,54.0,False,False
+,Laos,Irán,Irán,Ebrahim Taghipour,68.0,False,False
+,Laos,Irán,Irán,Ebrahim Taghipour,83.0,False,False
 ,Palestine,Iraq,Iraq,Razzaq Farhan,20.0,False,False
 ,Perú,Colombia,Colombia,Freddy Grisales,30.0,False,False
 ,Perú,Colombia,Colombia,Frankie Oviedo,42.0,False,False
@@ -12135,7 +12135,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-06-06,Sudan,Egipto,Egipto,Abdel Halim Ali,6.0,False,False
 2004-06-06,Sudan,Egipto,Egipto,Mohamed Aboutrika,53.0,False,False
 2004-06-06,Sudan,Egipto,Egipto,Mohamed Abdelwahab,88.0,False,False
-2004-09-06,Iran,Jordania,Jordania,Haitham Al-Shboul,83.0,False,False
+2004-09-06,Irán,Jordania,Jordania,Haitham Al-Shboul,83.0,False,False
 2004-09-06,Iraq,Taiwan,Iraq,Razzaq Farhan,2.0,False,False
 2004-09-06,Iraq,Taiwan,Iraq,Razzaq Farhan,14.0,False,False
 2004-09-06,Iraq,Taiwan,Iraq,Hussam Fawzi,18.0,False,False
@@ -12345,9 +12345,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Argentina,Colombia,Argentina,Carlos Tevez,33.0,False,False
 ,Argentina,Colombia,Argentina,Lucho González,50.0,False,False
 ,Argentina,Colombia,Argentina,Juan Pablo Sorín,80.0,False,False
-,Iran,Thailand,Iran,Reza Enayati,71.0,False,False
-,Iran,Thailand,Iran,Javad Nekounam,80.0,False,False
-,Iran,Thailand,Iran,Ali Daei,86.0,False,False
+,Irán,Thailand,Irán,Reza Enayati,71.0,False,False
+,Irán,Thailand,Irán,Javad Nekounam,80.0,False,False
+,Irán,Thailand,Irán,Ali Daei,86.0,False,False
 ,Japón,Oman,Japón,Shunsuke Nakamura,33.0,False,False
 ,Bahrain,Qatar,Qatar,Wesam Rizik,59.0,False,False
 ,Uruguay,Brasil,Uruguay,Marcelo Sosa,22.0,False,False
@@ -12363,8 +12363,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Colombia,Uruguay,Uruguay,Fabián Estoyanoff,2.0,False,False
 ,Colombia,Uruguay,Colombia,Sergio Herrera,70.0,False,False
 ,Colombia,Uruguay,Uruguay,Vicente Sánchez,80.0,False,False
-,Oman,Iran,Iran,Ali Karimi,61.0,False,False
-,Oman,Iran,Iran,Mohammad Nosrati,90.0,False,False
+,Oman,Irán,Irán,Ali Karimi,61.0,False,False
+,Oman,Irán,Irán,Mohammad Nosrati,90.0,False,False
 ,Thailand,Japón,Japón,Shunsuke Nakamura,21.0,False,False
 ,Thailand,Japón,Japón,Yuji Nakazawa,57.0,False,False
 ,Thailand,Japón,Japón,Takashi Fukunishi,68.0,False,False
@@ -12385,22 +12385,22 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Uzbekistán,Bahrain,Uzbekistán,Vladimir Shishelov,86.0,False,False
 ,Japón,Jordania,Jordania,Mahmoud Shelbaieh,11.0,False,False
 ,Japón,Jordania,Japón,Takayuki Suzuki,14.0,False,False
-,Corea del Sur,Iran,Iran,Ali Karimi,10.0,False,False
-,Corea del Sur,Iran,Corea del Sur,Seol Ki-hyeon,16.0,False,False
-,Corea del Sur,Iran,Iran,Ali Karimi,20.0,False,False
-,Corea del Sur,Iran,Corea del Sur,Lee Dong-gook,25.0,False,False
-,Corea del Sur,Iran,Iran,Park Jin-seop,51.0,False,False
-,Corea del Sur,Iran,Corea del Sur,Kim Nam-il,68.0,False,False
-,Corea del Sur,Iran,Iran,Ali Karimi,77.0,False,False
+,Corea del Sur,Irán,Irán,Ali Karimi,10.0,False,False
+,Corea del Sur,Irán,Corea del Sur,Seol Ki-hyeon,16.0,False,False
+,Corea del Sur,Irán,Irán,Ali Karimi,20.0,False,False
+,Corea del Sur,Irán,Corea del Sur,Lee Dong-gook,25.0,False,False
+,Corea del Sur,Irán,Irán,Park Jin-seop,51.0,False,False
+,Corea del Sur,Irán,Corea del Sur,Kim Nam-il,68.0,False,False
+,Corea del Sur,Irán,Irán,Ali Karimi,77.0,False,False
 2004-03-08,Bahrain,Japón,Japón,Koji Nakata,48.0,False,False
 2004-03-08,Bahrain,Japón,Japón,Keiji Tamada,55.0,False,False
 2004-03-08,Bahrain,Japón,Japón,Yuji Nakazawa,90.0,False,False
 2004-03-08,Bahrain,Japón,Japón,Keiji Tamada,93.0,False,False
-2004-03-08,China,Iran,Iran,Mohammad Alavi,38.0,False,False
-2004-06-08,Iran,Bahrain,Iran,Javad Nekounam,9.0,False,False
-2004-06-08,Iran,Bahrain,Iran,Ali Karimi,52.0,False,False
-2004-06-08,Iran,Bahrain,Iran,Ali Daei,80.0,False,False
-2004-06-08,Iran,Bahrain,Iran,Ali Daei,90.0,False,False
+2004-03-08,China,Irán,Irán,Mohammad Alavi,38.0,False,False
+2004-06-08,Irán,Bahrain,Irán,Javad Nekounam,9.0,False,False
+2004-06-08,Irán,Bahrain,Irán,Ali Karimi,52.0,False,False
+2004-06-08,Irán,Bahrain,Irán,Ali Daei,80.0,False,False
+2004-06-08,Irán,Bahrain,Irán,Ali Daei,90.0,False,False
 2004-07-08,China,Japón,Japón,Takashi Fukunishi,22.0,False,False
 2004-07-08,China,Japón,Japón,Koji Nakata,65.0,False,False
 2004-07-08,China,Japón,Japón,Keiji Tamada,90.0,False,False
@@ -12469,8 +12469,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-08-09,India,Japón,Japón,Shinji Ono,60.0,False,False
 2004-08-09,India,Japón,Japón,Takashi Fukunishi,71.0,False,False
 2004-08-09,India,Japón,Japón,Tsuneyasu Miyamoto,87.0,False,False
-2004-08-09,Jordania,Iran,Iran,Alireza Vahedi Nikbakht,80.0,False,False
-2004-08-09,Jordania,Iran,Iran,Ali Daei,91.0,False,False
+2004-08-09,Jordania,Irán,Irán,Alireza Vahedi Nikbakht,80.0,False,False
+2004-08-09,Jordania,Irán,Irán,Ali Daei,91.0,False,False
 2004-08-09,Laos,Qatar,Qatar,Wesam Rizik,36.0,False,False
 2004-08-09,Laos,Qatar,Qatar,Nasser Kamil Mubarak,42.0,False,False
 2004-08-09,Laos,Qatar,Qatar,Sayed Ali Bechir,50.0,False,False
@@ -12620,11 +12620,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Portugal,Russia,Portugal,Simão Sabrosa,82.0,False,False
 ,Portugal,Russia,Portugal,Petit,89.0,False,False
 ,Portugal,Russia,Portugal,Petit,90.0,False,False
-,Qatar,Iran,Iran,Vahid Hashemian,9.0,False,False
-,Qatar,Iran,Qatar,Bilal Mohammed,18.0,False,False
-,Qatar,Iran,Qatar,Yahya Golmohammadi,75.0,False,False
-,Qatar,Iran,Iran,Arash Borhani,78.0,False,False
-,Qatar,Iran,Iran,Vahid Hashemian,89.0,False,False
+,Qatar,Irán,Irán,Vahid Hashemian,9.0,False,False
+,Qatar,Irán,Qatar,Bilal Mohammed,18.0,False,False
+,Qatar,Irán,Qatar,Yahya Golmohammadi,75.0,False,False
+,Qatar,Irán,Irán,Arash Borhani,78.0,False,False
+,Qatar,Irán,Irán,Vahid Hashemian,89.0,False,False
 ,Estados Unidos,Panamá,Estados Unidos,Landon Donovan,21.0,False,False
 ,Estados Unidos,Panamá,Estados Unidos,Landon Donovan,57.0,False,False
 ,Estados Unidos,Panamá,Estados Unidos,Eddie Johnson,70.0,False,False
@@ -12650,13 +12650,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Colombia,Bolivia,Colombia,Mario Yepes,18.0,False,False
 ,Ecuador,Brasil,Ecuador,Édison Méndez,77.0,False,False
 ,Guatemala,Canadá,Canadá,Dwayne De Rosario,57.0,False,False
-,Iran,Laos,Iran,Ali Daei,8.0,False,False
-,Iran,Laos,Iran,Ali Daei,20.0,False,False
-,Iran,Laos,Iran,Ali Daei,28.0,False,False
-,Iran,Laos,Iran,Ali Daei,58.0,False,False
-,Iran,Laos,Iran,Javad Nekounam,63.0,False,False
-,Iran,Laos,Iran,Arash Borhani,69.0,False,False
-,Iran,Laos,Iran,Javad Nekounam,72.0,False,False
+,Irán,Laos,Irán,Ali Daei,8.0,False,False
+,Irán,Laos,Irán,Ali Daei,20.0,False,False
+,Irán,Laos,Irán,Ali Daei,28.0,False,False
+,Irán,Laos,Irán,Ali Daei,58.0,False,False
+,Irán,Laos,Irán,Javad Nekounam,63.0,False,False
+,Irán,Laos,Irán,Arash Borhani,69.0,False,False
+,Irán,Laos,Irán,Javad Nekounam,72.0,False,False
 ,Japón,Singapore,Japón,Keiji Tamada,13.0,False,False
 ,Luxembourg,Portugal,Portugal,Ben Federspiel,11.0,False,False
 ,Luxembourg,Portugal,Portugal,Cristiano Ronaldo,28.0,False,False
@@ -12711,9 +12711,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2005-09-02,Trinidad And Tobago,Estados Unidos,Estados Unidos,Eddie Lewis,54.0,False,False
 2005-09-02,Uzbekistán,Arabia Saudita,Arabia Saudita,Sami Al-Jaber,77.0,False,False
 2005-09-02,Uzbekistán,Arabia Saudita,Uzbekistán,Anvarjon Soliev,90.0,False,False
-,Iran,Japón,Iran,Vahid Hashemian,13.0,False,False
-,Iran,Japón,Japón,Takashi Fukunishi,66.0,False,False
-,Iran,Japón,Iran,Vahid Hashemian,75.0,False,False
+,Irán,Japón,Irán,Vahid Hashemian,13.0,False,False
+,Irán,Japón,Japón,Takashi Fukunishi,66.0,False,False
+,Irán,Japón,Irán,Vahid Hashemian,75.0,False,False
 ,Kuwait,Uzbekistán,Uzbekistán,Alexander Geynrikh,77.0,False,False
 ,Arabia Saudita,Corea del Sur,Arabia Saudita,Saud Khariri,29.0,False,False
 ,Arabia Saudita,Corea del Sur,Arabia Saudita,Yasser Al-Qahtani,73.0,False,False
@@ -12807,8 +12807,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Japón,Bahrain,Japón,Mohamed Salmeen,72.0,False,False
 ,Países Bajos,Armenia,Países Bajos,Romeo Castelen,3.0,False,False
 ,Países Bajos,Armenia,Países Bajos,Ruud van Nistelrooy,33.0,False,False
-,North Korea,Iran,Iran,Mehdi Mahdavikia,34.0,False,False
-,North Korea,Iran,Iran,Javad Nekounam,79.0,False,False
+,North Korea,Irán,Irán,Mehdi Mahdavikia,34.0,False,False
+,North Korea,Irán,Irán,Javad Nekounam,79.0,False,False
 ,Panamá,México,México,Ramón Morales,26.0,False,False
 ,Panamá,México,Panamá,Luis Tejada,75.0,False,False
 ,Paraguay,Chile,Paraguay,Gustavo Morínigo,37.0,False,False
@@ -12827,7 +12827,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Uruguay,Brasil,Uruguay,Diego Forlán,48.0,False,False
 ,Uruguay,Brasil,Brasil,Émerson Ferreira da Rosa,67.0,False,False
 2005-03-06,Bahrain,Japón,Japón,Mitsuo Ogasawara,34.0,False,False
-2005-03-06,Iran,North Korea,Iran,Rahman Rezaei,45.0,False,False
+2005-03-06,Irán,North Korea,Irán,Rahman Rezaei,45.0,False,False
 2005-03-06,Arabia Saudita,Kuwait,Arabia Saudita,Mohammad Al-Shalhoub,19.0,False,False
 2005-03-06,Arabia Saudita,Kuwait,Arabia Saudita,Mohammad Al-Shalhoub,49.0,False,False
 2005-03-06,Arabia Saudita,Kuwait,Arabia Saudita,Saad Al-Harthi,83.0,False,False
@@ -12922,7 +12922,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2005-08-06,Finland,Países Bajos,Países Bajos,Dirk Kuyt,76.0,False,False
 2005-08-06,Finland,Países Bajos,Países Bajos,Phillip Cocu,85.0,False,False
 2005-08-06,Finland,Países Bajos,Países Bajos,Robin van Persie,87.0,False,False
-2005-08-06,Iran,Bahrain,Iran,Mohammad Nosrati,48.0,False,False
+2005-08-06,Irán,Bahrain,Irán,Mohammad Nosrati,48.0,False,False
 2005-08-06,Kazakhstan,Turquía,Turquía,Fatih Tekke,13.0,False,False
 2005-08-06,Kazakhstan,Turquía,Turquía,?brahim Toraman,15.0,False,False
 2005-08-06,Kazakhstan,Turquía,Turquía,Tuncay,41.0,False,False
@@ -13059,9 +13059,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Estados Unidos,Honduras,Estados Unidos,John O'Brien,86.0,False,False
 ,Estados Unidos,Honduras,Estados Unidos,Oguchi Onyewu,90.0,False,False
 ,Guatemala,Panamá,Panamá,Jorge Dely Valdés,19.0,False,False
-,Japón,Iran,Japón,Akira Kaji,28.0,False,False
-,Japón,Iran,Japón,Masashi Oguro,76.0,False,False
-,Japón,Iran,Iran,Ali Daei,79.0,False,False
+,Japón,Irán,Japón,Akira Kaji,28.0,False,False
+,Japón,Irán,Japón,Masashi Oguro,76.0,False,False
+,Japón,Irán,Irán,Ali Daei,79.0,False,False
 ,México,Costa Rica,México,Jared Borgetti,63.0,False,False
 ,México,Costa Rica,México,Francisco Fonseca,86.0,False,False
 ,Corea del Sur,Arabia Saudita,Arabia Saudita,Mohammed Al-Anbar,5.0,False,False
@@ -13322,10 +13322,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2006-10-06,Argentina,Costa de Marfil,Costa de Marfil,Didier Drogba,82.0,False,False
 2006-10-06,Inglaterra,Paraguay,Inglaterra,Carlos Gamarra,3.0,False,False
 2006-11-06,Angola,Portugal,Portugal,Pauleta,4.0,False,False
-2006-11-06,México,Iran,México,Omar Bravo,28.0,False,False
-2006-11-06,México,Iran,Iran,Yahya Golmohammadi,36.0,False,False
-2006-11-06,México,Iran,México,Omar Bravo,76.0,False,False
-2006-11-06,México,Iran,México,Sinha,79.0,False,False
+2006-11-06,México,Irán,México,Omar Bravo,28.0,False,False
+2006-11-06,México,Irán,Irán,Yahya Golmohammadi,36.0,False,False
+2006-11-06,México,Irán,México,Omar Bravo,76.0,False,False
+2006-11-06,México,Irán,México,Sinha,79.0,False,False
 2006-11-06,Serbia,Países Bajos,Países Bajos,Arjen Robben,18.0,False,False
 2006-12-06,Australia,Japón,Japón,Shunsuke Nakamura,26.0,False,False
 2006-12-06,Australia,Japón,Australia,Tim Cahill,84.0,False,False
@@ -13364,8 +13364,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Czech Republic,Ghana,Ghana,Asamoah Gyan,2.0,False,False
 ,Czech Republic,Ghana,Ghana,Sulley Muntari,82.0,False,False
 ,Italia,Estados Unidos,Estados Unidos,Cristian Zaccardo,27.0,False,False
-,Portugal,Iran,Portugal,Deco,63.0,False,False
-,Portugal,Iran,Portugal,Cristiano Ronaldo,80.0,False,False
+,Portugal,Irán,Portugal,Deco,63.0,False,False
+,Portugal,Irán,Portugal,Cristiano Ronaldo,80.0,False,False
 ,Brasil,Australia,Brasil,Adriano,49.0,False,False
 ,Brasil,Australia,Brasil,Fred,90.0,False,False
 ,Francia,Corea del Sur,Francia,Thierry Henry,9.0,False,False
@@ -13385,7 +13385,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Suecia,Inglaterra,Suecia,Marcus Allbäck,51.0,False,False
 ,Suecia,Inglaterra,Inglaterra,Steven Gerrard,85.0,False,False
 ,Suecia,Inglaterra,Suecia,Henrik Larsson,90.0,False,False
-,Iran,Angola,Iran,Sohrab Bakhtiarizadeh,75.0,False,False
+,Irán,Angola,Irán,Sohrab Bakhtiarizadeh,75.0,False,False
 ,Costa de Marfil,Serbia,Costa de Marfil,Aruna Dindane,37.0,False,False
 ,Costa de Marfil,Serbia,Costa de Marfil,Aruna Dindane,67.0,False,False
 ,Costa de Marfil,Serbia,Costa de Marfil,Bonaventure Kalou,86.0,False,False
@@ -13733,9 +13733,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-10-07,Uruguay,Brasil,Uruguay,Diego Forlán,36.0,False,False
 2007-10-07,Uruguay,Brasil,Brasil,Júlio Baptista,41.0,False,False
 2007-10-07,Uruguay,Brasil,Uruguay,Sebastián Abreu,69.0,False,False
-2007-11-07,Iran,Uzbekistán,Uzbekistán,Rahman Rezaei,16.0,False,False
-2007-11-07,Iran,Uzbekistán,Iran,Jalal Hosseini,55.0,False,False
-2007-11-07,Iran,Uzbekistán,Iran,Javad Kazemian,78.0,False,False
+2007-11-07,Irán,Uzbekistán,Uzbekistán,Rahman Rezaei,16.0,False,False
+2007-11-07,Irán,Uzbekistán,Irán,Jalal Hosseini,55.0,False,False
+2007-11-07,Irán,Uzbekistán,Irán,Javad Kazemian,78.0,False,False
 2007-11-07,México,Argentina,Argentina,Gabriel Heinze,45.0,False,False
 2007-11-07,México,Argentina,Argentina,Lionel Messi,61.0,False,False
 2007-11-07,México,Argentina,Argentina,Juan Román Riquelme,65.0,False,False
@@ -13764,8 +13764,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Brasil,Argentina,Brasil,Júlio Baptista,4.0,False,False
 ,Brasil,Argentina,Brasil,Roberto Ayala,40.0,False,False
 ,Brasil,Argentina,Brasil,Dani Alves,69.0,False,False
-,China,Iran,Iran,Ferydoon Zandi,45.0,False,False
-,China,Iran,Iran,Javad Nekounam,74.0,False,False
+,China,Irán,Irán,Ferydoon Zandi,45.0,False,False
+,China,Irán,Irán,Javad Nekounam,74.0,False,False
 ,Qatar,United Arab Emirates,Qatar,Sebastián Soria,42.0,False,False
 ,Thailand,Australia,Australia,Michael Beauchamp,21.0,False,False
 ,Thailand,Australia,Australia,Mark Viduka,80.0,False,False
@@ -13776,8 +13776,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Vietnam,Japón,Japón,Shunsuke Nakamura,53.0,False,False
 ,Vietnam,Japón,Japón,Seiichiro Maki,59.0,False,False
 ,Indonesia,Corea del Sur,Corea del Sur,Kim Jung-woo,34.0,False,False
-,Malaysia,Iran,Iran,Javad Nekounam,29.0,False,False
-,Malaysia,Iran,Iran,Andranik Teymourian,77.0,False,False
+,Malaysia,Irán,Irán,Javad Nekounam,29.0,False,False
+,Malaysia,Irán,Irán,Andranik Teymourian,77.0,False,False
 ,Arabia Saudita,Bahrain,Arabia Saudita,Ahmed Al-Mousa,18.0,False,False
 ,Arabia Saudita,Bahrain,Arabia Saudita,Abdulrahman Al-Qahtani,45.0,False,False
 ,Arabia Saudita,Bahrain,Arabia Saudita,Taisir Al-Jassim,68.0,False,False
@@ -14077,8 +14077,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-10-02,Cameroon,Egipto,Egipto,Mohamed Aboutrika,76.0,False,False
 ,Curazao,Nicaragua,Curazao,Tyrone Loran,42.0,False,False
 ,Curazao,Nicaragua,Curazao,Angelo Zimmerman,81.0,False,False
-,Kuwait,Iran,Iran,Alireza Vahedi Nikbakht,2.0,False,False
-,Kuwait,Iran,Iran,Jalal Hosseini,5.0,False,False
+,Kuwait,Irán,Irán,Alireza Vahedi Nikbakht,2.0,False,False
+,Kuwait,Irán,Irán,Jalal Hosseini,5.0,False,False
 ,Qatar,Iraq,Qatar,Fábio César Montezine,1.0,False,False
 ,Qatar,Iraq,Qatar,Fábio César Montezine,62.0,False,False
 ,Turkmenistan,Jordania,Jordania,Waseem Al-Bzour,33.0,False,False
@@ -14143,7 +14143,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-07-06,South Africa,Equatorial Guinea,South Africa,Thembinkosi Fanteni,62.0,False,False
 2008-07-06,South Africa,Equatorial Guinea,South Africa,Kagiso Dikgacoi,90.0,False,False
 2008-07-06,Suiza,Czech Republic,Czech Republic,Václav Sv?rko,71.0,False,False
-2008-07-06,United Arab Emirates,Iran,Iran,Ferydoon Zandi,8.0,False,False
+2008-07-06,United Arab Emirates,Irán,Irán,Ferydoon Zandi,8.0,False,False
 2008-08-06,Austria,Croacia,Croacia,Luka Modri?,4.0,False,False
 2008-08-06,RD Congo,Sudan,RD Congo,Wilfried Urbain Elvis Endzanga,60.0,False,False
 2008-08-06,RD Congo,Malawi,RD Congo,Zola Matumona,75.0,False,False
@@ -14196,8 +14196,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Suecia,España,España,Fernando Torres,15.0,False,False
 ,Suecia,España,Suecia,Zlatan Ibrahimovi?,34.0,False,False
 ,Suecia,España,España,David Villa,90.0,False,False
-,Syria,Iran,Iran,Gholamreza Rezaei,64.0,False,False
-,Syria,Iran,Iran,Mohsen Khalili,90.0,False,False
+,Syria,Irán,Irán,Gholamreza Rezaei,64.0,False,False
+,Syria,Irán,Irán,Mohsen Khalili,90.0,False,False
 ,Thailand,Japón,Japón,Marcus Tulio Tanaka,23.0,False,False
 ,Thailand,Japón,Japón,Yuji Nakazawa,39.0,False,False
 ,Thailand,Japón,Japón,Kengo Nakamura,89.0,False,False
@@ -14295,8 +14295,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,El Salvador,Panamá,Panamá,José Luis Garcés,14.0,False,False
 ,Ghana,Gabon,Ghana,Prince Tagoe,30.0,False,False
 ,Ghana,Gabon,Ghana,Sulley Muntari,78.0,False,False
-,Iran,Kuwait,Iran,Javad Nekounam,17.0,False,False
-,Iran,Kuwait,Iran,Gholamreza Rezaei,90.0,False,False
+,Irán,Kuwait,Irán,Javad Nekounam,17.0,False,False
+,Irán,Kuwait,Irán,Gholamreza Rezaei,90.0,False,False
 ,Iraq,Qatar,Qatar,Sayed Ali Bechir,77.0,False,False
 ,Costa de Marfil,Botswana,Costa de Marfil,Boubacar Sanogo,16.0,False,False
 ,Costa de Marfil,Botswana,Costa de Marfil,Didier Zokora,21.0,False,False
@@ -14378,8 +14378,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-06-09,Qatar,Uzbekistán,Qatar,Majdi Siddiq,37.0,False,False
 2008-06-09,Qatar,Uzbekistán,Qatar,Magid Mohamed,73.0,False,False
 2008-06-09,Qatar,Uzbekistán,Qatar,Talal Al-Bloushi,86.0,False,False
-2008-06-09,Arabia Saudita,Iran,Arabia Saudita,Saad Al-Harthi,29.0,False,False
-2008-06-09,Arabia Saudita,Iran,Iran,Javad Nekounam,81.0,False,False
+2008-06-09,Arabia Saudita,Irán,Arabia Saudita,Saad Al-Harthi,29.0,False,False
+2008-06-09,Arabia Saudita,Irán,Irán,Javad Nekounam,81.0,False,False
 2008-06-09,España,Bosnia y Herzegovina,España,David Villa,58.0,False,False
 2008-07-09,Chile,Brasil,Brasil,Luís Fabiano,21.0,False,False
 2008-07-09,Chile,Brasil,Brasil,Robinho,45.0,False,False
@@ -14528,8 +14528,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Alemania,Wales,Alemania,Piotr Trochowski,72.0,False,False
 ,Greece,Suiza,Suiza,Alexander Frei,42.0,False,False
 ,Greece,Suiza,Suiza,Blaise Nkufo,77.0,False,False
-,Iran,North Korea,Iran,Mehdi Mahdavikia,9.0,False,False
-,Iran,North Korea,Iran,Javad Nekounam,63.0,False,False
+,Irán,North Korea,Irán,Mehdi Mahdavikia,9.0,False,False
+,Irán,North Korea,Irán,Javad Nekounam,63.0,False,False
 ,Japón,Uzbekistán,Uzbekistán,Maksim Shatskikh,27.0,False,False
 ,Japón,Uzbekistán,Japón,Keiji Tamada,40.0,False,False
 ,Noruega,Países Bajos,Países Bajos,Mark van Bommel,62.0,False,False
@@ -14550,11 +14550,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Arabia Saudita,Corea del Sur,Corea del Sur,Lee Keun-ho,76.0,False,False
 ,Arabia Saudita,Corea del Sur,Corea del Sur,Park Chu-young,90.0,False,False
 ,Suriname,Haití,Haití,Leonel Saint-Preux,28.0,False,False
-,United Arab Emirates,Iran,Iran,Karim Bagheri,81.0,False,False
+,United Arab Emirates,Irán,Irán,Karim Bagheri,81.0,False,False
 ,Estados Unidos,Guatemala,Estados Unidos,Kenny Cooper,54.0,False,False
 ,Estados Unidos,Guatemala,Estados Unidos,Freddy Adu,69.0,False,False
-2009-11-02,Iran,Corea del Sur,Iran,Javad Nekounam,58.0,False,False
-2009-11-02,Iran,Corea del Sur,Corea del Sur,Park Ji-sung,81.0,False,False
+2009-11-02,Irán,Corea del Sur,Irán,Javad Nekounam,58.0,False,False
+2009-11-02,Irán,Corea del Sur,Corea del Sur,Park Ji-sung,81.0,False,False
 2009-11-02,Estados Unidos,México,Estados Unidos,Michael Bradley,43.0,False,False
 2009-11-02,Estados Unidos,México,Estados Unidos,Michael Bradley,90.0,False,False
 ,Argentina,Venezuela,Argentina,Lionel Messi,26.0,False,False
@@ -14575,9 +14575,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Alemania,Liechtenstein,Alemania,Marcell Jansen,9.0,False,False
 ,Alemania,Liechtenstein,Alemania,Bastian Schweinsteiger,48.0,False,False
 ,Alemania,Liechtenstein,Alemania,Lukas Podolski,50.0,False,False
-,Iran,Arabia Saudita,Iran,Masoud Shojaei,57.0,False,False
-,Iran,Arabia Saudita,Arabia Saudita,Naif Hazazi,79.0,False,False
-,Iran,Arabia Saudita,Arabia Saudita,Osama Al-Muwallad,87.0,False,False
+,Irán,Arabia Saudita,Irán,Masoud Shojaei,57.0,False,False
+,Irán,Arabia Saudita,Arabia Saudita,Naif Hazazi,79.0,False,False
+,Irán,Arabia Saudita,Arabia Saudita,Osama Al-Muwallad,87.0,False,False
 ,Japón,Bahrain,Japón,Shunsuke Nakamura,47.0,False,False
 ,Kenya,Túnez,Túnez,Ammar Jemal,6.0,False,False
 ,Kenya,Túnez,Túnez,Issam Jemâa,79.0,False,False
@@ -14694,7 +14694,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2009-10-06,Inglaterra,Andorra,Inglaterra,Jermain Defoe,73.0,False,False
 2009-10-06,Inglaterra,Andorra,Inglaterra,Jermain Defoe,76.0,False,False
 2009-10-06,Inglaterra,Andorra,Inglaterra,Peter Crouch,81.0,False,False
-2009-10-06,Iran,United Arab Emirates,Iran,Ali Karimi,53.0,False,False
+2009-10-06,Irán,United Arab Emirates,Irán,Ali Karimi,53.0,False,False
 2009-10-06,Japón,Qatar,Japón,Ahmed Faris Al-Binali,3.0,False,False
 2009-10-06,Japón,Qatar,Qatar,Ali Afif,53.0,False,False
 2009-10-06,México,Trinidad And Tobago,México,Guillermo Franco,2.0,False,False
@@ -14725,8 +14725,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Australia,Japón,Australia,Tim Cahill,77.0,False,False
 ,South Africa,Nueva Zelanda,South Africa,Bernard Parker,21.0,False,False
 ,South Africa,Nueva Zelanda,South Africa,Bernard Parker,52.0,False,False
-,Corea del Sur,Iran,Iran,Masoud Shojaei,52.0,False,False
-,Corea del Sur,Iran,Corea del Sur,Park Ji-sung,82.0,False,False
+,Corea del Sur,Irán,Irán,Masoud Shojaei,52.0,False,False
+,Corea del Sur,Irán,Corea del Sur,Park Ji-sung,82.0,False,False
 ,España,Iraq,España,David Villa,55.0,False,False
 ,Egipto,Italia,Egipto,Homos,39.0,False,False
 ,Estados Unidos,Brasil,Brasil,Felipe Melo,7.0,False,False
@@ -15289,9 +15289,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-10-01,India,Australia,Australia,Tim Cahill,65.0,False,False
 2011-10-01,Corea del Sur,Bahrain,Corea del Sur,Koo Ja-cheol,41.0,False,False
 2011-10-01,Corea del Sur,Bahrain,Corea del Sur,Koo Ja-cheol,56.0,False,False
-2011-11-01,Iraq,Iran,Iraq,Younis Mahmoud,13.0,False,False
-2011-11-01,Iraq,Iran,Iran,Gholamreza Rezaei,42.0,False,False
-2011-11-01,Iraq,Iran,Iran,Iman Mobali,84.0,False,False
+2011-11-01,Iraq,Irán,Iraq,Younis Mahmoud,13.0,False,False
+2011-11-01,Iraq,Irán,Irán,Gholamreza Rezaei,42.0,False,False
+2011-11-01,Iraq,Irán,Irán,Iman Mobali,84.0,False,False
 2011-12-01,Qatar,China,Qatar,Yusef Ahmed,27.0,False,False
 2011-12-01,Qatar,China,Qatar,Yusef Ahmed,45.0,False,False
 2011-12-01,Uzbekistán,Kuwait,Uzbekistán,Maksim Shatskikh,41.0,False,False
@@ -15301,7 +15301,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Syria,Japón,Japón,Keisuke Honda,82.0,False,False
 ,Australia,Corea del Sur,Corea del Sur,Koo Ja-cheol,24.0,False,False
 ,Australia,Corea del Sur,Australia,Mile Jedinak,62.0,False,False
-,Iran,North Korea,Iran,Karim Ansarifard,63.0,False,False
+,Irán,North Korea,Irán,Karim Ansarifard,63.0,False,False
 ,United Arab Emirates,Iraq,Iraq,Walid Abbas,90.0,False,False
 ,China,Uzbekistán,Uzbekistán,Odil Ahmedov,30.0,False,False
 ,China,Uzbekistán,Uzbekistán,Alexander Geynrikh,46.0,False,False
@@ -15321,9 +15321,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Corea del Sur,India,Corea del Sur,Ji Dong-won,23.0,False,False
 ,Corea del Sur,India,Corea del Sur,Son Heung-min,81.0,False,False
 ,Iraq,North Korea,Iraq,Karrar Jassim,22.0,False,False
-,United Arab Emirates,Iran,Iran,Arash Afshin,67.0,False,False
-,United Arab Emirates,Iran,Iran,Mohammad Nouri,83.0,False,False
-,United Arab Emirates,Iran,Iran,Walid Abbas,90.0,False,False
+,United Arab Emirates,Irán,Irán,Arash Afshin,67.0,False,False
+,United Arab Emirates,Irán,Irán,Mohammad Nouri,83.0,False,False
+,United Arab Emirates,Irán,Irán,Walid Abbas,90.0,False,False
 ,Qatar,Japón,Qatar,Sebastián Soria,13.0,False,False
 ,Qatar,Japón,Japón,Shinji Kagawa,29.0,False,False
 ,Qatar,Japón,Qatar,Fábio César Montezine,63.0,False,False
@@ -15333,7 +15333,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Uzbekistán,Jordania,Uzbekistán,Ulugbek Bakayev,49.0,False,False
 ,Uzbekistán,Jordania,Jordania,Bashar Bani Yaseen,58.0,False,False
 ,Australia,Iraq,Australia,Harry Kewell,118.0,False,False
-,Iran,Corea del Sur,Corea del Sur,Yoon Bit-garam,105.0,False,False
+,Irán,Corea del Sur,Corea del Sur,Yoon Bit-garam,105.0,False,False
 ,Japón,Corea del Sur,Corea del Sur,Ki Sung-yueng,23.0,False,False
 ,Japón,Corea del Sur,Japón,Ryoichi Maeda,36.0,False,False
 ,Japón,Corea del Sur,Japón,Hajime Hosogai,97.0,False,False
@@ -15483,10 +15483,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Argentina,Uruguay,Argentina,Gonzalo Higuaín,17.0,False,False
 ,Perú,Uruguay,Uruguay,Luis Suárez,52.0,False,False
 ,Perú,Uruguay,Uruguay,Luis Suárez,57.0,False,False
-,Iran,Maldives,Iran,Karim Ansarifard,4.0,False,False
-,Iran,Maldives,Iran,Karim Ansarifard,62.0,False,False
-,Iran,Maldives,Iran,Ali Karimi,67.0,False,False
-,Iran,Maldives,Iran,Saeid Daghighi,86.0,False,False
+,Irán,Maldives,Irán,Karim Ansarifard,4.0,False,False
+,Irán,Maldives,Irán,Karim Ansarifard,62.0,False,False
+,Irán,Maldives,Irán,Ali Karimi,67.0,False,False
+,Irán,Maldives,Irán,Saeid Daghighi,86.0,False,False
 ,Iraq,Yemen,Iraq,Hawar Mulla Mohammed,10.0,False,False
 ,Iraq,Yemen,Iraq,Alaa Abdul-Zahra,64.0,False,False
 ,Jordania,Nepal,Jordania,Hassan Abdel-Fattah,7.0,False,False
@@ -15519,7 +15519,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Kyrgyzstan,Uzbekistán,Uzbekistán,Victor Karpenko,47.0,False,False
 ,Kyrgyzstan,Uzbekistán,Uzbekistán,Bahodir Nasimov,65.0,False,False
 ,Kyrgyzstan,Uzbekistán,Uzbekistán,Bahodir Nasimov,90.0,False,False
-,Maldives,Iran,Iran,Mohammad Reza Khalatbari,45.0,False,False
+,Maldives,Irán,Irán,Mohammad Reza Khalatbari,45.0,False,False
 ,Nepal,Jordania,Jordania,Saeed Murjan,53.0,False,False
 ,Vietnam,Qatar,Qatar,Yusef Ahmed,17.0,False,False
 2011-02-09,Albania,Francia,Francia,Karim Benzema,11.0,False,False
@@ -15557,9 +15557,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-02-09,Haití,United States Virgin Islands,Haití,Jean Alexandre,65.0,False,False
 2011-02-09,Haití,United States Virgin Islands,Haití,Jean Alexandre,78.0,False,False
 2011-02-09,Hungary,Suecia,Suecia,Christian Wilhelmsson,60.0,False,False
-2011-02-09,Iran,Indonesia,Iran,Javad Nekounam,53.0,False,False
-2011-02-09,Iran,Indonesia,Iran,Javad Nekounam,74.0,False,False
-2011-02-09,Iran,Indonesia,Iran,Andranik Teymourian,87.0,False,False
+2011-02-09,Irán,Indonesia,Irán,Javad Nekounam,53.0,False,False
+2011-02-09,Irán,Indonesia,Irán,Javad Nekounam,74.0,False,False
+2011-02-09,Irán,Indonesia,Irán,Andranik Teymourian,87.0,False,False
 2011-02-09,Iraq,Jordania,Jordania,Hassan Abdel-Fattah,43.0,False,False
 2011-02-09,Iraq,Jordania,Jordania,Abdallah Deeb,47.0,False,False
 2011-02-09,Japón,North Korea,Japón,Maya Yoshida,90.0,False,False
@@ -15612,8 +15612,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-06-09,Puerto Rico,Canadá,Canadá,Iain Hume,42.0,False,False
 2011-06-09,Puerto Rico,Canadá,Canadá,Simeon Jackson,84.0,False,False
 2011-06-09,Puerto Rico,Canadá,Canadá,Tosaint Ricketts,90.0,False,False
-2011-06-09,Qatar,Iran,Iran,Hadi Aghily,46.0,False,False
-2011-06-09,Qatar,Iran,Qatar,Mohamed El-Sayed,56.0,False,False
+2011-06-09,Qatar,Irán,Irán,Hadi Aghily,46.0,False,False
+2011-06-09,Qatar,Irán,Qatar,Mohamed El-Sayed,56.0,False,False
 2011-06-09,San Marino,Suecia,Suecia,Kim Källström,64.0,False,False
 2011-06-09,San Marino,Suecia,Suecia,Christian Wilhelmsson,70.0,False,False
 2011-06-09,San Marino,Suecia,Suecia,Martin Olsson,81.0,False,False
@@ -15721,12 +15721,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-11-10,Indonesia,Qatar,Qatar,Abdulaziz Al Sulaiti,14.0,False,False
 2011-11-10,Indonesia,Qatar,Qatar,Khalfan Ibrahim,32.0,False,False
 2011-11-10,Indonesia,Qatar,Qatar,Mohammed Razak,59.0,False,False
-2011-11-10,Iran,Bahrain,Iran,Jalal Hosseini,22.0,False,False
-2011-11-10,Iran,Bahrain,Iran,Mojtaba Jabbari,34.0,False,False
-2011-11-10,Iran,Bahrain,Iran,Hadi Aghily,42.0,False,False
-2011-11-10,Iran,Bahrain,Iran,Andranik Teymourian,61.0,False,False
-2011-11-10,Iran,Bahrain,Iran,Karim Ansarifard,75.0,False,False
-2011-11-10,Iran,Bahrain,Iran,Gholamreza Rezaei,83.0,False,False
+2011-11-10,Irán,Bahrain,Irán,Jalal Hosseini,22.0,False,False
+2011-11-10,Irán,Bahrain,Irán,Mojtaba Jabbari,34.0,False,False
+2011-11-10,Irán,Bahrain,Irán,Hadi Aghily,42.0,False,False
+2011-11-10,Irán,Bahrain,Irán,Andranik Teymourian,61.0,False,False
+2011-11-10,Irán,Bahrain,Irán,Karim Ansarifard,75.0,False,False
+2011-11-10,Irán,Bahrain,Irán,Gholamreza Rezaei,83.0,False,False
 2011-11-10,Japón,Tajikistan,Japón,Mike Havenaar,11.0,False,False
 2011-11-10,Japón,Tajikistan,Japón,Shinji Okazaki,19.0,False,False
 2011-11-10,Japón,Tajikistan,Japón,Y?ichi Komano,35.0,False,False
@@ -15768,7 +15768,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-11-10,Suiza,Montenegro,Suiza,Stephan Lichtsteiner,65.0,False,False
 2011-11-10,Turquía,Azerbaijan,Turquía,Burak Y?lmaz,60.0,False,False
 2011-11-11,Argentina,Bolivia,Argentina,Ezequiel Lavezzi,60.0,False,False
-2011-11-11,Bahrain,Iran,Iran,Mojtaba Jabbari,90.0,False,False
+2011-11-11,Bahrain,Irán,Irán,Mojtaba Jabbari,90.0,False,False
 2011-11-11,Colombia,Venezuela,Colombia,Fredy Guarín,11.0,False,False
 2011-11-11,Czech Republic,Montenegro,Czech Republic,Václav Pila?,63.0,False,False
 2011-11-11,Czech Republic,Montenegro,Czech Republic,Tomá Sivok,90.0,False,False
@@ -15833,10 +15833,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ecuador,Perú,Ecuador,Christian Benítez,88.0,False,False
 ,Haití,Antigua And Barbuda,Haití,Judelin Aveska,60.0,False,False
 ,Haití,Antigua And Barbuda,Haití,Kervens Belfort,67.0,False,False
-,Indonesia,Iran,Iran,Milad Meydavoudi,7.0,False,False
-,Indonesia,Iran,Iran,Mojtaba Jabbari,21.0,False,False
-,Indonesia,Iran,Iran,Gholamreza Rezaei,25.0,False,False
-,Indonesia,Iran,Iran,Javad Nekounam,73.0,False,False
+,Indonesia,Irán,Irán,Milad Meydavoudi,7.0,False,False
+,Indonesia,Irán,Irán,Mojtaba Jabbari,21.0,False,False
+,Indonesia,Irán,Irán,Gholamreza Rezaei,25.0,False,False
+,Indonesia,Irán,Irán,Javad Nekounam,73.0,False,False
 ,Jordania,Iraq,Jordania,Hassan Abdel-Fattah,17.0,False,False
 ,Jordania,Iraq,Iraq,Nashat Akram,55.0,False,False
 ,Jordania,Iraq,Iraq,Qusay Munir,65.0,False,False
@@ -15892,10 +15892,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Australia,Arabia Saudita,Australia,Alex Brosque,75.0,False,False
 ,Australia,Arabia Saudita,Australia,Brett Emerton,76.0,False,False
 ,China,Jordania,Jordania,Basem Fathi,85.0,False,False
-,Iran,Qatar,Iran,Ashkan Dejagah,4.0,False,False
-,Iran,Qatar,Qatar,Khalfan Ibrahim,9.0,False,False
-,Iran,Qatar,Iran,Ashkan Dejagah,50.0,False,False
-,Iran,Qatar,Qatar,Mohammed Kasola,86.0,False,False
+,Irán,Qatar,Irán,Ashkan Dejagah,4.0,False,False
+,Irán,Qatar,Qatar,Khalfan Ibrahim,9.0,False,False
+,Irán,Qatar,Irán,Ashkan Dejagah,50.0,False,False
+,Irán,Qatar,Qatar,Mohammed Kasola,86.0,False,False
 ,Iraq,Singapore,Iraq,Karrar Jassim,5.0,False,False
 ,Iraq,Singapore,Iraq,Younis Mahmoud,11.0,False,False
 ,Iraq,Singapore,Iraq,Hawar Mulla Mohammed,22.0,False,False
@@ -15943,7 +15943,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2012-03-06,Lebanon,Qatar,Qatar,Sebastián Soria,64.0,False,False
 2012-03-06,Perú,Colombia,Colombia,James Rodríguez,51.0,False,False
 2012-03-06,South Africa,Ethiopia,South Africa,Katlego Mphela,77.0,False,False
-2012-03-06,Uzbekistán,Iran,Iran,Mohammad Reza Khalatbari,90.0,False,False
+2012-03-06,Uzbekistán,Irán,Irán,Mohammad Reza Khalatbari,90.0,False,False
 2012-04-06,Papua New Guinea,Nueva Zelanda,Nueva Zelanda,Shane Smeltz,2.0,False,False
 2012-04-06,Papua New Guinea,Nueva Zelanda,Nueva Zelanda,Chris Wood,52.0,False,False
 2012-06-06,Solomon Islands,Nueva Zelanda,Nueva Zelanda,Chris Wood,13.0,False,False
@@ -16232,7 +16232,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Hungary,Turquía,Turquía,Mevlüt Erdinç,22.0,False,False
 ,Iceland,Suiza,Suiza,Tranquillo Barnetta,66.0,False,False
 ,Iceland,Suiza,Suiza,Mario Gavranovi?,79.0,False,False
-,Iran,Corea del Sur,Iran,Javad Nekounam,76.0,False,False
+,Irán,Corea del Sur,Irán,Javad Nekounam,76.0,False,False
 ,Iraq,Australia,Iraq,Alaa Abdul-Zahra,72.0,False,False
 ,Iraq,Australia,Australia,Tim Cahill,80.0,False,False
 ,Iraq,Australia,Australia,Archie Thompson,84.0,False,False
@@ -16256,7 +16256,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Estados Unidos,Guatemala,Estados Unidos,Clint Dempsey,36.0,False,False
 ,Venezuela,Ecuador,Ecuador,Segundo Castillo,23.0,False,False
 ,Polonia,Inglaterra,Inglaterra,Wayne Rooney,31.0,False,False
-,Iran,Uzbekistán,Uzbekistán,Ulugbek Bakayev,71.0,False,False
+,Irán,Uzbekistán,Uzbekistán,Ulugbek Bakayev,71.0,False,False
 ,Iraq,Jordania,Iraq,Hammadi Ahmed,86.0,False,False
 ,Oman,Japón,Japón,Hiroshi Kiyotake,20.0,False,False
 ,Oman,Japón,Japón,Shinji Okazaki,90.0,False,False
@@ -16416,7 +16416,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2013-04-06,Japón,Australia,Australia,Tommy Oar,81.0,False,False
 2013-04-06,Japón,Australia,Japón,Keisuke Honda,90.0,False,False
 2013-04-06,Lebanon,Corea del Sur,Corea del Sur,Kim Chi-Woo,90.0,False,False
-2013-04-06,Qatar,Iran,Iran,Reza Ghoochannejhad,66.0,False,False
+2013-04-06,Qatar,Irán,Irán,Reza Ghoochannejhad,66.0,False,False
 2013-07-06,Albania,Noruega,Noruega,Tom Høgli,87.0,False,False
 2013-07-06,Austria,Suecia,Austria,David Alaba,26.0,False,False
 2013-07-06,Austria,Suecia,Austria,Marc Janko,32.0,False,False
@@ -16463,10 +16463,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2013-11-06,Colombia,Perú,Colombia,Teófilo Gutiérrez,45.0,False,False
 2013-11-06,Ecuador,Argentina,Argentina,Sergio Agüero,4.0,False,False
 2013-11-06,Ecuador,Argentina,Ecuador,Segundo Castillo,17.0,False,False
-2013-11-06,Iran,Lebanon,Iran,Mohammad Reza Khalatbari,39.0,False,False
-2013-11-06,Iran,Lebanon,Iran,Javad Nekounam,45.0,False,False
-2013-11-06,Iran,Lebanon,Iran,Reza Ghoochannejhad,46.0,False,False
-2013-11-06,Iran,Lebanon,Iran,Javad Nekounam,86.0,False,False
+2013-11-06,Irán,Lebanon,Irán,Mohammad Reza Khalatbari,39.0,False,False
+2013-11-06,Irán,Lebanon,Irán,Javad Nekounam,45.0,False,False
+2013-11-06,Irán,Lebanon,Irán,Reza Ghoochannejhad,46.0,False,False
+2013-11-06,Irán,Lebanon,Irán,Javad Nekounam,86.0,False,False
 2013-11-06,Iraq,Japón,Japón,Shinji Okazaki,89.0,False,False
 2013-11-06,Corea del Sur,Uzbekistán,Corea del Sur,Akmal Shorakhmedov,43.0,False,False
 2013-11-06,Suecia,Faroe Islands,Suecia,Zlatan Ibrahimovi?,35.0,False,False
@@ -16498,7 +16498,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Tanzania,Costa de Marfil,Costa de Marfil,Wilfried Bony,90.0,False,False
 ,Australia,Iraq,Australia,Joshua Kennedy,83.0,False,False
 ,Jordania,Oman,Jordania,Ahmad Hayel,58.0,False,False
-,Corea del Sur,Iran,Iran,Reza Ghoochannejhad,60.0,False,False
+,Corea del Sur,Irán,Irán,Reza Ghoochannejhad,60.0,False,False
 ,Estados Unidos,Honduras,Estados Unidos,Jozy Altidore,73.0,False,False
 ,Uzbekistán,Qatar,Qatar,Abdulgadir Ilyas Bakur,37.0,False,False
 ,Uzbekistán,Qatar,Uzbekistán,Bahodir Nasimov,61.0,False,False
@@ -16892,7 +16892,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Suiza,Francia,Francia,Moussa Sissoko,73.0,False,False
 ,Suiza,Francia,Suiza,Blerim Demaili,81.0,False,False
 ,Suiza,Francia,Suiza,Granit Xhaka,87.0,False,False
-,Argentina,Iran,Argentina,Lionel Messi,90.0,False,False
+,Argentina,Irán,Argentina,Lionel Messi,90.0,False,False
 ,Alemania,Ghana,Alemania,Mario Götze,51.0,False,False
 ,Alemania,Ghana,Ghana,André Ayew,54.0,False,False
 ,Alemania,Ghana,Ghana,Asamoah Gyan,63.0,False,False
@@ -16928,10 +16928,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Japón,Colombia,Colombia,Jackson Martínez,55.0,False,False
 ,Japón,Colombia,Colombia,Jackson Martínez,82.0,False,False
 ,Japón,Colombia,Colombia,James Rodríguez,90.0,False,False
-,Bosnia y Herzegovina,Iran,Bosnia y Herzegovina,Edin Deko,23.0,False,False
-,Bosnia y Herzegovina,Iran,Bosnia y Herzegovina,Miralem Pjani?,59.0,False,False
-,Bosnia y Herzegovina,Iran,Iran,Reza Ghoochannejhad,82.0,False,False
-,Bosnia y Herzegovina,Iran,Bosnia y Herzegovina,Avdija Vrajevi?,83.0,False,False
+,Bosnia y Herzegovina,Irán,Bosnia y Herzegovina,Edin Deko,23.0,False,False
+,Bosnia y Herzegovina,Irán,Bosnia y Herzegovina,Miralem Pjani?,59.0,False,False
+,Bosnia y Herzegovina,Irán,Irán,Reza Ghoochannejhad,82.0,False,False
+,Bosnia y Herzegovina,Irán,Bosnia y Herzegovina,Avdija Vrajevi?,83.0,False,False
 ,Honduras,Suiza,Suiza,Xherdan Shaqiri,6.0,False,False
 ,Honduras,Suiza,Suiza,Xherdan Shaqiri,31.0,False,False
 ,Honduras,Suiza,Suiza,Xherdan Shaqiri,71.0,False,False
@@ -17088,8 +17088,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-09-01,Australia,Kuwait,Australia,James Troisi,90.0,False,False
 2015-10-01,Corea del Sur,Oman,Corea del Sur,Cho Young-cheol,45.0,False,False
 2015-10-01,Uzbekistán,North Korea,Uzbekistán,Igor Sergeev,62.0,False,False
-2015-11-01,Iran,Bahrain,Iran,Ehsan Hajsafi,45.0,False,False
-2015-11-01,Iran,Bahrain,Iran,Masoud Shojaei,71.0,False,False
+2015-11-01,Irán,Bahrain,Irán,Ehsan Hajsafi,45.0,False,False
+2015-11-01,Irán,Bahrain,Irán,Masoud Shojaei,71.0,False,False
 2015-11-01,United Arab Emirates,Qatar,Qatar,Khalfan Ibrahim,23.0,False,False
 2015-12-01,Japón,Palestine,Japón,Yasuhito End?,8.0,False,False
 2015-12-01,Japón,Palestine,Japón,Shinji Okazaki,25.0,False,False
@@ -17106,7 +17106,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,North Korea,Arabia Saudita,Arabia Saudita,Mohammad Al-Sahlawi,52.0,False,False
 ,North Korea,Arabia Saudita,Arabia Saudita,Mohammad Al-Sahlawi,54.0,False,False
 ,North Korea,Arabia Saudita,Arabia Saudita,Nawaf Al-Abed,76.0,False,False
-,Qatar,Iran,Iran,Sardar Azmoun,52.0,False,False
+,Qatar,Irán,Irán,Sardar Azmoun,52.0,False,False
 ,Iraq,Japón,Japón,Keisuke Honda,23.0,False,False
 ,Palestine,Jordania,Jordania,Yousef Al-Rawashdeh,32.0,False,False
 ,Palestine,Jordania,Jordania,Hamza Al-Dardour,34.0,False,False
@@ -17129,7 +17129,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ghana,Senegal,Ghana,André Ayew,14.0,False,False
 ,Ghana,Senegal,Senegal,Mame Biram Diouf,58.0,False,False
 ,Ghana,Senegal,Senegal,Moussa Sow,90.0,False,False
-,Iran,United Arab Emirates,Iran,Reza Ghoochannejhad,90.0,False,False
+,Irán,United Arab Emirates,Irán,Reza Ghoochannejhad,90.0,False,False
 ,Qatar,Bahrain,Qatar,Hassan Al-Haydos,68.0,False,False
 ,Iraq,Palestine,Iraq,Younis Mahmoud,48.0,False,False
 ,Iraq,Palestine,Iraq,Ahmed Yasin Ghani,88.0,False,False
@@ -17144,12 +17144,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Zambia,Túnez,Túnez,Ahmed Akaïchi,70.0,False,False
 ,Zambia,Túnez,Túnez,Yassine Chikhaoui,89.0,False,False
 ,Ghana,Argelia,Ghana,Asamoah Gyan,90.0,False,False
-,Iran,Iraq,Iran,Sardar Azmoun,24.0,False,False
-,Iran,Iraq,Iraq,Ahmed Yasin Ghani,56.0,False,False
-,Iran,Iraq,Iraq,Younis Mahmoud,93.0,False,False
-,Iran,Iraq,Iran,Morteza Pouraliganji,103.0,False,False
-,Iran,Iraq,Iraq,Dhurgham Ismail,116.0,False,False
-,Iran,Iraq,Iran,Reza Ghoochannejhad,119.0,False,False
+,Irán,Iraq,Irán,Sardar Azmoun,24.0,False,False
+,Irán,Iraq,Iraq,Ahmed Yasin Ghani,56.0,False,False
+,Irán,Iraq,Iraq,Younis Mahmoud,93.0,False,False
+,Irán,Iraq,Irán,Morteza Pouraliganji,103.0,False,False
+,Irán,Iraq,Iraq,Dhurgham Ismail,116.0,False,False
+,Irán,Iraq,Irán,Reza Ghoochannejhad,119.0,False,False
 ,Japón,United Arab Emirates,Japón,Gaku Shibasaki,81.0,False,False
 ,South Africa,Senegal,South Africa,Oupa Manyisa,47.0,False,False
 ,South Africa,Senegal,Senegal,Kara Mbodji,60.0,False,False
@@ -17304,7 +17304,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,North Korea,Uzbekistán,Uzbekistán,Anzur Ismailov,53.0,False,False
 ,North Korea,Uzbekistán,Uzbekistán,Sardor Rashidov,79.0,False,False
 ,Paraguay,Jamaica,Paraguay,Édgar Benítez,35.0,False,False
-,Turkmenistan,Iran,Iran,Sardar Azmoun,4.0,False,False
+,Turkmenistan,Irán,Irán,Sardar Azmoun,4.0,False,False
 ,Brasil,Colombia,Colombia,Jeison Murillo,36.0,False,False
 ,México,Ecuador,Ecuador,Miller Bolaños,25.0,False,False
 ,México,Ecuador,Ecuador,Enner Valencia,57.0,False,False
@@ -17371,12 +17371,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-03-09,Bulgaria,Noruega,Noruega,Vegard Forren,57.0,False,False
 2015-03-09,Czech Republic,Kazakhstan,Czech Republic,Milan koda,74.0,False,False
 2015-03-09,Czech Republic,Kazakhstan,Czech Republic,Milan koda,86.0,False,False
-2015-03-09,Iran,Guam,Iran,Ashkan Dejagah,10.0,False,False
-2015-03-09,Iran,Guam,Iran,Mehdi Taremi,31.0,False,False
-2015-03-09,Iran,Guam,Iran,Sardar Azmoun,34.0,False,False
-2015-03-09,Iran,Guam,Iran,Sardar Azmoun,41.0,False,False
-2015-03-09,Iran,Guam,Iran,Mehdi Taremi,65.0,False,False
-2015-03-09,Iran,Guam,Iran,Mehdi Torabi,89.0,False,False
+2015-03-09,Irán,Guam,Irán,Ashkan Dejagah,10.0,False,False
+2015-03-09,Irán,Guam,Irán,Mehdi Taremi,31.0,False,False
+2015-03-09,Irán,Guam,Irán,Sardar Azmoun,34.0,False,False
+2015-03-09,Irán,Guam,Irán,Sardar Azmoun,41.0,False,False
+2015-03-09,Irán,Guam,Irán,Mehdi Taremi,65.0,False,False
+2015-03-09,Irán,Guam,Irán,Mehdi Torabi,89.0,False,False
 2015-03-09,Iraq,Taiwan,Iraq,Ali Adnan Kadhim,37.0,False,False
 2015-03-09,Iraq,Taiwan,Iraq,Ali Hosni,59.0,False,False
 2015-03-09,Iraq,Taiwan,Iraq,Ahmed Yasin Ghani,80.0,False,False
@@ -17474,9 +17474,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-08-09,Hong Kong,Qatar,Qatar,Karim Boudiaf,22.0,False,False
 2015-08-09,Hong Kong,Qatar,Qatar,Abdelkarim Hassan,62.0,False,False
 2015-08-09,Hong Kong,Qatar,Qatar,Mohammed Musa,84.0,False,False
-2015-08-09,India,Iran,Iran,Sardar Azmoun,28.0,False,False
-2015-08-09,India,Iran,Iran,Andranik Teymourian,46.0,False,False
-2015-08-09,India,Iran,Iran,Mehdi Taremi,49.0,False,False
+2015-08-09,India,Irán,Irán,Sardar Azmoun,28.0,False,False
+2015-08-09,India,Irán,Irán,Andranik Teymourian,46.0,False,False
+2015-08-09,India,Irán,Irán,Mehdi Taremi,49.0,False,False
 2015-08-09,Lebanon,Corea del Sur,Corea del Sur,Jang Hyun-soo,22.0,False,False
 2015-08-09,Lebanon,Corea del Sur,Corea del Sur,Ali Hamam,26.0,False,False
 2015-08-09,Lebanon,Corea del Sur,Corea del Sur,Kwon Chang-hoon,60.0,False,False
@@ -17509,7 +17509,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-08-10,Jordania,Australia,Jordania,Hassan Abdel-Fattah,47.0,False,False
 2015-08-10,Jordania,Australia,Jordania,Hamza Al-Dardour,84.0,False,False
 2015-08-10,Kuwait,Corea del Sur,Corea del Sur,Koo Ja-cheol,12.0,False,False
-2015-08-10,Oman,Iran,Iran,Jalal Hosseini,70.0,False,False
+2015-08-10,Oman,Irán,Irán,Jalal Hosseini,70.0,False,False
 2015-08-10,Portugal,Dinamarca,Portugal,João Moutinho,66.0,False,False
 2015-08-10,Qatar,China,Qatar,Karim Boudiaf,22.0,False,False
 2015-08-10,Arabia Saudita,United Arab Emirates,Arabia Saudita,Mohammad Al-Sahlawi,45.0,False,False
@@ -17613,9 +17613,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-12-11,Ecuador,Uruguay,Ecuador,Felipe Caicedo,23.0,False,False
 2015-12-11,Ecuador,Uruguay,Uruguay,Edinson Cavani,49.0,False,False
 2015-12-11,Ecuador,Uruguay,Ecuador,Fidel Martínez,59.0,False,False
-2015-12-11,Iran,Turkmenistan,Iran,Morteza Pouraliganji,6.0,False,False
-2015-12-11,Iran,Turkmenistan,Iran,Saeid Ezatolahi,64.0,False,False
-2015-12-11,Iran,Turkmenistan,Iran,Ashkan Dejagah,83.0,False,False
+2015-12-11,Irán,Turkmenistan,Irán,Morteza Pouraliganji,6.0,False,False
+2015-12-11,Irán,Turkmenistan,Irán,Saeid Ezatolahi,64.0,False,False
+2015-12-11,Irán,Turkmenistan,Irán,Ashkan Dejagah,83.0,False,False
 2015-12-11,Marruecos,Equatorial Guinea,Marruecos,Youssef El-Arabi,30.0,False,False
 2015-12-11,Marruecos,Equatorial Guinea,Marruecos,Yacine Bammou,66.0,False,False
 2015-12-11,Singapore,Japón,Japón,Mu Kanazaki,20.0,False,False
@@ -17692,12 +17692,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Egipto,Chad,Egipto,Ahmed Hassan Mahgoub,40.0,False,False
 ,Ghana,Comoros,Ghana,Mubarak Wakaso,18.0,False,False
 ,Ghana,Comoros,Ghana,Jordan Ayew,85.0,False,False
-,Guam,Iran,Iran,Mehdi Taremi,12.0,False,False
-,Guam,Iran,Iran,Kamal Kamyabinia,32.0,False,False
-,Guam,Iran,Iran,Ramin Rezaeian,49.0,False,False
-,Guam,Iran,Iran,Masoud Shojaei,52.0,False,False
-,Guam,Iran,Iran,Karim Ansarifard,53.0,False,False
-,Guam,Iran,Iran,Mehdi Taremi,63.0,False,False
+,Guam,Irán,Irán,Mehdi Taremi,12.0,False,False
+,Guam,Irán,Irán,Kamal Kamyabinia,32.0,False,False
+,Guam,Irán,Irán,Ramin Rezaeian,49.0,False,False
+,Guam,Irán,Irán,Masoud Shojaei,52.0,False,False
+,Guam,Irán,Irán,Karim Ansarifard,53.0,False,False
+,Guam,Irán,Irán,Mehdi Taremi,63.0,False,False
 ,Honduras,México,México,Jesús Manuel Corona,67.0,False,False
 ,Honduras,México,México,Jürgen Damm,72.0,False,False
 ,Costa de Marfil,Liberia,Costa de Marfil,Giovanni Sio,16.0,False,False
@@ -17759,10 +17759,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ecuador,Paraguay,Paraguay,Darío Lezcano,38.0,False,False
 ,Ecuador,Paraguay,Paraguay,Darío Lezcano,59.0,False,False
 ,Ecuador,Paraguay,Ecuador,Ángel Mena,90.0,False,False
-,Iran,India,Iran,Ehsan Hajsafi,33.0,False,False
-,Iran,India,Iran,Sardar Azmoun,61.0,False,False
-,Iran,India,Iran,Ehsan Hajsafi,66.0,False,False
-,Iran,India,Iran,Alireza Jahanbakhsh,78.0,False,False
+,Irán,India,Irán,Ehsan Hajsafi,33.0,False,False
+,Irán,India,Irán,Sardar Azmoun,61.0,False,False
+,Irán,India,Irán,Ehsan Hajsafi,66.0,False,False
+,Irán,India,Irán,Alireza Jahanbakhsh,78.0,False,False
 ,Iraq,Thailand,Iraq,Mahdi Kamel,66.0,False,False
 ,Iraq,Thailand,Iraq,Ali Adnan Kadhim,90.0,False,False
 ,Japón,Afghanistan,Japón,Shinji Okazaki,43.0,False,False
@@ -17803,8 +17803,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Colombia,Ecuador,Colombia,Sebastián Pérez Cardona,48.0,False,False
 ,Colombia,Ecuador,Colombia,Carlos Bacca,67.0,False,False
 ,Colombia,Ecuador,Ecuador,Michael Arroyo,90.0,False,False
-,Iran,Oman,Iran,Sardar Azmoun,16.0,False,False
-,Iran,Oman,Iran,Sardar Azmoun,23.0,False,False
+,Irán,Oman,Irán,Sardar Azmoun,16.0,False,False
+,Irán,Oman,Irán,Sardar Azmoun,23.0,False,False
 ,Iraq,Vietnam,Iraq,Mohannad Abdul-Raheem,45.0,False,False
 ,Japón,Syria,Japón,Hamdi Al Masri,17.0,False,False
 ,Japón,Syria,Japón,Shinji Kagawa,66.0,False,False
@@ -17966,8 +17966,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-01-09,Ecuador,Brasil,Brasil,Neymar,72.0,False,False
 2016-01-09,Ecuador,Brasil,Brasil,Gabriel Jesus,87.0,False,False
 2016-01-09,Ecuador,Brasil,Brasil,Gabriel Jesus,90.0,False,False
-2016-01-09,Iran,Qatar,Iran,Reza Ghoochannejhad,90.0,False,False
-2016-01-09,Iran,Qatar,Iran,Alireza Jahanbakhsh,90.0,False,False
+2016-01-09,Irán,Qatar,Irán,Reza Ghoochannejhad,90.0,False,False
+2016-01-09,Irán,Qatar,Irán,Alireza Jahanbakhsh,90.0,False,False
 2016-01-09,Japón,United Arab Emirates,Japón,Keisuke Honda,11.0,False,False
 2016-01-09,Paraguay,Chile,Paraguay,Óscar Romero,6.0,False,False
 2016-01-09,Paraguay,Chile,Paraguay,Paulo da Silva,9.0,False,False
@@ -18085,7 +18085,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-06-10,Uruguay,Venezuela,Uruguay,Nicolás Lodeiro,29.0,False,False
 2016-06-10,Uruguay,Venezuela,Uruguay,Edinson Cavani,46.0,False,False
 2016-06-10,Uruguay,Venezuela,Uruguay,Edinson Cavani,78.0,False,False
-2016-06-10,Uzbekistán,Iran,Iran,Jalal Hosseini,27.0,False,False
+2016-06-10,Uzbekistán,Irán,Irán,Jalal Hosseini,27.0,False,False
 2016-07-10,Bélgica,Bosnia y Herzegovina,Bélgica,Emir Spahi?,26.0,False,False
 2016-07-10,Bélgica,Bosnia y Herzegovina,Bélgica,Eden Hazard,29.0,False,False
 2016-07-10,Bélgica,Bosnia y Herzegovina,Bélgica,Toby Alderweireld,60.0,False,False
@@ -18166,7 +18166,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-11-10,Colombia,Uruguay,Colombia,Yerry Mina,85.0,False,False
 2016-11-10,Alemania,Northern Ireland,Alemania,Julian Draxler,13.0,False,False
 2016-11-10,Alemania,Northern Ireland,Alemania,Sami Khedira,17.0,False,False
-2016-11-10,Iran,Corea del Sur,Iran,Sardar Azmoun,25.0,False,False
+2016-11-10,Irán,Corea del Sur,Irán,Sardar Azmoun,25.0,False,False
 2016-11-10,Iraq,Thailand,Iraq,Mohannad Abdul-Raheem,7.0,False,False
 2016-11-10,Iraq,Thailand,Iraq,Mohannad Abdul-Raheem,25.0,False,False
 2016-11-10,Iraq,Thailand,Iraq,Mohannad Abdul-Raheem,87.0,False,False
@@ -18308,7 +18308,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Paraguay,Ecuador,Paraguay,Bruno Valdez,11.0,False,False
 ,Paraguay,Ecuador,Paraguay,Júnior Alonso,65.0,False,False
 ,Paraguay,Ecuador,Ecuador,Felipe Caicedo,69.0,False,False
-,Qatar,Iran,Iran,Mehdi Taremi,52.0,False,False
+,Qatar,Irán,Irán,Mehdi Taremi,52.0,False,False
 ,Thailand,Arabia Saudita,Arabia Saudita,Mohammad Al-Sahlawi,26.0,False,False
 ,Thailand,Arabia Saudita,Arabia Saudita,Tanaboon Kesarat,84.0,False,False
 ,Thailand,Arabia Saudita,Arabia Saudita,Salman Al-Moasher,90.0,False,False
@@ -18375,7 +18375,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Brasil,Paraguay,Brasil,Marcelo,85.0,False,False
 ,Ecuador,Colombia,Colombia,James Rodríguez,20.0,False,False
 ,Ecuador,Colombia,Colombia,Juan Cuadrado,34.0,False,False
-,Iran,China,Iran,Mehdi Taremi,46.0,False,False
+,Irán,China,Irán,Mehdi Taremi,46.0,False,False
 ,Japón,Thailand,Japón,Shinji Kagawa,8.0,False,False
 ,Japón,Thailand,Japón,Shinji Okazaki,19.0,False,False
 ,Japón,Thailand,Japón,Yuya Kubo,57.0,False,False
@@ -18436,8 +18436,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-11-06,North Macedonia,España,España,David Silva,15.0,False,False
 2017-11-06,North Macedonia,España,España,Diego Costa,27.0,False,False
 2017-11-06,Republic Of Ireland,Austria,Austria,Martin Hinteregger,31.0,False,False
-2017-12-06,Iran,Uzbekistán,Iran,Sardar Azmoun,23.0,False,False
-2017-12-06,Iran,Uzbekistán,Iran,Mehdi Taremi,88.0,False,False
+2017-12-06,Irán,Uzbekistán,Irán,Sardar Azmoun,23.0,False,False
+2017-12-06,Irán,Uzbekistán,Irán,Mehdi Taremi,88.0,False,False
 ,Iraq,Japón,Japón,Yuya Osako,8.0,False,False
 ,Iraq,Japón,Iraq,Mahdi Kamel,73.0,False,False
 ,Panamá,Honduras,Panamá,Blas Pérez,41.0,False,False
@@ -18638,8 +18638,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-05-09,Ecuador,Perú,Ecuador,Enner Valencia,79.0,False,False
 2017-05-09,Egipto,Uganda,Egipto,Mohamed Salah,6.0,False,False
 2017-05-09,Honduras,Estados Unidos,Estados Unidos,Bobby Wood,85.0,False,False
-2017-05-09,Iran,Syria,Iran,Sardar Azmoun,45.0,False,False
-2017-05-09,Iran,Syria,Iran,Sardar Azmoun,64.0,False,False
+2017-05-09,Irán,Syria,Irán,Sardar Azmoun,45.0,False,False
+2017-05-09,Irán,Syria,Irán,Sardar Azmoun,64.0,False,False
 2017-05-09,Iraq,United Arab Emirates,Iraq,Aymen Hussein,29.0,False,False
 2017-05-09,Costa de Marfil,Gabon,Costa de Marfil,Maxwel Cornet,58.0,False,False
 2017-05-09,Liechtenstein,España,España,Sergio Ramos,3.0,False,False
@@ -18815,7 +18815,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Australia,Honduras,Australia,Mile Jedinak,72.0,False,False
 ,Australia,Honduras,Australia,Mile Jedinak,85.0,False,False
 ,Egipto,Uruguay,Uruguay,José María Giménez,89.0,False,False
-,Marruecos,Iran,Iran,Aziz Bouhaddouz,90.0,False,False
+,Marruecos,Irán,Irán,Aziz Bouhaddouz,90.0,False,False
 ,Portugal,España,Portugal,Cristiano Ronaldo,4.0,False,False
 ,Portugal,España,España,Diego Costa,24.0,False,False
 ,Portugal,España,Portugal,Cristiano Ronaldo,44.0,False,False
@@ -18844,7 +18844,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Polonia,Senegal,Senegal,Thiago Cionek,37.0,False,False
 ,Polonia,Senegal,Senegal,M'Baye Niang,60.0,False,False
 ,Russia,Egipto,Egipto,Mohamed Salah,73.0,False,False
-,Iran,España,España,Diego Costa,54.0,False,False
+,Irán,España,España,Diego Costa,54.0,False,False
 ,Portugal,Marruecos,Portugal,Cristiano Ronaldo,4.0,False,False
 ,Uruguay,Arabia Saudita,Uruguay,Luis Suárez,23.0,False,False
 ,Argentina,Croacia,Croacia,Ante Rebi?,53.0,False,False
@@ -18883,8 +18883,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Polonia,Colombia,Colombia,Yerry Mina,40.0,False,False
 ,Polonia,Colombia,Colombia,Radamel Falcao,70.0,False,False
 ,Polonia,Colombia,Colombia,Juan Cuadrado,75.0,False,False
-,Iran,Portugal,Portugal,Ricardo Quaresma,45.0,False,False
-,Iran,Portugal,Iran,Karim Ansarifard,90.0,False,False
+,Irán,Portugal,Portugal,Ricardo Quaresma,45.0,False,False
+,Irán,Portugal,Irán,Karim Ansarifard,90.0,False,False
 ,Russia,Uruguay,Uruguay,Luis Suárez,10.0,False,False
 ,Russia,Uruguay,Uruguay,Denis Cheryshev,23.0,False,False
 ,Russia,Uruguay,Uruguay,Edinson Cavani,90.0,False,False
@@ -19060,11 +19060,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Suecia,Russia,Suecia,Victor Lindelöf,41.0,False,False
 ,Suecia,Russia,Suecia,Marcus Berg,72.0,False,False
 2019-06-01,Australia,Jordania,Jordania,Anas Bani Yaseen,26.0,False,False
-2019-07-01,Iran,Yemen,Iran,Mehdi Taremi,12.0,False,False
-2019-07-01,Iran,Yemen,Iran,Ashkan Dejagah,23.0,False,False
-2019-07-01,Iran,Yemen,Iran,Mehdi Taremi,25.0,False,False
-2019-07-01,Iran,Yemen,Iran,Sardar Azmoun,53.0,False,False
-2019-07-01,Iran,Yemen,Iran,Saman Ghoddos,78.0,False,False
+2019-07-01,Irán,Yemen,Irán,Mehdi Taremi,12.0,False,False
+2019-07-01,Irán,Yemen,Irán,Ashkan Dejagah,23.0,False,False
+2019-07-01,Irán,Yemen,Irán,Mehdi Taremi,25.0,False,False
+2019-07-01,Irán,Yemen,Irán,Sardar Azmoun,53.0,False,False
+2019-07-01,Irán,Yemen,Irán,Saman Ghoddos,78.0,False,False
 2019-07-01,Corea del Sur,Philippines,Corea del Sur,Hwang Ui-jo,67.0,False,False
 2019-08-01,Iraq,Vietnam,Iraq,Mohanad Ali,35.0,False,False
 2019-08-01,Iraq,Vietnam,Iraq,Humam Tariq,60.0,False,False
@@ -19088,8 +19088,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-11-01,Palestine,Australia,Australia,Apostolos Giannou,90.0,False,False
 2019-12-01,Lebanon,Arabia Saudita,Arabia Saudita,Fahad Al-Muwallad,12.0,False,False
 2019-12-01,Lebanon,Arabia Saudita,Arabia Saudita,Housain Al-Mogahwi,67.0,False,False
-2019-12-01,Vietnam,Iran,Iran,Sardar Azmoun,38.0,False,False
-2019-12-01,Vietnam,Iran,Iran,Sardar Azmoun,69.0,False,False
+2019-12-01,Vietnam,Irán,Irán,Sardar Azmoun,38.0,False,False
+2019-12-01,Vietnam,Irán,Irán,Sardar Azmoun,69.0,False,False
 2019-12-01,Yemen,Iraq,Iraq,Mohanad Ali,11.0,False,False
 2019-12-01,Yemen,Iraq,Iraq,Bashar Resan,19.0,False,False
 2019-12-01,Yemen,Iraq,Iraq,Alaa Abbas,90.0,False,False
@@ -19114,21 +19114,21 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Japón,Uzbekistán,Japón,Tsukasa Shiotani,58.0,False,False
 ,Arabia Saudita,Qatar,Qatar,Almoez Ali,45.0,False,False
 ,Arabia Saudita,Qatar,Qatar,Almoez Ali,80.0,False,False
-,Iran,Oman,Iran,Alireza Jahanbakhsh,32.0,False,False
-,Iran,Oman,Iran,Ashkan Dejagah,41.0,False,False
+,Irán,Oman,Irán,Alireza Jahanbakhsh,32.0,False,False
+,Irán,Oman,Irán,Ashkan Dejagah,41.0,False,False
 ,Jordania,Vietnam,Jordania,Baha' Abdel-Rahman,39.0,False,False
 ,Japón,Arabia Saudita,Japón,Takehiro Tomiyasu,20.0,False,False
 ,Qatar,Iraq,Qatar,Bassam Al-Rawi,62.0,False,False
 ,Corea del Sur,Bahrain,Corea del Sur,Hwang Hee-chan,43.0,False,False
 ,Corea del Sur,Bahrain,Corea del Sur,Kim Jin-su,105.0,False,False
-,China,Iran,Iran,Mehdi Taremi,18.0,False,False
-,China,Iran,Iran,Sardar Azmoun,31.0,False,False
-,China,Iran,Iran,Karim Ansarifard,90.0,False,False
+,China,Irán,Irán,Mehdi Taremi,18.0,False,False
+,China,Irán,Irán,Sardar Azmoun,31.0,False,False
+,China,Irán,Irán,Karim Ansarifard,90.0,False,False
 ,Vietnam,Japón,Japón,Ritsu D?an,57.0,False,False
 ,Corea del Sur,Qatar,Qatar,Abdulaziz Hatem,78.0,False,False
-,Iran,Japón,Japón,Yuya Osako,56.0,False,False
-,Iran,Japón,Japón,Yuya Osako,67.0,False,False
-,Iran,Japón,Japón,Genki Haraguchi,90.0,False,False
+,Irán,Japón,Japón,Yuya Osako,56.0,False,False
+,Irán,Japón,Japón,Yuya Osako,67.0,False,False
+,Irán,Japón,Japón,Genki Haraguchi,90.0,False,False
 ,United Arab Emirates,Qatar,Qatar,Boualem Khoukhi,22.0,False,False
 ,United Arab Emirates,Qatar,Qatar,Almoez Ali,37.0,False,False
 ,United Arab Emirates,Qatar,Qatar,Hassan Al-Haydos,80.0,False,False
@@ -19515,8 +19515,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-10-09,Francia,Andorra,Francia,Kingsley Coman,18.0,False,False
 2019-10-09,Francia,Andorra,Francia,Clément Lenglet,52.0,False,False
 2019-10-09,Francia,Andorra,Francia,Wissam Ben Yedder,90.0,False,False
-2019-10-09,Hong Kong,Iran,Iran,Sardar Azmoun,23.0,False,False
-2019-10-09,Hong Kong,Iran,Iran,Karim Ansarifard,54.0,False,False
+2019-10-09,Hong Kong,Irán,Irán,Sardar Azmoun,23.0,False,False
+2019-10-09,Hong Kong,Irán,Irán,Karim Ansarifard,54.0,False,False
 2019-10-09,Kuwait,Australia,Australia,Mathew Leckie,7.0,False,False
 2019-10-09,Kuwait,Australia,Australia,Mathew Leckie,30.0,False,False
 2019-10-09,Kuwait,Australia,Australia,Aaron Mooy,38.0,False,False
@@ -19560,20 +19560,20 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-10-10,Croacia,Hungary,Croacia,Luka Modri?,5.0,False,False
 2019-10-10,Croacia,Hungary,Croacia,Bruno Petkovi?,24.0,False,False
 2019-10-10,Croacia,Hungary,Croacia,Bruno Petkovi?,42.0,False,False
-2019-10-10,Iran,Cambodia,Iran,Ahmad Nourollahi,5.0,False,False
-2019-10-10,Iran,Cambodia,Iran,Sardar Azmoun,11.0,False,False
-2019-10-10,Iran,Cambodia,Iran,Hossein Kanaanizadegan,18.0,False,False
-2019-10-10,Iran,Cambodia,Iran,Soeuy Visal,22.0,False,False
-2019-10-10,Iran,Cambodia,Iran,Sardar Azmoun,35.0,False,False
-2019-10-10,Iran,Cambodia,Iran,Karim Ansarifard,40.0,False,False
-2019-10-10,Iran,Cambodia,Iran,Sardar Azmoun,44.0,False,False
-2019-10-10,Iran,Cambodia,Iran,Karim Ansarifard,48.0,False,False
-2019-10-10,Iran,Cambodia,Iran,Mehdi Taremi,54.0,False,False
-2019-10-10,Iran,Cambodia,Iran,Karim Ansarifard,60.0,False,False
-2019-10-10,Iran,Cambodia,Iran,Mohammad Mohebi,65.0,False,False
-2019-10-10,Iran,Cambodia,Iran,Mohammad Mohebi,67.0,False,False
-2019-10-10,Iran,Cambodia,Iran,Mehrdad Mohammadi,85.0,False,False
-2019-10-10,Iran,Cambodia,Iran,Karim Ansarifard,88.0,False,False
+2019-10-10,Irán,Cambodia,Irán,Ahmad Nourollahi,5.0,False,False
+2019-10-10,Irán,Cambodia,Irán,Sardar Azmoun,11.0,False,False
+2019-10-10,Irán,Cambodia,Irán,Hossein Kanaanizadegan,18.0,False,False
+2019-10-10,Irán,Cambodia,Irán,Soeuy Visal,22.0,False,False
+2019-10-10,Irán,Cambodia,Irán,Sardar Azmoun,35.0,False,False
+2019-10-10,Irán,Cambodia,Irán,Karim Ansarifard,40.0,False,False
+2019-10-10,Irán,Cambodia,Irán,Sardar Azmoun,44.0,False,False
+2019-10-10,Irán,Cambodia,Irán,Karim Ansarifard,48.0,False,False
+2019-10-10,Irán,Cambodia,Irán,Mehdi Taremi,54.0,False,False
+2019-10-10,Irán,Cambodia,Irán,Karim Ansarifard,60.0,False,False
+2019-10-10,Irán,Cambodia,Irán,Mohammad Mohebi,65.0,False,False
+2019-10-10,Irán,Cambodia,Irán,Mohammad Mohebi,67.0,False,False
+2019-10-10,Irán,Cambodia,Irán,Mehrdad Mohammadi,85.0,False,False
+2019-10-10,Irán,Cambodia,Irán,Karim Ansarifard,88.0,False,False
 2019-10-10,Iraq,Hong Kong,Iraq,Mohanad Ali,37.0,False,False
 2019-10-10,Iraq,Hong Kong,Iraq,Ali Adnan Kadhim,79.0,False,False
 2019-10-10,Japón,Mongolia,Japón,Takumi Minamino,22.0,False,False
@@ -19682,9 +19682,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Inglaterra,Montenegro,Inglaterra,Tammy Abraham,84.0,False,False
 ,Francia,Moldova,Francia,Raphaël Varane,35.0,False,False
 ,Francia,Moldova,Francia,Olivier Giroud,79.0,False,False
-,Iraq,Iran,Iraq,Mohanad Ali,11.0,False,False
-,Iraq,Iran,Iran,Ahmad Nourollahi,25.0,False,False
-,Iraq,Iran,Iraq,Alaa Abbas,90.0,False,False
+,Iraq,Irán,Iraq,Mohanad Ali,11.0,False,False
+,Iraq,Irán,Irán,Ahmad Nourollahi,25.0,False,False
+,Iraq,Irán,Iraq,Alaa Abbas,90.0,False,False
 ,Jordania,Australia,Australia,Adam Taggart,13.0,False,False
 ,Kyrgyzstan,Japón,Japón,Takumi Minamino,41.0,False,False
 ,Kyrgyzstan,Japón,Japón,Genki Haraguchi,54.0,False,False
@@ -20142,9 +20142,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Japón,Myanmar,Japón,Yuya Osako,88.0,False,False
 ,Japón,Myanmar,Japón,Ko Itakura,90.0,False,False
 2021-03-06,Argentina,Chile,Argentina,Lionel Messi,23.0,False,False
-2021-03-06,Iran,Hong Kong,Iran,Ali Gholizadeh,23.0,False,False
-2021-03-06,Iran,Hong Kong,Iran,Vahid Amiri,61.0,False,False
-2021-03-06,Iran,Hong Kong,Iran,Karim Ansarifard,84.0,False,False
+2021-03-06,Irán,Hong Kong,Irán,Ali Gholizadeh,23.0,False,False
+2021-03-06,Irán,Hong Kong,Irán,Vahid Amiri,61.0,False,False
+2021-03-06,Irán,Hong Kong,Irán,Karim Ansarifard,84.0,False,False
 2021-03-06,Kuwait,Australia,Australia,Mathew Leckie,1.0,False,False
 2021-03-06,Kuwait,Australia,Australia,Jackson Irvine,24.0,False,False
 2021-03-06,Kuwait,Australia,Australia,Ajdin Hrustic,66.0,False,False
@@ -20205,9 +20205,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-07-06,Australia,Taiwan,Australia,Trent Sainsbury,41.0,False,False
 2021-07-06,Australia,Taiwan,Australia,Mitchell Duke,46.0,False,False
 2021-07-06,Australia,Taiwan,Australia,Mitchell Duke,84.0,False,False
-2021-07-06,Bahrain,Iran,Iran,Sardar Azmoun,54.0,False,False
-2021-07-06,Bahrain,Iran,Iran,Sardar Azmoun,61.0,False,False
-2021-07-06,Bahrain,Iran,Iran,Mehdi Taremi,79.0,False,False
+2021-07-06,Bahrain,Irán,Irán,Sardar Azmoun,54.0,False,False
+2021-07-06,Bahrain,Irán,Irán,Sardar Azmoun,61.0,False,False
+2021-07-06,Bahrain,Irán,Irán,Mehdi Taremi,79.0,False,False
 2021-07-06,Iraq,Cambodia,Iraq,Mohanad Ali,1.0,False,False
 2021-07-06,Iraq,Cambodia,Iraq,Bashar Resan,23.0,False,False
 2021-07-06,Iraq,Cambodia,Iraq,Ali Adnan Kadhim,27.0,False,False
@@ -20245,16 +20245,16 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-09-06,Corea del Sur,Sri Lanka,Corea del Sur,Kim Shin-wook,42.0,False,False
 2021-09-06,Corea del Sur,Sri Lanka,Corea del Sur,Hwang Hee-chan,53.0,False,False
 2021-09-06,Corea del Sur,Sri Lanka,Corea del Sur,Jeong Sang-bin,77.0,False,False
-2021-11-06,Cambodia,Iran,Iran,Alireza Jahanbakhsh,16.0,False,False
-2021-11-06,Cambodia,Iran,Iran,Shojae Khalilzadeh,22.0,False,False
-2021-11-06,Cambodia,Iran,Iran,Mehdi Taremi,27.0,False,False
-2021-11-06,Cambodia,Iran,Iran,Sor Rotana,32.0,False,False
-2021-11-06,Cambodia,Iran,Iran,Milad Mohammadi,58.0,False,False
-2021-11-06,Cambodia,Iran,Iran,Morteza Pouraliganji,64.0,False,False
-2021-11-06,Cambodia,Iran,Iran,Karim Ansarifard,77.0,False,False
-2021-11-06,Cambodia,Iran,Iran,Kaveh Rezaei,80.0,False,False
-2021-11-06,Cambodia,Iran,Iran,Mehdi Ghayedi,84.0,False,False
-2021-11-06,Cambodia,Iran,Iran,Kaveh Rezaei,87.0,False,False
+2021-11-06,Cambodia,Irán,Irán,Alireza Jahanbakhsh,16.0,False,False
+2021-11-06,Cambodia,Irán,Irán,Shojae Khalilzadeh,22.0,False,False
+2021-11-06,Cambodia,Irán,Irán,Mehdi Taremi,27.0,False,False
+2021-11-06,Cambodia,Irán,Irán,Sor Rotana,32.0,False,False
+2021-11-06,Cambodia,Irán,Irán,Milad Mohammadi,58.0,False,False
+2021-11-06,Cambodia,Irán,Irán,Morteza Pouraliganji,64.0,False,False
+2021-11-06,Cambodia,Irán,Irán,Karim Ansarifard,77.0,False,False
+2021-11-06,Cambodia,Irán,Irán,Kaveh Rezaei,80.0,False,False
+2021-11-06,Cambodia,Irán,Irán,Mehdi Ghayedi,84.0,False,False
+2021-11-06,Cambodia,Irán,Irán,Kaveh Rezaei,87.0,False,False
 2021-11-06,Hong Kong,Iraq,Iraq,Fung Hing Wa,11.0,False,False
 2021-11-06,Nepal,Australia,Australia,Mathew Leckie,6.0,False,False
 2021-11-06,Nepal,Australia,Australia,Fran Kara?i?,38.0,False,False
@@ -20298,7 +20298,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Hungary,Portugal,Portugal,Raphaël Guerreiro,84.0,False,False
 ,Hungary,Portugal,Portugal,Cristiano Ronaldo,87.0,False,False
 ,Hungary,Portugal,Portugal,Cristiano Ronaldo,90.0,False,False
-,Iran,Iraq,Iran,Sardar Azmoun,35.0,False,False
+,Irán,Iraq,Irán,Sardar Azmoun,35.0,False,False
 ,Japón,Kyrgyzstan,Japón,Ado Onaiwu,27.0,False,False
 ,Japón,Kyrgyzstan,Japón,Ado Onaiwu,31.0,False,False
 ,Japón,Kyrgyzstan,Japón,Ado Onaiwu,33.0,False,False
@@ -20519,7 +20519,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-02-09,Hungary,Inglaterra,Inglaterra,Harry Kane,63.0,False,False
 2021-02-09,Hungary,Inglaterra,Inglaterra,Harry Maguire,69.0,False,False
 2021-02-09,Hungary,Inglaterra,Inglaterra,Declan Rice,87.0,False,False
-2021-02-09,Iran,Syria,Iran,Alireza Jahanbakhsh,56.0,False,False
+2021-02-09,Irán,Syria,Irán,Alireza Jahanbakhsh,56.0,False,False
 2021-02-09,Liechtenstein,Alemania,Alemania,Timo Werner,41.0,False,False
 2021-02-09,Liechtenstein,Alemania,Alemania,Leroy Sané,77.0,False,False
 2021-02-09,México,Jamaica,México,Alexis Vega,50.0,False,False
@@ -20607,9 +20607,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-07-09,Croacia,Slovenia,Croacia,Nikola Vlai?,90.0,False,False
 2021-07-09,Francia,Finland,Francia,Antoine Griezmann,25.0,False,False
 2021-07-09,Francia,Finland,Francia,Antoine Griezmann,53.0,False,False
-2021-07-09,Iraq,Iran,Iran,Alireza Jahanbakhsh,3.0,False,False
-2021-07-09,Iraq,Iran,Iran,Mehdi Taremi,69.0,False,False
-2021-07-09,Iraq,Iran,Iran,Ali Gholizadeh,90.0,False,False
+2021-07-09,Iraq,Irán,Irán,Alireza Jahanbakhsh,3.0,False,False
+2021-07-09,Iraq,Irán,Irán,Mehdi Taremi,69.0,False,False
+2021-07-09,Iraq,Irán,Irán,Ali Gholizadeh,90.0,False,False
 2021-07-09,Países Bajos,Turquía,Países Bajos,Davy Klaassen,1.0,False,False
 2021-07-09,Países Bajos,Turquía,Países Bajos,Memphis Depay,16.0,False,False
 2021-07-09,Países Bajos,Turquía,Países Bajos,Memphis Depay,38.0,False,False
@@ -20686,7 +20686,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-07-10,Túnez,Mauritania,Túnez,Ellyes Skhiri,15.0,False,False
 2021-07-10,Túnez,Mauritania,Túnez,Wahbi Khazri,42.0,False,False
 2021-07-10,Túnez,Mauritania,Túnez,Seifeddine Jaziri,86.0,False,False
-2021-07-10,United Arab Emirates,Iran,Iran,Mehdi Taremi,70.0,False,False
+2021-07-10,United Arab Emirates,Irán,Irán,Mehdi Taremi,70.0,False,False
 2021-07-10,Estados Unidos,Jamaica,Estados Unidos,Ricardo Pepi,49.0,False,False
 2021-07-10,Estados Unidos,Jamaica,Estados Unidos,Ricardo Pepi,62.0,False,False
 2021-07-10,Venezuela,Brasil,Brasil,Marquinhos,71.0,False,False
@@ -20782,8 +20782,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-12-10,RD Congo,Togo,RD Congo,Guy Mbenza,71.0,False,False
 2021-12-10,Inglaterra,Hungary,Inglaterra,John Stones,37.0,False,False
 2021-12-10,Faroe Islands,Scotland,Scotland,Lyndon Dykes,86.0,False,False
-2021-12-10,Iran,Corea del Sur,Corea del Sur,Son Heung-min,48.0,False,False
-2021-12-10,Iran,Corea del Sur,Iran,Alireza Jahanbakhsh,76.0,False,False
+2021-12-10,Irán,Corea del Sur,Corea del Sur,Son Heung-min,48.0,False,False
+2021-12-10,Irán,Corea del Sur,Irán,Alireza Jahanbakhsh,76.0,False,False
 2021-12-10,Japón,Australia,Japón,Ao Tanaka,8.0,False,False
 2021-12-10,Japón,Australia,Australia,Ajdin Hrustic,70.0,False,False
 2021-12-10,Japón,Australia,Japón,Aziz Behich,85.0,False,False
@@ -20847,8 +20847,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-11-11,Alemania,Liechtenstein,Alemania,Maximilian Göppel,89.0,False,False
 2021-11-11,Greece,España,España,Pablo Sarabia,26.0,False,False
 2021-11-11,Iraq,Syria,Iraq,Amir Al-Ammari,86.0,False,False
-2021-11-11,Lebanon,Iran,Iran,Sardar Azmoun,90.0,False,False
-2021-11-11,Lebanon,Iran,Iran,Ahmad Nourollahi,90.0,False,False
+2021-11-11,Lebanon,Irán,Irán,Sardar Azmoun,90.0,False,False
+2021-11-11,Lebanon,Irán,Irán,Ahmad Nourollahi,90.0,False,False
 2021-11-11,Malta,Croacia,Croacia,Ivan Perii?,6.0,False,False
 2021-11-11,Malta,Croacia,Croacia,Duje ?aleta-Car,22.0,False,False
 2021-11-11,Malta,Croacia,Croacia,Mario Paali?,39.0,False,False
@@ -20977,9 +20977,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Oman,Japón,Japón,Junya Ito,81.0,False,False
 ,Panamá,El Salvador,Panamá,Cecilio Waterman,50.0,False,False
 ,Panamá,El Salvador,Panamá,Freddy Góndola,52.0,False,False
-,Syria,Iran,Iran,Sardar Azmoun,33.0,False,False
-,Syria,Iran,Iran,Ehsan Hajsafi,42.0,False,False
-,Syria,Iran,Iran,Ali Gholizadeh,89.0,False,False
+,Syria,Irán,Irán,Sardar Azmoun,33.0,False,False
+,Syria,Irán,Irán,Ehsan Hajsafi,42.0,False,False
+,Syria,Irán,Irán,Ali Gholizadeh,89.0,False,False
 ,Túnez,Zambia,Túnez,Aïssa Laïdouni,18.0,False,False
 ,Túnez,Zambia,Túnez,Mohamed Dräger,31.0,False,False
 ,Túnez,Zambia,Túnez,Ali Maâloul,43.0,False,False
@@ -21024,7 +21024,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ecuador,Brasil,Ecuador,Félix Torres,75.0,False,False
 ,Honduras,Canadá,Canadá,Denil Maldonado,10.0,False,False
 ,Honduras,Canadá,Canadá,Jonathan David,73.0,False,False
-,Iran,Iraq,Iran,Mehdi Taremi,48.0,False,False
+,Irán,Iraq,Irán,Mehdi Taremi,48.0,False,False
 ,Jamaica,México,México,Henry Martín,82.0,False,False
 ,Jamaica,México,México,Alexis Vega,83.0,False,False
 ,Japón,China,Japón,Yuya Osako,13.0,False,False
@@ -21049,7 +21049,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-01-02,Brasil,Paraguay,Brasil,Philippe Coutinho,62.0,False,False
 2022-01-02,Brasil,Paraguay,Brasil,Antony,86.0,False,False
 2022-01-02,Brasil,Paraguay,Brasil,Rodrygo,88.0,False,False
-2022-01-02,Iran,United Arab Emirates,Iran,Mehdi Taremi,44.0,False,False
+2022-01-02,Irán,United Arab Emirates,Irán,Mehdi Taremi,44.0,False,False
 2022-01-02,Japón,Arabia Saudita,Japón,Takumi Minamino,32.0,False,False
 2022-01-02,Japón,Arabia Saudita,Japón,Junya Ito,50.0,False,False
 2022-01-02,Lebanon,Iraq,Iraq,Aymen Hussein,39.0,False,False
@@ -21103,8 +21103,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Portugal,Turquía,Portugal,Diogo Jota,42.0,False,False
 ,Portugal,Turquía,Turquía,Burak Y?lmaz,65.0,False,False
 ,Portugal,Turquía,Portugal,Matheus Nunes,90.0,False,False
-,Corea del Sur,Iran,Corea del Sur,Son Heung-min,45.0,False,False
-,Corea del Sur,Iran,Corea del Sur,Kim Young-gwon,62.0,False,False
+,Corea del Sur,Irán,Corea del Sur,Son Heung-min,45.0,False,False
+,Corea del Sur,Irán,Corea del Sur,Kim Young-gwon,62.0,False,False
 ,Suecia,Czech Republic,Suecia,Robin Quaison,110.0,False,False
 ,Uruguay,Perú,Uruguay,Giorgian de Arrascaeta,42.0,False,False
 ,Wales,Austria,Austria,Marcel Sabitzer,65.0,False,False
@@ -21137,8 +21137,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Chile,Uruguay,Uruguay,Federico Valverde,90.0,False,False
 ,Ecuador,Argentina,Argentina,Julián Álvarez,24.0,False,False
 ,Ecuador,Argentina,Ecuador,Enner Valencia,90.0,False,False
-,Iran,Lebanon,Iran,Sardar Azmoun,35.0,False,False
-,Iran,Lebanon,Iran,Alireza Jahanbakhsh,72.0,False,False
+,Irán,Lebanon,Irán,Sardar Azmoun,35.0,False,False
+,Irán,Lebanon,Irán,Alireza Jahanbakhsh,72.0,False,False
 ,Japón,Vietnam,Japón,Maya Yoshida,55.0,False,False
 ,Marruecos,RD Congo,Marruecos,Azzedine Ounahi,21.0,False,False
 ,Marruecos,RD Congo,Marruecos,Tarik Tissoudali,45.0,False,False
@@ -21308,14 +21308,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Suiza,Czech Republic,Czech Republic,Patrik Schick,45.0,False,False
 ,Qatar,Ecuador,Ecuador,Enner Valencia,16.0,False,False
 ,Qatar,Ecuador,Ecuador,Enner Valencia,31.0,False,False
-,Inglaterra,Iran,Inglaterra,Jude Bellingham,35.0,False,False
-,Inglaterra,Iran,Inglaterra,Bukayo Saka,43.0,False,False
-,Inglaterra,Iran,Inglaterra,Raheem Sterling,45.0,False,False
-,Inglaterra,Iran,Inglaterra,Bukayo Saka,62.0,False,False
-,Inglaterra,Iran,Iran,Mehdi Taremi,65.0,False,False
-,Inglaterra,Iran,Inglaterra,Marcus Rashford,71.0,False,False
-,Inglaterra,Iran,Inglaterra,Jack Grealish,90.0,False,False
-,Inglaterra,Iran,Iran,Mehdi Taremi,90.0,False,False
+,Inglaterra,Irán,Inglaterra,Jude Bellingham,35.0,False,False
+,Inglaterra,Irán,Inglaterra,Bukayo Saka,43.0,False,False
+,Inglaterra,Irán,Inglaterra,Raheem Sterling,45.0,False,False
+,Inglaterra,Irán,Inglaterra,Bukayo Saka,62.0,False,False
+,Inglaterra,Irán,Irán,Mehdi Taremi,65.0,False,False
+,Inglaterra,Irán,Inglaterra,Marcus Rashford,71.0,False,False
+,Inglaterra,Irán,Inglaterra,Jack Grealish,90.0,False,False
+,Inglaterra,Irán,Irán,Mehdi Taremi,90.0,False,False
 ,Senegal,Países Bajos,Países Bajos,Cody Gakpo,84.0,False,False
 ,Senegal,Países Bajos,Países Bajos,Davy Klaassen,90.0,False,False
 ,Estados Unidos,Wales,Estados Unidos,Timothy Weah,36.0,False,False
@@ -21352,8 +21352,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Qatar,Senegal,Senegal,Famara Diédhiou,48.0,False,False
 ,Qatar,Senegal,Qatar,Mohammed Muntari,78.0,False,False
 ,Qatar,Senegal,Senegal,Bamba Dieng,84.0,False,False
-,Wales,Iran,Iran,Rouzbeh Cheshmi,90.0,False,False
-,Wales,Iran,Iran,Ramin Rezaeian,90.0,False,False
+,Wales,Irán,Irán,Rouzbeh Cheshmi,90.0,False,False
+,Wales,Irán,Irán,Ramin Rezaeian,90.0,False,False
 ,Argentina,México,Argentina,Lionel Messi,64.0,False,False
 ,Argentina,México,Argentina,Enzo Fernández,87.0,False,False
 ,Francia,Dinamarca,Francia,Kylian Mbappé,61.0,False,False
@@ -21379,7 +21379,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ecuador,Senegal,Senegal,Ismaïla Sarr,44.0,False,False
 ,Ecuador,Senegal,Ecuador,Moisés Caicedo,67.0,False,False
 ,Ecuador,Senegal,Senegal,Kalidou Koulibaly,70.0,False,False
-,Iran,Estados Unidos,Estados Unidos,Christian Pulisic,38.0,False,False
+,Irán,Estados Unidos,Estados Unidos,Christian Pulisic,38.0,False,False
 ,Qatar,Países Bajos,Países Bajos,Cody Gakpo,26.0,False,False
 ,Qatar,Países Bajos,Países Bajos,Frenkie de Jong,49.0,False,False
 ,Wales,Inglaterra,Inglaterra,Marcus Rashford,50.0,False,False
@@ -21805,10 +21805,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Estonia,Austria,Austria,Philipp Lienhart,39.0,False,False
 ,Georgia,Scotland,Scotland,Scott McTominay,49.0,False,False
 ,Georgia,Scotland,Scotland,Lawrence Shankland,90.0,False,False
-,Iran,Hong Kong,Iran,Sardar Azmoun,12.0,False,False
-,Iran,Hong Kong,Iran,Sardar Azmoun,15.0,False,False
-,Iran,Hong Kong,Iran,Mehdi Taremi,87.0,False,False
-,Iran,Hong Kong,Iran,Ramin Rezaeian,90.0,False,False
+,Irán,Hong Kong,Irán,Sardar Azmoun,12.0,False,False
+,Irán,Hong Kong,Irán,Sardar Azmoun,15.0,False,False
+,Irán,Hong Kong,Irán,Mehdi Taremi,87.0,False,False
+,Irán,Hong Kong,Irán,Ramin Rezaeian,90.0,False,False
 ,Iraq,Indonesia,Iraq,Bashar Resan,20.0,False,False
 ,Iraq,Indonesia,Iraq,Jordi Amat,35.0,False,False
 ,Iraq,Indonesia,Iraq,Osama Rashid,60.0,False,False
@@ -21949,10 +21949,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Uruguay,Bolivia,Uruguay,Darwin Núñez,15.0,False,False
 ,Uruguay,Bolivia,Uruguay,Gabriel Villamíl,39.0,False,False
 ,Uruguay,Bolivia,Uruguay,Darwin Núñez,71.0,False,False
-,Uzbekistán,Iran,Iran,Ramin Rezaeian,14.0,False,False
-,Uzbekistán,Iran,Iran,Mehdi Taremi,38.0,False,False
-,Uzbekistán,Iran,Uzbekistán,Oston Urunov,52.0,False,False
-,Uzbekistán,Iran,Uzbekistán,Igor Sergeev,83.0,False,False
+,Uzbekistán,Irán,Irán,Ramin Rezaeian,14.0,False,False
+,Uzbekistán,Irán,Irán,Mehdi Taremi,38.0,False,False
+,Uzbekistán,Irán,Uzbekistán,Oston Urunov,52.0,False,False
+,Uzbekistán,Irán,Uzbekistán,Igor Sergeev,83.0,False,False
 ,Vietnam,Iraq,Iraq,Mohanad Ali,90.0,False,False
 ,Wales,Turquía,Turquía,Yusuf Yaz?c?,70.0,False,False
 2024-12-01,Qatar,Lebanon,Qatar,Akram Afif,45.0,False,False
@@ -21967,10 +21967,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Ghana,Cape Verde,Cape Verde,Jamiro Monteiro,17.0,False,False
 ,Ghana,Cape Verde,Ghana,Alexander Djiku,56.0,False,False
 ,Ghana,Cape Verde,Cape Verde,Garry Rodrigues,90.0,False,False
-,Iran,Palestine,Iran,Karim Ansarifard,2.0,False,False
-,Iran,Palestine,Iran,Shojae Khalilzadeh,12.0,False,False
-,Iran,Palestine,Iran,Mehdi Ghayedi,38.0,False,False
-,Iran,Palestine,Iran,Sardar Azmoun,55.0,False,False
+,Irán,Palestine,Irán,Karim Ansarifard,2.0,False,False
+,Irán,Palestine,Irán,Shojae Khalilzadeh,12.0,False,False
+,Irán,Palestine,Irán,Mehdi Ghayedi,38.0,False,False
+,Irán,Palestine,Irán,Sardar Azmoun,55.0,False,False
 ,Japón,Vietnam,Japón,Takumi Minamino,11.0,False,False
 ,Japón,Vietnam,Japón,Takumi Minamino,45.0,False,False
 ,Japón,Vietnam,Japón,Keito Nakamura,45.0,False,False
@@ -22007,7 +22007,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Cape Verde,Mozambique,Cape Verde,Bebé,32.0,False,False
 ,Cape Verde,Mozambique,Cape Verde,Ryan Mendes,51.0,False,False
 ,Cape Verde,Mozambique,Cape Verde,Kevin Pina,69.0,False,False
-,Hong Kong,Iran,Iran,Mehdi Ghayedi,24.0,False,False
+,Hong Kong,Irán,Irán,Mehdi Ghayedi,24.0,False,False
 ,Iraq,Japón,Iraq,Aymen Hussein,5.0,False,False
 ,Iraq,Japón,Iraq,Aymen Hussein,45.0,False,False
 ,Iraq,Japón,Japón,Wataru End?,90.0,False,False
@@ -22040,8 +22040,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Australia,Uzbekistán,Uzbekistán,Azizbek Turgunboev,78.0,False,False
 ,Guinea,Senegal,Senegal,Abdoulaye Seck,61.0,False,False
 ,Guinea,Senegal,Senegal,Iliman Ndiaye,90.0,False,False
-,Iran,United Arab Emirates,Iran,Mehdi Taremi,26.0,False,False
-,Iran,United Arab Emirates,Iran,Mehdi Taremi,65.0,False,False
+,Irán,United Arab Emirates,Irán,Mehdi Taremi,26.0,False,False
+,Irán,United Arab Emirates,Irán,Mehdi Taremi,65.0,False,False
 ,Iraq,Vietnam,Iraq,Rebin Sulaka,47.0,False,False
 ,Iraq,Vietnam,Iraq,Aymen Hussein,73.0,False,False
 ,Iraq,Vietnam,Iraq,Aymen Hussein,90.0,False,False
@@ -22077,7 +22077,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Bahrain,Japón,Japón,Ritsu D?an,31.0,False,False
 ,Bahrain,Japón,Japón,Takefusa Kubo,49.0,False,False
 ,Bahrain,Japón,Japón,Ayase Ueda,72.0,False,False
-,Iran,Syria,Iran,Mehdi Taremi,34.0,False,False
+,Irán,Syria,Irán,Mehdi Taremi,34.0,False,False
 2024-02-02,Australia,Corea del Sur,Australia,Craig Goodwin,42.0,False,False
 2024-02-02,Australia,Corea del Sur,Corea del Sur,Hwang Hee-chan,90.0,False,False
 2024-02-02,Australia,Corea del Sur,Corea del Sur,Son Heung-min,104.0,False,False
@@ -22085,9 +22085,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-02-02,RD Congo,Guinea,RD Congo,Yoane Wissa,65.0,False,False
 2024-02-02,RD Congo,Guinea,RD Congo,Arthur Masuaku,82.0,False,False
 2024-02-02,Tajikistan,Jordania,Jordania,Vahdat Hanonov,66.0,False,False
-2024-03-02,Iran,Japón,Japón,Hidemasa Morita,28.0,False,False
-2024-03-02,Iran,Japón,Iran,Mohammad Mohebi,55.0,False,False
-2024-03-02,Iran,Japón,Iran,Alireza Jahanbakhsh,90.0,False,False
+2024-03-02,Irán,Japón,Japón,Hidemasa Morita,28.0,False,False
+2024-03-02,Irán,Japón,Irán,Mohammad Mohebi,55.0,False,False
+2024-03-02,Irán,Japón,Irán,Alireza Jahanbakhsh,90.0,False,False
 2024-03-02,Costa de Marfil,Mali,Costa de Marfil,Simon Adingra,90.0,False,False
 2024-03-02,Costa de Marfil,Mali,Costa de Marfil,Oumar Diakité,120.0,False,False
 2024-03-02,Qatar,Uzbekistán,Qatar,Hassan Al-Haydos,27.0,False,False
@@ -22096,11 +22096,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-02,Jordania,Corea del Sur,Jordania,Musa Al-Taamari,66.0,False,False
 2024-07-02,Costa de Marfil,RD Congo,Costa de Marfil,Sébastien Haller,65.0,False,False
 2024-07-02,Nigeria,South Africa,South Africa,Teboho Mokoena,90.0,False,False
-2024-07-02,Qatar,Iran,Iran,Sardar Azmoun,4.0,False,False
-2024-07-02,Qatar,Iran,Qatar,Jassem Gaber,17.0,False,False
-2024-07-02,Qatar,Iran,Qatar,Akram Afif,43.0,False,False
-2024-07-02,Qatar,Iran,Iran,Alireza Jahanbakhsh,51.0,False,False
-2024-07-02,Qatar,Iran,Qatar,Almoez Ali,82.0,False,False
+2024-07-02,Qatar,Irán,Irán,Sardar Azmoun,4.0,False,False
+2024-07-02,Qatar,Irán,Qatar,Jassem Gaber,17.0,False,False
+2024-07-02,Qatar,Irán,Qatar,Akram Afif,43.0,False,False
+2024-07-02,Qatar,Irán,Irán,Alireza Jahanbakhsh,51.0,False,False
+2024-07-02,Qatar,Irán,Qatar,Almoez Ali,82.0,False,False
 2024-10-02,Qatar,Jordania,Qatar,Akram Afif,22.0,False,False
 2024-10-02,Qatar,Jordania,Jordania,Yazan Al-Naimat,67.0,False,False
 2024-10-02,Qatar,Jordania,Qatar,Akram Afif,73.0,False,False
@@ -22112,11 +22112,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Bosnia y Herzegovina,Ucrania,Bosnia y Herzegovina,Mykola Matviyenko,56.0,False,False
 ,Hong Kong,Uzbekistán,Uzbekistán,Eldor Shomurodov,49.0,False,False
 ,Hong Kong,Uzbekistán,Uzbekistán,Rustam Ashurmatov,66.0,False,False
-,Iran,Turkmenistan,Iran,Hossein Kanaanizadegan,10.0,False,False
-,Iran,Turkmenistan,Iran,Sardar Azmoun,13.0,False,False
-,Iran,Turkmenistan,Iran,Hossein Kanaanizadegan,48.0,False,False
-,Iran,Turkmenistan,Iran,Mohammad Mohebi,56.0,False,False
-,Iran,Turkmenistan,Iran,Omid Noorafkan,90.0,False,False
+,Irán,Turkmenistan,Irán,Hossein Kanaanizadegan,10.0,False,False
+,Irán,Turkmenistan,Irán,Sardar Azmoun,13.0,False,False
+,Irán,Turkmenistan,Irán,Hossein Kanaanizadegan,48.0,False,False
+,Irán,Turkmenistan,Irán,Mohammad Mohebi,56.0,False,False
+,Irán,Turkmenistan,Irán,Omid Noorafkan,90.0,False,False
 ,Iraq,Philippines,Iraq,Mohanad Ali,84.0,False,False
 ,Japón,North Korea,Japón,Ao Tanaka,2.0,False,False
 ,Pakistan,Jordania,Jordania,Musa Al-Taamari,2.0,False,False
@@ -22152,7 +22152,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Thailand,Corea del Sur,Corea del Sur,Lee Jae-sung,19.0,False,False
 ,Thailand,Corea del Sur,Corea del Sur,Son Heung-min,54.0,False,False
 ,Thailand,Corea del Sur,Corea del Sur,Park Jin-seob,82.0,False,False
-,Turkmenistan,Iran,Iran,Mehdi Ghayedi,45.0,False,False
+,Turkmenistan,Irán,Irán,Mehdi Ghayedi,45.0,False,False
 ,Uzbekistán,Hong Kong,Uzbekistán,Eldor Shomurodov,20.0,False,False
 ,Uzbekistán,Hong Kong,Uzbekistán,Khojimat Erkinov,63.0,False,False
 ,Uzbekistán,Hong Kong,Uzbekistán,Oston Urunov,70.0,False,False
@@ -22168,10 +22168,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-06,Egipto,Burkina Faso,Egipto,Trézéguet,8.0,False,False
 2024-06-06,Haití,Saint Lucia,Haití,Jean-Kévin Duverne,47.0,False,False
 2024-06-06,Haití,Saint Lucia,Haití,Duckens Nazon,78.0,False,False
-2024-06-06,Hong Kong,Iran,Iran,Mehdi Taremi,12.0,False,False
-2024-06-06,Hong Kong,Iran,Iran,Mehdi Taremi,34.0,False,False
-2024-06-06,Hong Kong,Iran,Iran,Mehdi Taremi,56.0,False,False
-2024-06-06,Hong Kong,Iran,Iran,Sardar Azmoun,65.0,False,False
+2024-06-06,Hong Kong,Irán,Irán,Mehdi Taremi,12.0,False,False
+2024-06-06,Hong Kong,Irán,Irán,Mehdi Taremi,34.0,False,False
+2024-06-06,Hong Kong,Irán,Irán,Mehdi Taremi,56.0,False,False
+2024-06-06,Hong Kong,Irán,Irán,Sardar Azmoun,65.0,False,False
 2024-06-06,Indonesia,Iraq,Iraq,Aymen Hussein,54.0,False,False
 2024-06-06,Indonesia,Iraq,Iraq,Ali Jasim,88.0,False,False
 2024-06-06,Jordania,Tajikistan,Jordania,Ali Olwan,51.0,False,False
@@ -22418,7 +22418,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-05-09,Azerbaijan,Suecia,Suecia,Alexander Isak,65.0,False,False
 2024-05-09,Azerbaijan,Suecia,Suecia,Alexander Isak,71.0,False,False
 2024-05-09,Azerbaijan,Suecia,Suecia,Viktor Gyökeres,80.0,False,False
-2024-05-09,Iran,Kyrgyzstan,Iran,Mehdi Taremi,34.0,False,False
+2024-05-09,Irán,Kyrgyzstan,Irán,Mehdi Taremi,34.0,False,False
 2024-05-09,Iraq,Oman,Iraq,Aymen Hussein,13.0,False,False
 2024-05-09,Japón,China,Japón,Wataru Endo,12.0,False,False
 2024-05-09,Japón,China,Japón,Kaoru Mitoma,45.0,False,False
@@ -22510,7 +22510,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-10-09,Palestine,Jordania,Jordania,Yazan Al-Naimat,50.0,False,False
 2024-10-09,Palestine,Jordania,Jordania,Noor Al-Rawabdeh,72.0,False,False
 2024-10-09,Paraguay,Brasil,Paraguay,Diego Gómez,20.0,False,False
-2024-10-09,United Arab Emirates,Iran,Iran,Mehdi Ghayedi,45.0,False,False
+2024-10-09,United Arab Emirates,Irán,Irán,Mehdi Ghayedi,45.0,False,False
 2024-10-10,Australia,China,Australia,Lewis Miller,45.0,False,False
 2024-10-10,Australia,China,Australia,Craig Goodwin,53.0,False,False
 2024-10-10,Australia,China,Australia,Nishan Velupillay,90.0,False,False
@@ -22593,11 +22593,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Colombia,Chile,Colombia,Luis Díaz,52.0,False,False
 ,Colombia,Chile,Colombia,Jhon Durán,84.0,False,False
 ,Colombia,Chile,Colombia,Luis Sinisterra,90.0,False,False
-,Iran,Qatar,Qatar,Almoez Ali,17.0,False,False
-,Iran,Qatar,Iran,Sardar Azmoun,42.0,False,False
-,Iran,Qatar,Iran,Sardar Azmoun,48.0,False,False
-,Iran,Qatar,Iran,Mohammad Mohebi,65.0,False,False
-,Iran,Qatar,Iran,Ismaeel Mohammad,90.0,False,False
+,Irán,Qatar,Qatar,Almoez Ali,17.0,False,False
+,Irán,Qatar,Irán,Sardar Azmoun,42.0,False,False
+,Irán,Qatar,Irán,Sardar Azmoun,48.0,False,False
+,Irán,Qatar,Irán,Mohammad Mohebi,65.0,False,False
+,Irán,Qatar,Irán,Ismaeel Mohammad,90.0,False,False
 ,Japón,Australia,Australia,Shogo Taniguchi,58.0,False,False
 ,Japón,Australia,Japón,Cameron Burgess,76.0,False,False
 ,Jordania,Oman,Jordania,Yazan Al-Naimat,26.0,False,False
@@ -22632,9 +22632,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Kuwait,Corea del Sur,Corea del Sur,Oh Se-hun,10.0,False,False
 ,Kuwait,Corea del Sur,Corea del Sur,Son Heung-min,19.0,False,False
 ,Kuwait,Corea del Sur,Corea del Sur,Bae Jun-ho,74.0,False,False
-,North Korea,Iran,Iran,Mehdi Ghayedi,29.0,False,False
-,North Korea,Iran,Iran,Mohammad Mohebi,41.0,False,False
-,North Korea,Iran,Iran,Mohammad Mohebi,45.0,False,False
+,North Korea,Irán,Irán,Mehdi Ghayedi,29.0,False,False
+,North Korea,Irán,Irán,Mohammad Mohebi,41.0,False,False
+,North Korea,Irán,Irán,Mohammad Mohebi,45.0,False,False
 ,Paraguay,Argentina,Argentina,Lautaro Martínez,11.0,False,False
 ,Paraguay,Argentina,Paraguay,Antonio Sanabria,19.0,False,False
 ,Paraguay,Argentina,Paraguay,Omar Alderete,47.0,False,False
@@ -22735,9 +22735,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Czech Republic,Georgia,Czech Republic,Adam Hloek,24.0,False,False
 ,Hungary,Alemania,Alemania,Felix Nmecha,76.0,False,False
 ,Kuwait,Jordania,Jordania,Yazan Al-Naimat,21.0,False,False
-,Kyrgyzstan,Iran,Iran,Mehdi Taremi,12.0,False,False
-,Kyrgyzstan,Iran,Iran,Saleh Hardani,33.0,False,False
-,Kyrgyzstan,Iran,Iran,Sardar Azmoun,76.0,False,False
+,Kyrgyzstan,Irán,Irán,Mehdi Taremi,12.0,False,False
+,Kyrgyzstan,Irán,Irán,Saleh Hardani,33.0,False,False
+,Kyrgyzstan,Irán,Irán,Sardar Azmoun,76.0,False,False
 ,Montenegro,Turquía,Turquía,Kenan Y?ld?z,37.0,False,False
 ,North Korea,Uzbekistán,Uzbekistán,Abbosbek Fayzullaev,44.0,False,False
 ,Oman,Iraq,Iraq,Youssef Amyn,36.0,False,False
@@ -22762,8 +22762,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Croacia,Francia,Croacia,Ante Budimir,26.0,False,False
 ,Croacia,Francia,Croacia,Ivan Perii?,45.0,False,False
 ,Greece,Scotland,Scotland,Scott McTominay,33.0,False,False
-,Iran,United Arab Emirates,Iran,Sardar Azmoun,45.0,False,False
-,Iran,United Arab Emirates,Iran,Mohammad Mohebi,70.0,False,False
+,Irán,United Arab Emirates,Irán,Sardar Azmoun,45.0,False,False
+,Irán,United Arab Emirates,Irán,Mohammad Mohebi,70.0,False,False
 ,Iraq,Kuwait,Iraq,Akam Hashim,90.0,False,False
 ,Iraq,Kuwait,Iraq,Ibrahim Bayesh,90.0,False,False
 ,Italia,Alemania,Alemania,Tim Kleindienst,49.0,False,False
@@ -22885,10 +22885,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 ,Gibraltar,Czech Republic,Czech Republic,Patrik Schick,50.0,False,False
 ,Gibraltar,Czech Republic,Czech Republic,Pavel ulc,72.0,False,False
 ,Gibraltar,Czech Republic,Czech Republic,Jan Kliment,90.0,False,False
-,Iran,Uzbekistán,Uzbekistán,Khojimat Erkinov,16.0,False,False
-,Iran,Uzbekistán,Iran,Mehdi Taremi,52.0,False,False
-,Iran,Uzbekistán,Uzbekistán,Abbosbek Fayzullaev,53.0,False,False
-,Iran,Uzbekistán,Iran,Mehdi Taremi,83.0,False,False
+,Irán,Uzbekistán,Uzbekistán,Khojimat Erkinov,16.0,False,False
+,Irán,Uzbekistán,Irán,Mehdi Taremi,52.0,False,False
+,Irán,Uzbekistán,Uzbekistán,Abbosbek Fayzullaev,53.0,False,False
+,Irán,Uzbekistán,Irán,Mehdi Taremi,83.0,False,False
 ,Israel,Noruega,Noruega,David Møller Wolfe,39.0,False,False
 ,Israel,Noruega,Noruega,Alexander Sørloth,59.0,False,False
 ,Israel,Noruega,Noruega,Kristoffer Ajer,65.0,False,False
@@ -22917,7 +22917,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-05-06,Oman,Jordania,Jordania,Ali Olwan,64.0,False,False
 2025-05-06,Paraguay,Uruguay,Paraguay,Matías Galarza,13.0,False,False
 2025-05-06,Paraguay,Uruguay,Paraguay,Julio Enciso,81.0,False,False
-2025-05-06,Qatar,Iran,Qatar,Ró-Ró,41.0,False,False
+2025-05-06,Qatar,Irán,Qatar,Ró-Ró,41.0,False,False
 2025-05-06,España,Francia,España,Nico Williams,22.0,False,False
 2025-05-06,España,Francia,España,Mikel Merino,25.0,False,False
 2025-05-06,España,Francia,España,Lamine Yamal,54.0,False,False
@@ -22983,9 +22983,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-10-06,Haití,Curazao,Curazao,Jearl Margaritha,69.0,False,False
 2025-10-06,Haití,Curazao,Curazao,Kevin Felida,89.0,False,False
 2025-10-06,Haití,Curazao,Curazao,Jeremy Antonisse,90.0,False,False
-2025-10-06,Iran,North Korea,Iran,Mohammad Mehdi Mohebi,74.0,False,False
-2025-10-06,Iran,North Korea,Iran,Mehdi Taremi,77.0,False,False
-2025-10-06,Iran,North Korea,Iran,Amirhossein Hosseinzadeh,90.0,False,False
+2025-10-06,Irán,North Korea,Irán,Mohammad Mehdi Mohebi,74.0,False,False
+2025-10-06,Irán,North Korea,Irán,Mehdi Taremi,77.0,False,False
+2025-10-06,Irán,North Korea,Irán,Amirhossein Hosseinzadeh,90.0,False,False
 2025-10-06,Japón,Indonesia,Japón,Daichi Kamada,15.0,False,False
 2025-10-06,Japón,Indonesia,Japón,Takefusa Kubo,19.0,False,False
 2025-10-06,Japón,Indonesia,Japón,Daichi Kamada,45.0,False,False
