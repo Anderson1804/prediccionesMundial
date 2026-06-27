@@ -7,6 +7,7 @@ import numpy as np
 from scipy.stats import poisson
 import matplotlib.pyplot as plt
 import seaborn as sns
+from src.modules.tournament_simulator import TournamentSimulator
 
 # Configuración de la raíz del proyecto para las importaciones modulares
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../')))
@@ -184,44 +185,96 @@ with tab1:
 
 # Pestaña 2: Simulación del torneo
 with tab2:
-    st.subheader("Simulación Estocástica del Mundial 2026")
-    st.write("Corre un modelo de Monte Carlo para simular el torneo completo repetidamente en segundo plano.")
-    
-    num_sim = st.slider("Número de iteraciones del torneo", min_value=100, max_value=2000, value=1000, step=100)
-    
-    if st.button("🚀 Lanzar Simulación Global"):
-        from src.predict_tournament import TournamentSimulator
-        
-        progress_bar = st.progress(0)
-        status_text = st.empty()
-        
-        simulator = TournamentSimulator(num_simulations=num_sim)
-        
-        def update_progress(current, total):
-            pct = current / total
-            progress_bar.progress(pct)
-            status_text.text(f"Simulando Fixture: {current}/{total} torneos ejecutados...")
+    st.title("🏆 Simulación Estocástica del Mundial 2026")
+    st.markdown("""
+    Esta sección ejecuta un modelo de **Monte Carlo** para simular el fixture completo de la Copa del Mundo 
+    (Fase de Grupos y Llaves de Eliminación Directa) analizando el rendimiento ofensivo, defensivo y financiero de los 48 clasificados.
+    """)
+
+    # 1. Cargar el fixture ya traducido al español por el ETL
+    @st.cache_data
+    def cargar_grupos_limpios():
+        return pd.read_csv("data/clean_world_cup_groups.csv")
+
+    df_groups = cargar_grupos_limpios()
+
+    # 2. Control de parámetros para el usuario
+    st.subheader("⚙️ Configuración del Experimento Estocástico")
+    num_simulaciones = st.slider(
+        "Selecciona la cantidad de Mundiales completos a simular (N):", 
+        min_value=100, 
+        max_value=2000, 
+        value=1000, 
+        step=100
+    )
+
+    # 3. Disparador de la simulación de Monte Carlo
+    if st.button("🚀 Lanzar Simulación Global", icon="⚽"):
+        with st.spinner(f"Simulando {num_simulaciones} copas del mundo en segundo plano..."):
             
-        with st.spinner("Procesando llaves en el motor estocástico..."):
-            df_top_10 = simulator.run_monte_carlo(progress_callback=update_progress)
+            # Inicializamos el simulador con la data limpia
+            simulador = TournamentSimulator(df_groups)
             
-        status_text.success(f"🎉 ¡Simulación de {num_sim} Mundiales completada de forma exitosa!")
+            # Diccionario contador de campeones
+            conteo_campeones = {}
+            
+            # Bucle macro de Monte Carlo (Mundiales independientes)
+            for _ in range(num_simulaciones):
+                campeon_ficticio = simulador.run_full_tournament()
+                conteo_campeones[campeon_ficticio] = conteo_campeones.get(campeon_ficticio, 0) + 1
+                
+            # Transformamos los resultados en un DataFrame estadístico
+            df_resultados = pd.DataFrame(conteo_campeones.items(), columns=['Equipo', 'Copas'])
+            
+            # Aplicamos la Ley de los Grandes Números para hallar la Frecuencia Relativa (Probabilidad)
+            df_resultados['Probabilidad'] = (df_resultados['Copas'] / num_simulaciones) * 100
+            df_resultados = df_resultados.sort_values(by='Probabilidad', ascending=False).head(10)
+            
+        st.success("¡Simulación completada con éxito!")
         
-        st.write("---")
-        st.subheader("🏆 Top 10 Favoritos a ganar la Copa del Mundo")
+        # =====================================================================
+        # 📊 RENDERIZADO DEL GRÁFICO PROFESIONAL EN STREAMLIT
+        # =====================================================================
+        st.subheader("📊 Top 10 Candidatos al Título (Frecuencia de Éxito)")
         
-        fig_macro, ax_macro = plt.subplots(figsize=(7, 4))
+        # Configuración del diseño minimalista y plano (estilo formal para tesis)
+        fig, ax = plt.subplots(figsize=(10, 5))
+        fig.patch.set_facecolor('#0e1117')  # Match con el fondo oscuro de Streamlit
+        ax.set_facecolor('#0e1117')
+        
+        # Gráfico de barras horizontal limpio en escala de grises profesional
         sns.barplot(
-            x="prob_campeon", y="team", data=df_top_10,
-            palette="Greys_r", ax=ax_macro
+            x='Probabilidad', 
+            y='Equipo', 
+            data=df_resultados, 
+            palette='Greys_r',  # Gradiente minimalista plano sin colores chillones
+            ax=ax
         )
-        ax_macro.set_xlabel("Probabilidad de ser Campeón (%)")
-        ax_macro.set_ylabel("Selección Nacional")
-        sns.despine()
         
-        st.pyplot(fig_macro)
+        # Estilizado formal de etiquetas y rejillas
+        ax.set_xlabel("Probabilidad de ser Campeón (%)", color="white", fontsize=11, fontweight="bold")
+        ax.set_ylabel("Selección Nacional", color="white", fontsize=11, fontweight="bold")
+        ax.tick_params(colors="white", labelsize=10)
+        ax.xaxis.grid(True, linestyle="--", alpha=0.3, color="gray")
+        ax.set_axisbelow(True)
         
+        # Eliminar bordes (spines) decorativos innecesarios
+        for spine in ax.spines.values():
+            spine.set_visible(False)
+            
+        # Añadir los porcentajes de texto exactos al final de cada barra para mayor rigor analítico
+        for index, value in enumerate(df_resultados['Probabilidad']):
+            ax.text(value + 0.3, index, f"{value:.1f}%", color="white", va="center", fontsize=10, fontweight="bold")
+            
+        # Desplegar el gráfico de Matplotlib de forma nativa
+        st.pyplot(fig)
+        
+        # Tabla de datos complementaria para auditar los números exactos
+        st.subheader("📋 Matriz de Frecuencias Absolutas")
         st.dataframe(
-            df_top_10.style.format({"prob_campeon": "{:.1f}%"}),
-            hide_index=True, use_container_width=True
+            df_resultados[['Equipo', 'Copas', 'Probabilidad']].rename(
+                columns={'Copas': 'Mundiales Ganados', 'Probabilidad': 'Probabilidad (%)'}
+            ),
+            use_container_width=True,
+            hide_index=True
         )
