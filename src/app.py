@@ -1,14 +1,21 @@
 # Importaciones estándar y de librerías
+# 1. ENTRAR DIRECTO CON LOS IMPORTS NATIVOS DE PYTHON
 import os
 import sys
+
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+
 import streamlit as st
 import pandas as pd
 import numpy as np
-from scipy.stats import poisson
 import matplotlib.pyplot as plt
 import seaborn as sns
-from modules.tournament_simulator import TournamentSimulator
 
+# Tus módulos ya no se romperán porque el path se inyectó en la línea 2
+from src.modules.tournament_simulator import TournamentSimulator
+from src.modules.lambda_calculator import LambdaCalculator
 # Configuración de la raíz del proyecto para las importaciones modulares
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../')))
 from src.modules import config  
