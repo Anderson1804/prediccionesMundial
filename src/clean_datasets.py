@@ -16,11 +16,11 @@ PATH_RESULTS_OUT = os.path.join(DATA_DIR, "clean_results.csv")
 PATH_GOALS_OUT = os.path.join(DATA_DIR, "clean_goalscores.csv")
 PATH_RANK_OUT = os.path.join(DATA_DIR, "clean_rankings.csv")
 PATH_VAL_OUT = os.path.join(DATA_DIR, "clean_jugadores_valores.csv")
+PATH_GROUPS_OUT = os.path.join(DATA_DIR, "clean_world_cup_groups.csv") # <--- NUEVO DESTINO
 
 FECHA_CORTE_MUNDIAL = "2026-06-11"
 
 # Diccionario de normalización y traducción de nombres de países
-
 DIC_UNIVERSAL = {
     "france": "Francia", "germany": "Alemania", "spain": "España", "brazil": "Brasil",
     "england": "Inglaterra", "italy": "Italia", "netherlands": "Países Bajos", 
@@ -82,7 +82,29 @@ def obtener_paises_mundialistas():
     col_team = next((c for c in df_g.columns if 'team' in c or 'equipo' in c or 'pais' in c), df_g.columns[0])
     return set(df_g[col_team].apply(normalizar_pais))
 
+
 # Funciones de procesamiento de datos con filtro de selecciones participantes
+
+def procesar_groups():
+    """Traducción, limpieza y exportación del fixture de grupos oficial en español."""
+    print("⏳ Estandarizando 'world_cup_groups.csv'...")
+    df = cargar_csv(PATH_GROUPS_RAW)
+    if df is None: return
+
+    # Forzar columnas a minúsculas y quitar espacios en blanco
+    df.columns = df.columns.astype(str).str.strip().str.lower()
+    
+    # Identificación inteligente de columnas para 'group' y 'team'
+    col_group = next((c for c in df.columns if 'group' in c or 'grupo' in c), df.columns[0])
+    col_team = next((c for c in df.columns if 'team' in c or 'equipo' in c or 'pais' in c), df.columns[1])
+
+    df_clean = pd.DataFrame()
+    df_clean['group'] = df[col_group].astype(str).str.strip().str.upper() # Grupos en Mayúscula (Ej: A, B, C)
+    df_clean['team'] = df[col_team].apply(normalizar_pais)
+
+    df_clean.to_csv(PATH_GROUPS_OUT, index=False, encoding='utf-8')
+    print(f"✅ 'clean_world_cup_groups.csv' generado con éxito en español ({df_clean.shape[0]} selecciones).")
+
 
 def procesar_results(paises_validos):
     print("⏳ Estandarizando 'results.csv'...")
@@ -174,6 +196,10 @@ if __name__ == "__main__":
     print(f"🏆 Detectados {len(paises_mundialistas)} países únicos en el fixture oficial del Mundial.")
     
     if len(paises_mundialistas) > 0:
+        # Ejecutamos primero la nueva función de grupos
+        procesar_groups()
+        
+        # Continuamos con el procesamiento del resto de fuentes optimizadas
         procesar_results(paises_mundialistas)
         procesar_goalscores(paises_mundialistas)
         procesar_rankings(paises_mundialistas)
