@@ -7,7 +7,7 @@ import numpy as np
 from scipy.stats import poisson
 import matplotlib.pyplot as plt
 import seaborn as sns
-from src.modules.tournament_simulator import TournamentSimulator
+from modules.tournament_simulator import TournamentSimulator
 
 # Configuración de la raíz del proyecto para las importaciones modulares
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../')))
